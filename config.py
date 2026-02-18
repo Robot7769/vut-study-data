@@ -31,6 +31,24 @@ def get_faculty_file(language="cs"):
 SUBJECTS_DIR = f"{DATA_DIR}/subjects"
 
 STUDY_PLANS_DIR = f"{DATA_DIR}/study_plans"
-STUDY_PLANS_OUTPUT = f"{STUDY_PLANS_DIR}/studijni_plany.json"
-STUDY_PLANS_PROGRESS = f"{STUDY_PLANS_DIR}/progress.json"
-STUDY_PLANS_QUEUE = f"{STUDY_PLANS_DIR}/queue.json"
+STUDY_PLANS_OUTPUT_CS = f"{STUDY_PLANS_DIR}/studijni_plany_cs.json"
+STUDY_PLANS_OUTPUT_EN = f"{STUDY_PLANS_DIR}/studijni_plany_en.json"
+
+def get_study_plans_output(language="cs"):
+    if language == "cs":
+        return STUDY_PLANS_OUTPUT_CS
+    elif language == "en":
+        return STUDY_PLANS_OUTPUT_EN
+    else:
+        raise ValueError("Neznámý jazyk. Použijte 'cs' nebo 'en'.")
+
+STUDY_PLANS_PROGRESS_CS = f"{STUDY_PLANS_DIR}/progress_cs.json"
+STUDY_PLANS_PROGRESS_EN = f"{STUDY_PLANS_DIR}/progress_en.json"
+
+def get_study_plans_progress(language="cs"):
+    if language == "cs":
+        return STUDY_PLANS_PROGRESS_CS
+    elif language == "en":
+        return STUDY_PLANS_PROGRESS_EN
+    else:
+        raise ValueError("Neznámý jazyk. Použijte 'cs' nebo 'en'.")
