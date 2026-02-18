@@ -29,3 +29,8 @@ def get_faculty_file(language="cs"):
         raise ValueError("Neznámý jazyk. Použijte 'cs' nebo 'en'.")
 
 SUBJECTS_DIR = f"{DATA_DIR}/subjects"
+
+STUDY_PLANS_DIR = f"{DATA_DIR}/study_plans"
+STUDY_PLANS_OUTPUT = f"{STUDY_PLANS_DIR}/studijni_plany.json"
+STUDY_PLANS_PROGRESS = f"{STUDY_PLANS_DIR}/progress.json"
+STUDY_PLANS_QUEUE = f"{STUDY_PLANS_DIR}/queue.json"
