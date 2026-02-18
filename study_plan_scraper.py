@@ -228,7 +228,10 @@ class StudyPlanScraper:
         elif re.search(r"any\s+year", caption_text, re.IGNORECASE):
             result["rocnik"] = "libovolný"
         else:
-            m_year_en = re.search(r"(\d+)(?:st|nd|rd|th)\s+year", caption_text, re.IGNORECASE)
+            # "1. year of study" nebo "1st year"
+            m_year_en = re.search(
+                r"(\d+)(?:\.|st|nd|rd|th)\s+year", caption_text, re.IGNORECASE
+            )
             if m_year_en:
                 result["rocnik"] = m_year_en.group(1)
 
@@ -331,7 +334,7 @@ class StudyPlanScraper:
         h3_spec = soup.find(
             "h3",
             string=re.compile(
-                r"Specializace|Specialisations|Specializations", re.IGNORECASE
+                r"Specializace|Specialisations?|Specializations?", re.IGNORECASE
             ),
         )
         if h3_spec:
@@ -351,7 +354,9 @@ class StudyPlanScraper:
                 th.get_text().strip().lower() for th in table.select("thead th")
             ]
             header_joined = " ".join(headers)
-            if "zkr" in header_joined and "kr" in header_joined:
+            has_abbr = "zkr" in header_joined or "abbr" in header_joined
+            has_credits = "kr" in header_joined or "cr" in header_joined
+            if has_abbr and has_credits:
                 return "study_plan"
 
         return "unknown"
@@ -446,7 +451,7 @@ class StudyPlanScraper:
                 continue
 
             header_joined = " ".join(headers_raw)
-            if "zkr" not in header_joined:
+            if "zkr" not in header_joined and "abbr" not in header_joined:
                 continue
 
             col_map = self._map_columns(headers_raw)
@@ -480,15 +485,15 @@ class StudyPlanScraper:
             hl = h.strip().rstrip(".")
             if hl in ("zkratka", "zkr", "abbr", "abbreviation"):
                 col_map.setdefault("zkratka", idx)
-            elif hl in ("název", "nazev", "name", "název (zaměření)"):
+            elif hl in ("název", "nazev", "name", "název (zaměření)", "title"):
                 col_map.setdefault("nazev", idx)
-            elif hl in ("kr", "kredity", "credits", "cred"):
+            elif hl in ("kr", "cr", "kredity", "credits", "cred"):
                 col_map.setdefault("kredity", idx)
-            elif hl in ("pov", "povinnost", "povinný", "obligation", "type"):
+            elif hl in ("pov", "com", "povinnost", "povinný", "obligation", "type"):
                 col_map.setdefault("povinnost", idx)
-            elif hl in ("uk", "ukončení", "zakončení", "completion", "exam"):
+            elif hl in ("uk", "compl", "ukončení", "zakončení", "completion", "exam"):
                 col_map.setdefault("zakonceni", idx)
-            elif hl in ("sk", "skupina", "group"):
+            elif hl in ("sk", "gr", "skupina", "group"):
                 col_map.setdefault("skupina", idx)
         return col_map
 
