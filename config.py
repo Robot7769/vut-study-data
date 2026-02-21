@@ -24,6 +24,14 @@ SUBJECTS_BASE = "subjects"
 SUBJECTS_DIR_CS = f"{DATA_DIR_CS}/{SUBJECTS_BASE}"
 SUBJECTS_DIR_EN = f"{DATA_DIR_EN}/{SUBJECTS_BASE}"
 
+def get_subjects_dir(language="cs"):
+    if language == "cs":
+        return SUBJECTS_DIR_CS
+    elif language == "en":
+        return SUBJECTS_DIR_EN
+    else:
+        raise ValueError("Neznámý jazyk. Použijte 'cs' nebo 'en'.")
+
 STUDY_PLANS_BASE = "study_plans"
 STUDY_PLANS_OUTPUT_CS = f"{DATA_DIR_CS}/{STUDY_PLANS_BASE}/plans.json"
 STUDY_PLANS_OUTPUT_EN = f"{DATA_DIR_EN}/{STUDY_PLANS_BASE}/plans.json"

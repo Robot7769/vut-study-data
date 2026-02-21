@@ -16,6 +16,7 @@ class DataAnalyst:
         """Spustí analýzu pro obě jazykové verze (cs i en)."""
         for lang in LANGUAGES:
             self._process_language(lang)
+            self._export_subjects(lang)
 
     # ------------------------------------------------------------------
     # Interní metody
@@ -44,6 +45,47 @@ class DataAnalyst:
             json.dump(grouped, f, ensure_ascii=False, indent=2)
 
         print(f"[OK] Vytvořen soubor '{output_path}' – {len(grouped)} fakult, jazyk: {language}")
+
+    def _export_subjects(self, language: str):
+        """Exportuje předměty pro každý studijní plán do samostatných souborů.
+
+        Struktura výstupu:
+          - Bez specializace: {subjects_dir}/{zkratka_programu}.json
+          - Se specializací:  {subjects_dir}/{zkratka_programu}/{kod_specializace}.json
+        """
+        input_path = get_study_plans_output(language)
+        subjects_dir = get_subjects_dir(language)
+
+        if not os.path.isfile(input_path):
+            print(f"[WARN] Soubor '{input_path}' neexistuje – přeskakuji export předmětů ({language}).")
+            return
+
+        with open(input_path, "r", encoding="utf-8") as f:
+            plans: list[dict] = json.load(f)
+
+        os.makedirs(subjects_dir, exist_ok=True)
+
+        file_count = 0
+        for plan in plans:
+            zkratka = plan.get("zkratka_programu", "UNKNOWN")
+            raw_spec = plan.get("specializace", "")
+            predmety = plan.get("predmety", [])
+
+            if raw_spec and ":" in raw_spec:
+                # Se specializací → složka programu / soubor specializace
+                spec_code = raw_spec.split(":", 1)[0].strip()
+                dir_path = os.path.join(subjects_dir, zkratka)
+                os.makedirs(dir_path, exist_ok=True)
+                file_path = os.path.join(dir_path, f"{spec_code}.json")
+            else:
+                # Bez specializace → přímo soubor
+                file_path = os.path.join(subjects_dir, f"{zkratka}.json")
+
+            with open(file_path, "w", encoding="utf-8") as f:
+                json.dump(predmety, f, ensure_ascii=False, indent=2)
+            file_count += 1
+
+        print(f"[OK] Exportováno {file_count} souborů předmětů do '{subjects_dir}', jazyk: {language}")
 
     @staticmethod
     def _group_by_faculty(plans: list[dict]) -> list[dict]:
@@ -85,12 +127,16 @@ class DataAnalyst:
                 specializace = raw_spec
                 nazev = plan.get("nazev_programu", "")
 
-            faculties[key]["programy"].append({
+            program_entry = {
                 "zkratka_programu": plan.get("zkratka_programu", ""),
-                "specializace": specializace,
                 "nazev_programu": nazev,
                 "url": plan.get("url_planu", ""),
-            })
+            }
+            
+            if specializace and specializace.lower() != "bez specializace":
+                program_entry["specializace"] = specializace
+            
+            faculties[key]["programy"].append(program_entry)
 
         return list(faculties.values())
 
