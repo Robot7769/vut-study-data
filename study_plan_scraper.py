@@ -55,13 +55,10 @@ class StudyPlanScraper:
         self.output_dir = output_dir or STUDY_PLANS_DIR
         os.makedirs(self.output_dir, exist_ok=True)
 
-        self.output_file = os.path.join(
-            self.output_dir, get_study_plans_output(language)
-        )
-        self.progress_file = os.path.join(
-            self.output_dir, get_study_plans_progress(language)
-        )
-
+        self.output_file = get_study_plans_output(language)
+        
+        self.progress_file = get_study_plans_progress(language)
+        
         # HTTP klient
         self.client = HttpClient(
             delay_range=delay_range, max_retries=self.MAX_RETRIES
