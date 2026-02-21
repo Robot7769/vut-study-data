@@ -1,0 +1,68 @@
+name: Update Study Programs Data
+
+on:
+  schedule:
+    # Každý 1. den v měsíci ve 2:00 ráno UTC
+    - cron: '0 2 1 * *'
+  workflow_dispatch:
+    # Ruční spuštění z GitHub rozhraní
+
+jobs:
+  scrape_and_process:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Stáhne aktuální kód repozitáře
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Připraví Python prostředí
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. Nainstaluje závislosti
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4. Spustí scraper pro češtinu (raw data)
+      - name: Scrape CZ raw data
+        run: python study_plan_scraper.py --language cs --no-resume
+
+      # 5. Detekce změn v CZ raw datech
+      - name: Check if CZ data changed
+        id: check_changes
+        run: |
+          if git diff --quiet data/raw_study_plans/plans_cs.json; then
+            echo "Žádná změna v CZ datech."
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "CZ data se změnila!"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      # 6. Pokud se CZ data změnila → stáhnout EN data a spustit analýzu
+      - name: Scrape EN raw data
+        if: steps.check_changes.outputs.changed == 'true'
+        run: python study_plan_scraper.py --language en --no-resume
+
+      - name: Run data analysis (programmes + subjects)
+        if: steps.check_changes.outputs.changed == 'true'
+        run: python DataAnalyst.py
+
+      # 7. Commit a Push změn zpět na GitHub
+      - name: Commit and Push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update: Update study programs and subjects data"
+          file_pattern: >-
+            data/raw_study_plans/*.json
+            data/cs/**/*.json
+            data/en/**/*.json
