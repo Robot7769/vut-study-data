@@ -1,0 +1,405 @@
+[
+  {
+    "zkratka": "OA1-A",
+    "nazev": "Aerodynamics I",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291941",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OL0",
+    "nazev": "Angličtina v letectví",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291970",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OLR",
+    "nazev": "Letecké materiály a technologie",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291967",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OLE",
+    "nazev": "Letecké motory",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291960",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OPP",
+    "nazev": "Počítačová podpora konstruování a výroby",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291979",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OSZ",
+    "nazev": "Stavba a pevnost letadel",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291988",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OT0",
+    "nazev": "Letecké vrtule",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291990",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OA2",
+    "nazev": "Aerodynamika II",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291942",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OAS",
+    "nazev": "Autonomní létající systémy",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296038",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OMZ",
+    "nazev": "Mechanika letu I",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291973",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OPZ-A",
+    "nazev": "Palubní soustavy letadel I",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291981",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OT1",
+    "nazev": "Technologie výroby letadel",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291991",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OPK",
+    "nazev": "Únosnost leteckých konstrukcí",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291975",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OCF",
+    "nazev": "Aplikace CFD pro letectví",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "Skupina č. 1 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291945",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OKP",
+    "nazev": "Aplikace MKP pro letectví",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "Skupina č. 1 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291955",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OAE",
+    "nazev": "Aeroelasticita",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291939",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OKL",
+    "nazev": "Kompozitní konstrukce v letectví",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291953",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OK3",
+    "nazev": "Konstrukce kosmické techniky",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291958",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OZ0",
+    "nazev": "Mechanika kosmického letu",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292001",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OML",
+    "nazev": "Mechanika letu II",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291971",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OK2",
+    "nazev": "Projektování letadel",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291956",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OSD",
+    "nazev": "Spolehlivost letadlové techniky",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291986",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OZK-A",
+    "nazev": "Zkoušení letadel",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291998",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "0ZC",
+    "nazev": "Odborné zdroje a citování",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292556",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OV0",
+    "nazev": "Vrtulníky",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291997",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OD5",
+    "nazev": "Diplomový projekt (M-STL)",
+    "kredity": "12",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291949",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OLP",
+    "nazev": "Letecké právo a předpisy",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291965",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OPL-A",
+    "nazev": "Palubní soustavy letadel II",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291977",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ODS",
+    "nazev": "Seminář k diplomové práci (M-STL)",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291947",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OT2",
+    "nazev": "Technologie kosmické techniky",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291993",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OUZ",
+    "nazev": "Únava a životnost leteckých konstrukcí",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291995",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

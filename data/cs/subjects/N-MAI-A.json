@@ -1,0 +1,470 @@
+[
+  {
+    "zkratka": "VAI-A",
+    "nazev": "Algoritmy umělé inteligence",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292316",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SU2-A",
+    "nazev": "Funkcionální analýza II",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292213",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SGA-A",
+    "nazev": "Grafy a algoritmy",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292161",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SN3-A",
+    "nazev": "Numerické metody III",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292183",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SO2-A",
+    "nazev": "Optimalizační modely II",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292191",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SP3-A",
+    "nazev": "Pravděpodobnost a statistika III",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292199",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "0PPS-A",
+    "nazev": "Průmyslový projekt (N-MAI)",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292534",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "S1M-A",
+    "nazev": "Variační počet",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292221",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1CK",
+    "nazev": "Čeština - konverzace 1",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292560",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "S2M-A",
+    "nazev": "Stochastické modelování",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292226",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SKF-A",
+    "nazev": "Funkce komplexní proměnné",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292166",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SML-A",
+    "nazev": "Matematická logika",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292175",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TNM-A",
+    "nazev": "Numerické metody analýzy obrazů",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292268",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SSP-A",
+    "nazev": "Stochastické procesy",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292207",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SOR-A",
+    "nazev": "Základy optimálního řízení",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292187",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SPJ-A",
+    "nazev": "Programovací jazyk Java",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "Skupina č. 1 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292194",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SR0-A",
+    "nazev": "Rekonstrukce a analýza 3D scén",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "Skupina č. 1 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292203",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "0DR-A",
+    "nazev": "Vybraná témata z obyčejných diferenciálních rovnic",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/307576",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SD3-A",
+    "nazev": "Diplomový projekt I (N-MAI)",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292149",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SFI-A",
+    "nazev": "Finanční matematika",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292157",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SFM-A",
+    "nazev": "Fuzzy množiny a aplikace",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292159",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SMM-A",
+    "nazev": "Matematické metody v teorii proudění",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292177",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SRM-A",
+    "nazev": "Obyčejné diferenciální rovnice v mechanice",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292201",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SSZ-A",
+    "nazev": "Seminář k diplomové práci I (M-MAI)",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292210",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SSJ-A",
+    "nazev": "Spolehlivost a jakost",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Skupina č. 2 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292205",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "0TH-A",
+    "nazev": "Úvod do teorie her",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Skupina č. 2 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292551",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "S1K-A",
+    "nazev": "Mechanika kontinua",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292219",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TAI-A",
+    "nazev": "Analýza inženýrského experimentu",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292230",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SD4-A",
+    "nazev": "Diplomový projekt II (M-MAI)",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292151",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SSR-A",
+    "nazev": "Matematické struktury",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292208",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SDR-A",
+    "nazev": "Pokročilé metody matematické analýzy",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292145",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SDS-A",
+    "nazev": "Seminář k diplomové práci II (M-MAI)",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292147",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SVD-A",
+    "nazev": "Vizualizace dat",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292215",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VTR-A",
+    "nazev": "Algebraická teorie řízení",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "Skupina č. 3 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292357",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SAV-A",
+    "nazev": "Geometrické algoritmy a kryptografie",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Skupina č. 3 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292134",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "S3M-A",
+    "nazev": "Matematický seminář",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292228",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

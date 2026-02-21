@@ -1,0 +1,483 @@
+[
+  {
+    "zkratka": "QDY",
+    "nazev": "Dynamics of Vehicles",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292032",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QPA",
+    "nazev": "Simmulation in Automotive Industry",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292053",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QTS",
+    "nazev": "Theory of Energy Transformation, Power Units",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292061",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-AVE",
+    "nazev": "Power Electronics",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291262",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QHV",
+    "nazev": "Vehicle Driving Mechanisms",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/292040",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QRA",
+    "nazev": "Reconstruction and Analysis of 3D Scenes",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "1 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/292055",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ZAT-A",
+    "nazev": "Additive Technologies",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292450",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QC0",
+    "nazev": "Automotive industry CAD",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292029",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QVO",
+    "nazev": "Vehicle Engines",
+    "kredity": "6",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292064",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-APO",
+    "nazev": "Electrical Drives",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291257",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QEM",
+    "nazev": "Experimental Methods",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292036",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QFB",
+    "nazev": "Forensic Aspects of Safety and Vehicles",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292038",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CPSa",
+    "nazev": "Cyber-Physical Systems Design (in English)",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294066",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QVQ",
+    "nazev": "Virtual Prototypes and Virtual Enviroment",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292065",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QMV",
+    "nazev": "Motor Vehicles",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/292047",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QDZ-A",
+    "nazev": "Vibration and Noise of Vehicles",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/292033",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QAP",
+    "nazev": "Alternative Powertrain and Energy Storage",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292025",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VP0",
+    "nazev": "Programming in Python",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292346",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "0PPQ",
+    "nazev": "Industrial Project (N-ADI)",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292531",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QAI",
+    "nazev": "Machine Learning in Engineering Calculations",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296033",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "QBB",
+    "nazev": "Batteries for electromobility and infrastructure",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292027",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QDD",
+    "nazev": "Diploma Project I (M-ADI)",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292030",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ISS",
+    "nazev": "Signals and Systems",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294165",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QE1",
+    "nazev": "Systems, Control and Mechatronics of Vehicles",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292037",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QTT",
+    "nazev": "Vehicle testing",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292062",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QA0",
+    "nazev": "Concept Development of a Car",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "3 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/292026",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QMO",
+    "nazev": "Multiphysical Simmulation in Automotive Industry",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "3 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/292046",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QK0",
+    "nazev": "Rail Vehicles",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291607",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "EDLFD",
+    "nazev": "Human factor in traffic",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296167",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ZRI",
+    "nazev": "3D Metrology and Inspection",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292473",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QEC",
+    "nazev": "Control units design",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292035",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QDP",
+    "nazev": "Diploma Project (M-ADI)",
+    "kredity": "10",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292031",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QD6",
+    "nazev": "Diploma Seminar (N-ADI)",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292034",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QTE",
+    "nazev": "Thermal Management of Vehicles",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292726",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VAI",
+    "nazev": "Artificial Intelligence Algorithms",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "4 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/292315",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "QPV",
+    "nazev": "Vehicle Accessories",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "4 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/292054",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VE0",
+    "nazev": "Competence in Electrical Engineering",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292331",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

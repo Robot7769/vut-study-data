@@ -1,0 +1,821 @@
+[
+  {
+    "zkratka": "DFM",
+    "nazev": "Datové a funkční modelování",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294407",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "manPD",
+    "nazev": "Management",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294529",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA1_M",
+    "nazev": "Matematika 1",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294574",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IUS",
+    "nazev": "Úvod do softwarového inženýrství",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294179",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ZE",
+    "nazev": "Základy ekonomie",
+    "kredity": "7",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294811",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OA1Z",
+    "nazev": "Odborná angličtina 1",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294619",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OA2Z",
+    "nazev": "Odborná angličtina 2",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294620",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "pmrzP",
+    "nazev": "Praktikum z matematiky 1 – v ruštině",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294654",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "APV",
+    "nazev": "Aplikační programové vybavení",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294359",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "bdmP",
+    "nazev": "Behaviorální dovednosti manažera",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294366",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA2_M",
+    "nazev": "Matematika 2",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294576",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NUM",
+    "nazev": "Numerické metody",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294609",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PLAB",
+    "nazev": "Podnikatelská laboratoř",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294639",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VT",
+    "nazev": "Úvod do IS/ICT",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294797",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OA2L",
+    "nazev": "Odborná angličtina 2",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294621",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OA3",
+    "nazev": "Odborná angličtina 3",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294622",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IG-D",
+    "nazev": "Informační gramotnost",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294476",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "pmrlP",
+    "nazev": "Praktikum z matematiky 2 – v ruštině",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294656",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DMSM",
+    "nazev": "Digital Marketing and Social Media",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294410",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "EC",
+    "nazev": "E-commerce",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294429",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "kvmPD",
+    "nazev": "Kvantitativní metody",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294519",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "EPO",
+    "nazev": "Podniková ekonomika",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294640",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "RD",
+    "nazev": "Relační databáze",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294704",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "STA1",
+    "nazev": "Statistika",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294743",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "AOP1",
+    "nazev": "Angličtina pro obchodní praxi 1",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294354",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DIT",
+    "nazev": "Digitální transformace",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294413",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYF001",
+    "nazev": "Francouzština pro začátečníky",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294949",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYI001",
+    "nazev": "Italština pro začátečníky",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294951",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYN001",
+    "nazev": "Němčina pro začátečníky",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294953",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "PPP",
+    "nazev": "Praktická příprava projektů IS/ICT",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294651",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYS001",
+    "nazev": "Španělština pro začátečníky",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294955",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BuceP",
+    "nazev": "Účetnictví",
+    "kredity": "6",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294792",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IZP",
+    "nazev": "Základy programování",
+    "kredity": "7",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294190",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MRMU",
+    "nazev": "Metody řešení manažerských úloh",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294589",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "PRA",
+    "nazev": "Praxe",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294339",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "RPICT",
+    "nazev": "Řízení projektů ICT",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294726",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "STA2",
+    "nazev": "Statistika 2",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294748",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "UPS",
+    "nazev": "Úvod do počítačových sítí",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294798",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ZFI",
+    "nazev": "Základy financování",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294812",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "AOP2",
+    "nazev": "Angličtina pro obchodní praxi 2",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294355",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYF002",
+    "nazev": "Francouzština pro začátečníky 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294957",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYI002",
+    "nazev": "Italština pro začátečníky 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294960",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYN002",
+    "nazev": "Němčina pro začátečníky 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294959",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ISJ",
+    "nazev": "Skriptovací jazyky",
+    "kredity": "5",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294163",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYS002",
+    "nazev": "Španělština pro začátečníky 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294958",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ITW",
+    "nazev": "Tvorba webových stránek",
+    "kredity": "5",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294176",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IZG",
+    "nazev": "Základy počítačové grafiky",
+    "kredity": "6",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294188",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DS_2",
+    "nazev": "Datové sklady",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294075",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "MICT",
+    "nazev": "Management bezpečnosti ICT",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294532",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "PIS",
+    "nazev": "Podnikové informační systémy",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294641",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "PPR1",
+    "nazev": "Profesní praxe 1",
+    "kredity": "13",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294681",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "PDS",
+    "nazev": "Předdiplomní seminář",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294698",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "APSP",
+    "nazev": "Automatizace pro Průmysl 4.0 a Smart průmysl",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294363",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "VYF003",
+    "nazev": "Francouzština pro mírně pokročilé",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294950",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "VYI003",
+    "nazev": "Italština pro mírně pokročilé",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294956",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "rkP",
+    "nazev": "Kalkulace a rozpočty",
+    "kredity": "5",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294512",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "VYN003",
+    "nazev": "Němčina pro mírně pokročilé",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294954",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "VYS003",
+    "nazev": "Španělština pro mírně pokročilé",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294952",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "ITU",
+    "nazev": "Tvorba uživatelských rozhraní",
+    "kredity": "5",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294174",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DIS",
+    "nazev": "Diplomní seminář",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294421",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "PRIS",
+    "nazev": "Právo informačních systémů",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294660",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "PPR2",
+    "nazev": "Profesní praxe 2",
+    "kredity": "9",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294682",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "PICT",
+    "nazev": "Professional ICT seminar",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294683",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  }
+]

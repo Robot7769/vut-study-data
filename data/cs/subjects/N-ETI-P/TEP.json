@@ -1,0 +1,418 @@
+[
+  {
+    "zkratka": "LFI",
+    "nazev": "Fluidní inženýrství",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292685",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IKT",
+    "nazev": "Kotle a výměníky tepla",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292671",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "LLS",
+    "nazev": "Lopatkové stroje",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292689",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IPT-A",
+    "nazev": "Přenos tepla a látky",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292675",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ITP",
+    "nazev": "Technika prostředí",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292677",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "LZP",
+    "nazev": "Zdroje a přeměna energie",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292709",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "0MT",
+    "nazev": "Seminář aplikované mechaniky tekutin a tekutinových strojů",
+    "kredity": "1",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292734",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "LTC",
+    "nazev": "Tepelná čerpadla",
+    "kredity": "1",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292704",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MMP",
+    "nazev": "Úvod do výpočtového modelování proudění",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292716",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IEM",
+    "nazev": "Experimentální metody",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292664",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ICA",
+    "nazev": "Informační modely budovy – projektování",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292662",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ITM",
+    "nazev": "Modelování přenosu tepla a proudění",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292676",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "LAZ",
+    "nazev": "Alternativní zdroje energie",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Skupina č. 1 typu A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295430",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "LDS",
+    "nazev": "Dynamika energetických strojů a jejich příslušenství",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Skupina č. 1 typu A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292683",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IET",
+    "nazev": "Environmentální technologie",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Skupina č. 1 typu A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292667",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "LOS",
+    "nazev": "Oběhové stroje a chladící zařízení",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Skupina č. 1 typu A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292695",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "LPO",
+    "nazev": "Potrubní technika",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Skupina č. 1 typu A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292698",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "0PPI",
+    "nazev": "Průmyslový projekt (N-TEP)",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292735",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IES",
+    "nazev": "Energetické simulace",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292666",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IHV",
+    "nazev": "Hluk a vibrace",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292668",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IKV",
+    "nazev": "Kompaktní výměníky tepla",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292672",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IMT",
+    "nazev": "Pokročilé termofluidní modelování",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292674",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IVK",
+    "nazev": "Větrání a klimatizace I",
+    "kredity": "9",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292678",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IVT",
+    "nazev": "Vytápění",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292679",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "0ZC",
+    "nazev": "Odborné zdroje a citování",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292556",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IAE",
+    "nazev": "Aerosoly",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291676",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IAK",
+    "nazev": "Aplikace klimatizačních systémů",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292660",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "LDP",
+    "nazev": "Diplomový projekt (N-ETI)",
+    "kredity": "11",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292682",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IIB",
+    "nazev": "Inteligentní budovy",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292669",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MD6",
+    "nazev": "Seminář k diplomové práci (N-ETI)",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292713",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MEL",
+    "nazev": "Elektrické vybavení energetických strojů a zařízení",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "Skupina č. 2 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291928",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IEE",
+    "nazev": "Experimentální metody II",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Skupina č. 2 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292663",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

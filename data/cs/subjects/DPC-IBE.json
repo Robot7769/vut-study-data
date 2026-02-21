@@ -1,0 +1,147 @@
+[
+  {
+    "zkratka": "DPC-PKR",
+    "nazev": "Pokročilá kryptografie",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290909",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-TK1",
+    "nazev": "Optimalizační metody a teorie hromadné obsluhy",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290924",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-MA1",
+    "nazev": "Statistika. stochastické procesy, operační výzkum",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290903",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPX-JA6",
+    "nazev": "Angličtina pro doktorandy",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290930",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-RIZ",
+    "nazev": "Řešení inovačních zadání",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290915",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-EIZ",
+    "nazev": "Vědecké publikování od A do Z",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290897",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-BSZ",
+    "nazev": "Bezpečnost systémů a zařízení",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290893",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-MA2",
+    "nazev": "Diskrétní procesy v elektrotechnice",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290904",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-RE2",
+    "nazev": "Moderní digitální bezdrátová komunikace",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290913",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-TE2",
+    "nazev": "Numerické úlohy s parciálními diferenciálními rovnicemi",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290923",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-CVP",
+    "nazev": "Citování ve vědecké praxi",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290894",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  }
+]

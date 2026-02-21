@@ -1,0 +1,445 @@
+[
+  {
+    "zkratka": "TFV",
+    "nazev": "Fyzikální vlastnosti materiálů",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292249",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TIO",
+    "nazev": "Inženýrská optika",
+    "kredity": "7",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292256",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TPE",
+    "nazev": "Počítače v experimentu",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292275",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "T1T-A",
+    "nazev": "Povrchy a tenké vrstvy",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292305",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TSI",
+    "nazev": "Speciální praktikum II",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292287",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TK1",
+    "nazev": "Konstrukce přístrojů a optomechanika I",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292260",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TNI",
+    "nazev": "Nanoelektronika",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/287393",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TNF-A",
+    "nazev": "Nanofotonika a plasmonika",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/287394",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TEB-A",
+    "nazev": "Experimentální biofotonika",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292241",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TP0",
+    "nazev": "Fyzikální principy technologie výroby polovodičů",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/287390",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "0F5",
+    "nazev": "Semestrální projekt N I",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292503",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TM0",
+    "nazev": "Vybrané kapitoly z elektronové mikroskopie",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/287392",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TAI",
+    "nazev": "Analýza inženýrského experimentu",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292229",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "WA1",
+    "nazev": "Metody strukturní analýzy",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292362",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TFS",
+    "nazev": "Numerické simulace ve fyzice",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292248",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "0F6",
+    "nazev": "Semestrální (průmyslový) projekt N II",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292504",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TFO",
+    "nazev": "Fourierovské metody v optice",
+    "kredity": "7",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292247",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TK2",
+    "nazev": "Konstrukce přístrojů a optomechanika II",
+    "kredity": "7",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292261",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "0PPT",
+    "nazev": "Průmyslový projekt (N-FIN, N-PMO)",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292535",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TCO",
+    "nazev": "Částicová optika a elektronová mikroskopie",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292237",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TNM",
+    "nazev": "Numerické metody analýzy obrazů",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292267",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TMK",
+    "nazev": "Optická mikroskopie a spektroskopie",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292263",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TOI",
+    "nazev": "Optoelektronika a integrovaná optika",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292270",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TOJ",
+    "nazev": "Předdiplomní projekt (N-FIN)",
+    "kredity": "7",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292271",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TSD",
+    "nazev": "Seminář k diplomové práci I (N-FIN)",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292286",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TNE",
+    "nazev": "Nelineární optika",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292266",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "0F7",
+    "nazev": "Semestrální projekt N III",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292505",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TPJ",
+    "nazev": "Diplomový projekt (N-FIN)",
+    "kredity": "20",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292276",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TSR",
+    "nazev": "Seminář k diplomové práci II (N-FIN)",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292292",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TSN",
+    "nazev": "Speciální seminář (N-FIN)",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292289",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TDN-A",
+    "nazev": "Diagnostika nanostruktur",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292753",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TMT",
+    "nazev": "Nanostrukturní materiály",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/287395",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TOV",
+    "nazev": "Technologie optické výroby",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292274",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "XB0",
+    "nazev": "Bezpečnost práce v elektrotechnice",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292409",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

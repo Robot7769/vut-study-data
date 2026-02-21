@@ -1,0 +1,200 @@
+[
+  {
+    "zkratka": "ekotD",
+    "nazev": "Ekonomie 3",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294433",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "mvveD",
+    "nazev": "Metodologie vědecké a výzkumné práce v ekonomice a managementu",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294583",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "vtc1D",
+    "nazev": "Výstupy z tvůrčí činnosti 1",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294802",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "awD",
+    "nazev": "Academic Writing",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294341",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ppD",
+    "nazev": "Pedagogická praxe",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294636",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "pvzD",
+    "nazev": "Prezentace výzkumného záměru disertační práce",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294670",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "vtc2D",
+    "nazev": "Výstupy z tvůrčí činnosti 2",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294803",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "zsD",
+    "nazev": "Zahraniční stáž - studijní pobyt",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294810",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "imD",
+    "nazev": "Informační management",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "PV",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294477",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "meD",
+    "nazev": "Metody ekonomického řízení podniku",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "PV",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294588",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "tpfmD",
+    "nazev": "Teorie a praxe finančního managementu",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "PV",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294776",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "tmD",
+    "nazev": "Teorie managementu",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "PV",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294779",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "tmkD",
+    "nazev": "Teorie marketingových koncepcí",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "PV",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294781",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "troD",
+    "nazev": "Teorie řízení obchodu",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "PV",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294783",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "uceD",
+    "nazev": "Udržitelnost a cirkulární ekonomika",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "PV",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294795",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "vtc3D",
+    "nazev": "Výstupy z tvůrčí činnosti 3",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294804",
+    "semestr": [],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "modpD",
+    "nazev": "Malá obhajoba disertační práce",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294528",
+    "semestr": [],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "vtc4D",
+    "nazev": "Výstupy z tvůrčí činnosti 4",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294805",
+    "semestr": [],
+    "rocnik": "4"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "zkratka": "DKA-NWN",
+    "nazev": "Next-generation of Wireless Networks",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290789",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-RE1",
+    "nazev": "Modern Electronic Circuit Design",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290792",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-ME1",
+    "nazev": "Modern Microelectronic Systems",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290785",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-TK1",
+    "nazev": "Optimization Methods and Queuing Theory",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290804",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-MA1",
+    "nazev": "Statistics, Stochastic Processes, Operations Research",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290783",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKX-JA6",
+    "nazev": "Angličtina pro doktorandy",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290849",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-EIZ",
+    "nazev": "Scientific Publishing A to Z",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290776",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-RIZ",
+    "nazev": "Solving of Innovative Tasks",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290794",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-IML",
+    "nazev": "Information Representation and Machine Learning",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290782",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-TK2",
+    "nazev": "Applied Cryptography",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290805",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-MA2",
+    "nazev": "Discrete Processes in Electrical Engineering",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290784",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-RE2",
+    "nazev": "Modern Digital Wireless Communication",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290793",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKA-CVP",
+    "nazev": "Quotations in a Research Work",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290773",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  }
+]

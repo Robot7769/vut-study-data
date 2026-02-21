@@ -1,0 +1,470 @@
+[
+  {
+    "zkratka": "NPA016",
+    "nazev": "Balneotechnika",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295709",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NRA012",
+    "nazev": "Hydraulika podzemních vod",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295716",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NAA017",
+    "nazev": "Matematika 5 (V)",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295718",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NPA017",
+    "nazev": "Operační a systémová analýza",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295717",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NRA013",
+    "nazev": "Vybrané statě z hydrotechniky",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295715",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NSA013",
+    "nazev": "Vybrané statě z vodního hospodářství krajiny",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295713",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BYA002",
+    "nazev": "Angličtina pro středně pokročilé (zkouška)",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289554",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NSA014",
+    "nazev": "Geografické informační systémy",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295711",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NCA005",
+    "nazev": "Hydrobiologie a ekotoxikologie",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295714",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NSA015",
+    "nazev": "Úpravy odtokových poměrů povodí",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295721",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NSA016",
+    "nazev": "Vodohospodářská legislativa",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295712",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NPA018",
+    "nazev": "Vodohospodářský management",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295708",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NSB017",
+    "nazev": "Řízení vodohospodářských soustav",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5730",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295737",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NRB015",
+    "nazev": "Splaveniny ve vodních tocích",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5730",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295730",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NPB019",
+    "nazev": "Vybrané statě z vodárenství",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5730",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295727",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NBB006",
+    "nazev": "Aplikovaná fyzika (V)",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5731",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295741",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NRB014",
+    "nazev": "Modelování ve vodním hospodářství",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5731",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295731",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NCB006",
+    "nazev": "Složení a vlastnosti přírodních vod",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5731",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295733",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NAB018",
+    "nazev": "Základy variačního počtu",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5731",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295723",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NZB011",
+    "nazev": "Inženýrská pedagogika",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5732",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295738",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NZB013",
+    "nazev": "Prezentační dovednosti",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5732",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295740",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NZB014",
+    "nazev": "Psychologie ve firemní praxi",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5732",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289576",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NRA016-A",
+    "nazev": "Hydroinformatika 2",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295719",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NRA017",
+    "nazev": "Matematické modelování ve vodním hospodářství",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295722",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NPA020",
+    "nazev": "Odborná exkurze",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295710",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NRA018",
+    "nazev": "Provádění vodních staveb",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295720",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NRB019",
+    "nazev": "Bezpečnostní objekty hydrotechnických staveb",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5734",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295734",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NCB007",
+    "nazev": "Procesy čištění odpadních vod",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5734",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295736",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NSB020",
+    "nazev": "Revitalizace a stabilita krajiny",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5734",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295739",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NPB023",
+    "nazev": "Vybrané statě ze stokování a ČOV",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5734",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295728",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NPB021",
+    "nazev": "Čištění odpadních vod z průmyslu",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5735",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295729",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NRB021",
+    "nazev": "Protipovodňová ochrana",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5735",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295726",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NSB019",
+    "nazev": "Přírodní způsoby čištění vod",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5735",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295725",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NSB018",
+    "nazev": "Diplomový seminář (V-VHK)",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5736",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295742",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NPB022",
+    "nazev": "Diplomový seminář (V-VHO)",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5736",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295724",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NRB020",
+    "nazev": "Diplomový seminář (V-VST)",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5736",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295735",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  }
+]

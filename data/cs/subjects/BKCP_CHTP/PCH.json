@@ -1,0 +1,600 @@
+[
+  {
+    "zkratka": "BC_ANC1",
+    "nazev": "Analytická chemie I",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293542",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_FCH1",
+    "nazev": "Fyzikální chemie I",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293616",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_OCH2",
+    "nazev": "Organická chemie II",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293691",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_ANC1_P",
+    "nazev": "Praktikum z analytické chemie I",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293698",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_FCH1_P",
+    "nazev": "Praktikum z fyzikální chemie I",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293708",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BA_MIB",
+    "nazev": "Microbiology",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293670",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_MIB",
+    "nazev": "Mikrobiologie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293671",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_SO_P",
+    "nazev": "Seminář oboru CHTP",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299274",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_ACH_P",
+    "nazev": "Praktikum z anorganické chemie",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293701",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BA_ANC2",
+    "nazev": "Analytical Chemistry II",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293541",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_ANC2",
+    "nazev": "Analytická chemie II",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293543",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_BCH1",
+    "nazev": "Biochemie I",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293588",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BA_BCH1",
+    "nazev": "Biochemistry I",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293589",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_FCH2",
+    "nazev": "Fyzikální chemie II",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293617",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_LSP1",
+    "nazev": "Laboratorní projekt I",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293650",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_ANC2_P",
+    "nazev": "Praktikum z analytické chemie II",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293699",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_OCH_P",
+    "nazev": "Praktikum z organické chemie",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293719",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_MCH",
+    "nazev": "Makromolekulární chemie",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293658",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_ISO",
+    "nazev": "Systémy jakosti a ISO normy",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293732",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_ODP_P",
+    "nazev": "Odborná praxe - PCH",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293686",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_FCH2_P",
+    "nazev": "Praktikum z fyzikální chemie II",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293709",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BC_ACP1",
+    "nazev": "Analytická chemie potravin a přírodních látek I",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293544",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BA_ACP1",
+    "nazev": "Food Analysis",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293610",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BA_CHIN1",
+    "nazev": "Chemical Engineering I",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293626",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_CHIN1",
+    "nazev": "Chemické inženýrství I",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293631",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_CHP1",
+    "nazev": "Chemie potravin a přírodních látek I",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293641",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_BCH_P",
+    "nazev": "Praktikum z biochemie",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293704",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_CHI1_P",
+    "nazev": "Praktikum z chemického inženýrství I",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293713",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_MIB_P",
+    "nazev": "Praktikum z mikrobiologie",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293718",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_ZPT",
+    "nazev": "Základy potravinářských technologií",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293790",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_LSP2",
+    "nazev": "Laboratorní projekt II",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "A1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293651",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_MOG1",
+    "nazev": "Molekulární genetika I",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293673",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_UBP_PCH",
+    "nazev": "Úvod do bakalářské práce - PCH",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "A1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293758",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BA_BIO1",
+    "nazev": "Bioengineering I",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "A2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293586",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_BIO1",
+    "nazev": "Bioinženýrství I",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "A2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293590",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_BIT1",
+    "nazev": "Biotechnologie I",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "A2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293592",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_TP_PCH",
+    "nazev": "Týmový praktický projekt - PCH",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "A2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293746",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_BAP_CHTPO",
+    "nazev": "Bakalářská práce",
+    "kredity": "12",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293584",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_CHIN2",
+    "nazev": "Chemické inženýrství II",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293632",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_ACP_P",
+    "nazev": "Praktikum z analýzy potravin a přírodních látek",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293700",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_TUP",
+    "nazev": "Technologie uchovávání potravin",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293740",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BA_AACH",
+    "nazev": "Advanced Analytical Chemistry",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293539",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_GET",
+    "nazev": "Genové technologie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293621",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_HYP",
+    "nazev": "Hygiena v potravinářských technologiích",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293625",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_CHI2_P",
+    "nazev": "Praktikum z chemického inženýrství II",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "A2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293714",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BC_SAP",
+    "nazev": "Senzorická analýza potravin",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "A2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293724",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  }
+]

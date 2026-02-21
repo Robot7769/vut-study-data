@@ -1,0 +1,627 @@
+[
+  {
+    "zkratka": "MPA-SVT",
+    "nazev": "Lighting Technology",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291223",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-ELE",
+    "nazev": "Power Plant Electrical Equipment",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291104",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-PRS",
+    "nazev": "Power Transmission Networks",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291192",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-DRE",
+    "nazev": "Differential Equations in Electrical Engineering",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291096",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-PSO",
+    "nazev": "Probability, Statistics and Operations Research",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291194",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-PSD",
+    "nazev": "Design of Power and Data Networks",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/291193",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-DEL",
+    "nazev": "Diagnostics in Electricity Industry",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/291090",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-TVN",
+    "nazev": "High Voltages Technology",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/291232",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-MZE",
+    "nazev": "Low Power Electrical Sources",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/291161",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-NPE",
+    "nazev": "Unconvention Conversions",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/291173",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-MFY",
+    "nazev": "Modern Physics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "3",
+    "url": "https://www.vut.cz/en/students/courses/detail/291140",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-FPL",
+    "nazev": "Plasma Physics and Diagnostics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "3",
+    "url": "https://www.vut.cz/en/students/courses/detail/291120",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-KVE",
+    "nazev": "Quantum and Laser Electronics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "3",
+    "url": "https://www.vut.cz/en/students/courses/detail/291134",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-FPF",
+    "nazev": "Solid State Physics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "3",
+    "url": "https://www.vut.cz/en/students/courses/detail/291118",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-ELT",
+    "nazev": "Electrical Heat Technology",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291106",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-ESV",
+    "nazev": "Substations and Lines",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291114",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-PRJ",
+    "nazev": "Transient Phenomena",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291190",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-OSV",
+    "nazev": "Lighting Systems",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/291178",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-JEL",
+    "nazev": "Nuclear Power Plant",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/291126",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-PQ1",
+    "nazev": "The Power Quality and EMC",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/291188",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-BFY",
+    "nazev": "Biophysics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "3",
+    "url": "https://www.vut.cz/en/students/courses/detail/291082",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-MEM",
+    "nazev": "Electromagnetic Field Modeling",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "3",
+    "url": "https://www.vut.cz/en/students/courses/detail/291138",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-NAN",
+    "nazev": "Nanotechnology",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "3",
+    "url": "https://www.vut.cz/en/students/courses/detail/291165",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-NDD",
+    "nazev": "Non-Destructive Diagnostics and Physics of Dielectrics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "3",
+    "url": "https://www.vut.cz/en/students/courses/detail/291166",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-MEZ",
+    "nazev": "Distribution and Industrial Networks",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291139",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-RES",
+    "nazev": "Power Systems Control",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291201",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-MPN",
+    "nazev": "Semestral Project",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291149",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-PMP",
+    "nazev": "Advanced methods of programming PLC",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291184",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-DJZ",
+    "nazev": "Diagnostics and Electrical Equipments Protections",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291093",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-DME",
+    "nazev": "Diagnostics and Testing",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291094",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-ELO",
+    "nazev": "Electronic Circuits",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291105",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-MTE",
+    "nazev": "New Technology for Microelectronic Circuits",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291158",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-TES",
+    "nazev": "Theory of Electrical Machines",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291230",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-MSN",
+    "nazev": "Diploma Thesis",
+    "kredity": "20",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291155",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-EEL",
+    "nazev": "Economy of Electrical Power Engineering",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291103",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-ADP",
+    "nazev": "A/D and D/A Converters",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291063",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-EMS",
+    "nazev": "Electronic Measurement Systems",
+    "kredity": "7",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291110",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-UEO",
+    "nazev": "Energy Storage Technologies",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291234",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-PEL",
+    "nazev": "Industrial Electronics",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291180",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-EZP",
+    "nazev": "Power engineering of Natural Gas",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/291115",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-POM",
+    "nazev": "Advanced 3D Modelling",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291186",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPA-CJ1",
+    "nazev": "Czech language 1",
+    "kredity": "6",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291507",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPA-NM2",
+    "nazev": "Numerical Modeling 2",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291172",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPA-OZE",
+    "nazev": "Renewable Energy Sources",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291179",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPA-AZE",
+    "nazev": "Alternative Energy Sources",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291078",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPA-CJ2",
+    "nazev": "Czech language 2",
+    "kredity": "6",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291508",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPA-NM1",
+    "nazev": "Numerical Modeling 1",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291171",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPA-PPM",
+    "nazev": "Properties and Production of Electrotechnic Materials",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291187",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  }
+]

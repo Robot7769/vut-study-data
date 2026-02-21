@@ -1,0 +1,262 @@
+[
+  {
+    "zkratka": "CZV-EFI",
+    "nazev": "Ekonomika a finance",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295409",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-MNG",
+    "nazev": "Management",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295405",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-SRK",
+    "nazev": "Standardizované systémy řízení a kontrola kvality",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295404",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-VKPE",
+    "nazev": "Vybrané kapitoly z práva",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295408",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-ZVP",
+    "nazev": "Základy psychologie a vedení týmů",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295406",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-DAS",
+    "nazev": "Digitalizace a automatizace ve stavebnictví",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295394",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-EKO",
+    "nazev": "Ekologie a zelený design ve stavebnictví",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295391",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-OZE",
+    "nazev": "Obnovitelné zdroje energie",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295390",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-ŽPL",
+    "nazev": "Životní prostředí, legislativa",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295392",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-CES",
+    "nazev": "Cirkulární ekonomika ve stavebnictví",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "EE-II",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295393",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-PSR",
+    "nazev": "Poruchy, sanace a rekonstrukce",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "EE-II",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295395",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-IPR",
+    "nazev": "Individuální projekt",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295396",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-ČOV",
+    "nazev": "Čištění odpadních vod a jejich další využití",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "EE-III",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295400",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-DSM",
+    "nazev": "Druhotné suroviny v ekologických materiálech",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "EE-III",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295398",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-HDV",
+    "nazev": "Hospodaření s dešťovými vodami, modrozelená infrastruktura",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "EE-III",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295401",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-OHO",
+    "nazev": "Odpadové hospodářství",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "EE-III",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295399",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-SCI",
+    "nazev": "Smart City, inteligentní budovy",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "EE-III",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295407",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-SFP",
+    "nazev": "Stavební fyzika a požární bezpečnost",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "EE-III",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295403",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-ZUN",
+    "nazev": "Základy udržitelného navrhování zařízení a procesů pro ochranu životního prostředí",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "EE-III",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295402",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-ŽSC",
+    "nazev": "Životní cyklus staveb",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "EE-III",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295397",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  }
+]

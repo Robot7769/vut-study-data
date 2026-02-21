@@ -1,0 +1,134 @@
+[
+  {
+    "zkratka": "DCO_FCHM",
+    "nazev": "Physics and chemistry of materials",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296059",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_EAP",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296068",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_FPD",
+    "nazev": "Photoinduced processes in molecular materials",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296060",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_CHIA",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296067",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_KM",
+    "nazev": "Ceramic materials",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296061",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_KOV",
+    "nazev": "Metallic Materials",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296062",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_MIM",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296069",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MPM",
+    "nazev": "Materials Science-Fundamentals and Advances",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296070",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MM",
+    "nazev": "Molecular materials",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296063",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_PMT",
+    "nazev": "Advanced Materials Technologies and Applications",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296064",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_PTV",
+    "nazev": "Preparation and properties of thin layers of materials",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296065",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_VSD",
+    "nazev": "Utilisation of secondary products",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296066",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

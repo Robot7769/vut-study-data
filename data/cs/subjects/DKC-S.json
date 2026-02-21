@@ -1,0 +1,366 @@
+[
+  {
+    "zkratka": "DHA068",
+    "nazev": "Doktorský seminář 1 (PST)",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290213",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DYA004",
+    "nazev": "Konzultační výuka cizího jazyka pro doktorandy",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290135",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB029",
+    "nazev": "Diskrétní metody ve stavebnictví 1",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5900",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290147",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB030",
+    "nazev": "Numerické metody 1",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5900",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290139",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB031",
+    "nazev": "Pravděpodobnost a matematická statistika",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5900",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290141",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB043",
+    "nazev": "Vybrané statě ze stavebně-materiálového inženýrství",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5901",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290225",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DTB042",
+    "nazev": "Vybrané statě z technických zařízení budov",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5901",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290223",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DWB032",
+    "nazev": "Vybrané statě z technologie staveb",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5901",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290224",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DHB069",
+    "nazev": "Vybrané statě z teorie konstrukcí pozemních staveb",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5901",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290165",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DBB013",
+    "nazev": "Vybrané statě ze stavební fyziky",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5902",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290226",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DHA070",
+    "nazev": "Doktorský seminář 2 (PST)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290214",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB032",
+    "nazev": "Analýza časových řad",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5905",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290114",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB033",
+    "nazev": "Aplikace matematických metod v ekonomii",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5905",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290146",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB034",
+    "nazev": "Diskrétní metody ve stavebnictví 2",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5905",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290148",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB035",
+    "nazev": "Numerické metody 2",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5905",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290140",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB036",
+    "nazev": "Numerické řešení variačních úloh",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5905",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290159",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB037",
+    "nazev": "Regresní modely",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5905",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290142",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DWB033",
+    "nazev": "Informační systémy v technologii staveb",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5906",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290220",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DHB071",
+    "nazev": "Provozní a funkční analýza konstrukce budov",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5906",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290221",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DLB040",
+    "nazev": "Teorie betonových a zděných konstrukcí",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5906",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290182",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DTB043",
+    "nazev": "Teorie energie a prostředí budov",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5906",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290222",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DOB037",
+    "nazev": "Teorie kovových a dřevěných konstrukcí",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5906",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290188",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DYA005",
+    "nazev": "Cizí jazyk pro doktorské studium",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290116",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DHA072",
+    "nazev": "Doktorský seminář 3 (PST)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290215",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DHA073",
+    "nazev": "Doktorský seminář 4 (PST)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290216",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DHA074",
+    "nazev": "Doktorský seminář 5 (PST)",
+    "kredity": "14",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290217",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DHA075",
+    "nazev": "Doktorský seminář 6 (PST)",
+    "kredity": "14",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290218",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "DHA076",
+    "nazev": "Doktorský seminář 7 (PST)",
+    "kredity": "20",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290219",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  }
+]

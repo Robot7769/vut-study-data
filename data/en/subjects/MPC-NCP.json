@@ -1,0 +1,1005 @@
+[
+  {
+    "zkratka": "MPC-NDO",
+    "nazev": "Methods of Digital Integrated Circuits Design",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287424",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-MPR",
+    "nazev": "Modern Microelectronic Devices",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287423",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-VSK",
+    "nazev": "Electronic Components Production",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287422",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-KVE",
+    "nazev": "Quantum and Laser Electronics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287426",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TNI",
+    "nazev": "Nanoelectronics",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287393",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TNF-A",
+    "nazev": "Nanophotonics and Plasmonics",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287394",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-VAF",
+    "nazev": "Vacuum Technology",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287425",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-DRE",
+    "nazev": "Differential Equations in Electrical Engineering",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/287427",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-PSO",
+    "nazev": "Probability, Statistics and Operations Research",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/287428",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-AIO",
+    "nazev": "Analogue Integrated Circuits",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287429",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-RSC1",
+    "nazev": "Basics on RISC-V Architecture",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287449",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-DIS",
+    "nazev": "Digital Integrated Circuits",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287430",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-ZEM",
+    "nazev": "Basics of Electron Microscopy",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287431",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TMT",
+    "nazev": "Nanostructured Materials",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287395",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-NEN",
+    "nazev": "Design of Electronic Instruments",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287432",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-PLD",
+    "nazev": "Programmable Logic Devices",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287433",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-FPF",
+    "nazev": "Solid State Physics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/287437",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-MAT",
+    "nazev": "Matrices and Tensors Calculus",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/287434",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-MNM",
+    "nazev": "Modern Numerical Methods",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/287435",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-NAN",
+    "nazev": "Nanotechnology",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/287436",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-MEN",
+    "nazev": "Microelectronics in English",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287510",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-MTE",
+    "nazev": "New Technology for Microelectronic Circuits and Systems",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287439",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-NAI",
+    "nazev": "Advanced Methods of Analog Integrated Circuits Design",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287438",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-M2MN",
+    "nazev": "Semestral Project",
+    "kredity": "1",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287446",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-TPC",
+    "nazev": "",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287445",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-IOP",
+    "nazev": "Integrated Optoelectronics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287440",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-KTE",
+    "nazev": "Design and Technology of Electronic Equipments",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287441",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-MSMN",
+    "nazev": "Diploma Thesis",
+    "kredity": "20",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287447",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-RSC2",
+    "nazev": "Advanced RISC-V Architecture Design",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287448",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TDN-A",
+    "nazev": "Diagnostics of Nanostructures",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/292753",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-QMA",
+    "nazev": "Quality management",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287444",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-OPI",
+    "nazev": "New Circuit Principles for Integrated System Design",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287442",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-TVP",
+    "nazev": "Theory of AD and DA Signal Conversion",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/287443",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "XPC-FCE1",
+    "nazev": "English for FCE 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291533",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPC-EFE1",
+    "nazev": "English for Life 1",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291293",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPC-EFE2",
+    "nazev": "English for Life 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291294",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-CA1",
+    "nazev": "CISCO Academy 1 - CCNA",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291517",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-CA3",
+    "nazev": "CISCO Academy 3 - CCNA",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291519",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-CA5",
+    "nazev": "CISCO Academy 5 - CCNP",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291521",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "FIT",
+    "nazev": "History and Philosophy of Technology",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290100",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-EPL",
+    "nazev": "EPLAN - Designing in Electrical Engineering",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291528",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-EPO",
+    "nazev": "Professional Ethics",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291530",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-FR3",
+    "nazev": "French for pre-intermediate",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291537",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-FR1",
+    "nazev": "French for Beginners 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291535",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-IPD",
+    "nazev": "Engineering Pedagogy and Didactics",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291541",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-ITA1",
+    "nazev": "Italian for Beginners 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291542",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-KAT",
+    "nazev": "Conversation through Hot Current Issues",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291544",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-KPT",
+    "nazev": "Culture of Speech and the Generation of Texts",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291547",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPC-MAU",
+    "nazev": "Bookkeeping for Managers",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291333",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-NE3",
+    "nazev": "German for Lower-Intermediate 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291562",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-NE1",
+    "nazev": "German for Beginners 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291560",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-BEN",
+    "nazev": "Business English",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291514",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPC-OPM",
+    "nazev": "Practical Training",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291384",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-PEP",
+    "nazev": "Pedagogical Psychology",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291565",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-POM",
+    "nazev": "Management Minimum",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291567",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-POU",
+    "nazev": "Double-Entry Bookkeeping",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291569",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPA-PSY",
+    "nazev": "Power Systems",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291195",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-PSD",
+    "nazev": "Design of Power and Data Networks",
+    "kredity": "6",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/287922",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPC-PRI",
+    "nazev": "Project Management of Innovation",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291410",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "RET",
+    "nazev": "Rhetoric",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290106",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPA-FPF",
+    "nazev": "Solid State Physics",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291118",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPC-SAJ",
+    "nazev": "Reliability and Quality",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291434",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-ESP1",
+    "nazev": "Spanish for Beginners 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291531",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPC-TAP",
+    "nazev": "Advanced Technical English",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291463",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MPC-VPZ",
+    "nazev": "Using the Laws of Nature in Engineering Applications",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291486",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-FCE2",
+    "nazev": "English for FCE 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291534",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-CAS",
+    "nazev": "CISCO Academy - Network Security",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291516",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-CA2",
+    "nazev": "CISCO Academy 2 - CCNA",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291518",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-CA4",
+    "nazev": "CISCO Academy 4 - CCNP",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291520",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-FR4",
+    "nazev": "French for pre-intermediate",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291538",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-FR2",
+    "nazev": "French for Beginners 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291536",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-ITA2",
+    "nazev": "Italian for Beginners 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291543",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-NE4",
+    "nazev": "German for Lower-Intermediate 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291563",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-NE2",
+    "nazev": "German for Beginners 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291561",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-PFV",
+    "nazev": "Designing of photovoltaic systems",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291566",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPC-ESP2",
+    "nazev": "Spanish for Beginners 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/291532",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  }
+]

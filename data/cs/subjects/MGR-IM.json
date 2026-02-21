@@ -1,0 +1,496 @@
+[
+  {
+    "zkratka": "makP",
+    "nazev": "Makroekonomie 2",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294527",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ImibeP",
+    "nazev": "Management informační bezpečnosti",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294535",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IminsP",
+    "nazev": "Management informačních sítí",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294536",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "smaP",
+    "nazev": "Strategický management",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294759",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IzmaP",
+    "nazev": "Znalostní management",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294817",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "frpP",
+    "nazev": "Financování rozvoje podniku",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294456",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IfinP",
+    "nazev": "Finanční investice",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PVB1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294460",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "AJ1B",
+    "nazev": "Anglický jazyk B2 - 1",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294351",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PA1",
+    "nazev": "Profesní angličtina 1",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294678",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ImorP",
+    "nazev": "Management oborových řešení",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294544",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ImeP",
+    "nazev": "Matematická ekonomie",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294568",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "mik2P",
+    "nazev": "Mikroekonomie 2",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294603",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IpmrP",
+    "nazev": "Pokročilé metody v rozhodování",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294647",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IrmanP",
+    "nazev": "Risk management",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294712",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IcinP",
+    "nazev": "Competitive Intelligence",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PVB2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294389",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "mopP",
+    "nazev": "Matematické metody optimalizace projektů",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PVB2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294572",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IakonP",
+    "nazev": "Anglická konverzace",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294348",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "AJ2B",
+    "nazev": "Anglický jazyk B2 - 2",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294353",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IapeP",
+    "nazev": "Angličtina pro život",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294356",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IoaP",
+    "nazev": "Obchodní angličtina",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294613",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "Ipa2_2P",
+    "nazev": "Praktická angličtina 2",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294650",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PA2",
+    "nazev": "Profesní angličtina 2",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294679",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ImprP",
+    "nazev": "Management průmyslových řešení",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294550",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "masP",
+    "nazev": "Metody aplikované statistiky",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294587",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IosaP",
+    "nazev": "Operační a systémová analýza",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294632",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "Ipis2P",
+    "nazev": "Podnikové informační systémy 2",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294643",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IpmP",
+    "nazev": "Projektový management",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294691",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IsempP",
+    "nazev": "Semestrální projekt",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294735",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "rvpP",
+    "nazev": "Rozbor výkonnosti podniku",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PVB3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294717",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IspaP",
+    "nazev": "Statistika pro pokročilou analytiku",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PVB3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294744",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IbinP",
+    "nazev": "Business Intelligence",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294372",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IdseP",
+    "nazev": "Diplomní seminář",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294414",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ImisP",
+    "nazev": "Management IS",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294542",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IsmrP",
+    "nazev": "Strategický marketing a rozvoj podnikání",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294761",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IapmtP",
+    "nazev": "Advanced Project Management Techniques",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB4",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294343",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IbaP",
+    "nazev": "Bussiness analysis",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB4",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294385",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IcsmP",
+    "nazev": "Cyber Security Management",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB4",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294400",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "IpmmP",
+    "nazev": "Process management and modeling",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB4",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294674",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

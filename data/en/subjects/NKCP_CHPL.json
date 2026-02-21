@@ -1,0 +1,483 @@
+[
+  {
+    "zkratka": "MA_BIO2",
+    "nazev": "Bioengineering II",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293960",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_BFCH",
+    "nazev": "Biophysical Chemistry",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293869",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_BCH2",
+    "nazev": "Biochemistry II",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293868",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA_BCH2",
+    "nazev": "Biochemistry II",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293867",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_BIO2",
+    "nazev": "Bioengineering II",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293856",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA_ISA",
+    "nazev": "Instrumental and Structural Analysis",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293914",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_ISA",
+    "nazev": "Instrumental and Structure Analysis",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293896",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_ISA_P",
+    "nazev": "Laboratory Classes in Instrumental and Structure Analysis - FSBT",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293835",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_VOCH",
+    "nazev": "Selected Chapters of Organic Chemistry",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293956",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_MIB2",
+    "nazev": "Mikrobiology II",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293909",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_MOB",
+    "nazev": "Molecular Biotechnology",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293977",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_BIN_PZ",
+    "nazev": "Laboratory Classes in Bioengineering",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/293930",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_TSP_P",
+    "nazev": "Team semestral project -S3",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/293932",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_ACPL2",
+    "nazev": "Analytical chemistry of natural products II",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293889",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_CHPL2",
+    "nazev": "Chemistry of Natural Products II",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293890",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_KOS",
+    "nazev": "Cosmetology and Technology of Cosmetics",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293961",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_LAB1_P",
+    "nazev": "Special laboratory classes I",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293824",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_TZB_P",
+    "nazev": "Laboratory Classes in Biopolymer Processing Technology",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293804",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_SO1_P",
+    "nazev": "Seminar I - PCHBT",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293803",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_BPS",
+    "nazev": "Technology of biopolymers and natural raw materials processing",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293849",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_KOS_P",
+    "nazev": "Laboratory Classes in Cosmetology",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293922",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA_SEA",
+    "nazev": "Sensory Analysis",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293851",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_SEA",
+    "nazev": "Sensory Analysis",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293850",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_BIO_P",
+    "nazev": "Laboratory classes in biotechnology",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/293920",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_SEA_P",
+    "nazev": "Laboratory Classes in Sensory Analysis",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/293927",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_PVP",
+    "nazev": "Processes and Procedures in Production Practice",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/293940",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_BPL",
+    "nazev": "Biotechnology of Natural Compounds",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293899",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_DS_CHPL",
+    "nazev": "Diploma seminar",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293821",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_LAB2_P",
+    "nazev": "Special Laboratory Classes II",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293830",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_ZVPO",
+    "nazev": "Processing and Valorization of Industrial Waste",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293996",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_BPDS",
+    "nazev": "Packaging of daily consumption products",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293915",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_BIM",
+    "nazev": "Bioanalytical Methods",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293975",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_NUT",
+    "nazev": "Nutraceuticals",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293959",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_BZD",
+    "nazev": "Biostatistics and data processing",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/293947",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_ICHV",
+    "nazev": "Engineering of Chemical-Pharmaceutical Production",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/293982",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_LKPL",
+    "nazev": "Legislation in cosmetics and natural substances chemistry",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/293948",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_DP_CHPL",
+    "nazev": "Diploma Thesis",
+    "kredity": "30",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293811",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

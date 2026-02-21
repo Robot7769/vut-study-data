@@ -1,0 +1,147 @@
+[
+  {
+    "zkratka": "DKC-PKR",
+    "nazev": "Advanced Cryptography",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290828",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-TK1",
+    "nazev": "Optimization Methods and Queuing Theory",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290843",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-MA1",
+    "nazev": "Statistics, Stochastic Processes, Operations Research",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290822",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKX-JA6",
+    "nazev": "English for post-graduates",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290849",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-RIZ",
+    "nazev": "Solving of innovative tasks",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290833",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-EIZ",
+    "nazev": "Scientific publishing A to Z",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290816",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-BSZ",
+    "nazev": "System and Device Security",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290812",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-MA2",
+    "nazev": "Discrete Processes in Electrical Engineering",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290823",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-RE2",
+    "nazev": "Modern digital wireless communication",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290832",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-TE2",
+    "nazev": "Numerical Computations with Partial Differential Equations",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290842",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-CVP",
+    "nazev": "Quotations in a research work",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290813",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "zkratka": "makP",
+    "nazev": "Makroekonomie 2",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294527",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "mmP",
+    "nazev": "Mezinárodní marketing",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294595",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OmoP",
+    "nazev": "Mezinárodní obchod",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294596",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "stat2P",
+    "nazev": "Statistika 2",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294747",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "AJ1B",
+    "nazev": "Anglický jazyk B2 - 1",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294351",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PA1",
+    "nazev": "Profesní angličtina 1",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294678",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OmiP",
+    "nazev": "Manažerská informatika",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294554",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "meopP",
+    "nazev": "Mezinárodní obchodní právo",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294598",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "banP",
+    "nazev": "Bankovnictví 2",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294365",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "meP",
+    "nazev": "Mezinárodní ekonomie",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294592",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "mik2P",
+    "nazev": "Mikroekonomie 2",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294603",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OroP",
+    "nazev": "Řízení obchodu",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294724",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "AJ2B",
+    "nazev": "Anglický jazyk B2 - 2",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294353",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PA2",
+    "nazev": "Profesní angličtina 2",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294679",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OciP",
+    "nazev": "Competitive Intelligence",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV4",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294387",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "mktP",
+    "nazev": "Mezinárodní kapitálové trhy",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV4",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294594",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OjopP",
+    "nazev": "Jakost v obchodním podnikání",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294510",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OmaeP",
+    "nazev": "Matematická ekonomie",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294570",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OspP",
+    "nazev": "Semestrální projekt",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294733",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "vmeP",
+    "nazev": "Výzkumné metody v ekonomii",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294806",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "eoP",
+    "nazev": "Elektronický obchod",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV5",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294438",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OolP",
+    "nazev": "Obchodní logistika",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV5",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294615",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "rvpP",
+    "nazev": "Rozbor výkonnosti podniku",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV5",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294717",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OceP",
+    "nazev": "Corporate Economics",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV6",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294396",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ifP",
+    "nazev": "International Finance",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV6",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294500",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OdisP",
+    "nazev": "Diplomní seminář",
+    "kredity": "15",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294415",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "Ome2P",
+    "nazev": "Manažerská ekonomika 2",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294553",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OocpP",
+    "nazev": "Obchodování cenných papírů a komodit",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294618",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "srnP",
+    "nazev": "Strategické řízení nákladů",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294755",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OanP",
+    "nazev": "Angewandte Betriebswirtschaftslehre",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV7",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294347",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "OcccP",
+    "nazev": "Cross Cultural Communication",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV7",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294398",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

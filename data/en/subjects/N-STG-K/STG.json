@@ -1,0 +1,379 @@
+[
+  {
+    "zkratka": "HNE-K",
+    "nazev": "Unconventional Technology",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297610",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HNC-AK",
+    "nazev": "Technology of CNC Machining",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297609",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HPT-K",
+    "nazev": "Computer Aided Technology",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297616",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HTZ-K",
+    "nazev": "Plastics Processing Technology",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297630",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HH2-K",
+    "nazev": "Technology of Forming",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/297604",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HS2-K",
+    "nazev": "Welding Theory and Technology",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/297624",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HME-K",
+    "nazev": "Mechanisation, Automation and Handling",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297606",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HPU-K",
+    "nazev": "Recovery and Surface Treatment",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297617",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HMT-K",
+    "nazev": "Engineering Materials and Heat Treatment",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297607",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HTO-K",
+    "nazev": "Theory of Machining",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297627",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HTA-K",
+    "nazev": "Theory of Metal-forming",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297625",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HUP-K",
+    "nazev": "Tool Jigs and Fixtures for Machining",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/297631",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PTC-K",
+    "nazev": "Technological Preparation of Foundry Production",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/297634",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HTN-K",
+    "nazev": "Forming Tools",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/297626",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HE1-K",
+    "nazev": "Experimental Methods",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297603",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HC1-K",
+    "nazev": "Advanced CAD Applications in Technologies",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297592",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HO1-K",
+    "nazev": "Special Technology of Machining",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297614",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HSV-K",
+    "nazev": "Special Welding Technology",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297623",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HST-K",
+    "nazev": "Special Technology of Forming Metals",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297622",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HTV-K",
+    "nazev": "Technological Preparation of Production",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297629",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HRA-K",
+    "nazev": "Additive Technologies and 3D Scanning Methods",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297619",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HTR-K",
+    "nazev": "Selected Chapters from Machining",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "Group No 4 of type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/297628",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HVT-K",
+    "nazev": "Selected Chapters of Metal-forming",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "Group No 4 of type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/297632",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HD2-K",
+    "nazev": "Diploma Seminar (N-STG, Machining)",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Group No 5 of type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/297596",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HD4-K",
+    "nazev": "Diploma Seminar (N-STG, Forming, Welding)",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Group No 5 of type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/297598",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HD1-K",
+    "nazev": "Diploma Project (M-STG, Machining)",
+    "kredity": "13",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Group No 6 of type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/297595",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HD3-K",
+    "nazev": "Diploma Project (M-STG, Forming, Welding)",
+    "kredity": "13",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Group No 6 of type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/297597",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HC2-K",
+    "nazev": "Advanced CAM Applications in Technologies",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Group No 7 of type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/297593",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "HPR-K",
+    "nazev": "Simulation of Technological Processes",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Group No 7 of type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/297615",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

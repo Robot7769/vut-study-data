@@ -1,0 +1,101 @@
+[
+  {
+    "zkratka": "DCO_PFCH",
+    "nazev": "Progresses in physical chemistry",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296093",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_EPM",
+    "nazev": "Electron processes in molecular materials",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296094",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_NAD",
+    "nazev": "Photochemistry",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296097",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_FPD",
+    "nazev": "Photoinduced processes in molecular materials",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296060",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MEF",
+    "nazev": "Physics and chemistry of molecular materials",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296096",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_FND",
+    "nazev": "Physics and chemics of plasma",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296100",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_KPD",
+    "nazev": "Colloidics for advanced",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296095",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_SM",
+    "nazev": "Advanced spectroscopic methods",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296099",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_REG",
+    "nazev": "Reology",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296098",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

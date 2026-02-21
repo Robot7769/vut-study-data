@@ -1,0 +1,134 @@
+[
+  {
+    "zkratka": "DCO_PCHB",
+    "nazev": "Potravinářská chemie a biochemie",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296073",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_ANP",
+    "nazev": "Analýza potravin",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296074",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_BIP",
+    "nazev": "Bioinženýrství pro potravináře",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296075",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_KCHP",
+    "nazev": "Koloidní chemie pro potravináře",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296076",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MET",
+    "nazev": "Metrologie a zpracování experimentálních dat",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296077",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MPV",
+    "nazev": "Moderní postupy valorizace potravinářských odpadů",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296079",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MOB",
+    "nazev": "Pokročilá molekulární biotechnologie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296078",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_OCH",
+    "nazev": "Pokročilá organická chemie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296080",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_SPZ",
+    "nazev": "Pokročilé bioanalytické metody",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296084",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_PM",
+    "nazev": "Potravinářská mikrobiologie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296082",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_PI",
+    "nazev": "Potravinářské inženýrství",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296081",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_POT",
+    "nazev": "Specializované potravinářské technologie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296083",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

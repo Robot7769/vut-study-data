@@ -1,0 +1,821 @@
+[
+  {
+    "zkratka": "epPD",
+    "nazev": "Corporate Economy",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294435",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "infP",
+    "nazev": "Informatics",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294479",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "mak1PD",
+    "nazev": "Macroeconomics 1",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294525",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "manPD",
+    "nazev": "Management",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294529",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ma1P",
+    "nazev": "Mathematics 1",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294575",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UzpP",
+    "nazev": "Principles of Law",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294813",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HA1PZ",
+    "nazev": "Business English 1",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294469",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HA2PZ",
+    "nazev": "Business English 2",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294470",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IG-D",
+    "nazev": "Information Literacy",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294476",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ma2P",
+    "nazev": "Mathematics 2",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294577",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "mik1PD",
+    "nazev": "Microeconomics 1",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294602",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ucePD",
+    "nazev": "Accounting",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294793",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UvfP",
+    "nazev": "Public Finance",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294799",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UvpP",
+    "nazev": "Public Law",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294800",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HA2PL",
+    "nazev": "Business English 2",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294471",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HA3PL",
+    "nazev": "Business English 3",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294472",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "fpPD",
+    "nazev": "Corporate Finance",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294454",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "UfuPD",
+    "nazev": "Financial Accounting",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294465",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "UopP",
+    "nazev": "Corporate Law",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294661",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "statP",
+    "nazev": "Statistics",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294742",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "UzfoPD",
+    "nazev": "Personal income tax",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294815",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ssrP",
+    "nazev": "Business Etiquette and Rhetoric",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294739",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ftPD",
+    "nazev": "Financial Markets",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294464",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "mkP",
+    "nazev": "Managerial communication",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294555",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "AOP1",
+    "nazev": "English for Business Communication 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294354",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYF001",
+    "nazev": "French for Beginners",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294949",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYI001",
+    "nazev": "Italian for Beginners",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294951",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYN001",
+    "nazev": "German for Beginners",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294953",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYS001",
+    "nazev": "Spanish - Elementary 1",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294955",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "UfudP",
+    "nazev": "Economics and Accounting of Non-Profit Organisations",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294434",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "fapPD",
+    "nazev": "Financial Analysis and Planning",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294458",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "UmpaP",
+    "nazev": "Wage and Personnel Administration",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294607",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "Uopx1P",
+    "nazev": "Professional Experience 1",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294625",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "UzpoPD",
+    "nazev": "Corporate taxation",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294816",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "msmP",
+    "nazev": "Application of mathematical and statistical methods",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294358",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "emP",
+    "nazev": "Environmental Management",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294449",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "marPD",
+    "nazev": "Marketing",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294563",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "pprPD",
+    "nazev": "Sales promotion and advertising",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294645",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "pojP",
+    "nazev": "Insurance",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294646",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "zdP",
+    "nazev": "Data Processing",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294819",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "AOP2",
+    "nazev": "English for Business Communication 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294355",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYF002",
+    "nazev": "French for Beginners 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294957",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYI002",
+    "nazev": "Italian for Beginners 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294960",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYN002",
+    "nazev": "German for Beginners 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294959",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VYS002",
+    "nazev": "Spanish Elementary 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294958",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "UdphPD",
+    "nazev": "Value added tax",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294402",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UnuP",
+    "nazev": "Cost Accounting",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294608",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "Uopx2P",
+    "nazev": "Professional Experience 2",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294629",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UpdsP",
+    "nazev": "Diploma Project Seminar",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294696",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UupcP",
+    "nazev": "Accounting on PC",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294794",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UvhoPD",
+    "nazev": "Selected Economic Operations from the Perspective of Finance and Accounting",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294801",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UispP",
+    "nazev": "",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294478",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "prPD",
+    "nazev": "Project Management",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294687",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "smarP",
+    "nazev": "Statistical Methods and Risk Analysis",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294741",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "VYF003",
+    "nazev": "French for Pre-intermediate Students",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294950",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "VYI003",
+    "nazev": "Italian for Pre-Intermediate Students",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294956",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "VYN003",
+    "nazev": "German for Pre-intermediate Students 1",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294954",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "VYS003",
+    "nazev": "Spanish Pre-Intermediate 1",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294952",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UdsP",
+    "nazev": "Diploma Seminar",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294417",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UmzpPD",
+    "nazev": "International Taxation of Incomes",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294601",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UudpP",
+    "nazev": "Practicum in Accounting and Taxes",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294791",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "bpsP",
+    "nazev": "Bank Products And Services",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294364",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UfifP",
+    "nazev": "",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/294467",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  }
+]

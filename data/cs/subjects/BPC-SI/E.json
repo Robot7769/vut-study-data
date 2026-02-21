@@ -1,0 +1,366 @@
+[
+  {
+    "zkratka": "BLA016",
+    "nazev": "Betonové konstrukce (E)",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289804",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BVA005",
+    "nazev": "Ceny ve stavebnictví 1",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289880",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BVA006",
+    "nazev": "Finance",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289881",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BAA004",
+    "nazev": "Matematika 4",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289590",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BHA016",
+    "nazev": "Pozemní stavitelství 3 (E)",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289767",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BWA010",
+    "nazev": "Technologie stavebních prací 2",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289896",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BYA001",
+    "nazev": "Angličtina pro mírně pokročilé (zkouška)",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289638",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BRA010",
+    "nazev": "Hydraulika a hydrologie",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289854",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BUA003",
+    "nazev": "Informační technologie a systémová analýza",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289878",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BAA006",
+    "nazev": "Operační výzkum",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289745",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BHA017",
+    "nazev": "Projekt – Pozemní stavitelství",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289768",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BTA011",
+    "nazev": "Technická zařízení budov (E)",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289869",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BVA007",
+    "nazev": "Účetnictví",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289882",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BVA008",
+    "nazev": "Ekonomika investic",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289883",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BOA014",
+    "nazev": "Kovové a dřevěné konstrukce",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289829",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BVA009",
+    "nazev": "Personální management 1",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289884",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BVA010",
+    "nazev": "Právo",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289885",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BLA017",
+    "nazev": "Projekt – Betonové konstrukce a TZB",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289805",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BVA011",
+    "nazev": "Projektové řízení staveb 1",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289886",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BVA012",
+    "nazev": "Řízení jakosti",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289887",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BZA002",
+    "nazev": "Sociální komunikace",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289906",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BVA013",
+    "nazev": "Stavebně-ekonomický seminář",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289888",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BVA014",
+    "nazev": "Bakalářský seminář (E)",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289889",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BVA015",
+    "nazev": "Marketing 1",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289890",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BVA017",
+    "nazev": "Projekt – Stavební podnik 1",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289892",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BVA018",
+    "nazev": "Stavební podnik",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289893",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BZA001",
+    "nazev": "Stavební právo (V, E)",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289905",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "BVA019",
+    "nazev": "Veřejné stavební investice 1",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289894",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  }
+]

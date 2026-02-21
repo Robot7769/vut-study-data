@@ -1,0 +1,184 @@
+[
+  {
+    "zkratka": "DSNA02",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288060",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DSNA03",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288061",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DSNA01",
+    "nazev": "Probability and Mathematical Statistics",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288059",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DSNC06",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/288077",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC01",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/288072",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNB11",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/288071",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNB06",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/288067",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNB09",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/288069",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC04",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/288075",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC03",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/288074",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC05",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/288076",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC07",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/288078",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC02",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/288073",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNJ",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288079",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "zkratka": "MC_BFCH",
+    "nazev": "Biofyzikální chemie",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293869",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_BCH2",
+    "nazev": "Biochemie II",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293868",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA_BCH2",
+    "nazev": "Biochemistry II",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293867",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_CBS",
+    "nazev": "Chemie biopolymerů a supramolekul",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293902",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_IAMA",
+    "nazev": "Instrumentální analýza pro medicínské aplikace",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293916",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_IA1_P",
+    "nazev": "Praktikum z instrumentální analýzy - S1",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293836",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_TPS1",
+    "nazev": "Týmový projekt specializace - S1",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293822",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_VOCH",
+    "nazev": "Vybrané kapitoly organické chemie",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293956",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_SJZ",
+    "nazev": "Systémy jakosti ve farmacii a zdravotnictví",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293946",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_IM",
+    "nazev": "Základy imunochemie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293945",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_FCD",
+    "nazev": "Fyzikální chemie disperzí",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293840",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_LAB1_A",
+    "nazev": "Laboratoř oboru I - CHMA",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293825",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_MMA",
+    "nazev": "Materiály pro medicínské aplikace",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293879",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA_FCD",
+    "nazev": "Physical Chemistry of Colloidal Dispersions",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293852",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_PPVP",
+    "nazev": "Postupy a procesy ve výrobní praxi",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293828",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_PBM",
+    "nazev": "Praktikum z biofyzikálních metod",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293829",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_VKF",
+    "nazev": "Vybrané kapitoly z farmakologie",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293878",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_KOS",
+    "nazev": "Kosmetologie a technologie kosmetiky",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293961",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_KOL_P",
+    "nazev": "Praktikum z koloidů",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293923",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_ZP",
+    "nazev": "Základy proteomiky",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293963",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_MSM",
+    "nazev": "Moderní spektroskopické metody",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293875",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_FKM_P",
+    "nazev": "Praktikum z fyziologie a klinických metod",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293924",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_DS_A",
+    "nazev": "Diplomový seminář - CHMA",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293819",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_LAB2_A",
+    "nazev": "Laboratoř oboru II - CHMA",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293837",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_PT",
+    "nazev": "Pokročilé technologie pro medicínské aplikace",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293900",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_SSP1",
+    "nazev": "Seminář specializace - S1",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293820",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_TJS",
+    "nazev": "Transportní jevy a systémy",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293992",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_BIM",
+    "nazev": "Bioanalytické metody",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293975",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_ICHV",
+    "nazev": "Inženýrství chemicko-farmaceutických výrob",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293982",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_VLLF",
+    "nazev": "Léky a lékové formy",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293901",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MA_BIO2",
+    "nazev": "Bioengineering II",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293960",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_BIO2",
+    "nazev": "Bioinženýrství II",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293856",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_BST",
+    "nazev": "Biostatistika",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293941",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_ZVPO",
+    "nazev": "Zpracování a valorizace průmyslových odpadů",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293996",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_DP_CHMA",
+    "nazev": "Diplomová práce",
+    "kredity": "30",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293808",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

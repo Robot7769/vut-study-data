@@ -1,0 +1,327 @@
+[
+  {
+    "zkratka": "NGA050",
+    "nazev": "Professional Practical Training",
+    "kredity": "29",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296026",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NGA051",
+    "nazev": "Urban Planning Studio",
+    "kredity": "10",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296007",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NVA067",
+    "nazev": "Prices in the Civil Engineering",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296000",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NVA068",
+    "nazev": "Investments",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295998",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NZB014-A",
+    "nazev": "Company Practice Psychology",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296004",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NWA032",
+    "nazev": "Technology of Constructions 1",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296002",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NGB053",
+    "nazev": "Architecture of Engineering Constructions",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "6047",
+    "url": "https://www.vut.cz/en/students/courses/detail/295996",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NGB054",
+    "nazev": "Cultural values of landscape and settlements",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "6047",
+    "url": "https://www.vut.cz/en/students/courses/detail/296005",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NGB055",
+    "nazev": "Specialized Excursion",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "6047",
+    "url": "https://www.vut.cz/en/students/courses/detail/295999",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHB069",
+    "nazev": "Sustainable Building",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "6047",
+    "url": "https://www.vut.cz/en/students/courses/detail/296003",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NFB022",
+    "nazev": "Sustainable Rehabilitation of the Built Environment",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "6047",
+    "url": "https://www.vut.cz/en/students/courses/detail/296006",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NVA069",
+    "nazev": "Firm’s Management",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296020",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NZA019",
+    "nazev": "Law for Architects",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296027",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NGA056",
+    "nazev": "Specialised Studio",
+    "kredity": "10",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296018",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NWA033",
+    "nazev": "Technology of constructions 2",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296019",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NVA070",
+    "nazev": "Public Structural Investments",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296022",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NMB020",
+    "nazev": "transportation urbanism",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "6049",
+    "url": "https://www.vut.cz/en/students/courses/detail/296023",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NZB021",
+    "nazev": "Ethics in Business",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "6049",
+    "url": "https://www.vut.cz/en/students/courses/detail/296015",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NEA053",
+    "nazev": "Geographical Information Systems",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "6049",
+    "url": "https://www.vut.cz/en/students/courses/detail/296014",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NZB020",
+    "nazev": "History and Philosophy of Technology",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "6049",
+    "url": "https://www.vut.cz/en/students/courses/detail/296017",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NGB059",
+    "nazev": "Tradition and the New Urbanism",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "6049",
+    "url": "https://www.vut.cz/en/students/courses/detail/296021",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NSB022",
+    "nazev": "Landscape Restoration and Stability",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "6050",
+    "url": "https://www.vut.cz/en/students/courses/detail/296016",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NGB058",
+    "nazev": "Theory and Practice of Architectural Design",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "6050",
+    "url": "https://www.vut.cz/en/students/courses/detail/296025",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NHB070",
+    "nazev": "Selected Chapters from Fire Protection of Buildings",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "6050",
+    "url": "https://www.vut.cz/en/students/courses/detail/296024",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NGA060",
+    "nazev": "Diploma Project",
+    "kredity": "30",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296001",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

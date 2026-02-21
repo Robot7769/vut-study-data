@@ -1,0 +1,59 @@
+[
+  {
+    "zkratka": "9OMP-A",
+    "nazev": "Optimalizace - matematické programování",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293436",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AJ",
+    "nazev": "Academic English for Doctoral Studies",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293353",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9EAE-A",
+    "nazev": "Energie a emise",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293376",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PTL-A",
+    "nazev": "Přenos tepla a látky",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293451",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TPZ-A",
+    "nazev": "Tepelné pochody a zařízení pro výměnu tepla",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293481",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

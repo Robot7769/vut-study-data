@@ -1,0 +1,327 @@
+[
+  {
+    "zkratka": "NGA050",
+    "nazev": "Odborná praxe",
+    "kredity": "29",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296026",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NGA051",
+    "nazev": "Ateliér urbanistické tvorby",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296007",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NVA067",
+    "nazev": "Ceny ve stavebnictví",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296000",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NVA068",
+    "nazev": "Investování (ArA)",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295998",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NZB014-A",
+    "nazev": "Psychologie ve firemní praxi",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296004",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NWA032",
+    "nazev": "Technologie staveb 1 (ArA)",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296002",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NGB053",
+    "nazev": "Architektura inženýrských staveb",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "6047",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295996",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NGB054",
+    "nazev": "Kulturní hodnoty krajiny a sídel",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "6047",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296005",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NGB055",
+    "nazev": "Odborná exkurze",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "6047",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295999",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHB069",
+    "nazev": "Trvale udržitelná výstavba (ARS)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "6047",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296003",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NFB022",
+    "nazev": "Udržitelná obnova zastavěného prostředí",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "6047",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296006",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NVA069",
+    "nazev": "Podnikový management",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296020",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NZA019",
+    "nazev": "Právo pro architekty",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296027",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NGA056",
+    "nazev": "Specializovaný ateliér (ArA)",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296018",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NWA033",
+    "nazev": "Technologie staveb 2 (ArA)",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296019",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NVA070",
+    "nazev": "Veřejné stavební investice",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296022",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NMB020",
+    "nazev": "Dopravní urbanismus",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "6049",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296023",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NZB021",
+    "nazev": "Etika v podnikání",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "6049",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296015",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NEA053",
+    "nazev": "Geografické informační systémy (ARS)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "6049",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296014",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NZB020",
+    "nazev": "Historie a filozofie techniky",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "6049",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296017",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NGB059",
+    "nazev": "Tradice a Nový urbanismus",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "6049",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296021",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NSB022",
+    "nazev": "Revitalizace a stabilita krajiny",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "6050",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296016",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NGB058",
+    "nazev": "Teorie a praxe architektonického navrhování",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "6050",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296025",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NHB070",
+    "nazev": "Vybrané stati z požární bezpečnosti (APS)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "6050",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296024",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NGA060",
+    "nazev": "Diplomový projekt",
+    "kredity": "30",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296001",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "zkratka": "DPA025",
+    "nazev": "Doktorský seminář 1 (VHS)",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290119",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DYA004",
+    "nazev": "Konzultační výuka cizího jazyka pro doktorandy",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290135",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DPB026",
+    "nazev": "Aplikace metod operačního výzkumu ve vodním hospodářství",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5924",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290115",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DBB012",
+    "nazev": "Aplikovaná fyzika",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5924",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298553",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DPB027",
+    "nazev": "Čištění odpadních vod",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5924",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290118",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DSB023",
+    "nazev": "Hydropedologie",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5924",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290129",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DPB028",
+    "nazev": "Jakost vody v povodí",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5924",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290132",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DRB024",
+    "nazev": "Kalibrační a laboratorní měření hydraulických veličin",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5924",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290133",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DRB025",
+    "nazev": "Matematické modelování ve vodním hospodářství",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5924",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290136",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DSB024",
+    "nazev": "Meteorologie a klimatologie",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5924",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290138",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB029",
+    "nazev": "Diskrétní metody ve stavebnictví 1",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5925",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290147",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB030",
+    "nazev": "Numerické metody 1",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5925",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290139",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB031",
+    "nazev": "Pravděpodobnost a matematická statistika",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5925",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290141",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DSB022",
+    "nazev": "Hydrologie",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5926",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290127",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DRB023",
+    "nazev": "Hydromechanika",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5926",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290128",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCB009",
+    "nazev": "Chemie vody",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5926",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290131",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DPA029",
+    "nazev": "Doktorský seminář 2 (VHS)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290120",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB032",
+    "nazev": "Analýza časových řad",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5929",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290114",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB033",
+    "nazev": "Aplikace matematických metod v ekonomii",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5929",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290146",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB034",
+    "nazev": "Diskrétní metody ve stavebnictví 2",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5929",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290148",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB035",
+    "nazev": "Numerické metody 2",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5929",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290140",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB036",
+    "nazev": "Numerické řešení variačních úloh",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5929",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290159",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB037",
+    "nazev": "Regresní modely",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5929",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290142",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DRB026",
+    "nazev": "Fyzikální modelování ve vodním hospodářství",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5930",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290126",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DRB027",
+    "nazev": "Hydrotechnické stavby",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5930",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290130",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSB025",
+    "nazev": "Krajinné inženýrství a hydromeliorace",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5930",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298555",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DPB030",
+    "nazev": "Městské odvodnění",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5930",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290137",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSB026",
+    "nazev": "Metody umělé inteligence ve vodním hospodářství",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5930",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298554",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSB027",
+    "nazev": "Řízení odtoku vody z povodí",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5930",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290143",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DRB028",
+    "nazev": "Stabilita a revitalizace koryt vodních toků",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5930",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298556",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DPB031",
+    "nazev": "Vodárenství",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5930",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290144",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSB028",
+    "nazev": "Využití GIS ve vodním hospodářství",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5930",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290145",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DYA005",
+    "nazev": "Cizí jazyk pro doktorské studium",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290116",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DPA032",
+    "nazev": "Doktorský seminář 3 (VHS)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290121",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DPA033",
+    "nazev": "Doktorský seminář 4 (VHS)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290122",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DPA034",
+    "nazev": "Doktorský seminář 5 (VHS)",
+    "kredity": "14",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290123",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DPA035",
+    "nazev": "Doktorský seminář 6 (VHS)",
+    "kredity": "14",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290124",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "DPA036",
+    "nazev": "Doktorský seminář 7 (VHS)",
+    "kredity": "20",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290125",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  }
+]

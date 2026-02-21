@@ -1,0 +1,134 @@
+[
+  {
+    "zkratka": "DCO_FCHM",
+    "nazev": "Fyzika a chemie materiálů",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296059",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_EAP",
+    "nazev": "Experimentální a analytické techniky praktické organické syntézy",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296068",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_FPD",
+    "nazev": "Fotoindukované procesy v molekulárních materiálech",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296060",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_CHIA",
+    "nazev": "Chemické inženýrství pro materiálové aplikace",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296067",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_KM",
+    "nazev": "Keramické materiály",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296061",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_KOV",
+    "nazev": "Kovové materiály",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296062",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_MIM",
+    "nazev": "Moderní instrumentální metody pro materiálovou analýzu",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296069",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MPM",
+    "nazev": "Moderní přístupy v materiálových vědách",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296070",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MM",
+    "nazev": "Molekulární materiály",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296063",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_PMT",
+    "nazev": "Pokročilé materiálové technologie a aplikace",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296064",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_PTV",
+    "nazev": "Příprava a vlastnosti tenkých vrstev materiálů",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296065",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_VSD",
+    "nazev": "Využívání sekundárních surovin",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296066",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

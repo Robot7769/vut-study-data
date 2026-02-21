@@ -1,0 +1,379 @@
+[
+  {
+    "zkratka": "ONE-KE",
+    "nazev": "Oceňování nemovitostí v urbanistickém rozvoji",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288528",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SP2-KE",
+    "nazev": "Právo v územním plánování a architektuře",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288634",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SAK-TE",
+    "nazev": "Proseminář akademické práce",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288586",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SAU-AE",
+    "nazev": "Specializovaný ateliér městského prostředí a strategie",
+    "kredity": "12",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298308",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UTE-TE",
+    "nazev": "Teorie urbanismu",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288665",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UTP-TE",
+    "nazev": "Územní plánování",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288667",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "GIS-NE",
+    "nazev": "Výpočetní technika – úvod do GIS",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288472",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ARP-KE",
+    "nazev": "Architekt v praxi",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288398",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SOA-TE",
+    "nazev": "Soudobá česká architektura",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288622",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UVY-TE",
+    "nazev": "Vývoj urbanismu",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288672",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ZAA-TE",
+    "nazev": "Zahradní architektura",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288694",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HPP-ZE",
+    "nazev": "Historická veřejná politika ve městech střední a východní Evropy",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298290",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TIC-ZE",
+    "nazev": "Městské STS: Technologie, infrastruktura a město",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298295",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PEC-ZE",
+    "nazev": "Politická ekonomie měst",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298291",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SAR-ZE",
+    "nazev": "Sociologie v architektuře",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298294",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RPR-ZE",
+    "nazev": "Výzkumný projekt: politika integrativního urbanismu",
+    "kredity": "12",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298293",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "APH-ZE",
+    "nazev": "Aktéři a politika architektonického dědictví",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVP Actors",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298288",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CSU-ZE",
+    "nazev": "Občanská společnost a rozvoj měst",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVP Actors",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298289",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "POM-ZE",
+    "nazev": "Politika mapování",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVP Actors",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298292",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MWU-ZE",
+    "nazev": "Metodický workshop urbánních studií",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298298",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "PRO-ZE",
+    "nazev": "Proseminář",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298301",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SET-ZE",
+    "nazev": "Socioekonomické teorie rozvoje měst",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298304",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "FCC-ZE",
+    "nazev": "Budoucí výzvy pro města střední a východní Evropy v sociologickém, ekonomickém a technologickém kont",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVP Policy",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298296",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "PPC-ZE",
+    "nazev": "Politická filozofie budoucích měst: setkání ve střední a východní Evropě",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVP Policy",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298300",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "RUE-ZE",
+    "nazev": "Reurbanizace v Evropě",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVP Policy",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298302",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SCU-ZE",
+    "nazev": "Společenské konzultace při definování městské politiky",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVP Policy",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298303",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "FLP-ZE",
+    "nazev": "Cizí jazyk pro polské studenty",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVP jazyk",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298297",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "PLF-ZE",
+    "nazev": "Polský jazyk pro zahraniční studenty",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVP jazyk",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298299",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DPU-ZE",
+    "nazev": "Diplomový projekt",
+    "kredity": "30",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298305",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

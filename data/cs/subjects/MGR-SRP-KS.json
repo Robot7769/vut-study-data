@@ -1,0 +1,496 @@
+[
+  {
+    "zkratka": "makK",
+    "nazev": "Makroekonomie 2",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294526",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "misK",
+    "nazev": "Management informačních systémů",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294539",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "masK",
+    "nazev": "Metody aplikované statistiky",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294585",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "smaK",
+    "nazev": "Strategický management",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294760",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "atmK",
+    "nazev": "Aktuální trendy v managementu",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294346",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SippK",
+    "nazev": "Information Support of Processes",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294482",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "mpK",
+    "nazev": "Manažerská psychologie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294556",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "opK",
+    "nazev": "Obchodní podnikání",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294617",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SrlK",
+    "nazev": "Reverzní logistika",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294711",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SskpK",
+    "nazev": "Systémy kvality v podniku",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294770",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SbpzK",
+    "nazev": "Business projekt",
+    "kredity": "5",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294382",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SprzK",
+    "nazev": "Praxe",
+    "kredity": "5",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294665",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "bipK",
+    "nazev": "Business Intelligence v podniku",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294376",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "mikK",
+    "nazev": "Mikroekonomie 2",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294604",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "rsoK",
+    "nazev": "Řízení společenské odpovědnosti podniku",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294729",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SsmrK",
+    "nazev": "Strategický marketing a rozvoj podnikání",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294763",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SkrK",
+    "nazev": "Komunikace v řízení",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294515",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SmoK",
+    "nazev": "Management organizací",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294548",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ppmK",
+    "nazev": "Projektový a procesní management",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294689",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SsbmK",
+    "nazev": "Strategic Brand Management",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294749",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "StpK",
+    "nazev": "Technologické podnikání",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294774",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SbplK",
+    "nazev": "Business projekt",
+    "kredity": "5",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294379",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SprlK",
+    "nazev": "Praxe",
+    "kredity": "5",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294662",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SpmK",
+    "nazev": "Průmyslový marketing",
+    "kredity": "5",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294694",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "rvpK",
+    "nazev": "Rozbor výkonnosti podniku",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294716",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SrrpK",
+    "nazev": "Řízení rizik v podniku",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294727",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SspK",
+    "nazev": "Semestrální projekt",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294732",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SsdmK",
+    "nazev": "Service Design Management",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294737",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SsrvK",
+    "nazev": "Strategické řízení výroby",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294757",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SvmrK",
+    "nazev": "Výzkumné metody v řízení",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294809",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "eoK",
+    "nazev": "Elektronický obchod",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PVB3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294437",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "frpK",
+    "nazev": "Financování rozvoje podniku",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294457",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ipK",
+    "nazev": "Inovace v podniku",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294487",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SmapK",
+    "nazev": "Marketing Applications",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PVB3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294564",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SdisK",
+    "nazev": "Diplomní seminář",
+    "kredity": "15",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294420",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SlkrK",
+    "nazev": "Logistická koncepce řízení",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294522",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SsrnK",
+    "nazev": "Strategické řízení nákladů",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294754",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SspmK",
+    "nazev": "Strategický personální management",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294766",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

@@ -1,0 +1,316 @@
+[
+  {
+    "zkratka": "DKC-AM1",
+    "nazev": "Selected chaps from automatic control",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290810",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-ET1",
+    "nazev": "Electrotechnical materials, material systems and production processes",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290818",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-EE1",
+    "nazev": "Mathematical Modelling of Electrical Power Systems",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290814",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-ME1",
+    "nazev": "Modern Microelectronic Systems",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290824",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-RE1",
+    "nazev": "Modern electronic circuit design",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290831",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-TK1",
+    "nazev": "Optimization Methods and Queuing Theory",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290843",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-FY1",
+    "nazev": "Junctions and nanostructures",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290820",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-TE1",
+    "nazev": "Special Measurement Methods",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290841",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-MA1",
+    "nazev": "Statistics, Stochastic Processes, Operations Research",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290822",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-VE1",
+    "nazev": "Selected problems from power electronics and electrical drives",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290847",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKX-JA6",
+    "nazev": "English for post-graduates",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290849",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-RIZ",
+    "nazev": "Solving of innovative tasks",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290833",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-EIZ",
+    "nazev": "Scientific publishing A to Z",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290816",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-AM2",
+    "nazev": "Selected chaps from measuring techniques",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290811",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-TK2",
+    "nazev": "Applied cryptography",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290844",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-MA2",
+    "nazev": "Discrete Processes in Electrical Engineering",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290823",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-ME2",
+    "nazev": "Microelectronic technologies",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290825",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-RE2",
+    "nazev": "Modern digital wireless communication",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290832",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-EE2",
+    "nazev": "New Trends and Technologies in Power System Generation",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290815",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-TE2",
+    "nazev": "Numerical Computations with Partial Differential Equations",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290842",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-FY2",
+    "nazev": "Spectroscopic methods for non-destructive diagnostics",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290821",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-ET2",
+    "nazev": "Selected diagnostic methods, reliability and quality",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290819",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-VE2",
+    "nazev": "Topical Issues of Electrical Machines and Apparatus",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290848",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DKC-CVP",
+    "nazev": "Quotations in a research work",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290813",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  }
+]

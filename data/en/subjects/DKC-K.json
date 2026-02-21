@@ -1,0 +1,444 @@
+[
+  {
+    "zkratka": "DOA036",
+    "nazev": "Doctoral Seminar 1 (KDS)",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290167",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DYA004",
+    "nazev": "English Language Tutorial for PhD Students",
+    "kredity": "1",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290135",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DIB023",
+    "nazev": "Diagnostic methods in civil engineering",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5972",
+    "url": "https://www.vut.cz/en/students/courses/detail/290166",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DFB022",
+    "nazev": "Soil and Structure Interaction",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5972",
+    "url": "https://www.vut.cz/en/students/courses/detail/290175",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DMB019",
+    "nazev": "Reliability of Road Structures",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5972",
+    "url": "https://www.vut.cz/en/students/courses/detail/290179",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DLB040",
+    "nazev": "Theory of Concrete and Masonry Structures",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5972",
+    "url": "https://www.vut.cz/en/students/courses/detail/290183",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DNB018",
+    "nazev": "Permanent Way Theory",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5972",
+    "url": "https://www.vut.cz/en/students/courses/detail/290186",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DOB037",
+    "nazev": "Theory of Metal and Timber Structures",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5972",
+    "url": "https://www.vut.cz/en/students/courses/detail/290187",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DDB034",
+    "nazev": "Theory of elasticity, plasticity and failure",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5972",
+    "url": "https://www.vut.cz/en/students/courses/detail/290189",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DDB033",
+    "nazev": "Structural mechanics",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5973",
+    "url": "https://www.vut.cz/en/students/courses/detail/290181",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DMB020",
+    "nazev": "Traffic Structures Theory",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5973",
+    "url": "https://www.vut.cz/en/students/courses/detail/290184",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB029",
+    "nazev": "Discrete Methods in Civil Engineering 1",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5974",
+    "url": "https://www.vut.cz/en/students/courses/detail/290147",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB030",
+    "nazev": "Numerical methods 1",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5974",
+    "url": "https://www.vut.cz/en/students/courses/detail/290139",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB031",
+    "nazev": "Probability and mathematical statistics",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5974",
+    "url": "https://www.vut.cz/en/students/courses/detail/290141",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DOA038",
+    "nazev": "Doctoral Seminar 2 (KDS)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290168",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB032",
+    "nazev": "Time series analysis",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5977",
+    "url": "https://www.vut.cz/en/students/courses/detail/290114",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB033",
+    "nazev": "Applications of mathematical methods in economics",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5977",
+    "url": "https://www.vut.cz/en/students/courses/detail/290146",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB034",
+    "nazev": "Discrete Methods in Civil Engineering 2",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5977",
+    "url": "https://www.vut.cz/en/students/courses/detail/290148",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB035",
+    "nazev": "Numerical methods 2",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5977",
+    "url": "https://www.vut.cz/en/students/courses/detail/290140",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB036",
+    "nazev": "Numerical methods for the variational problems",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5977",
+    "url": "https://www.vut.cz/en/students/courses/detail/290159",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB037",
+    "nazev": "Models of regression",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5977",
+    "url": "https://www.vut.cz/en/students/courses/detail/290142",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DLB041",
+    "nazev": "Modelling of Structures",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5978",
+    "url": "https://www.vut.cz/en/students/courses/detail/290176",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DFB023",
+    "nazev": "Underground Engineering",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5978",
+    "url": "https://www.vut.cz/en/students/courses/detail/290177",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DIB024",
+    "nazev": "Radiation methods in civil engineering",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5978",
+    "url": "https://www.vut.cz/en/students/courses/detail/290178",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DDB035",
+    "nazev": "Dynamics of structures",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5978",
+    "url": "https://www.vut.cz/en/students/courses/detail/290180",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DNB019",
+    "nazev": "Railway Substructure Theory",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5978",
+    "url": "https://www.vut.cz/en/students/courses/detail/290185",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DOB039",
+    "nazev": "Theory of Composite Steel-Concrete Structures",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5978",
+    "url": "https://www.vut.cz/en/students/courses/detail/290190",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DMB021",
+    "nazev": "Environment and road design",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5978",
+    "url": "https://www.vut.cz/en/students/courses/detail/290191",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DYA005",
+    "nazev": "English for PhD students",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290116",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DOA040",
+    "nazev": "Doctoral Seminar 3 (KDS)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290170",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DOA041",
+    "nazev": "Doctoral Seminar 4 (KDS)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290171",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DOA042",
+    "nazev": "Doctoral Seminar 5 (KDS)",
+    "kredity": "14",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290172",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DOA043",
+    "nazev": "Doctoral Seminar 6 (KDS)",
+    "kredity": "14",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290173",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "DOA044",
+    "nazev": "Doctoral Seminar 7 (KDS)",
+    "kredity": "20",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290174",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  }
+]

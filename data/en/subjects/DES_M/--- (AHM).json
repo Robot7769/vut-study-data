@@ -1,0 +1,795 @@
+[
+  {
+    "zkratka": "2-D-DPSZ1",
+    "nazev": "Design for Social Change 1",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293031",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2-D-DipS1",
+    "nazev": "Masters' Thesis Seminar 1",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293037",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2-D-OAN1",
+    "nazev": "MA Design Studio 1",
+    "kredity": "10",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293113",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1SMaD1",
+    "nazev": "Systems Thinking and Design 1",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293221",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2-D-VPP1",
+    "nazev": "Public Presentation of a Project 1",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293260",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "FOE",
+    "nazev": "Future of Everything",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293061",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2AUDITE",
+    "nazev": "Introduction to Sound",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293075",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TAIF",
+    "nazev": "The Art of Interpreting Film 1",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293233",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PR1-Z",
+    "nazev": "Videogram 1",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293279",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "4WSh-1",
+    "nazev": "Workshop 1",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293313",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2CP2P",
+    "nazev": "Commons and P2P",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293011",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2DNSA",
+    "nazev": "Digital tools, networks and automation",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293035",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1EPS",
+    "nazev": "Environmental Issues of Today",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/301268",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2FQI",
+    "nazev": "Feminist (and) Queer Issues in Art, Film, and beyond (1970–1990s)",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293056",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "FEMS1",
+    "nazev": "Feminist Seminar 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293059",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "GPTSU",
+    "nazev": "Galleries and Art Market in Practice",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293062",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2KNM-Z",
+    "nazev": "The Canon Of New media Art. The best of new media art 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293076",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PGR",
+    "nazev": "Computer Graphics",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294237",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PGRe",
+    "nazev": "Computer Graphics (in English)",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294238",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2SUS",
+    "nazev": "Net – art – software",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293194",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ZT-Z",
+    "nazev": "Sound Art and Experimental Music",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293204",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2PEDK",
+    "nazev": "School of Imagination 1",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293179",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2U1989-1",
+    "nazev": "Art After 1989 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293242",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UDKSA",
+    "nazev": "Introduction to Cultural and Social Anthropology",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293248",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1UPD",
+    "nazev": "Introduction to permaculture design 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293250",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UVY-T",
+    "nazev": "Urban Design History",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288671",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2VUaD",
+    "nazev": "Research Through Art and Design",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293291",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2-D-DPSZ2",
+    "nazev": "Design for Social Change 2",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293032",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2-D-DipS2",
+    "nazev": "Masters' Thesis Seminar 2",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293039",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2-D-OAN2",
+    "nazev": "MA Design Studio 2",
+    "kredity": "10",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293114",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1SMaD2",
+    "nazev": "Systems thinking and design 2",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293222",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2-D-VPP2",
+    "nazev": "Public Presentation of a Project 2",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293261",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "4ADHD",
+    "nazev": "ADHD – Intimately About Sustainability",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/292959",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2AaA",
+    "nazev": "Art and Labor: Class, Production, and Power",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/301255",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "GEN",
+    "nazev": "Game Engines",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293063",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "4WSh-2",
+    "nazev": "Workshop 2",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293314",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "3DMDG",
+    "nazev": "3D Modeling for Digital Games",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/293341",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1AKPR",
+    "nazev": "Academic propaedeutics",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292962",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ZT-L",
+    "nazev": "Audio Workshop",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/292996",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEM-K",
+    "nazev": "Design Manual",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288445",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "FEMS2",
+    "nazev": "Feminist Seminar 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293060",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2KNM-L",
+    "nazev": "The Canon Of New media Art. The best of new media art 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293077",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MUL",
+    "nazev": "Multimedia",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294217",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PMA-T",
+    "nazev": "Space in Modern Architecture",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288553",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2SVUaD",
+    "nazev": "Research Through Art and Design Seminar",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293193",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SODM",
+    "nazev": "Sound Design and Mastering",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293205",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2PEDK2",
+    "nazev": "School of Imagination 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/301698",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TAIF2",
+    "nazev": "The Art of Interpreting Film 2",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293234",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2U1989-2",
+    "nazev": "Art After 1989 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293243",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1UPD2",
+    "nazev": "Introduction to permaculture design 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293251",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UXIa",
+    "nazev": "User Experience and Design of User Interfaces and Services (in English)",
+    "kredity": "5",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294285",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PR1-L",
+    "nazev": "Videogram 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293280",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VAMM",
+    "nazev": "Visual Anthropology and Contemporary Art",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293285",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PAD-NE",
+    "nazev": "Computer Skills – Parametric Design",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288547",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VBA-N",
+    "nazev": "Art Techniques – Colour",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288673",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "2-D-DipS3",
+    "nazev": "Masters' Thesis Seminar 3",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293041",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "2-D-OAN3",
+    "nazev": "MA Design Studio 3",
+    "kredity": "10",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293115",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "2-D-VPP3",
+    "nazev": "Public presentation of a Project 3",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293262",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "2-D-DipS4",
+    "nazev": "Masters' Thesis Seminar 4",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293043",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "2-D-OAN4",
+    "nazev": "MA Design Studio 4",
+    "kredity": "15",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293116",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "2-D-PRDP",
+    "nazev": "Masters' Thesis in Progress Presentation",
+    "kredity": "10",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293156",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

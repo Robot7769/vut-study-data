@@ -1,0 +1,314 @@
+[
+  {
+    "zkratka": "9KVT",
+    "nazev": "Boilers and Heat Exchangers",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293398",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MKP",
+    "nazev": "FEM in Engineering Computations",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293415",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MES",
+    "nazev": "Energy System Modeling",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293412",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NM1",
+    "nazev": "Numerical Mathematics I",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293430",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9OMP",
+    "nazev": "Optimization - Mathematical Programming",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293435",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MZO",
+    "nazev": "Computer Methods of Image Processing",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293427",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PAF",
+    "nazev": "Advanced use of ANSYS FLUENT",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293439",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PEX",
+    "nazev": "Controlling the Experiment by PC",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293442",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9STA",
+    "nazev": "Statistical Analysis",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293471",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TET",
+    "nazev": "Thermal Turbomachines",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293476",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AMK",
+    "nazev": "Analytical Mechanics and Mechanics of Continuum",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293355",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DRS",
+    "nazev": "Dynamics of Rotor Systems",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293372",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NM2",
+    "nazev": "Numerical Methods II",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293431",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AJ",
+    "nazev": "Academic English for Doctoral Studies",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293353",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9APH",
+    "nazev": "Applied Hydrodynamics",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293357",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ATH",
+    "nazev": "Applied Thermomechanics",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293361",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9EAE",
+    "nazev": "Energy and Emissions",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293375",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FLI",
+    "nazev": "Fluid Engineering",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293386",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MOP",
+    "nazev": "Methodologies of Scientific Work",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293421",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PTL",
+    "nazev": "Heat and Mass Transfer",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293450",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SVC",
+    "nazev": "Computer-Aided Design and Simulations",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293473",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SPE",
+    "nazev": "System Approaches for Process and Power Industry",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293469",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TPZ",
+    "nazev": "Heat Transfer Processes",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293480",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TPA",
+    "nazev": "Transformation Technologies of Solid Fuels",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293478",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VAH",
+    "nazev": "Vibrations and Noise",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293490",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VMT",
+    "nazev": "Computational Modeling of the Turbulent Flow",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293498",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

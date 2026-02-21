@@ -1,0 +1,1713 @@
+[
+  {
+    "zkratka": "ARP-K",
+    "nazev": "Architect’s Practice",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288396",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "KPR-K",
+    "nazev": "Structures and Indoor Environment of Buildings",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288490",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UTE-TE",
+    "nazev": "Theory of Urban Design",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288665",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA1-A",
+    "nazev": "Specialized Studio A1 – Design Research and Build",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio A",
+    "url": "https://www.vut.cz/en/students/courses/detail/288588",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA2-A",
+    "nazev": "Specialized Studio A2 – Design of Buildings",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio A",
+    "url": "https://www.vut.cz/en/students/courses/detail/288590",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA3-A",
+    "nazev": "Specialized Studio A3 – Urban and Landscape Design",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio A",
+    "url": "https://www.vut.cz/en/students/courses/detail/288592",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA4-A",
+    "nazev": "Specialized Studio A4 – Experimental Design",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio A",
+    "url": "https://www.vut.cz/en/students/courses/detail/288594",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA5-A",
+    "nazev": "Specialized Studio A5 – Heritage Care and Reconstruction",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio A",
+    "url": "https://www.vut.cz/en/students/courses/detail/288596",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA6-A",
+    "nazev": "Specialized Studio A6 – Research, Theory and Criticism",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio A",
+    "url": "https://www.vut.cz/en/students/courses/detail/288598",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "A16-T",
+    "nazev": "Architecture of 16th Century",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "Theoretical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288414",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "A18-T",
+    "nazev": "Architecture of 18th Century",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "Theoretical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288416",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "A2A-TE",
+    "nazev": "Architecture of 20th Century",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "Theoretical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288418",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "A20-T",
+    "nazev": "Architecture of 20th Century in the USA",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "Theoretical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288420",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "XX1-T",
+    "nazev": "Architecture of 21st Century 1",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Theoretical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288691",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ORP-T",
+    "nazev": "Renovation and Restoration of Monuments",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Theoretical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288545",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ZAA-TE",
+    "nazev": "Landscape Architecture",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Theoretical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288694",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ARB-K",
+    "nazev": "Accessible Architecture",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Technical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288392",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "KPS-K",
+    "nazev": "Structures of Buildings",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Technical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288492",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NS3-K",
+    "nazev": "Design of Buildings 3 – Public Buildings",
+    "kredity": "1",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "Technical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288521",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NS4-K",
+    "nazev": "Design of Buildings 4 – Agricultural Buildings",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "Technical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288523",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NS5-K",
+    "nazev": "Design of Buildings 5 – Industrial Buildings",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "Technical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288524",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RPS-KE",
+    "nazev": "Reconstructions, failures and strengthening of buildings",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Technical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288582",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SAP-K",
+    "nazev": "Sacred Space",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Technical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288587",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SCE-K",
+    "nazev": "Scenography",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Technical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288612",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SE1-K",
+    "nazev": "Building and Environment-friendly Design 1",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Technical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288616",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VST-K",
+    "nazev": "Exhibition Design",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Technical Courses",
+    "url": "https://www.vut.cz/en/students/courses/detail/288688",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DA1-T",
+    "nazev": "History of Architecture 1 – Introduction",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288435",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DIR-N",
+    "nazev": "Design–Intervention–Realization",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/301398",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEM-K",
+    "nazev": "Design Manual",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288444",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEM-KE",
+    "nazev": "Design Manual",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288446",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "FOA-N",
+    "nazev": "Photography and Architecture",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288467",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "FOA-NE",
+    "nazev": "Photography and Architecture",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288469",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "GRT-NE",
+    "nazev": "Graphic Techniques",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288476",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "GRT-N",
+    "nazev": "Graphic Techniques",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288474",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IKK-TE",
+    "nazev": "Intercultural Communication",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288482",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "KTA-T",
+    "nazev": "Chapters from the Theory of Architecture",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288493",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "KOA-T",
+    "nazev": "Composition in Architecture",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288489",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PRE-NE",
+    "nazev": "Marketing for Architects",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288556",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PRE-N",
+    "nazev": "Marketing for Architects",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288555",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OA1-N",
+    "nazev": "Technical English 1 (B2 Level)",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288525",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PS1-K",
+    "nazev": "Building Elements 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288559",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PMA-T",
+    "nazev": "Space in Modern Architecture",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288554",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RIO-KE",
+    "nazev": "Reconversion of Brownfields",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288580",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ROS-T",
+    "nazev": "Revitalization and Restoration of Settlements",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288581",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SAJ-TE",
+    "nazev": "Socially Engaged Art in Japan",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288583",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OPA-A",
+    "nazev": "Specialized Professional Internship 1",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288529",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OPB-A",
+    "nazev": "Specialized Professional Internship 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288533",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OPC-A",
+    "nazev": "Specialized Professional Internship 3",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288537",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "STM-K",
+    "nazev": "Building Materials",
+    "kredity": "1",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288635",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TEM-T",
+    "nazev": "Tectonic models",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288648",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TAU-T",
+    "nazev": "Theory of Architecture 1 – Introduction",
+    "kredity": "1",
+    "povinnost": "Elective",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288637",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UMR-K",
+    "nazev": "Arts and crafts",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288656",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ULA-T",
+    "nazev": "",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288655",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BIM-N",
+    "nazev": "Computer Skills – BIM",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288423",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PAD-N",
+    "nazev": "Computer Skills – Parametric Design",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288546",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "P3D-N",
+    "nazev": "Computer Skills – 3D CAD",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288569",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VFI-N",
+    "nazev": "Art Techniques – Figure",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288675",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VMO-N",
+    "nazev": "Art Techniques – Sculpturing",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288685",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UVY-T",
+    "nazev": "Urban Design History",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288671",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ZGE-T",
+    "nazev": "Basics of Geoecology",
+    "kredity": "1",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288698",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ZSM-K",
+    "nazev": "Basics of Structural Mechanics",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288702",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VYF005",
+    "nazev": "Professional Technical French",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "15",
+    "url": "https://www.vut.cz/en/students/courses/detail/294979",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VYI005",
+    "nazev": "Professional Technical Italian",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "15",
+    "url": "https://www.vut.cz/en/students/courses/detail/294982",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VYN007",
+    "nazev": "Professional German 1",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "15",
+    "url": "https://www.vut.cz/en/students/courses/detail/294992",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VYR005",
+    "nazev": "Professional Russian in Architecture",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "15",
+    "url": "https://www.vut.cz/en/students/courses/detail/294987",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VYS005",
+    "nazev": "Professional Spanish in Architecture",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "15",
+    "url": "https://www.vut.cz/en/students/courses/detail/294976",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IGR-T",
+    "nazev": "Information Literacy",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288480",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RES-K",
+    "nazev": "Construction Process",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288571",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TVK-T",
+    "nazev": "Landscape Design",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288651",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB1-A",
+    "nazev": "Specialized Studio B1 – Design Research and Build",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio B",
+    "url": "https://www.vut.cz/en/students/courses/detail/288600",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB2-A",
+    "nazev": "Specialized Studio B2 – Design of Buildings",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio B",
+    "url": "https://www.vut.cz/en/students/courses/detail/288602",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB3-A",
+    "nazev": "Specialized Studio B3 – Urban and Landscape Design",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio B",
+    "url": "https://www.vut.cz/en/students/courses/detail/288604",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB4-A",
+    "nazev": "Specialized Studio B4 – Experimental Design",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio B",
+    "url": "https://www.vut.cz/en/students/courses/detail/288606",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB5-A",
+    "nazev": "Specialized Studio B5 – Heritage Care and Reconstruction",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio B",
+    "url": "https://www.vut.cz/en/students/courses/detail/288608",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB6-A",
+    "nazev": "Specialized Studio B6 – Research, Theory and Criticism",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Specialized Studio B",
+    "url": "https://www.vut.cz/en/students/courses/detail/288610",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "A17-T",
+    "nazev": "Architecture of 17th Century",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "8",
+    "url": "https://www.vut.cz/en/students/courses/detail/288415",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "A19-T",
+    "nazev": "Architecture of 19th Century",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "8",
+    "url": "https://www.vut.cz/en/students/courses/detail/288417",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "A2B-TE",
+    "nazev": "Architecture of 20th Century (Czechoslovakia)",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "8",
+    "url": "https://www.vut.cz/en/students/courses/detail/288419",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "XX2-T",
+    "nazev": "Architecture of 21st Century 2",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "8",
+    "url": "https://www.vut.cz/en/students/courses/detail/288692",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAK-T",
+    "nazev": "History of Architectural Drawing",
+    "kredity": "1",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Ex",
+    "skupina": "8",
+    "url": "https://www.vut.cz/en/students/courses/detail/288431",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IA1-T",
+    "nazev": "Interpretation of Architecture 1",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "8",
+    "url": "https://www.vut.cz/en/students/courses/detail/307779",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IA2-TE",
+    "nazev": "Interpretation of Architecture 2",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "8",
+    "url": "https://www.vut.cz/en/students/courses/detail/288479",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UT2-T",
+    "nazev": "Modern Development and Theory of Urban Design 2",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "8",
+    "url": "https://www.vut.cz/en/students/courses/detail/288669",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UTP-TE",
+    "nazev": "Territorial Planning",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "8",
+    "url": "https://www.vut.cz/en/students/courses/detail/288666",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SCE-KE",
+    "nazev": "Scenography",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "9",
+    "url": "https://www.vut.cz/en/students/courses/detail/288613",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SE2-K",
+    "nazev": "Building and Environment-friendly Design 2",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "9",
+    "url": "https://www.vut.cz/en/students/courses/detail/288617",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VST-KE",
+    "nazev": "Exhibition Design",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "9",
+    "url": "https://www.vut.cz/en/students/courses/detail/288689",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "AAP-K",
+    "nazev": "Current Trends in Designing Inner Space",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288390",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DA2-T",
+    "nazev": "History of Architecture 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288437",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DA4-T",
+    "nazev": "History of Architecture 4",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288441",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEU-T",
+    "nazev": "History of Art",
+    "kredity": "1",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288447",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAP-K",
+    "nazev": "Designing Architectural Elements",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288432",
+    "semestr": [
+      "letní",
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VYF002",
+    "nazev": "French for Beginners 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294957",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HLS-KE",
+    "nazev": "Earthen Architecture",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288477",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VYI004",
+    "nazev": "Italian for Pre-intermediate Students 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/294881",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MOT-N",
+    "nazev": "Modelling Techniques",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288509",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NS1-K",
+    "nazev": "Design of Buildings 1",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288518",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NK1-K",
+    "nazev": "Load-bearing Structures 1",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288514",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BAM-T",
+    "nazev": "Popularization of Architecture – BAM",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288421",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PS2-K",
+    "nazev": "Building Elements 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288561",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RIO-K",
+    "nazev": "Reconversion of Brownfields",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288577",
+    "semestr": [
+      "letní",
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SOA-TE",
+    "nazev": "Contemporary Czech Architecture",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288621",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SPA-K",
+    "nazev": "Structural Principles in Architecture",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288626",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TRA-T",
+    "nazev": "Traditionalism in Architecture of the 20th and 21st Centuries",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288650",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "URK-T",
+    "nazev": "Urban Design Composition",
+    "kredity": "1",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288657",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PKK-N",
+    "nazev": "Computer Skills – Creative Programming",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288551",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PAD-NE",
+    "nazev": "Computer Skills – Parametric Design",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288547",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "P2D-N",
+    "nazev": "Computer Skills – 2D CAD",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288567",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VBA-N",
+    "nazev": "Art Techniques – Colour",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288673",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ZSF-K",
+    "nazev": "Basics of Building Physics",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288700",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MS1-T",
+    "nazev": "Master Thesis Seminar",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288511",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SP2-K",
+    "nazev": "Construction Law in Architectural Practice",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288632",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TEA-T",
+    "nazev": "Theory in Architecture",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288645",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MA1-A",
+    "nazev": "Elaboration of Master´s Thesis Concept M1 – Design Research and Build",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Master Thesis Concept",
+    "url": "https://www.vut.cz/en/students/courses/detail/288497",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MA2-A",
+    "nazev": "Elaboration of Master´s Thesis Concept M2 – Design of Buildings",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Master Thesis Concept",
+    "url": "https://www.vut.cz/en/students/courses/detail/288499",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MA3-A",
+    "nazev": "Elaboration of Master´s Thesis Concept M3 – Urban and Landscape Design",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Master Thesis Concept",
+    "url": "https://www.vut.cz/en/students/courses/detail/288501",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MA4-A",
+    "nazev": "Elaboration of Master´s Thesis Concept M4 – Experimental Design",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Master Thesis Concept",
+    "url": "https://www.vut.cz/en/students/courses/detail/288503",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MA5-A",
+    "nazev": "Elaboration of Master´s Thesis Concept M5 – Heritage Care and Reconstruction",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Master Thesis Concept",
+    "url": "https://www.vut.cz/en/students/courses/detail/288505",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MA6-A",
+    "nazev": "Elaboration of Master´s Thesis Concept M6 – Research, Theory and Criticism",
+    "kredity": "15",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Master Thesis Concept",
+    "url": "https://www.vut.cz/en/students/courses/detail/288507",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DA3-T",
+    "nazev": "History of Architecture 3",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288439",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NS2-K",
+    "nazev": "Design of Buildings 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288520",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NK2-K",
+    "nazev": "Load-bearing Structures 2",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288515",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "PS3-K",
+    "nazev": "Building Elements 3",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288563",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VK2-N",
+    "nazev": "Art Techniques – Drawing 2",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288681",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DP1-A",
+    "nazev": "Elaboration of Master´s Thesis M1 – Design Research and Build",
+    "kredity": "30",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Master Thesis Elaboration",
+    "url": "https://www.vut.cz/en/students/courses/detail/288451",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DP2-A",
+    "nazev": "Elaboration of Master´s Thesis M2 – Design of Buildings",
+    "kredity": "30",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Master Thesis Elaboration",
+    "url": "https://www.vut.cz/en/students/courses/detail/288453",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DP3-A",
+    "nazev": "Elaboration of Master´s Thesis M3 – Urban and Lanscape Design",
+    "kredity": "30",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Master Thesis Elaboration",
+    "url": "https://www.vut.cz/en/students/courses/detail/288455",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DP4-A",
+    "nazev": "Elaboration of Master´s Thesis M4 – Experimental Design",
+    "kredity": "30",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Master Thesis Elaboration",
+    "url": "https://www.vut.cz/en/students/courses/detail/288457",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DP5-A",
+    "nazev": "Elaboration of Master´s Thesis M5 – Heritage Care and Reconstruction",
+    "kredity": "30",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Master Thesis Elaboration",
+    "url": "https://www.vut.cz/en/students/courses/detail/288459",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DP6-A",
+    "nazev": "Elaboration of Master´s Thesis M6 – Research, Theory and Criticism",
+    "kredity": "30",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "Master Thesis Elaboration",
+    "url": "https://www.vut.cz/en/students/courses/detail/288461",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

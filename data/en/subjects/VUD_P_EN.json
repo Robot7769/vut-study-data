@@ -1,0 +1,275 @@
+[
+  {
+    "zkratka": "3MVV1",
+    "nazev": "Research Methods in Humanities and Social Sciences 1",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293107",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "3PEDK",
+    "nazev": "Development of Pedagogical Competences",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293178",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "3SDP1",
+    "nazev": "Dissertation Seminar 1",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293186",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "3LAB1",
+    "nazev": "PhD Lab 1 (Writing & Publishing)",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293143",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "3DOK1",
+    "nazev": "Doctoral Colloquium 1",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293046",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "3MVV2",
+    "nazev": "Research Methods in Humanities and Social Sciences 2",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293108",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "3SDP2",
+    "nazev": "Dissertation Seminar 2",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293187",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "3SPV1",
+    "nazev": "Shared Interdisciplinary Theory 1",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293206",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "3LAB2",
+    "nazev": "PhD Lab 2 (Art Creation & Exhibition)",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293144",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "3CIZI",
+    "nazev": "Foreign Language for Doctoral Students",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293007",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "3PVUD",
+    "nazev": "Publishing Research in Art and Design",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293168",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "3SDP3",
+    "nazev": "Dissertation Seminar 3",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293188",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "3SPV2",
+    "nazev": "Shared Interdisciplinary Theory 2",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293209",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "3DOK2",
+    "nazev": "Doctoral Colloquium 2",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293047",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "3SDP4",
+    "nazev": "Dissertation Seminar 4",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293189",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "3SPV3",
+    "nazev": "Shared Interdisciplinary Theory 3",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293210",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "3STAZ",
+    "nazev": "Foreign Doctoral Internship",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293315",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "3SDP5",
+    "nazev": "Dissertation Seminar 5",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293190",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "3SPV4",
+    "nazev": "Shared Interdisciplinary Theory 4",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293212",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "3RDPR",
+    "nazev": "Dissertation Work in Progress",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293177",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "3SDP6",
+    "nazev": "Dissertation Seminar 6",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293191",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  }
+]

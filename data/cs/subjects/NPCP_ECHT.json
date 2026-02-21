@@ -1,0 +1,522 @@
+[
+  {
+    "zkratka": "MC_CHI1_Z",
+    "nazev": "Chemické inženýrství pro životní prostředí I",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293858",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_CHM",
+    "nazev": "Chemometrie",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293814",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA_ISA",
+    "nazev": "Instrumental and Structural Analysis",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293914",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_ISA",
+    "nazev": "Instrumentální a strukturní analýza",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293896",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_EFCH",
+    "nazev": "Pokročilá environmentální chemie a forenzní environmentalistika",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293908",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_ISA_Z",
+    "nazev": "Praktikum z instrumentální a strukturní analýzy - CHTOŽP",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293831",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_RJTE",
+    "nazev": "Radioekologie a jaderné technologie",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294006",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_TEO",
+    "nazev": "Technologie ochrany ovzduší",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293974",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_BCH2",
+    "nazev": "Biochemie II",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293868",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_VOCH",
+    "nazev": "Vybrané kapitoly organické chemie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293956",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_DST",
+    "nazev": "Dekontaminační a sanační technologie",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293887",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA_EAP",
+    "nazev": "Environmental Analysis in Practice",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293848",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_EAP",
+    "nazev": "Environmentální analýza v praxi",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293842",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_CHI2_Z",
+    "nazev": "Chemické inženýrství pro životní prostředí II",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293841",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_PET",
+    "nazev": "Praktikum z environmentální technologie",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293802",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_TNO",
+    "nazev": "Technologie nakládání s odpady",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293872",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_TEV",
+    "nazev": "Technologie vody",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293839",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA_TEV",
+    "nazev": "Water and Wastewater Technologies",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293843",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_TOZ",
+    "nazev": "Technologie obnovitelných zdrojů energie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293971",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_ADC",
+    "nazev": "Automatizace a digitalizace v chemickém inženýrství",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293939",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_ENM",
+    "nazev": "Environmentální management",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293882",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_LAB_Z",
+    "nazev": "Laboratoř oboru a diplomový seminář",
+    "kredity": "12",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293817",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MA_ENG15",
+    "nazev": "Green Materials for Green Technologies, Energy and Depollution",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293954",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_CIR",
+    "nazev": "Chemicko-inženýrská rizika",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293958",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_GEG",
+    "nazev": "Pokročilá geologie a analytická geochemie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293995",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_TCOV",
+    "nazev": "Speciální a nové technologie čištění odpadních vod",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293987",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_AAS",
+    "nazev": "Atomová absorpční spektrometrie v environmentální analýze",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294005",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MA_ENG14",
+    "nazev": "Designing of Facilities in Waste Water Treatment Technologies",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293953",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MA_ENG10",
+    "nazev": "Green Chemistry",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293986",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_HMS",
+    "nazev": "Hmotnostní spektrometrie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293976",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_HSP",
+    "nazev": "Hmotnostní spektrometrie indukčně vázaného plazmatu v environmentální chemii",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293990",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_CHR",
+    "nazev": "Chromatografie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293980",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_ISA2",
+    "nazev": "Instrumentální a strukturní analýza II",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293994",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_KRE",
+    "nazev": "Krajinná ekologie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293988",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_MBTS",
+    "nazev": "Management bezpečnosti technických systémů",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293957",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_COV",
+    "nazev": "Navrhování čistíren odpadních vod",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293955",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_NMR",
+    "nazev": "Nukleární magnetická resonance",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293931",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_SPT",
+    "nazev": "Speciální toxikologie v životním prostředí",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293989",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_VKE",
+    "nazev": "Vybrané kapitoly z ekotoxikologie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293993",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_DP_ECHT",
+    "nazev": "Diplomová práce",
+    "kredity": "30",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293805",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

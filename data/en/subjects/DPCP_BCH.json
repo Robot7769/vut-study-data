@@ -1,0 +1,134 @@
+[
+  {
+    "zkratka": "DC_BFCH",
+    "nazev": "Biophysical Chemistry",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296047",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_BCHBM",
+    "nazev": "Biophysics and Biochemistry of Microorganisms",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296049",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_BIO",
+    "nazev": "Bioengineering",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296050",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_F3D",
+    "nazev": "Photochemistry and 3D print",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296051",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_ICHP",
+    "nazev": "Advanced Immunochemistry",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296052",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_MT",
+    "nazev": "Material technology for the biophysical and medical applications",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296054",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_BCH",
+    "nazev": "Advanced Biochemistry",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296048",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_KPD",
+    "nazev": "Advanced Colloid Chemistry",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296053",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_PFT",
+    "nazev": "Advanced fluorescence techniques",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296055",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_PTT",
+    "nazev": "Advanced techniques of thermal analysis",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296056",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_SMB",
+    "nazev": "Special molecular biotechnology",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296057",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_STI",
+    "nazev": "Special techniques of instrumental analysis",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296058",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

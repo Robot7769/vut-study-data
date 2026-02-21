@@ -1,0 +1,134 @@
+[
+  {
+    "zkratka": "DCO_PCHB",
+    "nazev": "Food Chemistry and Biochemistry",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296073",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_ANP",
+    "nazev": "Food Analysis",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296074",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_BIP",
+    "nazev": "Bioprocess engineering for food industry",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296075",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_KCHP",
+    "nazev": "Colloid chemistry for food industry",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296076",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MET",
+    "nazev": "Metrology and experimental data processing",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296077",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MPV",
+    "nazev": "Modern methods of food waste valorization",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296079",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MOB",
+    "nazev": "Advanced Molecular Biotechnology",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296078",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_OCH",
+    "nazev": "Advanced Organic Chemistry",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296080",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_SPZ",
+    "nazev": "Advanced bioanalytical methods",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296084",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_PM",
+    "nazev": "Mikrobiology in Food Industry",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296082",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_PI",
+    "nazev": "Engineering for Food Industry",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296081",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_POT",
+    "nazev": "Specialized Food Technologies",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296083",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

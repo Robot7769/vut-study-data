@@ -1,0 +1,405 @@
+[
+  {
+    "zkratka": "DEA053",
+    "nazev": "Doktorský seminář 1 (GAK)",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290229",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DYA004",
+    "nazev": "Konzultační výuka cizího jazyka pro doktorandy",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290134",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB054",
+    "nazev": "Analýza měřických dat",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6036",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290227",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB055",
+    "nazev": "Geodézie",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6036",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290240",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB056",
+    "nazev": "Sběr a zpracování prostorových dat",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6036",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290248",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEA057",
+    "nazev": "Doktorský seminář 2 (GAK)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290230",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB029",
+    "nazev": "Diskrétní metody ve stavebnictví 1",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "6033",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290147",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB038",
+    "nazev": "Matematika",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "6033",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290244",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB030",
+    "nazev": "Numerické metody 1",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "6033",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290139",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB039",
+    "nazev": "Pravděpodobnost a matematická statistika",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "6033",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290247",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB058",
+    "nazev": "Fyzikální geodézie",
+    "kredity": "7",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6034",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290238",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB059",
+    "nazev": "Geodetické sítě",
+    "kredity": "7",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6034",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290239",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB060",
+    "nazev": "Kartografie",
+    "kredity": "7",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6034",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290243",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB061",
+    "nazev": "Pokročilé geofyzikální technologie",
+    "kredity": "7",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6034",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290246",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DUB027",
+    "nazev": "Systémy řízení bází dat",
+    "kredity": "7",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6034",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290250",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEA062",
+    "nazev": "Doktorský seminář 3 (GAK)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290231",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB032",
+    "nazev": "Analýza časových řad",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6039",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290114",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB034",
+    "nazev": "Diskrétní metody ve stavebnictví 2",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6039",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290148",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB040",
+    "nazev": "Matematika 2",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6039",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290245",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB035",
+    "nazev": "Numerické metody 2",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6039",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290140",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB036",
+    "nazev": "Numerické řešení variačních úloh",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6039",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290159",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEB063",
+    "nazev": "Družicová geodézie",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6040",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290236",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEB064",
+    "nazev": "Fotogrammetrie a laserové skenování",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6040",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290237",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEB065",
+    "nazev": "Informační systémy a digitální kartografie",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6040",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290241",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEB066",
+    "nazev": "Inženýrská geodézie",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "6040",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290242",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DYA005",
+    "nazev": "Cizí jazyk pro doktorské studium",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290116",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEA067",
+    "nazev": "Doktorský seminář 4 (GAK)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290232",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEA068",
+    "nazev": "Doktorský seminář 5 (GAK)",
+    "kredity": "14",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290233",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DEA070",
+    "nazev": "Doktorský seminář 6 (GAK)",
+    "kredity": "14",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290234",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DEA071",
+    "nazev": "Doktorský seminář 7 (GAK)",
+    "kredity": "20",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290235",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "DEA072",
+    "nazev": "Disertační práce",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290228",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  }
+]

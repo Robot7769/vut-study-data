@@ -1,0 +1,847 @@
+[
+  {
+    "zkratka": "NLA022",
+    "nazev": "Betonové konstrukce (S)",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289572",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NOA019",
+    "nazev": "Kovové konstrukce 2",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289573",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NAA019",
+    "nazev": "Matematika 5 (S)",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289555",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHA040-A",
+    "nazev": "Nauka o budovách 2",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289558",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NDA015",
+    "nazev": "Pružnost a plasticita",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289557",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NOB027",
+    "nazev": "Speciální kovové konstrukce (S)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298535",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NTB033",
+    "nazev": "Technika prostředí",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298533",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NDB016",
+    "nazev": "Metoda konečných prvků",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5702",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295811",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHB041",
+    "nazev": "Počítačová aplikace stavební fyziky",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5702",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289559",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NTB023",
+    "nazev": "Experimentální metody v TZB",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5703",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298529",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHB042",
+    "nazev": "Sanace a adaptace budov",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5703",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289560",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BYA002",
+    "nazev": "Angličtina pro středně pokročilé (zkouška)",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289554",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NBA007",
+    "nazev": "Aplikovaná fyzika",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289556",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NVB025",
+    "nazev": "Oceňování staveb",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5705",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289574",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHB045",
+    "nazev": "Stavební akustika a denní osvětlení budov",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5705",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295793",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NDB020",
+    "nazev": "Teorie spolehlivosti",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5705",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295788",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NDB018",
+    "nazev": "Dynamika (S)",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5706",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295784",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHB048",
+    "nazev": "Vybrané statě z požární bezpečnosti staveb",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5706",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289565",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NTB026",
+    "nazev": "Vybrané statě z vytápění",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5706",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298525",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NTB025",
+    "nazev": "Modelování soustav TZB",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5707",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298526",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NFB013",
+    "nazev": "Speciální metody zakládání (S)",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5707",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295792",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHB046",
+    "nazev": "Trvale udržitelná výstavba",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5707",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289563",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NOB021",
+    "nazev": "Modelování kovových a dřevěných konstrukcí",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5708",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295796",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NLB025",
+    "nazev": "Vybrané statě z betonových konstrukcí 1 (S)",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5708",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295787",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NDB021",
+    "nazev": "Vybrané statě ze stavební mechaniky 2 (S)",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5708",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295790",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NTB027",
+    "nazev": "Vybrané statě ze vzduchotechniky",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5708",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298524",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHB047",
+    "nazev": "Vybrané statě z pozemního stavitelství 1",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5708",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289564",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NDB019",
+    "nazev": "Statická a dynamická analýza stavebních konstrukcí (KON)",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5709",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295794",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NLB024",
+    "nazev": "Statika při rekonstrukcích (S)",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5709",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295789",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHB044",
+    "nazev": "Stavby s nízkou energetickou náročností",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5709",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289562",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NTB028",
+    "nazev": "Vybrané statě ze zdravotechniky",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5709",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298527",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NOB022",
+    "nazev": "Vybrané statě z kovových a dřevěných konstrukcí",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5709",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295795",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NLB023",
+    "nazev": "Diplomový seminář (S-BZK)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5710",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295786",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NOB020",
+    "nazev": "Diplomový seminář (S-KDK)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5710",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295785",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHB043",
+    "nazev": "Diplomový seminář (S-PST)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5710",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289561",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NDB017",
+    "nazev": "Diplomový seminář (S-STM)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5710",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295791",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NTB024",
+    "nazev": "Diplomový seminář (S-TZB)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5710",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298523",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NZB012",
+    "nazev": "Etika v podnikání",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5711",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295768",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NZB013",
+    "nazev": "Prezentační dovednosti",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5711",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295732",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NZB014",
+    "nazev": "Psychologie ve firemní praxi",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5711",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289575",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NLB029",
+    "nazev": "Speciální betonové konstrukce (S)",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5713",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295812",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NTB034",
+    "nazev": "Termomechanika",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5713",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298531",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NHB055",
+    "nazev": "Vybrané statě z pozemního stavitelství 2",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5713",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289570",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NOB023",
+    "nazev": "Automatizace navrhování kovových a dřevěných konstrukcí",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5714",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295808",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NIB011",
+    "nazev": "Moderní stavební materiály",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5714",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289571",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NDB023",
+    "nazev": "Nelineární mechanika",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5714",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295805",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NTB031",
+    "nazev": "Řízení a provozování TZB",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5714",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298534",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NLB030",
+    "nazev": "Vybrané statě z betonových konstrukcí 2 (S)",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5714",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295803",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NFB014",
+    "nazev": "Aplikace inženýrských úloh z geotechniky",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5715",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295800",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NLB026",
+    "nazev": "Automatizace výpočtů betonových konstrukcí",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5715",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295804",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NOB024",
+    "nazev": "Diagnostika a rekonstrukce kovových a dřevěných konstrukcí",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5715",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295798",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NTB030",
+    "nazev": "Mechanika tekutin",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5715",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298528",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NHB050",
+    "nazev": "Návrh stavby v procesu územního řízení",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5715",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295814",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NHB051",
+    "nazev": "Prostorová akustika",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5715",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295810",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NHB053",
+    "nazev": "Rekonstrukce a renovace památek",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5715",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289568",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NDB025",
+    "nazev": "Spolehlivost a teorie porušování materiálů",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "5715",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295813",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NLB028",
+    "nazev": "Specializovaný projekt (S-BZK)",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5717",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295802",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NOB026",
+    "nazev": "Specializovaný projekt (S-KDK)",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5717",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295809",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NDB024",
+    "nazev": "Specializovaný projekt (S-STM)",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5717",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295807",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NTB032",
+    "nazev": "Specializovaný projekt (S-TZB)",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5717",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298530",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NTB029",
+    "nazev": "Audit budov",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5718",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298532",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NLB027",
+    "nazev": "Konstrukční detail (S-BZK)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5718",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295801",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NOB025",
+    "nazev": "Konstrukční detail (S-KDK)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5718",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295797",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NHB049",
+    "nazev": "Konstrukční detail (S-PST)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5718",
+    "url": "https://www.vut.cz/studenti/predmety/detail/289566",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NDB022",
+    "nazev": "Konstrukční detail (S-STM)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "5718",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295806",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  }
+]

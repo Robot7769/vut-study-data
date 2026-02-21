@@ -1,0 +1,731 @@
+[
+  {
+    "zkratka": "ARP-KE",
+    "nazev": "Architekt v praxi",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288398",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "UTE-TE",
+    "nazev": "Teorie urbanismu",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288665",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA1-AE",
+    "nazev": "Specializovaný ateliér A1 – prostorová tvorba – výzkum a realizace",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288589",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA2-AE",
+    "nazev": "Specializovaný ateliér A2 – navrhování staveb",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288591",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA3-AE",
+    "nazev": "Specializovaný ateliér A3 – urbanismus a krajinná tvorba",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288593",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA4-AE",
+    "nazev": "Specializovaný ateliér A4 – experimentální tvorba",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288595",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA5-AE",
+    "nazev": "Specializovaný ateliér A5 – památková péče a rekonstrukce",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288597",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SA6-AE",
+    "nazev": "Specializovaný ateliér A6 – výzkum, teorie a kritika",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288599",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "A2A-TE",
+    "nazev": "Architektura 20. století",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "teoretické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288418",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ARB-KE",
+    "nazev": "Architektura bez bariér",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "technické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288395",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RPS-KE",
+    "nazev": "Rekonstrukce, poruchy a posilování staveb",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "technické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288582",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ACZ-TE",
+    "nazev": "Dějiny architektury v českých zemích",
+    "kredity": "1",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288391",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEM-KE",
+    "nazev": "Design manuál",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288446",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "FOA-NE",
+    "nazev": "Fotografie a architektura",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288469",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IKK-TE",
+    "nazev": "Interkulturní komunikace",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288482",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SC1-KE",
+    "nazev": "Statika stavebních konstrukcí 1",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288614",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PKK-NE",
+    "nazev": "Výpočetní technika – kreativní kódování",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288552",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "P3D-NE",
+    "nazev": "Výpočetní technika – 3D CAD",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288570",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "KPR-KE",
+    "nazev": "Konstrukce a prostředí staveb",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288491",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OP1-AE",
+    "nazev": "Odborná praxe",
+    "kredity": "30",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288543",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SP2-KE",
+    "nazev": "Právo v územním plánování a architektuře",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288633",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SAK-TE",
+    "nazev": "Proseminář akademické práce",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288585",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TEA-TE",
+    "nazev": "Teorie architektury",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288646",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TVK-TE",
+    "nazev": "Tvorba krajiny",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288652",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB1-AE",
+    "nazev": "Specializovaný ateliér B1 – prostorová tvorba – výzkum a realizace",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288601",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB2-AE",
+    "nazev": "Specializovaný ateliér B2 – navrhování staveb",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288603",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB3-AE",
+    "nazev": "Specializovaný ateliér B3 – urbanismus a krajinná tvorba",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288605",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB4-AE",
+    "nazev": "Specializovaný ateliér B4 – experimentální tvorba",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288607",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB5-AE",
+    "nazev": "Specializovaný ateliér B5 – památková péče a rekonstrukce",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288609",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SB6-AE",
+    "nazev": "Specializovaný ateliér B6 – výzkum, teorie a kritika",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "specializovaný ateliér B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288611",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "A2B-TE",
+    "nazev": "Architektura 20. století (Československo)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "teoretické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288419",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "IA2-TE",
+    "nazev": "Interpretace architektury 2",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "teoretické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288479",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SCE-KE",
+    "nazev": "Scénografie",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "technické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288613",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VST-KE",
+    "nazev": "Výstavnictví",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "technické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288689",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DGA-TE",
+    "nazev": "Co je digitální v architektuře",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/298287",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VYC001",
+    "nazev": "Czech Language for Foreigners 1",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294860",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VYC002",
+    "nazev": "Czech Language for Foreigners 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294862",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "HLS-KE",
+    "nazev": "Hliněné stavitelství",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288477",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SAJ-TE",
+    "nazev": "Sociálně angažované umění v Japonsku",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288584",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SC2-KE",
+    "nazev": "Statika stavebních konstrukcí 2",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288615",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "STM-KE",
+    "nazev": "Stavební materiály",
+    "kredity": "1",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288636",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "PAD-NE",
+    "nazev": "Výpočetní technika – parametrický design",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288547",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VBA-NE",
+    "nazev": "Výtvarné techniky – barva",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288674",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ZSM-KE",
+    "nazev": "Základy konstrukcí pro architekty",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288703",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MA2-AE",
+    "nazev": "Předdiplomní modulový ateliér M2 – navrhování staveb",
+    "kredity": "15",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "předdiplomní projekt",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288500",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "UTP-TE",
+    "nazev": "Územní plánování",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "teoretické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288667",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ZAA-TE",
+    "nazev": "Zahradní architektura",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "teoretické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288694",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ONE-KE",
+    "nazev": "Oceňování nemovitostí v urbanistickém rozvoji",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "technické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288528",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "RIO-KE",
+    "nazev": "Rekonverze uvolněných industriálních objektů",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "technické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288580",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SPK-KE",
+    "nazev": "Speciální konstrukce",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "technické PVP",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288627",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "GRT-NE",
+    "nazev": "Grafické techniky",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288476",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MVK-TE",
+    "nazev": "Management a valorizace kulturního dědictví",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288513",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "URK-TE",
+    "nazev": "Urbanistická kompozice",
+    "kredity": "1",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288658",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VFI-NE",
+    "nazev": "Výtvarné techniky – figura",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288678",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VK2-NE",
+    "nazev": "Výtvarné techniky – kresba 2",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288684",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DP2-AE",
+    "nazev": "Příprava diplomové práce M2 – navrhování staveb",
+    "kredity": "30",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "příprava diplomové práce",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288454",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

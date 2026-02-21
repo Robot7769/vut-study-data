@@ -1,0 +1,587 @@
+[
+  {
+    "zkratka": "RSBEI",
+    "nazev": "Bezpečnostní inženýrství",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296227",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSMJE",
+    "nazev": "Management kvality a ochrany životního prostředí",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296232",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSMAT",
+    "nazev": "Matematické základy analýzy rizika",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296231",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSPS1",
+    "nazev": "Předdiplomový seminář",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296235",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSRFO",
+    "nazev": "Řízení rizik ve firmách a organizacích",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296237",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSSYP",
+    "nazev": "Systémové pojetí rizikového inženýrství",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296240",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSZMA",
+    "nazev": "Znalostní management v teorii a praxi",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296241",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSARI",
+    "nazev": "Analýza rizik",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296226",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSBRC",
+    "nazev": "Bezpečnost a rizikové chování",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296228",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSIST",
+    "nazev": "Management informačních systémů",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296230",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSMOD",
+    "nazev": "Matematické modely rozhodování",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296233",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSPMO",
+    "nazev": "Pokročilé metody analýz a modelování",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296234",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSPS2",
+    "nazev": "Předdiplomový seminář",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296236",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSSYM",
+    "nazev": "Systémová metodologie a systémový přístup k řešení expertních problémů",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296239",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SSANJ",
+    "nazev": "Zkouška angličtina B1",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296256",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BZA",
+    "nazev": "Bezpečná zařízení",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PV1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294062",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MC_ENM",
+    "nazev": "Environmentální management",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PV1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293882",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NHA061",
+    "nazev": "Inteligentní budovy",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295977",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "XRP",
+    "nazev": "Statistické řízení procesů",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292419",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPC-ZSE",
+    "nazev": "Základy spolehlivosti elektrotechnických výrob",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PV1",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291498",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "RSAIR",
+    "nazev": "Angličtina v inženýrství rizik",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296225",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BIS",
+    "nazev": "Bezpečnost informačních systémů",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294059",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "RTMBS",
+    "nazev": "Management bezpečnosti technických systémů",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296247",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "RSSEP",
+    "nazev": "Semestrální projekt",
+    "kredity": "9",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296238",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "RTTES",
+    "nazev": "Teorie spolehlivosti",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296255",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-DME",
+    "nazev": "Diagnostické metody v elektrotechnice",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291283",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-DJZ",
+    "nazev": "Diagnostika a jištění elektrických zařízení",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291282",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NIB017",
+    "nazev": "Diagnostika stavebních konstrukcí (E)",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295772",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "KEL",
+    "nazev": "Procesy, energetika a legislativa",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291907",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_RJTE",
+    "nazev": "Radioekologie a jaderné technologie",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294006",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-SAJ",
+    "nazev": "Spolehlivost a jakost",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/291434",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SRI",
+    "nazev": "Strategické řízení informačních systémů",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294271",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NWA015",
+    "nazev": "Systémy řízení jakosti",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295837",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ZZN",
+    "nazev": "Získávání znalostí z databází",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV2",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294312",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "RTAPO",
+    "nazev": "Analýza, posouzení a ošetření rizik technických systémů",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296242",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "RTBSE",
+    "nazev": "Bezpečnost strojních a elektrotechnických zařízení",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296243",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "RSDIP",
+    "nazev": "Diplomový projekt",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296229",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPR",
+    "nazev": "Management projektů",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294212",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPC-QMA",
+    "nazev": "Management kvality",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PV3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/287444",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "XS1",
+    "nazev": "Spolehlivost a údržba technických systémů",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292420",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NIB013",
+    "nazev": "Stavební průzkumy pro rekonstrukce staveb (KON)",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/295881",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SPP",
+    "nazev": "Systémy odolné proti poruchám",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294270",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_TNO",
+    "nazev": "Technologie nakládání s odpady",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PV3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293872",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MC_TOZ",
+    "nazev": "Technologie obnovitelných zdrojů energie",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "PV3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293971",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ERVAP",
+    "nazev": "Vady a poruchy staveb",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "PV3",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296203",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

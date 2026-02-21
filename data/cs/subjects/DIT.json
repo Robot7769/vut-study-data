@@ -1,0 +1,471 @@
+[
+  {
+    "zkratka": "JAD",
+    "nazev": "Zkouška z jazyka anglického pro Ph.D.",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Zkouška z angličtiny",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294195",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "JA6D",
+    "nazev": "Angličtina pro doktorandy",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Zkouška z angličtiny",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294199",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "PDD",
+    "nazev": "Aplikace paralelních počítačů",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294230",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "FAD",
+    "nazev": "Formální analýza programů",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294081",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MSD",
+    "nazev": "Modelování a simulace",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294213",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "SWD",
+    "nazev": "Ontologie a sémantický web",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294274",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-TK1",
+    "nazev": "Optimalizační metody a teorie hromadné obsluhy",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290924",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "ORID",
+    "nazev": "Optimální řízení a identifikace",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294224",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "PGD",
+    "nazev": "Počítačová grafika",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294235",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "PBD",
+    "nazev": "Pokročilé biometrické systémy",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294225",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "PND",
+    "nazev": "Pokročilé techniky návrhu číslicových systémů",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294244",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "TJD",
+    "nazev": "Teorie programovacích jazyků",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294281",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "VDD",
+    "nazev": "Vědecké publikování od A do Z",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294286",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "ZPD",
+    "nazev": "Zpracování přirozeného jazyka",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294304",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "ASD",
+    "nazev": "Zpracování řeči a audia člověkem a počítačem",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294040",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MID",
+    "nazev": "Moderní matematické metody v informatice",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294209",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MMD",
+    "nazev": "Moderní metody zobrazování 3D scény",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294211",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "TID",
+    "nazev": "Moderní teoretická informatika",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294278",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "OPD",
+    "nazev": "Optika",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294222",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "RGD",
+    "nazev": "Regulované gramatiky a automaty",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294256",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "DPC-MA1",
+    "nazev": "Statistika. stochastické procesy, operační výzkum",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290903",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "APD",
+    "nazev": "Vybraná témata z analýzy a překladu jazyků",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294039",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "BID",
+    "nazev": "Bezpečnost informačních systémů a kryptografie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294054",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "BSD",
+    "nazev": "Blockchainové systémy a konsensuální protokoly",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/301331",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "EUD",
+    "nazev": "Evoluční a neurální hardware",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294077",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "EVD",
+    "nazev": "Evoluční výpočetní techniky",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294078",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "ISD",
+    "nazev": "Inteligentní systémy",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294162",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "ATND",
+    "nazev": "Pokročilá témata v neurozobrazování",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294042",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "SOD",
+    "nazev": "Systémy odolné proti poruchám",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294269",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MAD",
+    "nazev": "Vybrané kapitoly z matematiky",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294205",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "VPD",
+    "nazev": "Vybrané problémy informačních systémů",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Odborný předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294295",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "KRD",
+    "nazev": "Klasifikace a rozpoznávání",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294202",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "MLD",
+    "nazev": "Matematická logika",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294210",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "TAD",
+    "nazev": "Teorie a aplikace Petriho sítí",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294275",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "VND",
+    "nazev": "Vysoce náročné výpočty",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/294292",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "9TKD",
+    "nazev": "Základy teorie kategorií",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Teoretický předmět",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293477",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  }
+]

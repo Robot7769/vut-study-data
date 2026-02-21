@@ -1,0 +1,2162 @@
+[
+  {
+    "zkratka": "1ATE1",
+    "nazev": "Ateliér 1",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292988",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1CJSU",
+    "nazev": "Co je současné umění?",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293010",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1EST-1",
+    "nazev": "Estetika 1 – Dějiny estetiky od antiky do 19. století",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293050",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1RanPA",
+    "nazev": "Orientation FaVU",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293125",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1PDAP",
+    "nazev": "Prezentace a dokumentace autorského projektu",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293155",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1PDU-PS",
+    "nazev": "Přehled dějin umění pravěku a starověku",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293161",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "13DPZ",
+    "nazev": "Práce s 3D modely pro začátečníky (zimní semestr)",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293150",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ST2-Z",
+    "nazev": "Současné technologie prostorové tvorby 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293202",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "TEAUDI-Z",
+    "nazev": "Technologie audio",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293223",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1UdIT",
+    "nazev": "Úvod do intermediální tvorby 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293246",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VK1-Z",
+    "nazev": "Večerní kresba 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293254",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ZADIVI-Z",
+    "nazev": "Základy digitálního videa",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293316",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ZAFOT",
+    "nazev": "Základy fotografie 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293317",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ZGT1",
+    "nazev": "Základy grafických technik 1 – Tisk z výšky",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293319",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "OBRPO-L",
+    "nazev": "Základy motion designu",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293329",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "POGR2D-Z",
+    "nazev": "2D grafika",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293048",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ODI-Z",
+    "nazev": "3D optická digitalizace 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 1. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293342",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1APINV-Z",
+    "nazev": "Angličtina B1 nižší (zimní)",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292968",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1AINBA-Z",
+    "nazev": "Angličtina B1 (zimní)",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292966",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1UPPV-Z",
+    "nazev": "Angličtina B2 (zimní)",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292971",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "KLHU1",
+    "nazev": "Klubová hudba 1",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293079",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "KREAP1",
+    "nazev": "Kreativní programování 1",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293090",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ZSK",
+    "nazev": "Základy studijní kresby 1",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293333",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ZAJ-B1-2",
+    "nazev": "Zkouška z anglického jazyka – B1, B2",
+    "kredity": "1",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293338",
+    "semestr": [
+      "zimní",
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ATE2",
+    "nazev": "Ateliér 2",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292989",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1EST-2",
+    "nazev": "Estetika 2 – Proudy v estetice 20. století",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293051",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1KSPVF-1",
+    "nazev": "Konzultace semestrální práce s vyučujícími FaVU 1",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293084",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1PAPT",
+    "nazev": "Proseminář k akademické práci s textem",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293158",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1PDU-SR",
+    "nazev": "Přehled dějin umění středověku a renesance",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293162",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1VEPSP1",
+    "nazev": "Veřejná prezentace semestrální práce 1",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293265",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "POGR2D-L",
+    "nazev": "Design tiskovin",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 2. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293049",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "ST2-L",
+    "nazev": "Současné technologie prostorové tvorby 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 2. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293203",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1UdIT2",
+    "nazev": "Úvod do intermediální tvorby 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 2. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293247",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VK1-L",
+    "nazev": "Večerní kresba 2",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Média a technologie - 2. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293255",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ZAFOT2",
+    "nazev": "Základy fotografie 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 2. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293318",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ZGT2",
+    "nazev": "Základy grafických technik 2 – Tisk z hloubky",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 2. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293320",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ZMP",
+    "nazev": "Základy malířské praxe",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 2. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293328",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ODI-L",
+    "nazev": "3D optická digitalizace 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 2. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293343",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1WAT1",
+    "nazev": "Workshop audiovizuálních technologií 1",
+    "kredity": "1",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Workshopy - 2. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293297",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1WTM1",
+    "nazev": "Workshop tradičních médií 1",
+    "kredity": "1",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Workshopy - 2. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293307",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1AINBA-L",
+    "nazev": "Angličtina B1 (letní)",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292965",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1APINV-L",
+    "nazev": "Angličtina B1 nižší (letní)",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292967",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1UPPV-L",
+    "nazev": "Angličtina B2 (letní)",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292969",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "KLHU2",
+    "nazev": "Klubová hudba 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293080",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "KREAP2",
+    "nazev": "Kreativní programování 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293091",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MUUM",
+    "nazev": "Textil jako nástroj společenských hnutí a osobních uměleckých vyjádření",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293109",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ZSK2",
+    "nazev": "Základy studijní kresby 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293334",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "1ATE3",
+    "nazev": "Ateliér 3",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292990",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1EST-3",
+    "nazev": "Estetika 3 – Témata a problémy současné estetiky",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293052",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1KSPVF-2",
+    "nazev": "Konzultace semestrální práce s vyučujícími FaVU 2",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293085",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1PDU-B",
+    "nazev": "Přehled dějin umění baroka",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293160",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1TvUP",
+    "nazev": "Text v umělecké praxi",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293230",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1VEPSP2",
+    "nazev": "Veřejná prezentace semestrální práce 2",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293266",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DKFI-Z",
+    "nazev": "Dějiny a kontexty fotografie 1",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Dějiny a teorie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293020",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAF",
+    "nazev": "Dějiny animovaného filmu",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Dějiny a teorie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293026",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VUGMP",
+    "nazev": "Umělec v galerijní a muzejní praxi 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Dějiny a teorie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293239",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1UdPU",
+    "nazev": "Úvod do performativity umění",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Dějiny a teorie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293249",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1SU-1",
+    "nazev": "Úvod do sociologického myšlení",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Dějiny a teorie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293252",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ZPS1",
+    "nazev": "Základy psychologie 1",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Dějiny a teorie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293331",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ATM-Z",
+    "nazev": "Aplikovaná technologie malby 1",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292975",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1TVuP1",
+    "nazev": "Kreativní psaní 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293093",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1RH-1",
+    "nazev": "Rhinoceros 1 – 3D modelování pro umělce a designéry",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293174",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1SPAD1",
+    "nazev": "Softwarové prototypování audiovizuálního díla 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293197",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1TZGT1",
+    "nazev": "Teoretické základy grafických technik 1",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293224",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VK2-Z",
+    "nazev": "Večerní kresba 3",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293256",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VKO-Z",
+    "nazev": "Vizuální kompozice v čase 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293286",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1ZGT3",
+    "nazev": "Základy grafických technik 3 – Lept",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293321",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1ZGT5",
+    "nazev": "Základy grafických technik 5 – Sítotisk",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293323",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ZKT",
+    "nazev": "Základy keramické tvorby",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293327",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1DS-Z",
+    "nazev": "3D tisk a digitální výroba pro kreativní obory 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293344",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1WAT2",
+    "nazev": "Workshop audiovizuálních technologií 2",
+    "kredity": "1",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Workshopy - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293298",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1WTM2",
+    "nazev": "Workshop tradičních médií 2",
+    "kredity": "1",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Workshopy - 3. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293308",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CVK",
+    "nazev": "Československá vizuální kultura 1945–1970",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293019",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1EPS",
+    "nazev": "Environmentální problémy současnosti",
+    "kredity": "5",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/301268",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "KPO-Z",
+    "nazev": "Kurz pornostudií",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293098",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1PeUm3",
+    "nazev": "Performanční umění 3",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293138",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1FPMU",
+    "nazev": "Selfmanagement v umění",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293184",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1TETV",
+    "nazev": "Textilní tvorba 1",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293231",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "TAIF",
+    "nazev": "The Art of Interpreting Film 1",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293233",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "PR1-Z",
+    "nazev": "Videogram 1",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293279",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1ATE4",
+    "nazev": "Ateliér 4",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292991",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1EST-4",
+    "nazev": "Estetika 4 – Kritické teorie umění a vizuální kultury",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293053",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1KSPVF-3",
+    "nazev": "Konzultace semestrální práce s vyučujícími FaVU 3",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293086",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1PDU-19",
+    "nazev": "Přehled dějin umění 19. století",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293163",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1VEPSP3",
+    "nazev": "Veřejná prezentace semestrální práce 3",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293271",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1WAT3",
+    "nazev": "Workshop audiovizuálních technologií 3",
+    "kredity": "1",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Workshopy - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293299",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1WTM3",
+    "nazev": "Workshop tradičních médií 3",
+    "kredity": "1",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Workshopy - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293309",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DKFII-L",
+    "nazev": "Dějiny a kontexty fotografie 2",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Dějiny a teorie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293021",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1SU-2",
+    "nazev": "Sociologie a umění",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Dějiny a teorie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293196",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1UGMP2",
+    "nazev": "Umělec v galerijní a muzejní praxi 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Dějiny a teorie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293240",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1UdUP",
+    "nazev": "Úvod do umění performance",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Dějiny a teorie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293253",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ZPS2",
+    "nazev": "Základy psychologie 2",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Dějiny a teorie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293332",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "ATM-L",
+    "nazev": "Aplikovaná technologie malby 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292976",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1TVuP2",
+    "nazev": "Kreativní psaní 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293094",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1MODP",
+    "nazev": "Motion design pro pokročilé",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293110",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1RH-2",
+    "nazev": "Rhinoceros 2 – Generativní design v Grasshopperu",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293175",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1SPAD2",
+    "nazev": "Softwarové prototypování audiovizuálního díla 2",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Média a technologie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293198",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1TZGT2",
+    "nazev": "Teoretické základy grafických technik 2",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Média a technologie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293225",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VK2-L",
+    "nazev": "Večerní kresba 4",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Média a technologie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293257",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VKO-L",
+    "nazev": "Vizuální kompozice v čase 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293287",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1ZGT4",
+    "nazev": "Základy grafických technik 4 – Litografie",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293322",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1DS-2",
+    "nazev": "3D tisk a digitální výroba pro kreativní obory 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 4. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293345",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1ZT-L",
+    "nazev": "Audio dílna",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292996",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1AutIl",
+    "nazev": "Autorská ilustrace",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292999",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "AUP-L",
+    "nazev": "Autorská práva",
+    "kredity": "1",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293000",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1IVIG-L",
+    "nazev": "Informační výchova – informační gramotnost",
+    "kredity": "1",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293072",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1MaUDe",
+    "nazev": "Materialita a udržitelnost v designu",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/301023",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1PeUM4",
+    "nazev": "Performanční umění 4",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293139",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1TETV2",
+    "nazev": "Textilní tvorba 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293232",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "PR1-L",
+    "nazev": "Videogram 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293280",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1ATE5",
+    "nazev": "Ateliér 5",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292992",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1KSPVF-4",
+    "nazev": "Konzultace semestrální práce s vyučujícími FaVU 4",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293087",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1DU20-1",
+    "nazev": "Přehled dějin umění 20. století 1",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293164",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1VEPSP4",
+    "nazev": "Veřejná prezentace semestrální práce 4",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293273",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1WAT4",
+    "nazev": "Workshop audiovizuálních technologií 4",
+    "kredity": "1",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Workshopy - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293300",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1WRM4",
+    "nazev": "Workshop tradičních médií 4",
+    "kredity": "1",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Workshopy - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293310",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "ACHE20",
+    "nazev": "Architektura 20. století",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Dějiny a teorie - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292978",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1PNvSUM",
+    "nazev": "Perspektivy ne/způsobilosti v současném umění a myšlení",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Dějiny a teorie - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293142",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1PČU60-90-1",
+    "nazev": "Podoby československého umění od 60. do počátku 90. let 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "Dějiny a teorie - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293146",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UDKSA",
+    "nazev": "Úvod do kulturní a sociální antropologie",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Dějiny a teorie - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293248",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "HITECH1",
+    "nazev": "Expanded Painting 1",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293054",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1GTPP1",
+    "nazev": "Grafické techniky pro pokročilé 1 – Tisk z výšky",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293064",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1GTPP2",
+    "nazev": "Grafické techniky pro pokročilé 2 – Tisk z hloubky",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293065",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1ZT-Z",
+    "nazev": "Sound art a experimentální hudba",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293204",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1-2DO-1",
+    "nazev": "2D obrábění – Laserové a CNC technologie",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 5. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293339",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "KV1",
+    "nazev": "Knižní vazba 1",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293081",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1PMA-Z",
+    "nazev": "Media Archive Presentation",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293103",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1MvA1",
+    "nazev": "Pohyb, prostor, malba, architektura 1",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293101",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "RIS1",
+    "nazev": "RISO Lab",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293176",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1UPD",
+    "nazev": "Úvod do permakulturního designu 1",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293250",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "VK3-Z",
+    "nazev": "Večerní kresba 5",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293258",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1ATE6",
+    "nazev": "Ateliér 6",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292993",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1KSPVF-5",
+    "nazev": "Konzultace semestrální práce s vyučujícími FaVU 5",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293088",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1PDU20-2",
+    "nazev": "Přehled dějin umění 20. století 2",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293165",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1VEPSP5",
+    "nazev": "Veřejná prezentace semestrální práce 5",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293275",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1WAT5",
+    "nazev": "Workshop audiovizuálních technologií 5",
+    "kredity": "1",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Workshopy - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293301",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1WTM5",
+    "nazev": "Workshop tradičních médií 5",
+    "kredity": "1",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Workshopy - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293311",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1AKPR",
+    "nazev": "Akademická propedeutika",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Dějiny a teorie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292962",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1AnOb",
+    "nazev": "Antropologie obrazu",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Dějiny a teorie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292973",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "AIS-L",
+    "nazev": "Artists and Issues/Vybrané problémy v současném umění - letní",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Dějiny a teorie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292983",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1PČU60-90-2",
+    "nazev": "Podoby československého umění od 60. do počátku 90. let 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "Dějiny a teorie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293147",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1u20hs-z",
+    "nazev": "Umění 20. století v historických souvislostech",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "Dějiny a teorie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293245",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1-2DO-2",
+    "nazev": "Aditivní robotická tvorba",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293340",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1CNCO",
+    "nazev": "CNC obrábění – Roboti v umělecké praxi",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293009",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "HITECH2",
+    "nazev": "Expanded Painting 2",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293055",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1GTPP3",
+    "nazev": "Grafické techniky pro pokročilé 3 – Lept",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293066",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1GTPP4",
+    "nazev": "Grafické techniky pro pokročilé 4 – Litografie",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293067",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1GTPP5",
+    "nazev": "Grafické techniky pro pokročilé 5 – Sítotisk",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "Média a technologie - 6. semestr",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293068",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1PMA-L",
+    "nazev": "Documents of Presence and Experience",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293045",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "KV2",
+    "nazev": "Knižní vazba 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293082",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "KREAP3",
+    "nazev": "Kreativní programování 3",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293092",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1MvA2",
+    "nazev": "Pohyb, prostor, malba, architektura 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293102",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "STDES",
+    "nazev": "Současná teorie designu",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293199",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1UPD2",
+    "nazev": "Úvod do permakulturního designu 2",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293251",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "VK3-L",
+    "nazev": "Večerní kresba 6",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293259",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1ATE7",
+    "nazev": "Ateliér 7",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292994",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "1-BAKS-1",
+    "nazev": "Bakalářský seminář 1",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293002",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "1SSZZ",
+    "nazev": "Seminář ke státní závěrečné zkoušce",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293192",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "1VEPSP6",
+    "nazev": "Veřejná prezentace semestrální práce 6",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293277",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "1TaPVP",
+    "nazev": "Teorie a praxe vokálního projevu 1",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293226",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "1TTaP1",
+    "nazev": "Typografie a tvorba písma 1",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293237",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "1ATE-8",
+    "nazev": "Ateliér 8",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/292995",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "1-BAKS-2",
+    "nazev": "Bakalářský seminář 2",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293003",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "1-BAKS-3",
+    "nazev": "Bakalářský seminář 3",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293005",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "1TaPVPL2",
+    "nazev": "Teorie a praxe vokálního projevu 2",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293227",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "1TTaP2",
+    "nazev": "Typografie a tvorba písma 2",
+    "kredity": "3",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293238",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  }
+]

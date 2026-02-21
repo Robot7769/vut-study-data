@@ -1,0 +1,342 @@
+[
+  {
+    "zkratka": "9AIV",
+    "nazev": "Ab initio Calculations in Material Sciences",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293352",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ALM",
+    "nazev": "Applied Fracture Mechanics",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293354",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DAT",
+    "nazev": "Deposition and Additive Technologies",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293367",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DMD",
+    "nazev": "Dislocation Mechanisms of Plastic Deformations",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293370",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FMP",
+    "nazev": "Fractography and Micromechanisms of Failures",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293387",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MOM",
+    "nazev": "Materials Modelling",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293420",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MEM",
+    "nazev": "Advanced Methods of Electron Microscopy",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293410",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SAE",
+    "nazev": "Statistical Analysis and Experiment",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293460",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SVK",
+    "nazev": "Structure and Properties of Metallic Materials",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293474",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MMM",
+    "nazev": "Multilevel Modelling of Materials",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293417",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VFM",
+    "nazev": "Selected Chapters in Materials Science",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293492",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ZMV",
+    "nazev": "Testing of Mechanical Properties",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293504",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DPP",
+    "nazev": "Degradation Processes and Service Life Prediction",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293371",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FZM",
+    "nazev": "Physical Base of Materials Fracture",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293389",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MEK",
+    "nazev": "Mechanics of Composites",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293409",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MIK",
+    "nazev": "Light Microscopy",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293414",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AJ",
+    "nazev": "Academic English for Doctoral Studies",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293353",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9KPC",
+    "nazev": "Colloid and Surface Chemistry",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293396",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MEO",
+    "nazev": "Metallurgy of Steel",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293411",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ESM",
+    "nazev": "Modelling of Thermodynamic Stability and Phase Transformations",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293381",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MMN",
+    "nazev": "Modern Metallurgy of Non-ferrous Metals and Alloys",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293418",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NTK",
+    "nazev": "Nondestructive Evaluation and Quality Control",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293434",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NKM",
+    "nazev": "Nonmetallic Materials",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293428",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PKT",
+    "nazev": "Advanced Ceramics Technologies",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293443",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PTS",
+    "nazev": "Progressive Technologies in Welding",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293453",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SKE",
+    "nazev": "Sintering of Ceramics Materials",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293465",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9WTF",
+    "nazev": "Theory of Phase Transformations",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293501",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VMS",
+    "nazev": "Selected Methods of Structure Analysis",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293497",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "zkratka": "9APT",
+    "nazev": "Applied Topology",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293358",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9EMM",
+    "nazev": "Empiric Models",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293378",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FMS",
+    "nazev": "Fuzzy Models of Technical Processes and Systems",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293388",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9GTR",
+    "nazev": "Geometric Control Theory",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293391",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MMK",
+    "nazev": "Mathematical Modelling of the Continuum",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/297467",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MKP",
+    "nazev": "FEM in Engineering Computations",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293415",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9STH",
+    "nazev": "Structure of Matter",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293472",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SLT",
+    "nazev": "Sturm-Lieouville Theory",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293468",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TTD",
+    "nazev": "Theory of Measurements, Measurement Techniques and Technical Diagnostics",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293484",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ARA",
+    "nazev": "Algebras of rotations and their applications",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293359",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AMK",
+    "nazev": "Analytical Mechanics and Mechanics of Continuum",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293355",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AHA",
+    "nazev": "Applied Harmonic Analysis",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293351",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DVM",
+    "nazev": "Dynamic and Multivariate Stochastic Models",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293374",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FKP",
+    "nazev": "Functions of a Complex Variable",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293385",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FAP",
+    "nazev": "Functional Analysis and Function Spaces",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293384",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FZM",
+    "nazev": "Physical Base of Materials Fracture",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293389",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ISY",
+    "nazev": "Invariants and Symmetry",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293393",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MOR",
+    "nazev": "Mathematical Methods Of Optimal Control",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293422",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MPK",
+    "nazev": "Mathematical Principles of Cryptographic Algorithms",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293425",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NMT",
+    "nazev": "Nonlinear Mechanics and FEM",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293429",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PVP",
+    "nazev": "Programming in Python",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293455",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TKD",
+    "nazev": "Basics of Category Theory",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293477",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AJ",
+    "nazev": "Academic English for Doctoral Studies",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293353",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9APH",
+    "nazev": "Applied Hydrodynamics",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293357",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ARV",
+    "nazev": "Automation and Control of Manufacturing Systems",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293360",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FLI",
+    "nazev": "Fluid Engineering",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293386",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9GRA",
+    "nazev": "Graph Algorithms",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293390",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MBO",
+    "nazev": "Mathematical Modeling of Machine Mechanisms",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293405",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9IDS",
+    "nazev": "Modelling and Control of Dynamic Systems",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293392",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PAR",
+    "nazev": "Control Equipments",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293440",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VIN",
+    "nazev": "Computational Intelligence",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293493",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VMT",
+    "nazev": "Computational Modeling of the Turbulent Flow",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293498",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

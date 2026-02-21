@@ -1,0 +1,418 @@
+[
+  {
+    "zkratka": "DJA044",
+    "nazev": "Doktorský seminář 1 (FMI)",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290192",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DYA004",
+    "nazev": "Konzultační výuka cizího jazyka pro doktorandy",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290135",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB045",
+    "nazev": "Mikrostruktura stavebních látek",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5798",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290202",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB047",
+    "nazev": "Teoretické základy pálených staviv",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5798",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290207",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DVB067",
+    "nazev": "Teorie cen",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5798",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290209",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB029",
+    "nazev": "Diskrétní metody ve stavebnictví 1",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5799",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290147",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB030",
+    "nazev": "Numerické metody 1",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5799",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290139",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB031",
+    "nazev": "Pravděpodobnost a matematická statistika",
+    "kredity": "4",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "5799",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290141",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DBB014",
+    "nazev": "Fyzika látek",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5800",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290200",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCB010",
+    "nazev": "Fyzikální chemie silikátů",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5800",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290201",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DBB015",
+    "nazev": "Synergie stavebních materiálů",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5800",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290205",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB046",
+    "nazev": "Teoretické základy kompozitních materiálů",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5800",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290206",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB048",
+    "nazev": "Teoretické základy technologie silikátů",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5800",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290208",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB049",
+    "nazev": "Teorie optimálního užití stavebních látek",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5800",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290210",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB050",
+    "nazev": "Teorie trvanlivosti a sanace betonů",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5800",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290211",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJA051",
+    "nazev": "Doktorský seminář 2 (FMI)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290193",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB032",
+    "nazev": "Analýza časových řad",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5802",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290114",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB033",
+    "nazev": "Aplikace matematických metod v ekonomii",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5802",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290146",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB034",
+    "nazev": "Diskrétní metody ve stavebnictví 2",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5802",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290148",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB035",
+    "nazev": "Numerické metody 2",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5802",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290140",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB036",
+    "nazev": "Numerické řešení variačních úloh",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5802",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290159",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB037",
+    "nazev": "Regresní modely",
+    "kredity": "10",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5802",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290142",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DJB052",
+    "nazev": "Environmentální systémy výroby a užití staviv",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5803",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290199",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DIB022",
+    "nazev": "Nedestruktivní diagnostické metody zkoušení hmot a konstrukcí",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5803",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290203",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DJB053",
+    "nazev": "Reologie betonu",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5803",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290204",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DBB016",
+    "nazev": "Využití akustických metod pro NDT stavebních prvků a konstrukcí",
+    "kredity": "8",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "5803",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290212",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DYA005",
+    "nazev": "Cizí jazyk pro doktorské studium",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290116",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DJA054",
+    "nazev": "Doktorský seminář 3 (FMI)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290194",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DJA055",
+    "nazev": "Doktorský seminář 4 (FMI)",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290195",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DJA056",
+    "nazev": "Doktorský seminář 5 (FMI)",
+    "kredity": "14",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290196",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DJA057",
+    "nazev": "Doktorský seminář 6 (FMI)",
+    "kredity": "14",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290197",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "DJA058",
+    "nazev": "Doktorský seminář 7 (FMI)",
+    "kredity": "20",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290198",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  }
+]

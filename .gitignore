@@ -24,10 +24,8 @@ wheels/
 *.egg
 
 # Output files
-*.json
 *.csv
 *.xlsx
-data/
 
 # IDE
 .vscode/

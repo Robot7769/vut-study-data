@@ -1,0 +1,252 @@
+[
+  {
+    "zkratka": "9EMT",
+    "nazev": "Experimental Methods in Forming",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293380",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9REP",
+    "nazev": "Reverse Engineering and Rapid Prototyping",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293456",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TTT",
+    "nazev": "Theory of Metal-Forming Technology Processes",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293486",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SC2",
+    "nazev": "CAD System II",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293462",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AJ",
+    "nazev": "Academic English for Doctoral Studies",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293353",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ATO",
+    "nazev": "Applications of CAD/CAM in Technology of Machining",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293362",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9CTO",
+    "nazev": "CNC Technologies of Machining",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293366",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9EMO",
+    "nazev": "Experimental Methods in Machining",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293379",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9KKS",
+    "nazev": "Crystallization of Metals and Alloys",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293395",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MNK",
+    "nazev": "Metallurgy of Non-Ferrous Alloys",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293419",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MEO",
+    "nazev": "Metallurgy of Steel",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293411",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MMN",
+    "nazev": "Modern Metallurgy of Non-ferrous Metals and Alloys",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293418",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NSS",
+    "nazev": "Numerical Simulation of Foundry Processes",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293432",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PPC",
+    "nazev": "Computer Aided of Technological Activities",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293446",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PMR",
+    "nazev": "Advanced Materials for Cutting Tools",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293445",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PST",
+    "nazev": "Progressive Foundry Technologies",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293449",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PTU",
+    "nazev": "Progressive Surface Treatment Technologies",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293454",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PTP",
+    "nazev": "Progressive Technologies in Sheet Metal Forming",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293452",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SIN",
+    "nazev": "Simultaneous Engineering",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293464",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SC1",
+    "nazev": "CAD System I",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293461",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TTS",
+    "nazev": "Theory of Fusion Weldeability of Metals",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293485",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TVN",
+    "nazev": "Forming Tools",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293487",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

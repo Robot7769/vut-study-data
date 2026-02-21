@@ -1,0 +1,418 @@
+[
+  {
+    "zkratka": "DJA044",
+    "nazev": "Doctoral Seminar 1 (FMI)",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290192",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DYA004",
+    "nazev": "English Language Tutorial for PhD Students",
+    "kredity": "1",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290135",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB045",
+    "nazev": "Microstructure of Building Materials",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5960",
+    "url": "https://www.vut.cz/en/students/courses/detail/290202",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB047",
+    "nazev": "Theoretical grounds of fired building materials",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5960",
+    "url": "https://www.vut.cz/en/students/courses/detail/290207",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DVB067",
+    "nazev": "Price theory",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5960",
+    "url": "https://www.vut.cz/en/students/courses/detail/290209",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB029",
+    "nazev": "Discrete Methods in Civil Engineering 1",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5961",
+    "url": "https://www.vut.cz/en/students/courses/detail/290147",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB030",
+    "nazev": "Numerical methods 1",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5961",
+    "url": "https://www.vut.cz/en/students/courses/detail/290139",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB031",
+    "nazev": "Probability and mathematical statistics",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5961",
+    "url": "https://www.vut.cz/en/students/courses/detail/290141",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DBB014",
+    "nazev": "Physics of materials",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5962",
+    "url": "https://www.vut.cz/en/students/courses/detail/290200",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCB010",
+    "nazev": "Physical chemistry of silicates",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5962",
+    "url": "https://www.vut.cz/en/students/courses/detail/290201",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DBB015",
+    "nazev": "Synergy of building materials",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5962",
+    "url": "https://www.vut.cz/en/students/courses/detail/290205",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB046",
+    "nazev": "Teoretical elements of Composite Materials",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5962",
+    "url": "https://www.vut.cz/en/students/courses/detail/290206",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB048",
+    "nazev": "Theoretical fundamentals of silicates technology",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5962",
+    "url": "https://www.vut.cz/en/students/courses/detail/290208",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB049",
+    "nazev": "Theory of Optimization of Building Materials Use",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5962",
+    "url": "https://www.vut.cz/en/students/courses/detail/290210",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB050",
+    "nazev": "Theory of Durability and Concrete Rahabilitaion",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5962",
+    "url": "https://www.vut.cz/en/students/courses/detail/290211",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJA051",
+    "nazev": "Doctoral Seminar 2 (FMI)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290193",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB032",
+    "nazev": "Time series analysis",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5965",
+    "url": "https://www.vut.cz/en/students/courses/detail/290114",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB033",
+    "nazev": "Applications of mathematical methods in economics",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5965",
+    "url": "https://www.vut.cz/en/students/courses/detail/290146",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB034",
+    "nazev": "Discrete Methods in Civil Engineering 2",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5965",
+    "url": "https://www.vut.cz/en/students/courses/detail/290148",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB035",
+    "nazev": "Numerical methods 2",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5965",
+    "url": "https://www.vut.cz/en/students/courses/detail/290140",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB036",
+    "nazev": "Numerical methods for the variational problems",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5965",
+    "url": "https://www.vut.cz/en/students/courses/detail/290159",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB037",
+    "nazev": "Models of regression",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5965",
+    "url": "https://www.vut.cz/en/students/courses/detail/290142",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DJB052",
+    "nazev": "Environmental Systems of Building Materials Production and Utilization",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5966",
+    "url": "https://www.vut.cz/en/students/courses/detail/290199",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DIB022",
+    "nazev": "Nondestructive diagnostics methods of testing materials and structures",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5966",
+    "url": "https://www.vut.cz/en/students/courses/detail/290203",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DJB053",
+    "nazev": "Concrete Rheology",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5966",
+    "url": "https://www.vut.cz/en/students/courses/detail/290204",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DBB016",
+    "nazev": "Acoustic method for nondestructive testing",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5966",
+    "url": "https://www.vut.cz/en/students/courses/detail/290212",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DYA005",
+    "nazev": "English for PhD students",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290116",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DJA054",
+    "nazev": "Doctoral Seminar 3 (FMI)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290194",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DJA055",
+    "nazev": "Doctoral Seminar 4 (FMI)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290195",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DJA056",
+    "nazev": "Doctoral Seminar 5 (FMI)",
+    "kredity": "14",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290196",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DJA057",
+    "nazev": "Doctoral Seminar 6 (FMI)",
+    "kredity": "14",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290197",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "DJA058",
+    "nazev": "Doctoral Seminar 7 (FMI)",
+    "kredity": "20",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290198",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  }
+]

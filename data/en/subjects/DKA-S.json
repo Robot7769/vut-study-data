@@ -1,0 +1,366 @@
+[
+  {
+    "zkratka": "DHA068",
+    "nazev": "Doctoral Seminar 1 (PST)",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290213",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DYA004",
+    "nazev": "English Language Tutorial for PhD Students",
+    "kredity": "1",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290135",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB029",
+    "nazev": "Discrete Methods in Civil Engineering 1",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "6083",
+    "url": "https://www.vut.cz/en/students/courses/detail/290147",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB030",
+    "nazev": "Numerical methods 1",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "6083",
+    "url": "https://www.vut.cz/en/students/courses/detail/290139",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB031",
+    "nazev": "Probability and mathematical statistics",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "6083",
+    "url": "https://www.vut.cz/en/students/courses/detail/290141",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DJB043",
+    "nazev": "Selected Topics in Building Materials Engineering",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6084",
+    "url": "https://www.vut.cz/en/students/courses/detail/290225",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DTB042",
+    "nazev": "Selected Items of Building Service Theory",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6084",
+    "url": "https://www.vut.cz/en/students/courses/detail/290223",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DWB032",
+    "nazev": "Selected Essay from Technology of Building Constructions",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6084",
+    "url": "https://www.vut.cz/en/students/courses/detail/290224",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DHB069",
+    "nazev": "Selected Chapters from Theory of Building Constructions",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6084",
+    "url": "https://www.vut.cz/en/students/courses/detail/290165",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DBB013",
+    "nazev": "Selected chapters from building physics",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6085",
+    "url": "https://www.vut.cz/en/students/courses/detail/290226",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DHA070",
+    "nazev": "Doctoral seminar 2 (PST)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290214",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB032",
+    "nazev": "Time series analysis",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6088",
+    "url": "https://www.vut.cz/en/students/courses/detail/290114",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB033",
+    "nazev": "Applications of mathematical methods in economics",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6088",
+    "url": "https://www.vut.cz/en/students/courses/detail/290146",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB034",
+    "nazev": "Discrete Methods in Civil Engineering 2",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6088",
+    "url": "https://www.vut.cz/en/students/courses/detail/290148",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB035",
+    "nazev": "Numerical methods 2",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6088",
+    "url": "https://www.vut.cz/en/students/courses/detail/290140",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB036",
+    "nazev": "Numerical methods for the variational problems",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6088",
+    "url": "https://www.vut.cz/en/students/courses/detail/290159",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB037",
+    "nazev": "Models of regression",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6088",
+    "url": "https://www.vut.cz/en/students/courses/detail/290142",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DWB033",
+    "nazev": "Information system in construction technology",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6089",
+    "url": "https://www.vut.cz/en/students/courses/detail/290220",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DHB071",
+    "nazev": "Process and Functional Analysis of Building Structure",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6089",
+    "url": "https://www.vut.cz/en/students/courses/detail/290221",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DLB040",
+    "nazev": "Theory of Concrete and Masonry Structures",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6089",
+    "url": "https://www.vut.cz/en/students/courses/detail/290182",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DTB043",
+    "nazev": "Theory of Energy and Environment of Buildings",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6089",
+    "url": "https://www.vut.cz/en/students/courses/detail/290222",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DOB037",
+    "nazev": "Theory of Metal and Timber Structures",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "6089",
+    "url": "https://www.vut.cz/en/students/courses/detail/290188",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DYA005",
+    "nazev": "English for PhD students",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290116",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DHA072",
+    "nazev": "Doctoral seminar 3 (PST)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290215",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DHA073",
+    "nazev": "Doctoral seminar 4 (PST)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290216",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DHA074",
+    "nazev": "Doctoral seminar 5 (PST)",
+    "kredity": "14",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290217",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DHA075",
+    "nazev": "Doctoral seminar 6 (PST)",
+    "kredity": "14",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290218",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "DHA076",
+    "nazev": "Doctoral seminar 7 (PST)",
+    "kredity": "20",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290219",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  }
+]

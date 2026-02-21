@@ -1,0 +1,327 @@
+[
+  {
+    "zkratka": "BA_ZLT",
+    "nazev": "Basics of Laboratory Technique",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293585",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_CHI1",
+    "nazev": "Chemická informatika I",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293629",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_MAT1",
+    "nazev": "Matematika I",
+    "kredity": "7",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293663",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_BIO",
+    "nazev": "Obecná biologie a ekologie",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293676",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_OBCH",
+    "nazev": "Obecná chemie",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293677",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_ZLT",
+    "nazev": "Základy laboratorní techniky",
+    "kredity": "1",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293788",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_PCM1",
+    "nazev": "Matematické aplikace v chemii I",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293661",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_UCHTP",
+    "nazev": "Úvod do studia chemie a technologie potravin",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299321",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_FPM",
+    "nazev": "Vybrané aplikace průmyslových mikroorganismů",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299320",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV_CH",
+    "nazev": "Opakování základů středoškolské chemie",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "-",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293795",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV_M",
+    "nazev": "Opakování základů středoškolské matematiky",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "-",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293796",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_ACH",
+    "nazev": "Anorganická chemie",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293559",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_FYZ",
+    "nazev": "Fyzika",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293613",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_CHI2",
+    "nazev": "Chemická informatika II",
+    "kredity": "4",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293630",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BA_ACH",
+    "nazev": "Inorganic Chemistry",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293644",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_MAT2",
+    "nazev": "Matematika II",
+    "kredity": "7",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293664",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BA_OCH1",
+    "nazev": "Organic Chemistry I",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293688",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_OCH1",
+    "nazev": "Organická chemie I",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293690",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_FYZ_P",
+    "nazev": "Praktikum z fyziky",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293710",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_LT_P",
+    "nazev": "Praktikum z laboratorní techniky",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293715",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_ETI",
+    "nazev": "Bioetika",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293587",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_ZF",
+    "nazev": "Fyziologie a buněčná biologie",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293618",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_TET",
+    "nazev": "Toxikologie a základy ekotoxikologie",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293742",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_PCM2",
+    "nazev": "Matematické aplikace v chemii II",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293662",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BC_TEK",
+    "nazev": "Technické kreslení",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293733",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  }
+]

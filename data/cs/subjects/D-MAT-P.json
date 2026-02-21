@@ -1,0 +1,342 @@
+[
+  {
+    "zkratka": "9AIV",
+    "nazev": "Ab initio výpočty v materiálových vědách",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293352",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ALM",
+    "nazev": "Aplikovaná lomová mechanika",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293354",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DAT",
+    "nazev": "Depoziční a aditivní technologie",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293367",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DMD",
+    "nazev": "Dislokační mechanismy plastické deformace",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293370",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FMP",
+    "nazev": "Fraktografie a mikromechanismy porušování",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293387",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MOM",
+    "nazev": "Modelování materiálů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293420",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MEM",
+    "nazev": "Pokročilé metody elektronové mikroskopie",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293410",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SAE",
+    "nazev": "Statistická analýza a experiment",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293460",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SVK",
+    "nazev": "Struktura a vlastnosti kovových materiálů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293474",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MMM",
+    "nazev": "Víceúrovňové modelování materiálů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293417",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VFM",
+    "nazev": "Vybrané statě z fyziky materiálu",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293492",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ZMV",
+    "nazev": "Zkoušení mechanických vlastností",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293504",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DPP",
+    "nazev": "Degradační procesy a predikce životnosti",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293371",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FZM",
+    "nazev": "Fyzikální základy mezních stavů materiálu",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293389",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MEK",
+    "nazev": "Mechanika kompozitů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293409",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MIK",
+    "nazev": "Světelná mikroskopie",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293414",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AJ",
+    "nazev": "Academic English for Doctoral Studies",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293353",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9KPC",
+    "nazev": "Koloidní a povrchová chemie",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293396",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MEO",
+    "nazev": "Metalurgie oceli",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293411",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ESM",
+    "nazev": "Modelování termodynamické stability a fázových transformací",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293381",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MMN",
+    "nazev": "Moderní metalurgie neželezných kovů a slitin",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293418",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NTK",
+    "nazev": "Nedestruktivní testování a řízení kvality",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293434",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NKM",
+    "nazev": "Nekovové materiály",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293428",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PKT",
+    "nazev": "Pokročilé keramické technologie",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293443",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PTS",
+    "nazev": "Progresivní technologie ve svařování",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293453",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SKE",
+    "nazev": "Slinováni keramických materialů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293465",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9WTF",
+    "nazev": "Teorie fázových přeměn",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293501",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VMS",
+    "nazev": "Vybrané metody strukturní analýzy",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293497",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

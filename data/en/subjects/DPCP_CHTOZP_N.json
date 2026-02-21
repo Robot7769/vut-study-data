@@ -1,0 +1,90 @@
+[
+  {
+    "zkratka": "DC_MAE",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296085",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_AZE",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296086",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_ETJ",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296088",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_MET",
+    "nazev": "Metrology and experimental data processing",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296089",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_NVD",
+    "nazev": "New trends in water management technologies",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296090",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_ENA",
+    "nazev": "Advanced Environmental Analytical Chemistry",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296087",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_OCH",
+    "nazev": "Advanced Organic Chemistry",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296091",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_TNP",
+    "nazev": "",
+    "kredity": "0",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/296092",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

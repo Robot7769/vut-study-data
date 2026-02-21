@@ -1,0 +1,90 @@
+[
+  {
+    "zkratka": "DC_MAE",
+    "nazev": "Moderní aspekty environmentální chemie",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296085",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_AZE",
+    "nazev": "Alternativní zdroje energie a jejich dopad na životní prostředí",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296086",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_ETJ",
+    "nazev": "Ekotoxikologické testy a jejich využití pro hodnocení životního prostředí",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296088",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_MET",
+    "nazev": "Metrologie a zpracování experimentálních dat",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296089",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_NVD",
+    "nazev": "Nové směry ve vodárenských technologiích",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296090",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_ENA",
+    "nazev": "Pokročilá environmentální analýza",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296087",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_OCH",
+    "nazev": "Pokročilá organická chemie",
+    "kredity": "2",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296091",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_TNP",
+    "nazev": "Pokročilé technologie nakládání s odpady",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296092",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

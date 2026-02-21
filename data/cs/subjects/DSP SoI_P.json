@@ -1,0 +1,184 @@
+[
+  {
+    "zkratka": "DSNA02",
+    "nazev": "Bezpečnost technických a ekonomických soustav",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288060",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DSNA03",
+    "nazev": "Obecná metodika soudního inženýrství",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288061",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DSNA01",
+    "nazev": "Pravděpodobnost a matematická statistika",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288059",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DSNC06",
+    "nazev": "Analýza rizik",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "DSNC",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288077",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC01",
+    "nazev": "Analýza silničních nehod",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "DSNC",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288072",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNB11",
+    "nazev": "Aplikovaná kryptografie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "DSNC",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288071",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNB06",
+    "nazev": "Bezpečnost strojů a zařízení",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "DSNC",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288067",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNB09",
+    "nazev": "Člověk jako prvek dopravních soustav",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "DSNC",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288069",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC04",
+    "nazev": "Oceňování movitého majetku",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "DSNC",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288075",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC03",
+    "nazev": "Oceňování nemovitého majetku",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "DSNC",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288074",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC05",
+    "nazev": "Oceňování obchodních závodů",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "DSNC",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288076",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC07",
+    "nazev": "Principy komunikačních technologií",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "DSNC",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288078",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNC02",
+    "nazev": "Soudní inženýrství ve stavebnictví",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "DSNC",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288073",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DSNJ",
+    "nazev": "Cizí jazyk pro doktorské studium",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/288079",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  }
+]

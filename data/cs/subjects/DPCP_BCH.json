@@ -1,0 +1,134 @@
+[
+  {
+    "zkratka": "DC_BFCH",
+    "nazev": "Biofyzikální chemie",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296047",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_BCHBM",
+    "nazev": "Biofyzikální chemie a biochemie mikroorganismů",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296049",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_BIO",
+    "nazev": "Bioinženýrství",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296050",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_F3D",
+    "nazev": "Fotochemie a 3D tisk",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296051",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_ICHP",
+    "nazev": "Imunochemie pro pokročilé",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296052",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_MT",
+    "nazev": "Materiálové technologie pro biofyzikální a medicínské aplikace",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296054",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_BCH",
+    "nazev": "Pokročilá biochemie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296048",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_KPD",
+    "nazev": "Pokročilá koloidní chemie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296053",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_PFT",
+    "nazev": "Pokročilé fluorescenční techniky",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296055",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_PTT",
+    "nazev": "Pokročilé techniky termické analýzy",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296056",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_SMB",
+    "nazev": "Speciální molekulární biotechnologie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296057",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DC_STI",
+    "nazev": "Speciální techniky instrumentální analýzy",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296058",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

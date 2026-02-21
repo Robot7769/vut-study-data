@@ -1,0 +1,405 @@
+[
+  {
+    "zkratka": "DEA053",
+    "nazev": "Doctoral seminar 1 (GAK)",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290229",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DYA004",
+    "nazev": "English Language Tutorial for PhD Students",
+    "kredity": "1",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290134",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB054",
+    "nazev": "Analysis of Measuring Data",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5834",
+    "url": "https://www.vut.cz/en/students/courses/detail/290227",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB055",
+    "nazev": "Geodesy",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5834",
+    "url": "https://www.vut.cz/en/students/courses/detail/290240",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB056",
+    "nazev": "Spatial data acquisition and processing",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5834",
+    "url": "https://www.vut.cz/en/students/courses/detail/290248",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEA057",
+    "nazev": "Doctoral seminar 2 (GAK)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290230",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB029",
+    "nazev": "Discrete Methods in Civil Engineering 1",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5836",
+    "url": "https://www.vut.cz/en/students/courses/detail/290147",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB038",
+    "nazev": "Mathematics",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5836",
+    "url": "https://www.vut.cz/en/students/courses/detail/290244",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB030",
+    "nazev": "Numerical methods 1",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5836",
+    "url": "https://www.vut.cz/en/students/courses/detail/290139",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DAB039",
+    "nazev": "Probability and mathematical statistics",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5836",
+    "url": "https://www.vut.cz/en/students/courses/detail/290247",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB058",
+    "nazev": "Physical Geodesy",
+    "kredity": "7",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5837",
+    "url": "https://www.vut.cz/en/students/courses/detail/290238",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB059",
+    "nazev": "Geodetic Networks",
+    "kredity": "7",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5837",
+    "url": "https://www.vut.cz/en/students/courses/detail/290239",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB060",
+    "nazev": "Cartography",
+    "kredity": "7",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5837",
+    "url": "https://www.vut.cz/en/students/courses/detail/290243",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEB061",
+    "nazev": "Advanced geophysical technologies",
+    "kredity": "7",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5837",
+    "url": "https://www.vut.cz/en/students/courses/detail/290246",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DUB027",
+    "nazev": "Relational Database Management Systems",
+    "kredity": "7",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5837",
+    "url": "https://www.vut.cz/en/students/courses/detail/290250",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DEA062",
+    "nazev": "Doctoral seminar 3 (GAK)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290231",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB032",
+    "nazev": "Time series analysis",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5839",
+    "url": "https://www.vut.cz/en/students/courses/detail/290114",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB034",
+    "nazev": "Discrete Methods in Civil Engineering 2",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5839",
+    "url": "https://www.vut.cz/en/students/courses/detail/290148",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB040",
+    "nazev": "Mathematics 2",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5839",
+    "url": "https://www.vut.cz/en/students/courses/detail/290245",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB035",
+    "nazev": "Numerical methods 2",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5839",
+    "url": "https://www.vut.cz/en/students/courses/detail/290140",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DAB036",
+    "nazev": "Numerical methods for the variational problems",
+    "kredity": "10",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5839",
+    "url": "https://www.vut.cz/en/students/courses/detail/290159",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEB063",
+    "nazev": "Satellite Geodesy",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5840",
+    "url": "https://www.vut.cz/en/students/courses/detail/290236",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEB064",
+    "nazev": "Photogrammetry and laser scaning",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5840",
+    "url": "https://www.vut.cz/en/students/courses/detail/290237",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEB065",
+    "nazev": "Information systems and digital cartography",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5840",
+    "url": "https://www.vut.cz/en/students/courses/detail/290241",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEB066",
+    "nazev": "Engineering Geodesy",
+    "kredity": "8",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "DrEx",
+    "skupina": "5840",
+    "url": "https://www.vut.cz/en/students/courses/detail/290242",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DYA005",
+    "nazev": "English for PhD students",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290116",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEA067",
+    "nazev": "Doctoral seminar 4 (GAK)",
+    "kredity": "8",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290232",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DEA068",
+    "nazev": "Doctoral seminar 5 (GAK)",
+    "kredity": "14",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290233",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DEA070",
+    "nazev": "Doctoral seminar 6 (GAK)",
+    "kredity": "14",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290234",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "DEA071",
+    "nazev": "Doctoral seminar 7 (GAK)",
+    "kredity": "20",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290235",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "4"
+  },
+  {
+    "zkratka": "DEA072",
+    "nazev": "Doctoral thesis",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290228",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "4"
+  }
+]

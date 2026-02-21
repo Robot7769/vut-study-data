@@ -1,0 +1,416 @@
+[
+  {
+    "zkratka": "9BSZ",
+    "nazev": "Safety of Machines and Equipment - System Approach",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293365",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DMA",
+    "nazev": "Design-management",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293369",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9EMM",
+    "nazev": "Empiric Models",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293378",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9LDM",
+    "nazev": "Logistics in Transport and Handling",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293399",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TST",
+    "nazev": "Theory and Construction of Forming Machines",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293483",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VNP",
+    "nazev": "Vibration and Noise Powertrain",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293499",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MOR",
+    "nazev": "Mathematical Methods Of Optimal Control",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293422",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9KAR",
+    "nazev": "The Special Desing and Applications of Mobile Robots",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293394",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VDE",
+    "nazev": "Theory of Visual Style in Design",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293491",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AJ",
+    "nazev": "Academic English for Doctoral Studies",
+    "kredity": "0",
+    "povinnost": "Compulsory",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293353",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9BEI",
+    "nazev": "Safety Engineering",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293363",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DDE",
+    "nazev": "History of Design",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293368",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DSM",
+    "nazev": "Engine Dynamics",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293373",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9EXT",
+    "nazev": "Experimental Methods in Tribology",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293383",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FLI",
+    "nazev": "Fluid Engineering",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293386",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9LKK",
+    "nazev": "Aircraft Composite Structures",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293400",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MRI",
+    "nazev": "Risc Management",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293426",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MBO",
+    "nazev": "Mathematical Modeling of Machine Mechanisms",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293405",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MAS",
+    "nazev": "Methods and Algorithms for System Simulation and Optimization",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293401",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MOP",
+    "nazev": "Methodologies of Scientific Work",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293421",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MLV",
+    "nazev": "Metrology Legal and Industrial",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293416",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MPD",
+    "nazev": "Modern Access to Diagnostics and Working Life of Technical Systems",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293424",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MDT",
+    "nazev": "Multiparametric Diagnostics of Technical Systems",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293408",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PSL",
+    "nazev": "Aircraft On-Board Systems",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293448",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PDT",
+    "nazev": "Advanced Diagnostics of Technical Systems",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293441",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9EHD",
+    "nazev": "Advanced Tribology",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293377",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PTL",
+    "nazev": "Heat and Mass Transfer",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293450",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9RIP",
+    "nazev": "Control Motion",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293458",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TSO",
+    "nazev": "Theory And Construction of Machine-tools",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293482",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TDC",
+    "nazev": "Thermodynamics of Power Cycles",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293475",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9USZ",
+    "nazev": "Maintenance of Machinery and Equipment",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293489",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VPR",
+    "nazev": "Research Project and Its Management",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293500",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SES",
+    "nazev": "Selected Chapters of Electrical Machines",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293463",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VMT",
+    "nazev": "Computational Modeling of the Turbulent Flow",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293498",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ZVM",
+    "nazev": "Bases of Scientific Metrology and Quality Control",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293505",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ZLL",
+    "nazev": "Testing of Aircraft",
+    "kredity": "0",
+    "povinnost": "Recommended",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/293503",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

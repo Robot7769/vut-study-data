@@ -1,0 +1,398 @@
+[
+  {
+    "zkratka": "9APT",
+    "nazev": "Aplikovaná topologie",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293358",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9EMM",
+    "nazev": "Empirické modely",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293378",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FMS",
+    "nazev": "Fuzzy modely technických procesů a systémů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293388",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9GTR",
+    "nazev": "Geometrická teorie řízení",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293391",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MMK",
+    "nazev": "Matematické modelování kontinua",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/297467",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MKP",
+    "nazev": "MKP v inženýrských výpočtech",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293415",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9STH",
+    "nazev": "Struktura hmoty",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293472",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SLT",
+    "nazev": "Sturm-Lieouvilleova teorie",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293468",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TTD",
+    "nazev": "Teorie měření, měřicí techniky a technické diagnostiky",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293484",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ARA",
+    "nazev": "Algebry rotací a jejich aplikace",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293359",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AMK",
+    "nazev": "Analytická mechanika a mechanika kontinua",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293355",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AHA",
+    "nazev": "Aplikovaná harmonická analýza",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293351",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DVM",
+    "nazev": "Dynamické a vícerozměrné stochastické modely",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293374",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FKP",
+    "nazev": "Funkce komplexní proměnné",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293385",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FAP",
+    "nazev": "Funkcionální analýza a prostory funkcí",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293384",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FZM",
+    "nazev": "Fyzikální základy mezních stavů materiálu",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293389",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ISY",
+    "nazev": "Invarianty a symetrie",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293393",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MOR",
+    "nazev": "Matematické metody optimálního řízení",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293422",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MPK",
+    "nazev": "Matematické principy kryptografických algoritmů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293425",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NMT",
+    "nazev": "Nelineární mechanika a MKP",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293429",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PVP",
+    "nazev": "Programování v Python",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293455",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TKD",
+    "nazev": "Základy teorie kategorií",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293477",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AJ",
+    "nazev": "Academic English for Doctoral Studies",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293353",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9APH",
+    "nazev": "Aplikovaná hydrodynamika",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293357",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ARV",
+    "nazev": "Automatizace a řízení výrobních systemů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293360",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FLI",
+    "nazev": "Fluidní inženýrství",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293386",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9GRA",
+    "nazev": "Grafové algoritmy",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293390",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MBO",
+    "nazev": "Matematické modelování mechanismů strojů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293405",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9IDS",
+    "nazev": "Modelování a řízení dynamických systémů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293392",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PAR",
+    "nazev": "Prostředky automatického řízení",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293440",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VIN",
+    "nazev": "Výpočetní inteligence",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293493",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VMT",
+    "nazev": "Výpočtové modelování turbulentního proudění",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293498",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

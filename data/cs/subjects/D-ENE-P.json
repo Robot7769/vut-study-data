@@ -1,0 +1,314 @@
+[
+  {
+    "zkratka": "9KVT",
+    "nazev": "Kotle a výměníky tepla",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293398",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MKP",
+    "nazev": "MKP v inženýrských výpočtech",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293415",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MES",
+    "nazev": "Modelování energetických systémů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293412",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NM1",
+    "nazev": "Numerická matematika I",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293430",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9OMP",
+    "nazev": "Optimalizace - matematické programování",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293435",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MZO",
+    "nazev": "Počítačové metody zpracování obrazů",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293427",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PAF",
+    "nazev": "Pokročilé užívání softwaru ANSYS FLUENT",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293439",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PEX",
+    "nazev": "Řízení experimentu počítačem",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293442",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9STA",
+    "nazev": "Statistická analýza",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293471",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TET",
+    "nazev": "Tepelné turbíny",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293476",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AMK",
+    "nazev": "Analytická mechanika a mechanika kontinua",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293355",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9DRS",
+    "nazev": "Dynamika rotorových soustav",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293372",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9NM2",
+    "nazev": "Numerická matematika II",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293431",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9AJ",
+    "nazev": "Academic English for Doctoral Studies",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293353",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9APH",
+    "nazev": "Aplikovaná hydrodynamika",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293357",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9ATH",
+    "nazev": "Aplikovaná termomechanika",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293361",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9EAE",
+    "nazev": "Energie a emise",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293375",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9FLI",
+    "nazev": "Fluidní inženýrství",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293386",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9MOP",
+    "nazev": "Metody a organizace vědecké práce",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293421",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9PTL",
+    "nazev": "Přenos tepla a látky",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293450",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SVC",
+    "nazev": "Simulační výpočty, CAD",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293473",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SPE",
+    "nazev": "Systémové přístupy pro procesy a energetiku",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293469",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TPZ",
+    "nazev": "Tepelné pochody a zařízení pro výměnu tepla",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293480",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9TPA",
+    "nazev": "Transformační technologie tuhých paliv",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293478",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VAH",
+    "nazev": "Vibrace a hluk",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293490",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VMT",
+    "nazev": "Výpočtové modelování turbulentního proudění",
+    "kredity": "0",
+    "povinnost": "Doporučený",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/293498",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]

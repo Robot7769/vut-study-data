@@ -1,0 +1,834 @@
+[
+  {
+    "zkratka": "NDA027",
+    "nazev": "Dynamics",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295913",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NVA035",
+    "nazev": "Economy of Civil Engineering",
+    "kredity": "3",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/298544",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NNA008",
+    "nazev": "Geographic Information Systems",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295910",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NAA022-A",
+    "nazev": "Mathematics 5 (K)",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295899",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NDA028",
+    "nazev": "Nonlinear Mechanics",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295911",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NMA008",
+    "nazev": "Road Design",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295914",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NFA015",
+    "nazev": "Earth Structures",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295912",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NNA009",
+    "nazev": "Railway Constructions I",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295900",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BYA002",
+    "nazev": "Intermediate Level English (exam)",
+    "kredity": "2",
+    "povinnost": "Compulsory",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/289554",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NDA029",
+    "nazev": "Theory of Structures Reliability",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295878",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NLB032",
+    "nazev": "Concrete Bridges 2 (KON)",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5761",
+    "url": "https://www.vut.cz/en/students/courses/detail/295872",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NMB010",
+    "nazev": "Traffic Engineering (DST)",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5761",
+    "url": "https://www.vut.cz/en/students/courses/detail/295874",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NOB028",
+    "nazev": "Metal Bridges 2 (KON)",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5762",
+    "url": "https://www.vut.cz/en/students/courses/detail/295873",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NNB010",
+    "nazev": "Railway Stations and Junctions 1 (DST)",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5762",
+    "url": "https://www.vut.cz/en/students/courses/detail/295876",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NMB009",
+    "nazev": "Pavement Diagnostics and Management (DST)",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5763",
+    "url": "https://www.vut.cz/en/students/courses/detail/295879",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NMB011",
+    "nazev": "Modern Trends in Traffic Engineering (DST)",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5763",
+    "url": "https://www.vut.cz/en/students/courses/detail/295869",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NFB016",
+    "nazev": "Special Foundation Methods (KON)",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5763",
+    "url": "https://www.vut.cz/en/students/courses/detail/295868",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NDB019",
+    "nazev": "Static and Dynamic Analysis of Structures",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5763",
+    "url": "https://www.vut.cz/en/students/courses/detail/295794",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NIB013",
+    "nazev": "Building Survey and Building Reconstruction (KON)",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5763",
+    "url": "https://www.vut.cz/en/students/courses/detail/295881",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NOB030",
+    "nazev": "Selected Problems of Design and Realization of Metal and Timber Structures and Bridges (KON)",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5763",
+    "url": "https://www.vut.cz/en/students/courses/detail/298536",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NLB031",
+    "nazev": "Selected Chapters of Concrete Structures 1 (K)",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5763",
+    "url": "https://www.vut.cz/en/students/courses/detail/295877",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BNA007",
+    "nazev": "Selected Chapters on Railway Structures 1 (DST)",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5763",
+    "url": "https://www.vut.cz/en/students/courses/detail/289929",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NPB024",
+    "nazev": "Utility Networks",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5764",
+    "url": "https://www.vut.cz/en/students/courses/detail/298539",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NLB033",
+    "nazev": "Design of Concrete and Masonry Structures Exposed to Fire",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5764",
+    "url": "https://www.vut.cz/en/students/courses/detail/295880",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NOB029",
+    "nazev": "Design of Metal and Timber Structures to Fire Effects",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5764",
+    "url": "https://www.vut.cz/en/students/courses/detail/298537",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NEB028",
+    "nazev": "Structural and Industry Geodesy",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5764",
+    "url": "https://www.vut.cz/en/students/courses/detail/295875",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NUB013",
+    "nazev": "Algorithms and Programming",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5765",
+    "url": "https://www.vut.cz/en/students/courses/detail/298538",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NAB023",
+    "nazev": "Applied Mathematics",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5765",
+    "url": "https://www.vut.cz/en/students/courses/detail/295870",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NUB017",
+    "nazev": "Database Systems",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5765",
+    "url": "https://www.vut.cz/en/students/courses/detail/295919",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NCB008",
+    "nazev": "Chemistry of Building Materials",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5765",
+    "url": "https://www.vut.cz/en/students/courses/detail/295882",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NBB009",
+    "nazev": "Special Physics",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5765",
+    "url": "https://www.vut.cz/en/students/courses/detail/295871",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NZB012",
+    "nazev": "Ethics in Business",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5766",
+    "url": "https://www.vut.cz/en/students/courses/detail/295751",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NZB013",
+    "nazev": "Presentation Skills",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5766",
+    "url": "https://www.vut.cz/en/students/courses/detail/295740",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NZB014",
+    "nazev": "Company Practice Psychology",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5766",
+    "url": "https://www.vut.cz/en/students/courses/detail/289576",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "NLB036",
+    "nazev": "Special Concrete Structures (K)",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5769",
+    "url": "https://www.vut.cz/en/students/courses/detail/295907",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NMB015",
+    "nazev": "Technologies of Road Construction (K)",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5769",
+    "url": "https://www.vut.cz/en/students/courses/detail/295909",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NOB032",
+    "nazev": "Metal Structures 3",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5770",
+    "url": "https://www.vut.cz/en/students/courses/detail/298540",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NNB014",
+    "nazev": "Railway Constructions II",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5770",
+    "url": "https://www.vut.cz/en/students/courses/detail/295905",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NLB034",
+    "nazev": "Concrete Bridges 2 (DST)",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5771",
+    "url": "https://www.vut.cz/en/students/courses/detail/295906",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NMB014",
+    "nazev": "Traffic Engineering (KON)",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5771",
+    "url": "https://www.vut.cz/en/students/courses/detail/295898",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NOB033",
+    "nazev": "Metal Bridges 2 (DST)",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5772",
+    "url": "https://www.vut.cz/en/students/courses/detail/298545",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NNB015",
+    "nazev": "Railway Stations",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5772",
+    "url": "https://www.vut.cz/en/students/courses/detail/295897",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NMB013",
+    "nazev": "Transportation in cities",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5773",
+    "url": "https://www.vut.cz/en/students/courses/detail/295908",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NIB015",
+    "nazev": "Experimental Methods of Construction Survey",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5773",
+    "url": "https://www.vut.cz/en/students/courses/detail/295889",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NDB031",
+    "nazev": "Fracture Mechanics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5773",
+    "url": "https://www.vut.cz/en/students/courses/detail/295883",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NOB034",
+    "nazev": "Special Metal Structures (K)",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5773",
+    "url": "https://www.vut.cz/en/students/courses/detail/298541",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NLB038",
+    "nazev": "Selected Chapters of Concrete Structures 2 (K)",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5773",
+    "url": "https://www.vut.cz/en/students/courses/detail/295896",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NFB019",
+    "nazev": "Selected Articles of Geomechanics",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5773",
+    "url": "https://www.vut.cz/en/students/courses/detail/295886",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NNB016",
+    "nazev": "Railway Stations and Junctions 2",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "5773",
+    "url": "https://www.vut.cz/en/students/courses/detail/295894",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NFB018",
+    "nazev": "Geotechnical Laboratory",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5774",
+    "url": "https://www.vut.cz/en/students/courses/detail/295885",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NIB016",
+    "nazev": "Materials for Reconstruction of Structures",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5774",
+    "url": "https://www.vut.cz/en/students/courses/detail/295890",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NLB037",
+    "nazev": "Static at Reconstructions (K)",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5774",
+    "url": "https://www.vut.cz/en/students/courses/detail/295901",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NMB016",
+    "nazev": "Special Topics of Highways",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5774",
+    "url": "https://www.vut.cz/en/students/courses/detail/295904",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NNB012",
+    "nazev": "Selected Problems of Traffic Engineering",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5774",
+    "url": "https://www.vut.cz/en/students/courses/detail/295888",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NDB032",
+    "nazev": "Selected Chapters of Structural Mechanics 2 (K)",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5774",
+    "url": "https://www.vut.cz/en/students/courses/detail/295887",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NNB013",
+    "nazev": "Selected Chapters on Railway Structures 2",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5774",
+    "url": "https://www.vut.cz/en/students/courses/detail/295895",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NOB035",
+    "nazev": "Application of Computer Technology in Design of Steel Structures (K)",
+    "kredity": "5",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5774",
+    "url": "https://www.vut.cz/en/students/courses/detail/298543",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NLB035",
+    "nazev": "Diploma Seminar (K-BZK)",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5775",
+    "url": "https://www.vut.cz/en/students/courses/detail/295902",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NFB017",
+    "nazev": "Diploma Seminar (K-GTN)",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5775",
+    "url": "https://www.vut.cz/en/students/courses/detail/295884",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NOB031",
+    "nazev": "Diploma Seminar (K-KDK)",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5775",
+    "url": "https://www.vut.cz/en/students/courses/detail/298542",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NMB012",
+    "nazev": "Diploma seminar (K-PKO)",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5775",
+    "url": "https://www.vut.cz/en/students/courses/detail/295903",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NDB030",
+    "nazev": "Diploma Seminar (K-STM)",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5775",
+    "url": "https://www.vut.cz/en/students/courses/detail/295892",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NIB014",
+    "nazev": "Diploma Seminar (K-SZK)",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5775",
+    "url": "https://www.vut.cz/en/students/courses/detail/295891",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NNB011",
+    "nazev": "Diploma seminar (K-ZEL)",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "5775",
+    "url": "https://www.vut.cz/en/students/courses/detail/295893",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  }
+]

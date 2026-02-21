@@ -1,0 +1,262 @@
+[
+  {
+    "zkratka": "CZV-EFI",
+    "nazev": "Economics and Finance",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295409",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-MNG",
+    "nazev": "Management",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295405",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-SRK",
+    "nazev": "Quality Management Systems",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295404",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-VKPE",
+    "nazev": "Selected Topics in Law",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295408",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-ZVP",
+    "nazev": "Introduction to Psychology and Team Leadership",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295406",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-DAS",
+    "nazev": "Digitalisation and Automation in Civil Engineering",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295394",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-EKO",
+    "nazev": "Ecology and Green Design in Civil Engineering",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295391",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-OZE",
+    "nazev": "Renewable Energy Sources",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295390",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-ŽPL",
+    "nazev": "Environment and Legislation",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295392",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-CES",
+    "nazev": "Circular Economy in Civil Engineering",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/295393",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-PSR",
+    "nazev": "Defects, Remediation and Refurbishment",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/295395",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "CZV-IPR",
+    "nazev": "Individual Project",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Col",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/295396",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-ČOV",
+    "nazev": "Wastewater Treatment and Reuse",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/295400",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-DSM",
+    "nazev": "Secondary Raw Materials in Sustainable Materials",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/295398",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-HDV",
+    "nazev": "Stormwater Management and Blue-Green Infrastructure",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/295401",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-OHO",
+    "nazev": "Waste Management",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/295399",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-SCI",
+    "nazev": "Smart City, Intelligent Buildings",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/295407",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-SFP",
+    "nazev": "Building Physics and Fire Safety",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/295403",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-ZUN",
+    "nazev": "Fundamentals of Sustainable Design of Environmental Protection Systems and Processes",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/295402",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "CZV-ŽSC",
+    "nazev": "Life Cycle of Buildings",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Col",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/295397",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  }
+]

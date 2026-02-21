@@ -1,0 +1,101 @@
+[
+  {
+    "zkratka": "DCO_PFCH",
+    "nazev": "Pokroky ve fyzikální chemii",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296093",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_EPM",
+    "nazev": "Elektronové procesy v molekulárních materiálech",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296094",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_NAD",
+    "nazev": "Fotochemie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296097",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_FPD",
+    "nazev": "Fotoindukované procesy v molekulárních materiálech",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296060",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_MEF",
+    "nazev": "Fyzika a chemie molekulárních materiálů",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296096",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_FND",
+    "nazev": "Fyzika a chemie plazmatu",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296100",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_KPD",
+    "nazev": "Koloidika pro pokročilé",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296095",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_SM",
+    "nazev": "Pokročilé spektroskopické metody",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296099",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "DCO_REG",
+    "nazev": "Reologie",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/296098",
+    "semestr": [],
+    "rocnik": "1"
+  }
+]
