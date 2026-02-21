@@ -5,7 +5,6 @@
     "programy": [
       {
         "zkratka_programu": "BPC-STC",
-        "specializace": "Bez specializace",
         "nazev_programu": "Sportovní technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9488"
       }
@@ -17,57 +16,53 @@
     "programy": [
       {
         "zkratka_programu": "BE_A+U",
-        "specializace": "Bez specializace",
         "nazev_programu": "Architecture and Urban Design",
         "url": "https://www.vut.cz/studenti/programy/program/9343"
       },
       {
         "zkratka_programu": "B_A+U",
-        "specializace": "Bez specializace",
         "nazev_programu": "Architektura a urbanismus",
         "url": "https://www.vut.cz/studenti/programy/program/9233"
       },
       {
         "zkratka_programu": "N_A+U",
-        "specializace": "Bez specializace",
         "nazev_programu": "Architektura a urbanismus",
         "url": "https://www.vut.cz/studenti/programy/program/9559"
       },
       {
         "zkratka_programu": "NE_INUS",
-        "specializace": "Bez specializace",
         "nazev_programu": "Integrative Urban Studies",
         "url": "https://www.vut.cz/studenti/programy/program/9578"
       },
       {
         "zkratka_programu": "NE_A+U",
-        "specializace": "bez specializace (září)",
         "nazev_programu": "Architecture and Urban Design",
-        "url": "https://www.vut.cz/studenti/programy/obor/18098/9203"
+        "url": "https://www.vut.cz/studenti/programy/obor/18098/9203",
+        "specializace": "bez specializace (září)"
       },
       {
         "zkratka_programu": "ARCHURB",
-        "specializace": "ARCH",
         "nazev_programu": "Architektura a urbanismus - Architektura",
-        "url": "https://www.vut.cz/studenti/programy/obor/17759/9557"
+        "url": "https://www.vut.cz/studenti/programy/obor/17759/9557",
+        "specializace": "ARCH"
       },
       {
         "zkratka_programu": "ARCHURB",
-        "specializace": "URBAN",
         "nazev_programu": "Architektura a urbanismus - Urbanismus",
-        "url": "https://www.vut.cz/studenti/programy/obor/17758/9557"
+        "url": "https://www.vut.cz/studenti/programy/obor/17758/9557",
+        "specializace": "URBAN"
       },
       {
         "zkratka_programu": "ARCHURB",
-        "specializace": "ARCH",
         "nazev_programu": "Architektura a urbanismus - Architektura",
-        "url": "https://www.vut.cz/studenti/programy/obor/17757/9556"
+        "url": "https://www.vut.cz/studenti/programy/obor/17757/9556",
+        "specializace": "ARCH"
       },
       {
         "zkratka_programu": "ARCHURB",
-        "specializace": "URBAN",
         "nazev_programu": "Architektura a urbanismus - Urbanismus",
-        "url": "https://www.vut.cz/studenti/programy/obor/17756/9556"
+        "url": "https://www.vut.cz/studenti/programy/obor/17756/9556",
+        "specializace": "URBAN"
       }
     ]
   },
@@ -77,435 +72,369 @@
     "programy": [
       {
         "zkratka_programu": "BPC-APE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Angličtina pro praxi v elektrotechnice a komunikačních technologiích",
         "url": "https://www.vut.cz/studenti/programy/program/9407"
       },
       {
         "zkratka_programu": "BPC-AMT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Automatizační a měřicí technika",
         "url": "https://www.vut.cz/studenti/programy/program/9406"
       },
       {
         "zkratka_programu": "BPC-BTB",
-        "specializace": "Bez specializace",
         "nazev_programu": "Biomedicínská technika a bioinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9409"
       },
       {
         "zkratka_programu": "BPC-EKT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Elektronika a komunikační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9410"
       },
       {
         "zkratka_programu": "BPC-EMU",
-        "specializace": "Bez specializace",
         "nazev_programu": "E-mobilita a udržitelnost",
         "url": "https://www.vut.cz/studenti/programy/program/9161"
       },
       {
         "zkratka_programu": "BPC-IBE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Informační bezpečnost",
         "url": "https://www.vut.cz/studenti/programy/program/9411"
       },
       {
         "zkratka_programu": "BPC-MET",
-        "specializace": "Bez specializace",
         "nazev_programu": "Mikroelektronika a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9412"
       },
       {
         "zkratka_programu": "BPC-NCP",
-        "specializace": "Bez specializace",
         "nazev_programu": "Návrh čipů a moderní polovodičové technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9146"
       },
       {
         "zkratka_programu": "BPC-SEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Silnoproudá elektrotechnika a elektroenergetika",
         "url": "https://www.vut.cz/studenti/programy/program/9413"
       },
       {
         "zkratka_programu": "BPC-TLI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Telekomunikační a informační systémy",
         "url": "https://www.vut.cz/studenti/programy/program/9414"
       },
       {
         "zkratka_programu": "MPC-BIO",
-        "specializace": "Bez specializace",
         "nazev_programu": "Bioinženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9471"
       },
       {
         "zkratka_programu": "MPC-BTB",
-        "specializace": "Bez specializace",
         "nazev_programu": "Biomedicínské inženýrství a bioinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9472"
       },
       {
         "zkratka_programu": "MPC-EAK",
-        "specializace": "Bez specializace",
         "nazev_programu": "Elektroenergetika a komunikační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9473"
       },
       {
         "zkratka_programu": "MPC-EEN",
-        "specializace": "Bez specializace",
         "nazev_programu": "Elektroenergetika",
         "url": "https://www.vut.cz/studenti/programy/program/9474"
       },
       {
         "zkratka_programu": "MPC-EKT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Elektronika a komunikační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9475"
       },
       {
         "zkratka_programu": "MPC-EVM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Elektrotechnická výroba a management",
         "url": "https://www.vut.cz/studenti/programy/program/9476"
       },
       {
         "zkratka_programu": "MPC-IBE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Informační bezpečnost",
         "url": "https://www.vut.cz/studenti/programy/program/9477"
       },
       {
         "zkratka_programu": "MPC-JAE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Jaderná energetika",
         "url": "https://www.vut.cz/studenti/programy/program/9478"
       },
       {
         "zkratka_programu": "MPC-KAM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Kybernetika, automatizace a měření",
         "url": "https://www.vut.cz/studenti/programy/program/9479"
       },
       {
         "zkratka_programu": "MPC-NCP",
-        "specializace": "Bez specializace",
         "nazev_programu": "Návrh čipů a moderní polovodičové technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9149"
       },
       {
         "zkratka_programu": "MPC-SVE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Silnoproudá elektrotechnika a výkonová elektronika",
         "url": "https://www.vut.cz/studenti/programy/program/9481"
       },
       {
         "zkratka_programu": "MPC-TIT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Telekomunikační a informační technika",
         "url": "https://www.vut.cz/studenti/programy/program/9482"
       },
       {
         "zkratka_programu": "MKC-EVM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Elektrotechnická výroba a management",
         "url": "https://www.vut.cz/studenti/programy/program/9456"
       },
       {
         "zkratka_programu": "MKC-TIT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Telekomunikační a informační technika",
         "url": "https://www.vut.cz/studenti/programy/program/9458"
       },
       {
         "zkratka_programu": "MPA-BIO",
-        "specializace": "Bez specializace",
         "nazev_programu": "Bioengineering",
         "url": "https://www.vut.cz/studenti/programy/program/9460"
       },
       {
         "zkratka_programu": "MPAD-BIO",
-        "specializace": "Bez specializace",
         "nazev_programu": "Bioengineering (Double Degree)",
         "url": "https://www.vut.cz/studenti/programy/program/9467"
       },
       {
         "zkratka_programu": "MPA-CAN",
-        "specializace": "Bez specializace",
         "nazev_programu": "Communications and Networking",
         "url": "https://www.vut.cz/studenti/programy/program/9462"
       },
       {
         "zkratka_programu": "MPAD-CAN",
-        "specializace": "Bez specializace",
         "nazev_programu": "Communications and Networking (Double-Degree)",
         "url": "https://www.vut.cz/studenti/programy/program/9468"
       },
       {
         "zkratka_programu": "MPA-EEN",
-        "specializace": "Bez specializace",
         "nazev_programu": "Electrical Power Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9464"
       },
       {
         "zkratka_programu": "MPA-SAP",
-        "specializace": "Bez specializace",
         "nazev_programu": "Space Applications",
         "url": "https://www.vut.cz/studenti/programy/program/9466"
       },
       {
         "zkratka_programu": "MPA-AEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Automotive Electronics and Electromobility",
         "url": "https://www.vut.cz/studenti/programy/program/9459"
       },
       {
         "zkratka_programu": "DPC-BTB",
-        "specializace": "Bez specializace",
         "nazev_programu": "Biomedicínské technologie a bioinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9445"
       },
       {
         "zkratka_programu": "DPC-EKT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Elektronika a komunikační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9446"
       },
       {
         "zkratka_programu": "DPC-IBE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Informační bezpečnost",
         "url": "https://www.vut.cz/studenti/programy/program/9447"
       },
       {
         "zkratka_programu": "DPC-KAM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Kybernetika, automatizace a měření",
         "url": "https://www.vut.cz/studenti/programy/program/9448"
       },
       {
         "zkratka_programu": "DPC-MET",
-        "specializace": "Bez specializace",
         "nazev_programu": "Mikroelektronika a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9449"
       },
       {
         "zkratka_programu": "DPC-SEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Silnoproudá elektrotechnika a elektroenergetika",
         "url": "https://www.vut.cz/studenti/programy/program/9450"
       },
       {
         "zkratka_programu": "DPC-TLI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Teleinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9452"
       },
       {
         "zkratka_programu": "DPC-TEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Teoretická elektrotechnika",
         "url": "https://www.vut.cz/studenti/programy/program/9451"
       },
       {
         "zkratka_programu": "DKC-BTB",
-        "specializace": "Bez specializace",
         "nazev_programu": "Biomedicínské technologie a bioinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9427"
       },
       {
         "zkratka_programu": "DKC-EKT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Elektronika a komunikační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9428"
       },
       {
         "zkratka_programu": "DKC-IBE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Informační bezpečnost",
         "url": "https://www.vut.cz/studenti/programy/program/9429"
       },
       {
         "zkratka_programu": "DKC-KAM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Kybernetika, automatizace a měření",
         "url": "https://www.vut.cz/studenti/programy/program/9430"
       },
       {
         "zkratka_programu": "DKC-MET",
-        "specializace": "Bez specializace",
         "nazev_programu": "Mikroelektronika a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9431"
       },
       {
         "zkratka_programu": "DKC-SEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Silnoproudá elektrotechnika a elektroenergetika",
         "url": "https://www.vut.cz/studenti/programy/program/9432"
       },
       {
         "zkratka_programu": "DKC-TLI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Teleinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9434"
       },
       {
         "zkratka_programu": "DKC-TEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Teoretická elektrotechnika",
         "url": "https://www.vut.cz/studenti/programy/program/9433"
       },
       {
         "zkratka_programu": "DPA-BTB",
-        "specializace": "Bez specializace",
         "nazev_programu": "Biomedical Technologies and Bioinformatics",
         "url": "https://www.vut.cz/studenti/programy/program/9435"
       },
       {
         "zkratka_programu": "DPA-KAM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Cybernetics, Control and Measurements",
         "url": "https://www.vut.cz/studenti/programy/program/9438"
       },
       {
         "zkratka_programu": "DPA-EKT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Electronics and Communication Technologies",
         "url": "https://www.vut.cz/studenti/programy/program/9437"
       },
       {
         "zkratka_programu": "DPA-EIT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Electronics and Information Technologies",
         "url": "https://www.vut.cz/studenti/programy/program/9436"
       },
       {
         "zkratka_programu": "DPAD-EIT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Electronics and Information Technologies (Double-Degree)",
         "url": "https://www.vut.cz/studenti/programy/program/9444"
       },
       {
         "zkratka_programu": "DPA-MET",
-        "specializace": "Bez specializace",
         "nazev_programu": "Microelectronics and Technology",
         "url": "https://www.vut.cz/studenti/programy/program/9439"
       },
       {
         "zkratka_programu": "DPA-SEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Power Systems and Power Electronics",
         "url": "https://www.vut.cz/studenti/programy/program/9440"
       },
       {
         "zkratka_programu": "DPA-TLI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Teleinformatics",
         "url": "https://www.vut.cz/studenti/programy/program/9442"
       },
       {
         "zkratka_programu": "DPA-TEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Theoretical Electrical Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9441"
       },
       {
         "zkratka_programu": "DKA-BTB",
-        "specializace": "Bez specializace",
         "nazev_programu": "Biomedical Technologies and Bioinformatics",
         "url": "https://www.vut.cz/studenti/programy/program/9418"
       },
       {
         "zkratka_programu": "DKA-KAM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Cybernetics, Control and Measurements",
         "url": "https://www.vut.cz/studenti/programy/program/9421"
       },
       {
         "zkratka_programu": "DKA-EKT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Electronics and Communication Technologies",
         "url": "https://www.vut.cz/studenti/programy/program/9420"
       },
       {
         "zkratka_programu": "DKA-EIT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Electronics and Information Technologies",
         "url": "https://www.vut.cz/studenti/programy/program/9419"
       },
       {
         "zkratka_programu": "DKAD-EIT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Electronics and Information Technologies (Double-Degree)",
         "url": "https://www.vut.cz/studenti/programy/program/9426"
       },
       {
         "zkratka_programu": "DKA-MET",
-        "specializace": "Bez specializace",
         "nazev_programu": "Microelectronics and Technology",
         "url": "https://www.vut.cz/studenti/programy/program/9422"
       },
       {
         "zkratka_programu": "DKA-SEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Power Systems and Power Electronics",
         "url": "https://www.vut.cz/studenti/programy/program/9423"
       },
       {
         "zkratka_programu": "DKA-TLI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Teleinformatics",
         "url": "https://www.vut.cz/studenti/programy/program/9425"
       },
       {
         "zkratka_programu": "DKA-TEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Theoretical Electrical Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9424"
       },
       {
         "zkratka_programu": "CZV3-Cyber",
-        "specializace": "Bez specializace",
         "nazev_programu": "Master of Science in Cybersecurity",
         "url": "https://www.vut.cz/studenti/programy/program/9416"
       },
       {
         "zkratka_programu": "BPC-AUD",
-        "specializace": "AUDB-ZVUK",
         "nazev_programu": "Audio inženýrství - Zvuková produkce a nahrávání",
-        "url": "https://www.vut.cz/studenti/programy/obor/17569/9408"
+        "url": "https://www.vut.cz/studenti/programy/obor/17569/9408",
+        "specializace": "AUDB-ZVUK"
       },
       {
         "zkratka_programu": "BPC-AUD",
-        "specializace": "AUDB-TECH",
         "nazev_programu": "Audio inženýrství - Zvuková technika",
-        "url": "https://www.vut.cz/studenti/programy/obor/17570/9408"
+        "url": "https://www.vut.cz/studenti/programy/obor/17570/9408",
+        "specializace": "AUDB-TECH"
       },
       {
         "zkratka_programu": "BPA-ELE",
-        "specializace": "BPA-ECT",
         "nazev_programu": "Electrical Engineering - Electronics and Communication Technologies",
-        "url": "https://www.vut.cz/studenti/programy/obor/17565/9405"
+        "url": "https://www.vut.cz/studenti/programy/obor/17565/9405",
+        "specializace": "BPA-ECT"
       },
       {
         "zkratka_programu": "BPA-ELE",
-        "specializace": "BPA-PSA",
         "nazev_programu": "Electrical Engineering - Power Systems and Automation",
-        "url": "https://www.vut.cz/studenti/programy/obor/17566/9405"
+        "url": "https://www.vut.cz/studenti/programy/obor/17566/9405",
+        "specializace": "BPA-PSA"
       },
       {
         "zkratka_programu": "MPC-AUD",
-        "specializace": "AUDM-TECH",
         "nazev_programu": "Audio inženýrství - Akustika a audiovizuální technika",
-        "url": "https://www.vut.cz/studenti/programy/obor/17632/9470"
+        "url": "https://www.vut.cz/studenti/programy/obor/17632/9470",
+        "specializace": "AUDM-TECH"
       },
       {
         "zkratka_programu": "MPC-AUD",
-        "specializace": "AUDM-ZVUK",
         "nazev_programu": "Audio inženýrství - Zvuková produkce a nahrávání",
-        "url": "https://www.vut.cz/studenti/programy/obor/17633/9470"
+        "url": "https://www.vut.cz/studenti/programy/obor/17633/9470",
+        "specializace": "AUDM-ZVUK"
       }
     ]
   },
@@ -515,249 +444,224 @@
     "programy": [
       {
         "zkratka_programu": "BPCP_AAEFCH",
-        "specializace": "Bez specializace",
         "nazev_programu": "Aplikovaná analytická, environmentální a forenzní chemie",
         "url": "https://www.vut.cz/studenti/programy/program/9352"
       },
       {
         "zkratka_programu": "BPCP_ECHBM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Environmentální chemie, bezpečnost a management",
         "url": "https://www.vut.cz/studenti/programy/program/9353"
       },
       {
         "zkratka_programu": "BPCP_CHTN",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemické technologie a nanotechnologie",
         "url": "https://www.vut.cz/studenti/programy/program/9344"
       },
       {
         "zkratka_programu": "BPCP_CHCHTE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie a chemické technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9357"
       },
       {
         "zkratka_programu": "BPCP_CHTM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie a technologie materiálů",
         "url": "https://www.vut.cz/studenti/programy/program/9354"
       },
       {
         "zkratka_programu": "BPCP_CHMA",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie pro medicínské aplikace",
         "url": "https://www.vut.cz/studenti/programy/program/9346"
       },
       {
         "zkratka_programu": "BKCP_AAEFCH",
-        "specializace": "Bez specializace",
         "nazev_programu": "Aplikovaná analytická, environmentální a forenzní chemie",
         "url": "https://www.vut.cz/studenti/programy/program/9347"
       },
       {
         "zkratka_programu": "BKCP_ECHBM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Environmentální chemie, bezpečnost a management",
         "url": "https://www.vut.cz/studenti/programy/program/9348"
       },
       {
         "zkratka_programu": "BKCP_CHCHTE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie a chemické technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9358"
       },
       {
         "zkratka_programu": "BKCP_CHTM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie a technologie materiálů",
         "url": "https://www.vut.cz/studenti/programy/program/9349"
       },
       {
         "zkratka_programu": "NPAP_ENVI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Environmental Sciences and Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9388"
       },
       {
         "zkratka_programu": "NPCP_ECHT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Environmentální chemie a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9390"
       },
       {
         "zkratka_programu": "NPCP_CHCHTE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie a chemické technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9384"
       },
       {
         "zkratka_programu": "NPCP_CHTM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie a technologie materiálů",
         "url": "https://www.vut.cz/studenti/programy/program/9391"
       },
       {
         "zkratka_programu": "NPCP_PCHBT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Potravinářská chemie a biotechnologie",
         "url": "https://www.vut.cz/studenti/programy/program/9552"
       },
       {
         "zkratka_programu": "NKCP_ECHT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Environmentální chemie a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9389"
       },
       {
         "zkratka_programu": "NKCP_CHCHTE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie a chemické technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9385"
       },
       {
         "zkratka_programu": "NKCP_CHTM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie a technologie materiálů",
         "url": "https://www.vut.cz/studenti/programy/program/9392"
       },
       {
         "zkratka_programu": "NKCP_CHPL",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie přírodních látek",
         "url": "https://www.vut.cz/studenti/programy/program/9394"
       },
       {
         "zkratka_programu": "DPCP_BCH",
-        "specializace": "Bez specializace",
         "nazev_programu": "Biofyzikální chemie",
         "url": "https://www.vut.cz/studenti/programy/program/9532"
       },
       {
         "zkratka_programu": "DPAP_BCH",
-        "specializace": "Bez specializace",
         "nazev_programu": "Biophysical Chemistry",
         "url": "https://www.vut.cz/studenti/programy/program/9542"
       },
       {
         "zkratka_programu": "DPCP_FCH_N",
-        "specializace": "Bez specializace",
         "nazev_programu": "Fyzikální chemie",
         "url": "https://www.vut.cz/studenti/programy/program/9540"
       },
       {
         "zkratka_programu": "DPCP_CHTOZP_N",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie a technologie ochrany životního prostředí",
         "url": "https://www.vut.cz/studenti/programy/program/9539"
       },
       {
         "zkratka_programu": "DPCP_CHM_4_N",
-        "specializace": "Bez specializace",
         "nazev_programu": "Chemie, technologie a vlastnosti materiálů",
         "url": "https://www.vut.cz/studenti/programy/program/9534"
       },
       {
         "zkratka_programu": "DPCP_PCH",
-        "specializace": "Bez specializace",
         "nazev_programu": "Potravinářská chemie",
         "url": "https://www.vut.cz/studenti/programy/program/9536"
       },
       {
         "zkratka_programu": "BPCP_CHTP",
-        "specializace": "BT",
         "nazev_programu": "Chemie a technologie potravin - Biochemická technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17492/9355"
+        "url": "https://www.vut.cz/studenti/programy/obor/17492/9355",
+        "specializace": "BT"
       },
       {
         "zkratka_programu": "BPCP_CHTP",
-        "specializace": "CHPL",
         "nazev_programu": "Chemie a technologie potravin - Chemie a analýza přírodních látek",
-        "url": "https://www.vut.cz/studenti/programy/obor/17490/9355"
+        "url": "https://www.vut.cz/studenti/programy/obor/17490/9355",
+        "specializace": "CHPL"
       },
       {
         "zkratka_programu": "BPCP_CHTP",
-        "specializace": "CHTP",
         "nazev_programu": "Chemie a technologie potravin - Chemie a technologie potravin",
-        "url": "https://www.vut.cz/studenti/programy/obor/17493/9355"
+        "url": "https://www.vut.cz/studenti/programy/obor/17493/9355",
+        "specializace": "CHTP"
       },
       {
         "zkratka_programu": "BPCP_CHTP",
-        "specializace": "PCH",
         "nazev_programu": "Chemie a technologie potravin - Potravinářská chemie a technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17491/9355"
+        "url": "https://www.vut.cz/studenti/programy/obor/17491/9355",
+        "specializace": "PCH"
       },
       {
         "zkratka_programu": "BPCP_CHTPO",
-        "specializace": "BT",
         "nazev_programu": "Chemie a technologie potravin - Biochemická technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17496/9356"
+        "url": "https://www.vut.cz/studenti/programy/obor/17496/9356",
+        "specializace": "BT"
       },
       {
         "zkratka_programu": "BPCP_CHTPO",
-        "specializace": "CHPL",
         "nazev_programu": "Chemie a technologie potravin - Chemie a analýza přírodních látek",
-        "url": "https://www.vut.cz/studenti/programy/obor/17494/9356"
+        "url": "https://www.vut.cz/studenti/programy/obor/17494/9356",
+        "specializace": "CHPL"
       },
       {
         "zkratka_programu": "BPCP_CHTPO",
-        "specializace": "PCH",
         "nazev_programu": "Chemie a technologie potravin - Potravinářská chemie a technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17495/9356"
+        "url": "https://www.vut.cz/studenti/programy/obor/17495/9356",
+        "specializace": "PCH"
       },
       {
         "zkratka_programu": "BKCP_CHTP",
-        "specializace": "BT",
         "nazev_programu": "Chemie a technologie potravin - Biochemická technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17482/9350"
+        "url": "https://www.vut.cz/studenti/programy/obor/17482/9350",
+        "specializace": "BT"
       },
       {
         "zkratka_programu": "BKCP_CHTP",
-        "specializace": "CHPL",
         "nazev_programu": "Chemie a technologie potravin - Chemie a analýza přírodních látek",
-        "url": "https://www.vut.cz/studenti/programy/obor/17480/9350"
+        "url": "https://www.vut.cz/studenti/programy/obor/17480/9350",
+        "specializace": "CHPL"
       },
       {
         "zkratka_programu": "BKCP_CHTP",
-        "specializace": "CHTP",
         "nazev_programu": "Chemie a technologie potravin - Chemie a technologie potravin",
-        "url": "https://www.vut.cz/studenti/programy/obor/17483/9350"
+        "url": "https://www.vut.cz/studenti/programy/obor/17483/9350",
+        "specializace": "CHTP"
       },
       {
         "zkratka_programu": "BKCP_CHTP",
-        "specializace": "PCH",
         "nazev_programu": "Chemie a technologie potravin - Potravinářská chemie a technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17481/9350"
+        "url": "https://www.vut.cz/studenti/programy/obor/17481/9350",
+        "specializace": "PCH"
       },
       {
         "zkratka_programu": "BKCP_CHTPO",
-        "specializace": "BT",
         "nazev_programu": "Chemie a technologie potravin - Biochemická technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17485/9351"
+        "url": "https://www.vut.cz/studenti/programy/obor/17485/9351",
+        "specializace": "BT"
       },
       {
         "zkratka_programu": "BKCP_CHTPO",
-        "specializace": "CHPL",
         "nazev_programu": "Chemie a technologie potravin - Chemie a analýza přírodních látek",
-        "url": "https://www.vut.cz/studenti/programy/obor/17486/9351"
+        "url": "https://www.vut.cz/studenti/programy/obor/17486/9351",
+        "specializace": "CHPL"
       },
       {
         "zkratka_programu": "BKCP_CHTPO",
-        "specializace": "PCH",
         "nazev_programu": "Chemie a technologie potravin - Potravinářská chemie a technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17484/9351"
+        "url": "https://www.vut.cz/studenti/programy/obor/17484/9351",
+        "specializace": "PCH"
       },
       {
         "zkratka_programu": "NPCP_CHMA",
-        "specializace": "CHBL",
         "nazev_programu": "Chemie pro medicínské aplikace - Chemie bioaktivních látek",
-        "url": "https://www.vut.cz/studenti/programy/obor/17529/9386"
+        "url": "https://www.vut.cz/studenti/programy/obor/17529/9386",
+        "specializace": "CHBL"
       },
       {
         "zkratka_programu": "NPCP_CHMA",
-        "specializace": "BF",
         "nazev_programu": "Chemie pro medicínské aplikace - Procesy a materiály medicínských aplikací",
-        "url": "https://www.vut.cz/studenti/programy/obor/17528/9386"
+        "url": "https://www.vut.cz/studenti/programy/obor/17528/9386",
+        "specializace": "BF"
       }
     ]
   },
@@ -767,141 +671,135 @@
     "programy": [
       {
         "zkratka_programu": "BIT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Informační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9500"
       },
       {
         "zkratka_programu": "MIT-EN",
-        "specializace": "Bez specializace",
         "nazev_programu": "Master of Information Technology",
         "url": "https://www.vut.cz/studenti/programy/program/9505"
       },
       {
         "zkratka_programu": "DIT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Informační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9508"
       },
       {
         "zkratka_programu": "DIT-EN",
-        "specializace": "Bez specializace",
         "nazev_programu": "Information Technology",
         "url": "https://www.vut.cz/studenti/programy/program/9509"
       },
       {
         "zkratka_programu": "DIT",
-        "specializace": "Bez specializace",
         "nazev_programu": "Informační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9507"
       },
       {
         "zkratka_programu": "DIT-EN",
-        "specializace": "Bez specializace",
         "nazev_programu": "Information Technology",
         "url": "https://www.vut.cz/studenti/programy/program/9511"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NBIO",
         "nazev_programu": "Informační technologie a umělá inteligence - Bioinformatika a biocomputing",
-        "url": "https://www.vut.cz/studenti/programy/obor/17691/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17691/9506",
+        "specializace": "NBIO"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NISD",
         "nazev_programu": "Informační technologie a umělá inteligence - Informační systémy a databáze",
-        "url": "https://www.vut.cz/studenti/programy/obor/17696/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17696/9506",
+        "specializace": "NISD"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NISY",
         "nazev_programu": "Informační technologie a umělá inteligence - Inteligentní systémy",
-        "url": "https://www.vut.cz/studenti/programy/obor/17687/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17687/9506",
+        "specializace": "NISY"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NIDE",
         "nazev_programu": "Informační technologie a umělá inteligence - Inteligentní zařízení",
-        "url": "https://www.vut.cz/studenti/programy/obor/17686/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17686/9506",
+        "specializace": "NIDE"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NCPS",
         "nazev_programu": "Informační technologie a umělá inteligence - Kyberfyzikální systémy",
-        "url": "https://www.vut.cz/studenti/programy/obor/17683/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17683/9506",
+        "specializace": "NCPS"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NSEC",
         "nazev_programu": "Informační technologie a umělá inteligence - Kybernetická bezpečnost",
-        "url": "https://www.vut.cz/studenti/programy/obor/17679/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17679/9506",
+        "specializace": "NSEC"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NMAT",
         "nazev_programu": "Informační technologie a umělá inteligence - Matematické metody",
-        "url": "https://www.vut.cz/studenti/programy/obor/17697/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17697/9506",
+        "specializace": "NMAT"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NGRI",
         "nazev_programu": "Informační technologie a umělá inteligence - Počítačová grafika a interakce",
-        "url": "https://www.vut.cz/studenti/programy/obor/17694/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17694/9506",
+        "specializace": "NGRI"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NNET",
         "nazev_programu": "Informační technologie a umělá inteligence - Počítačové sítě",
-        "url": "https://www.vut.cz/studenti/programy/obor/17681/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17681/9506",
+        "specializace": "NNET"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NVIZ",
         "nazev_programu": "Informační technologie a umělá inteligence - Počítačové vidění",
-        "url": "https://www.vut.cz/studenti/programy/obor/17693/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17693/9506",
+        "specializace": "NVIZ"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NSEN",
         "nazev_programu": "Informační technologie a umělá inteligence - Softwarové inženýrství",
-        "url": "https://www.vut.cz/studenti/programy/obor/17692/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17692/9506",
+        "specializace": "NSEN"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NMAL",
         "nazev_programu": "Informační technologie a umělá inteligence - Strojové učení",
-        "url": "https://www.vut.cz/studenti/programy/obor/17682/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17682/9506",
+        "specializace": "NMAL"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NHPC",
         "nazev_programu": "Informační technologie a umělá inteligence - Superpočítání",
-        "url": "https://www.vut.cz/studenti/programy/obor/17684/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17684/9506",
+        "specializace": "NHPC"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NVER",
         "nazev_programu": "Informační technologie a umělá inteligence - Verifikace a testování software",
-        "url": "https://www.vut.cz/studenti/programy/obor/17685/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17685/9506",
+        "specializace": "NVER"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NEMB",
         "nazev_programu": "Informační technologie a umělá inteligence - Vestavěné systémy",
-        "url": "https://www.vut.cz/studenti/programy/obor/17690/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17690/9506",
+        "specializace": "NEMB"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NADE",
         "nazev_programu": "Informační technologie a umělá inteligence - Vývoj aplikací",
-        "url": "https://www.vut.cz/studenti/programy/obor/17695/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17695/9506",
+        "specializace": "NADE"
       },
       {
         "zkratka_programu": "MITAI",
-        "specializace": "NSPE",
         "nazev_programu": "Informační technologie a umělá inteligence - Zpracování zvuku, řeči a přirozeného jazyka",
-        "url": "https://www.vut.cz/studenti/programy/obor/17689/9506"
+        "url": "https://www.vut.cz/studenti/programy/obor/17689/9506",
+        "specializace": "NSPE"
       }
     ]
   },
@@ -911,117 +809,100 @@
     "programy": [
       {
         "zkratka_programu": "BAK-EP",
-        "specializace": "Bez specializace",
         "nazev_programu": "Ekonomika podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9361"
       },
       {
         "zkratka_programu": "BAK-ESBD",
-        "specializace": "Bez specializace",
         "nazev_programu": "Entrepreneurship and Small Business Development",
         "url": "https://www.vut.cz/studenti/programy/program/9362"
       },
       {
         "zkratka_programu": "BAK-MIn",
-        "specializace": "Bez specializace",
         "nazev_programu": "Manažerská informatika",
         "url": "https://www.vut.cz/studenti/programy/program/9363"
       },
       {
         "zkratka_programu": "BAK-PM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Procesní management",
         "url": "https://www.vut.cz/studenti/programy/program/9364"
       },
       {
         "zkratka_programu": "BAK-UAD",
-        "specializace": "Bez specializace",
         "nazev_programu": "Účetnictví a daně",
         "url": "https://www.vut.cz/studenti/programy/program/9365"
       },
       {
         "zkratka_programu": "MGR-IM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Informační management",
         "url": "https://www.vut.cz/studenti/programy/program/9369"
       },
       {
         "zkratka_programu": "MGR-IBM",
-        "specializace": "Bez specializace",
         "nazev_programu": "International Business and Management",
         "url": "https://www.vut.cz/studenti/programy/program/9368"
       },
       {
         "zkratka_programu": "MGR-MEO",
-        "specializace": "Bez specializace",
         "nazev_programu": "Mezinárodní ekonomika a obchod",
         "url": "https://www.vut.cz/studenti/programy/program/9371"
       },
       {
         "zkratka_programu": "MGR-SRP",
-        "specializace": "Bez specializace",
         "nazev_programu": "Strategický rozvoj podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9372"
       },
       {
         "zkratka_programu": "MGR-UFRP",
-        "specializace": "Bez specializace",
         "nazev_programu": "Účetnictví a finanční řízení podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9374"
       },
       {
         "zkratka_programu": "MGR-IM-KS",
-        "specializace": "Bez specializace",
         "nazev_programu": "Informační management",
         "url": "https://www.vut.cz/studenti/programy/program/9370"
       },
       {
         "zkratka_programu": "MGR-SRP-KS",
-        "specializace": "Bez specializace",
         "nazev_programu": "Strategický rozvoj podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9373"
       },
       {
         "zkratka_programu": "MGR-UFRP-KS",
-        "specializace": "Bez specializace",
         "nazev_programu": "Účetnictví a finanční řízení podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9375"
       },
       {
         "zkratka_programu": "DSP-CME",
-        "specializace": "Bez specializace",
         "nazev_programu": "Company Management and Economics",
         "url": "https://www.vut.cz/studenti/programy/program/9380"
       },
       {
         "zkratka_programu": "DSP-ŘEP",
-        "specializace": "Bez specializace",
         "nazev_programu": "Řízení a ekonomika podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9382"
       },
       {
         "zkratka_programu": "DSP-CME-KS",
-        "specializace": "Bez specializace",
         "nazev_programu": "Company Management and Economics",
         "url": "https://www.vut.cz/studenti/programy/program/9381"
       },
       {
         "zkratka_programu": "DSP-ŘEP-KS",
-        "specializace": "Bez specializace",
         "nazev_programu": "Řízení a ekonomika podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9383"
       },
       {
         "zkratka_programu": "BAK-EAM",
-        "specializace": "BAK-EAM-EP",
         "nazev_programu": "Ekonomika a management - Ekonomika podniku",
-        "url": "https://www.vut.cz/studenti/programy/obor/18396/9906"
+        "url": "https://www.vut.cz/studenti/programy/obor/18396/9906",
+        "specializace": "BAK-EAM-EP"
       },
       {
         "zkratka_programu": "BAK-EAM",
-        "specializace": "BAK-EAM-UAD",
         "nazev_programu": "Ekonomika a management - Účetnictví a daně",
-        "url": "https://www.vut.cz/studenti/programy/obor/18395/9906"
+        "url": "https://www.vut.cz/studenti/programy/obor/18395/9906",
+        "specializace": "BAK-EAM-UAD"
       }
     ]
   },
@@ -1031,309 +912,266 @@
     "programy": [
       {
         "zkratka_programu": "BPC-APS",
-        "specializace": "Bez specializace",
         "nazev_programu": "Architektura pozemních staveb",
         "url": "https://www.vut.cz/studenti/programy/program/9239"
       },
       {
         "zkratka_programu": "BPA-SI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Civil Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9238"
       },
       {
         "zkratka_programu": "BPC-EVB",
-        "specializace": "Bez specializace",
         "nazev_programu": "Environmentálně vyspělé budovy",
         "url": "https://www.vut.cz/studenti/programy/program/9247"
       },
       {
         "zkratka_programu": "BPC-ENI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Environmentální inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9485"
       },
       {
         "zkratka_programu": "BPC-GK",
-        "specializace": "Bez specializace",
         "nazev_programu": "Geodézie a kartografie",
         "url": "https://www.vut.cz/studenti/programy/program/9246"
       },
       {
         "zkratka_programu": "BKC-SI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Stavební inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9248"
       },
       {
         "zkratka_programu": "NPA-SIS",
-        "specializace": "Bez specializace",
         "nazev_programu": "Civil Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9237"
       },
       {
         "zkratka_programu": "NPC-EVB",
-        "specializace": "Bez specializace",
         "nazev_programu": "Environmentálně vyspělé budovy",
         "url": "https://www.vut.cz/studenti/programy/program/9497"
       },
       {
         "zkratka_programu": "NPC-GK",
-        "specializace": "Bez specializace",
         "nazev_programu": "Geodézie a kartografie",
         "url": "https://www.vut.cz/studenti/programy/program/9496"
       },
       {
         "zkratka_programu": "NPC-MI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Městské inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9495"
       },
       {
         "zkratka_programu": "NPC-SIK",
-        "specializace": "Bez specializace",
         "nazev_programu": "Stavební inženýrství – konstrukce a dopravní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9493"
       },
       {
         "zkratka_programu": "NPC-SIE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Stavební inženýrství – management stavebnictví",
         "url": "https://www.vut.cz/studenti/programy/program/9490"
       },
       {
         "zkratka_programu": "NPC-SIS",
-        "specializace": "Bez specializace",
         "nazev_programu": "Stavební inženýrství – pozemní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9494"
       },
       {
         "zkratka_programu": "NPC-SIR",
-        "specializace": "Bez specializace",
         "nazev_programu": "Stavební inženýrství – realizace staveb",
         "url": "https://www.vut.cz/studenti/programy/program/9491"
       },
       {
         "zkratka_programu": "NPC-SIM",
-        "specializace": "Bez specializace",
         "nazev_programu": "Stavební inženýrství – stavební materiály a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9492"
       },
       {
         "zkratka_programu": "NPC-SIV",
-        "specializace": "Bez specializace",
         "nazev_programu": "Stavební inženýrství – vodní hospodářství a vodní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9489"
       },
       {
         "zkratka_programu": "NKC-SIS",
-        "specializace": "Bez specializace",
         "nazev_programu": "Stavební inženýrství – pozemní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9499"
       },
       {
         "zkratka_programu": "DPA-S",
-        "specializace": "Bez specializace",
         "nazev_programu": "Building Construction",
         "url": "https://www.vut.cz/studenti/programy/program/9271"
       },
       {
         "zkratka_programu": "DPA-E",
-        "specializace": "Bez specializace",
         "nazev_programu": "Civil Engineering Management",
         "url": "https://www.vut.cz/studenti/programy/program/9260"
       },
       {
         "zkratka_programu": "DPC-M",
-        "specializace": "Bez specializace",
         "nazev_programu": "Fyzikální a stavebně materiálové inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9269"
       },
       {
         "zkratka_programu": "DPA-GK",
-        "specializace": "Bez specializace",
         "nazev_programu": "Geodesy and Cartography",
         "url": "https://www.vut.cz/studenti/programy/program/9275"
       },
       {
         "zkratka_programu": "DPC-GK",
-        "specializace": "Bez specializace",
         "nazev_programu": "Geodézie a kartografie",
         "url": "https://www.vut.cz/studenti/programy/program/9274"
       },
       {
         "zkratka_programu": "DPC-K",
-        "specializace": "Bez specializace",
         "nazev_programu": "Konstrukce a dopravní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9265"
       },
       {
         "zkratka_programu": "DPC-E",
-        "specializace": "Bez specializace",
         "nazev_programu": "Management stavebnictví",
         "url": "https://www.vut.cz/studenti/programy/program/9261"
       },
       {
         "zkratka_programu": "DPA-M",
-        "specializace": "Bez specializace",
         "nazev_programu": "Physical and Building Materials Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9268"
       },
       {
         "zkratka_programu": "DPC-S",
-        "specializace": "Bez specializace",
         "nazev_programu": "Pozemní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9270"
       },
       {
         "zkratka_programu": "DPA-K",
-        "specializace": "Bez specializace",
         "nazev_programu": "Structural and Transport Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9264"
       },
       {
         "zkratka_programu": "DPC-V",
-        "specializace": "Bez specializace",
         "nazev_programu": "Vodní hospodářství a vodní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9257"
       },
       {
         "zkratka_programu": "DPA-V",
-        "specializace": "Bez specializace",
         "nazev_programu": "Water Management and Water Structures",
         "url": "https://www.vut.cz/studenti/programy/program/9256"
       },
       {
         "zkratka_programu": "DKA-S",
-        "specializace": "Bez specializace",
         "nazev_programu": "Building Construction",
         "url": "https://www.vut.cz/studenti/programy/program/9273"
       },
       {
         "zkratka_programu": "DKA-E",
-        "specializace": "Bez specializace",
         "nazev_programu": "Civil Engineering Management",
         "url": "https://www.vut.cz/studenti/programy/program/9258"
       },
       {
         "zkratka_programu": "DKC-M",
-        "specializace": "Bez specializace",
         "nazev_programu": "Fyzikální a stavebně materiálové inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9267"
       },
       {
         "zkratka_programu": "DKA-GK",
-        "specializace": "Bez specializace",
         "nazev_programu": "Geodesy and Cartography",
         "url": "https://www.vut.cz/studenti/programy/program/9277"
       },
       {
         "zkratka_programu": "DKC-GK",
-        "specializace": "Bez specializace",
         "nazev_programu": "Geodézie a kartografie",
         "url": "https://www.vut.cz/studenti/programy/program/9276"
       },
       {
         "zkratka_programu": "DKC-K",
-        "specializace": "Bez specializace",
         "nazev_programu": "Konstrukce a dopravní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9263"
       },
       {
         "zkratka_programu": "DKC-E",
-        "specializace": "Bez specializace",
         "nazev_programu": "Management stavebnictví",
         "url": "https://www.vut.cz/studenti/programy/program/9259"
       },
       {
         "zkratka_programu": "DKA-M",
-        "specializace": "Bez specializace",
         "nazev_programu": "Physical and Building Materials Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9266"
       },
       {
         "zkratka_programu": "DKC-S",
-        "specializace": "Bez specializace",
         "nazev_programu": "Pozemní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9272"
       },
       {
         "zkratka_programu": "DKA-K",
-        "specializace": "Bez specializace",
         "nazev_programu": "Structural and Transport Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9262"
       },
       {
         "zkratka_programu": "DKC-V",
-        "specializace": "Bez specializace",
         "nazev_programu": "Vodní hospodářství a vodní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9255"
       },
       {
         "zkratka_programu": "DKA-V",
-        "specializace": "Bez specializace",
         "nazev_programu": "Water Management and Water Structures",
         "url": "https://www.vut.cz/studenti/programy/program/9254"
       },
       {
         "zkratka_programu": "CZV3-MSCCE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Master of Science in Civil Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9487"
       },
       {
         "zkratka_programu": "CZV3-MSCEE",
-        "specializace": "Bez specializace",
         "nazev_programu": "Master of Science in Environmental Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9486"
       },
       {
         "zkratka_programu": "BPC-SI",
-        "specializace": "K",
         "nazev_programu": "Stavební inženýrství - Konstrukce a dopravní stavby",
-        "url": "https://www.vut.cz/studenti/programy/obor/17309/9244"
+        "url": "https://www.vut.cz/studenti/programy/obor/17309/9244",
+        "specializace": "K"
       },
       {
         "zkratka_programu": "BPC-SI",
-        "specializace": "E",
         "nazev_programu": "Stavební inženýrství - Management stavebnictví",
-        "url": "https://www.vut.cz/studenti/programy/obor/17310/9244"
+        "url": "https://www.vut.cz/studenti/programy/obor/17310/9244",
+        "specializace": "E"
       },
       {
         "zkratka_programu": "BPC-SI",
-        "specializace": "S",
         "nazev_programu": "Stavební inženýrství - Pozemní stavby",
-        "url": "https://www.vut.cz/studenti/programy/obor/17308/9244"
+        "url": "https://www.vut.cz/studenti/programy/obor/17308/9244",
+        "specializace": "S"
       },
       {
         "zkratka_programu": "BPC-SI",
-        "specializace": "M",
         "nazev_programu": "Stavební inženýrství - Stavební materiály a technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17311/9244"
+        "url": "https://www.vut.cz/studenti/programy/obor/17311/9244",
+        "specializace": "M"
       },
       {
         "zkratka_programu": "BPC-SI",
-        "specializace": "V",
         "nazev_programu": "Stavební inženýrství - Vodní hospodářství a vodní stavby",
-        "url": "https://www.vut.cz/studenti/programy/obor/17312/9244"
+        "url": "https://www.vut.cz/studenti/programy/obor/17312/9244",
+        "specializace": "V"
       },
       {
         "zkratka_programu": "BPC-SI",
-        "specializace": "VS",
         "nazev_programu": "Stavební inženýrství - Všeobecný",
-        "url": "https://www.vut.cz/studenti/programy/obor/17307/9244"
+        "url": "https://www.vut.cz/studenti/programy/obor/17307/9244",
+        "specializace": "VS"
       },
       {
         "zkratka_programu": "NPC-ARS",
-        "specializace": "ARA",
         "nazev_programu": "Architektura a rozvoj sídel - Architektura",
-        "url": "https://www.vut.cz/studenti/programy/obor/17670/9498"
+        "url": "https://www.vut.cz/studenti/programy/obor/17670/9498",
+        "specializace": "ARA"
       },
       {
         "zkratka_programu": "NPC-ARS",
-        "specializace": "ARP",
         "nazev_programu": "Architektura a rozvoj sídel - Prostorové plánování",
-        "url": "https://www.vut.cz/studenti/programy/obor/17671/9498"
+        "url": "https://www.vut.cz/studenti/programy/obor/17671/9498",
+        "specializace": "ARP"
       }
     ]
   },
@@ -1343,357 +1181,318 @@
     "programy": [
       {
         "zkratka_programu": "B-ENE-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Energetika",
         "url": "https://www.vut.cz/studenti/programy/program/9289"
       },
       {
         "zkratka_programu": "B-STI-A",
-        "specializace": "Bez specializace",
         "nazev_programu": "Fundamentals of Mechanical Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9296"
       },
       {
         "zkratka_programu": "B-FIN-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Fyzikální inženýrství a nanotechnologie",
         "url": "https://www.vut.cz/studenti/programy/program/9290"
       },
       {
         "zkratka_programu": "B-KSI-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Konstrukční inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9291"
       },
       {
         "zkratka_programu": "B-MAI-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Matematické inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9292"
       },
       {
         "zkratka_programu": "B-MET-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Mechatronika",
         "url": "https://www.vut.cz/studenti/programy/program/9293"
       },
       {
         "zkratka_programu": "B-PRP-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Profesionální pilot",
         "url": "https://www.vut.cz/studenti/programy/program/9295"
       },
       {
         "zkratka_programu": "B-PDS-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Průmyslový design ve strojírenství",
         "url": "https://www.vut.cz/studenti/programy/program/9294"
       },
       {
         "zkratka_programu": "B-VKP-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Vizuální komunikace v kreativních průmyslech",
         "url": "https://www.vut.cz/studenti/programy/program/9341"
       },
       {
         "zkratka_programu": "N-AST-A",
-        "specializace": "Bez specializace",
         "nazev_programu": "Aerospace Technology",
         "url": "https://www.vut.cz/studenti/programy/program/9318"
       },
       {
         "zkratka_programu": "N-AIŘ-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Aplikovaná informatika a řízení",
         "url": "https://www.vut.cz/studenti/programy/program/9317"
       },
       {
         "zkratka_programu": "N-AIM-A",
-        "specializace": "Bez specializace",
         "nazev_programu": "Applied and Interdisciplinary Mathematics",
         "url": "https://www.vut.cz/studenti/programy/program/9316"
       },
       {
         "zkratka_programu": "N-ADI-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Automobilní a dopravní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9315"
       },
       {
         "zkratka_programu": "N-FIN-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Fyzikální inženýrství a nanotechnologie",
         "url": "https://www.vut.cz/studenti/programy/program/9321"
       },
       {
         "zkratka_programu": "N-KSI-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Konstrukční inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9324"
       },
       {
         "zkratka_programu": "N-KSB-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Kvalita, spolehlivost a bezpečnost",
         "url": "https://www.vut.cz/studenti/programy/program/9323"
       },
       {
         "zkratka_programu": "N-LAN-A",
-        "specializace": "Bez specializace",
         "nazev_programu": "Logistics Analytics",
         "url": "https://www.vut.cz/studenti/programy/program/9325"
       },
       {
         "zkratka_programu": "N-MAI-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Matematické inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9328"
       },
       {
         "zkratka_programu": "N-MTI-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Materiálové inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9330"
       },
       {
         "zkratka_programu": "N-MAI-A",
-        "specializace": "Bez specializace",
         "nazev_programu": "Mathematical Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9327"
       },
       {
         "zkratka_programu": "N-ENG-A",
-        "specializace": "Bez specializace",
         "nazev_programu": "Mechanical Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9319"
       },
       {
         "zkratka_programu": "N-MET-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Mechatronika",
         "url": "https://www.vut.cz/studenti/programy/program/9329"
       },
       {
         "zkratka_programu": "N-AAE-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Pokročilé automobilové inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9314"
       },
       {
         "zkratka_programu": "N-PRI-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Procesní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9333"
       },
       {
         "zkratka_programu": "N-PDS-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Průmyslový design ve strojírenství",
         "url": "https://www.vut.cz/studenti/programy/program/9331"
       },
       {
         "zkratka_programu": "N-PMO-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Přesná mechanika a optika",
         "url": "https://www.vut.cz/studenti/programy/program/9332"
       },
       {
         "zkratka_programu": "N-SLE-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Slévárenská technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9334"
       },
       {
         "zkratka_programu": "N-SUE-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Výpočtové simulace pro udržitelnou energetiku",
         "url": "https://www.vut.cz/studenti/programy/program/9342"
       },
       {
         "zkratka_programu": "N-VSR-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Výrobní stroje, systémy a roboty",
         "url": "https://www.vut.cz/studenti/programy/program/9336"
       },
       {
         "zkratka_programu": "N-VSY-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Výrobní systémy",
         "url": "https://www.vut.cz/studenti/programy/program/9337"
       },
       {
         "zkratka_programu": "N-VSR-K",
-        "specializace": "Bez specializace",
         "nazev_programu": "Výrobní stroje, systémy a roboty",
         "url": "https://www.vut.cz/studenti/programy/program/9530"
       },
       {
         "zkratka_programu": "D-APM-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Aplikovaná matematika",
         "url": "https://www.vut.cz/studenti/programy/program/9301"
       },
       {
         "zkratka_programu": "D-ENE-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Energetické inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9303"
       },
       {
         "zkratka_programu": "D-FIN-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Fyzikální inženýrství a nanotechnologie",
         "url": "https://www.vut.cz/studenti/programy/program/9305"
       },
       {
         "zkratka_programu": "D-IME-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Inženýrská mechanika",
         "url": "https://www.vut.cz/studenti/programy/program/9307"
       },
       {
         "zkratka_programu": "D-KPI-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Konstrukční a procesní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9309"
       },
       {
         "zkratka_programu": "D-MAT-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Materiálové vědy",
         "url": "https://www.vut.cz/studenti/programy/program/9311"
       },
       {
         "zkratka_programu": "D-ENE-A",
-        "specializace": "Bez specializace",
         "nazev_programu": "Power Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9302"
       },
       {
         "zkratka_programu": "D-STG-P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Strojírenská technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9313"
       },
       {
         "zkratka_programu": "B-STR-P",
-        "specializace": "AIŘ",
         "nazev_programu": "Strojírenství - Aplikovaná informatika a řízení",
-        "url": "https://www.vut.cz/studenti/programy/obor/17416/9297"
+        "url": "https://www.vut.cz/studenti/programy/obor/17416/9297",
+        "specializace": "AIŘ"
       },
       {
         "zkratka_programu": "B-STR-P",
-        "specializace": "KSB",
         "nazev_programu": "Strojírenství - Kvalita, spolehlivost a bezpečnost",
-        "url": "https://www.vut.cz/studenti/programy/obor/17417/9297"
+        "url": "https://www.vut.cz/studenti/programy/obor/17417/9297",
+        "specializace": "KSB"
       },
       {
         "zkratka_programu": "B-STR-P",
-        "specializace": "SSZ",
         "nazev_programu": "Strojírenství - Stavba strojů a zařízení",
-        "url": "https://www.vut.cz/studenti/programy/obor/17419/9297"
+        "url": "https://www.vut.cz/studenti/programy/obor/17419/9297",
+        "specializace": "SSZ"
       },
       {
         "zkratka_programu": "B-STR-P",
-        "specializace": "STG",
         "nazev_programu": "Strojírenství - Strojírenská technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17420/9297"
+        "url": "https://www.vut.cz/studenti/programy/obor/17420/9297",
+        "specializace": "STG"
       },
       {
         "zkratka_programu": "B-ZSI-P",
-        "specializace": "MTI",
         "nazev_programu": "Základy strojního inženýrství - Materiálové inženýrství",
-        "url": "https://www.vut.cz/studenti/programy/obor/17423/9299"
+        "url": "https://www.vut.cz/studenti/programy/obor/17423/9299",
+        "specializace": "MTI"
       },
       {
         "zkratka_programu": "B-ZSI-P",
-        "specializace": "STI",
         "nazev_programu": "Základy strojního inženýrství - Základy strojního inženýrství",
-        "url": "https://www.vut.cz/studenti/programy/obor/17422/9299"
+        "url": "https://www.vut.cz/studenti/programy/obor/17422/9299",
+        "specializace": "STI"
       },
       {
         "zkratka_programu": "B-STR-K",
-        "specializace": "AIŘ",
         "nazev_programu": "Strojírenství - Aplikovaná informatika a řízení",
-        "url": "https://www.vut.cz/studenti/programy/obor/17704/9512"
+        "url": "https://www.vut.cz/studenti/programy/obor/17704/9512",
+        "specializace": "AIŘ"
       },
       {
         "zkratka_programu": "B-STR-K",
-        "specializace": "SSZ",
         "nazev_programu": "Strojírenství - Stavba strojů a zařízení",
-        "url": "https://www.vut.cz/studenti/programy/obor/17705/9512"
+        "url": "https://www.vut.cz/studenti/programy/obor/17705/9512",
+        "specializace": "SSZ"
       },
       {
         "zkratka_programu": "B-STR-K",
-        "specializace": "STG",
         "nazev_programu": "Strojírenství - Strojírenská technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17706/9512"
+        "url": "https://www.vut.cz/studenti/programy/obor/17706/9512",
+        "specializace": "STG"
       },
       {
         "zkratka_programu": "N-ETI-P",
-        "specializace": "ENI",
         "nazev_programu": "Energetické a termofluidní inženýrství - Energetické inženýrství",
-        "url": "https://www.vut.cz/studenti/programy/obor/17445/9320"
+        "url": "https://www.vut.cz/studenti/programy/obor/17445/9320",
+        "specializace": "ENI"
       },
       {
         "zkratka_programu": "N-ETI-P",
-        "specializace": "FLI",
         "nazev_programu": "Energetické a termofluidní inženýrství - Fluidní inženýrství",
-        "url": "https://www.vut.cz/studenti/programy/obor/17446/9320"
+        "url": "https://www.vut.cz/studenti/programy/obor/17446/9320",
+        "specializace": "FLI"
       },
       {
         "zkratka_programu": "N-ETI-P",
-        "specializace": "TEP",
         "nazev_programu": "Energetické a termofluidní inženýrství - Technika prostředí",
-        "url": "https://www.vut.cz/studenti/programy/obor/17444/9320"
+        "url": "https://www.vut.cz/studenti/programy/obor/17444/9320",
+        "specializace": "TEP"
       },
       {
         "zkratka_programu": "N-IMB-P",
-        "specializace": "BIO",
         "nazev_programu": "Inženýrská mechanika a biomechanika - Biomechanika",
-        "url": "https://www.vut.cz/studenti/programy/obor/17449/9322"
+        "url": "https://www.vut.cz/studenti/programy/obor/17449/9322",
+        "specializace": "BIO"
       },
       {
         "zkratka_programu": "N-IMB-P",
-        "specializace": "IME",
         "nazev_programu": "Inženýrská mechanika a biomechanika - Inženýrská mechanika",
-        "url": "https://www.vut.cz/studenti/programy/obor/17448/9322"
+        "url": "https://www.vut.cz/studenti/programy/obor/17448/9322",
+        "specializace": "IME"
       },
       {
         "zkratka_programu": "N-LKT-P",
-        "specializace": "STL",
         "nazev_programu": "Letecká a kosmická technika - Stavba letadel",
-        "url": "https://www.vut.cz/studenti/programy/obor/17453/9326"
+        "url": "https://www.vut.cz/studenti/programy/obor/17453/9326",
+        "specializace": "STL"
       },
       {
         "zkratka_programu": "N-LKT-P",
-        "specializace": "TLT",
         "nazev_programu": "Letecká a kosmická technika - Technologie provozu letadlové a letištní techniky",
-        "url": "https://www.vut.cz/studenti/programy/obor/17454/9326"
+        "url": "https://www.vut.cz/studenti/programy/obor/17454/9326",
+        "specializace": "TLT"
       },
       {
         "zkratka_programu": "N-STG-P",
-        "specializace": "STG",
         "nazev_programu": "Strojírenská technologie - Strojírenská technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17465/9335"
+        "url": "https://www.vut.cz/studenti/programy/obor/17465/9335",
+        "specializace": "STG"
       },
       {
         "zkratka_programu": "N-STG-P",
-        "specializace": "STM",
         "nazev_programu": "Strojírenská technologie - Strojírenská technologie a průmyslový management",
-        "url": "https://www.vut.cz/studenti/programy/obor/17463/9335"
+        "url": "https://www.vut.cz/studenti/programy/obor/17463/9335",
+        "specializace": "STM"
       },
       {
         "zkratka_programu": "N-STG-K",
-        "specializace": "STG",
         "nazev_programu": "Strojírenská technologie - Strojírenská technologie",
-        "url": "https://www.vut.cz/studenti/programy/obor/17725/9529"
+        "url": "https://www.vut.cz/studenti/programy/obor/17725/9529",
+        "specializace": "STG"
       },
       {
         "zkratka_programu": "N-STG-K",
-        "specializace": "STM",
         "nazev_programu": "Strojírenská technologie - Strojírenská technologie a průmyslový management",
-        "url": "https://www.vut.cz/studenti/programy/obor/17723/9529"
+        "url": "https://www.vut.cz/studenti/programy/obor/17723/9529",
+        "specializace": "STM"
       }
     ]
   },
@@ -1703,225 +1502,220 @@
     "programy": [
       {
         "zkratka_programu": "FAAD",
-        "specializace": "Bez specializace",
         "nazev_programu": "Fine Art and Design",
         "url": "https://www.vut.cz/studenti/programy/program/9283"
       },
       {
         "zkratka_programu": "VUD_P_CZ",
-        "specializace": "Bez specializace",
         "nazev_programu": "Výzkum v umění a designu",
         "url": "https://www.vut.cz/studenti/programy/program/9571"
       },
       {
         "zkratka_programu": "VUD_K_CZ",
-        "specializace": "Bez specializace",
         "nazev_programu": "Výzkum v umění a designu",
         "url": "https://www.vut.cz/studenti/programy/program/9572"
       },
       {
         "zkratka_programu": "VUD_P_EN",
-        "specializace": "Bez specializace",
         "nazev_programu": "Research in Art and Design",
         "url": "https://www.vut.cz/studenti/programy/program/9576"
       },
       {
         "zkratka_programu": "VUD_K_EN",
-        "specializace": "Bez specializace",
         "nazev_programu": "Research in Art and Design",
         "url": "https://www.vut.cz/studenti/programy/program/9577"
       },
       {
         "zkratka_programu": "DES_B",
-        "specializace": "--- (AGD1)",
         "nazev_programu": "Design - bez specializace (Ateliér grafického designu 1)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17371/9279"
+        "url": "https://www.vut.cz/studenti/programy/obor/17371/9279",
+        "specializace": "--- (AGD1)"
       },
       {
         "zkratka_programu": "DES_B",
-        "specializace": "--- (AGD2)",
         "nazev_programu": "Design - bez specializace (Ateliér grafického designu 2)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17374/9279"
+        "url": "https://www.vut.cz/studenti/programy/obor/17374/9279",
+        "specializace": "--- (AGD2)"
       },
       {
         "zkratka_programu": "DES_B",
-        "specializace": "--- (AHM)",
         "nazev_programu": "Design - bez specializace (Ateliér herních médií)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17373/9279"
+        "url": "https://www.vut.cz/studenti/programy/obor/17373/9279",
+        "specializace": "--- (AHM)"
       },
       {
         "zkratka_programu": "DES_B",
-        "specializace": "--- (APD)",
         "nazev_programu": "Design - bez specializace (Ateliér produktového designu)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17372/9279"
+        "url": "https://www.vut.cz/studenti/programy/obor/17372/9279",
+        "specializace": "--- (APD)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (AEN)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér environmentu)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17375/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17375/9280",
+        "specializace": "--- (AEN)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (AFO)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér fotografie)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17376/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17376/9280",
+        "specializace": "--- (AFO)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (AIN)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér intermédií)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17377/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17377/9280",
+        "specializace": "--- (AIN)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (AKG)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér kresby a grafiky)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17378/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17378/9280",
+        "specializace": "--- (AKG)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (AM1)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér malířství 1)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17379/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17379/9280",
+        "specializace": "--- (AM1)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (AM2)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér malířství 2)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17386/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17386/9280",
+        "specializace": "--- (AM2)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (AM3)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér malířství 3)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17381/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17381/9280",
+        "specializace": "--- (AM3)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (APE)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér performance)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17382/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17382/9280",
+        "specializace": "--- (APE)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (APT)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér prostorové tvorby)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17384/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17384/9280",
+        "specializace": "--- (APT)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (ASO)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér sochařství)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17383/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17383/9280",
+        "specializace": "--- (ASO)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (ATD)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér tělového designu)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17385/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17385/9280",
+        "specializace": "--- (ATD)"
       },
       {
         "zkratka_programu": "VUM_B",
-        "specializace": "--- (AVI)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér video)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17380/9280"
+        "url": "https://www.vut.cz/studenti/programy/obor/17380/9280",
+        "specializace": "--- (AVI)"
       },
       {
         "zkratka_programu": "DES_M",
-        "specializace": "--- (AGD1)",
         "nazev_programu": "Design - bez specializace (Ateliér grafického designu 1)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17388/9281"
+        "url": "https://www.vut.cz/studenti/programy/obor/17388/9281",
+        "specializace": "--- (AGD1)"
       },
       {
         "zkratka_programu": "DES_M",
-        "specializace": "--- (AGD2)",
         "nazev_programu": "Design - bez specializace (Ateliér grafického designu 2)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17391/9281"
+        "url": "https://www.vut.cz/studenti/programy/obor/17391/9281",
+        "specializace": "--- (AGD2)"
       },
       {
         "zkratka_programu": "DES_M",
-        "specializace": "--- (AHM)",
         "nazev_programu": "Design - bez specializace (Ateliér herních médií)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17390/9281"
+        "url": "https://www.vut.cz/studenti/programy/obor/17390/9281",
+        "specializace": "--- (AHM)"
       },
       {
         "zkratka_programu": "DES_M",
-        "specializace": "--- (APD)",
         "nazev_programu": "Design - bez specializace (Ateliér produktového designu)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17389/9281"
+        "url": "https://www.vut.cz/studenti/programy/obor/17389/9281",
+        "specializace": "--- (APD)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (AEN)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér environmentu)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17392/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17392/9282",
+        "specializace": "--- (AEN)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (AFO)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér fotografie)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17393/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17393/9282",
+        "specializace": "--- (AFO)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (AIN)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér intermédií)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17394/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17394/9282",
+        "specializace": "--- (AIN)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (AKG)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér kresby a grafiky)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17395/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17395/9282",
+        "specializace": "--- (AKG)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (AM1)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér malířství 1)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17396/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17396/9282",
+        "specializace": "--- (AM1)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (AM2)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér malířství 2)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17403/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17403/9282",
+        "specializace": "--- (AM2)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (AM3)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér malířství 3)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17398/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17398/9282",
+        "specializace": "--- (AM3)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (APE)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér performance)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17399/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17399/9282",
+        "specializace": "--- (APE)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (APT)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér prostorové tvorby)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17401/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17401/9282",
+        "specializace": "--- (APT)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (ASO)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér sochařství)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17400/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17400/9282",
+        "specializace": "--- (ASO)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (ATD)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér tělového designu)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17402/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17402/9282",
+        "specializace": "--- (ATD)"
       },
       {
         "zkratka_programu": "VUM_M",
-        "specializace": "--- (AVI)",
         "nazev_programu": "Volné umění - bez specializace (Ateliér video)",
-        "url": "https://www.vut.cz/studenti/programy/obor/17397/9282"
+        "url": "https://www.vut.cz/studenti/programy/obor/17397/9282",
+        "specializace": "--- (AVI)"
       }
     ]
   },
@@ -1931,39 +1725,35 @@
     "programy": [
       {
         "zkratka_programu": "NMSP-EID",
-        "specializace": "Bez specializace",
         "nazev_programu": "Expertní inženýrství v dopravě",
         "url": "https://www.vut.cz/studenti/programy/program/9549"
       },
       {
         "zkratka_programu": "NMSP-REI",
-        "specializace": "Bez specializace",
         "nazev_programu": "Realitní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9550"
       },
       {
         "zkratka_programu": "DSP SoI_P",
-        "specializace": "Bez specializace",
         "nazev_programu": "Soudní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9182"
       },
       {
         "zkratka_programu": "DSP SoI_K",
-        "specializace": "Bez specializace",
         "nazev_programu": "Soudní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9181"
       },
       {
         "zkratka_programu": "NMSP-RRTES",
-        "specializace": "RRES",
         "nazev_programu": "Řízení rizik technických a ekonomických systémů - Řízení rizik ekonomických systémů",
-        "url": "https://www.vut.cz/studenti/programy/obor/17747/9551"
+        "url": "https://www.vut.cz/studenti/programy/obor/17747/9551",
+        "specializace": "RRES"
       },
       {
         "zkratka_programu": "NMSP-RRTES",
-        "specializace": "RRTS",
         "nazev_programu": "Řízení rizik technických a ekonomických systémů - Řízení rizik technických systémů",
-        "url": "https://www.vut.cz/studenti/programy/obor/17746/9551"
+        "url": "https://www.vut.cz/studenti/programy/obor/17746/9551",
+        "specializace": "RRTS"
       }
     ]
   }
