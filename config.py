@@ -32,9 +32,9 @@ def get_subjects_dir(language="cs"):
     else:
         raise ValueError("Neznámý jazyk. Použijte 'cs' nebo 'en'.")
 
-STUDY_PLANS_BASE = "study_plans"
-STUDY_PLANS_OUTPUT_CS = f"{DATA_DIR_CS}/{STUDY_PLANS_BASE}/plans.json"
-STUDY_PLANS_OUTPUT_EN = f"{DATA_DIR_EN}/{STUDY_PLANS_BASE}/plans.json"
+STUDY_PLANS_DIR = f"{DATA_DIR}/raw_study_plans"
+STUDY_PLANS_OUTPUT_CS = f"{STUDY_PLANS_DIR}/plans_cs.json"
+STUDY_PLANS_OUTPUT_EN = f"{STUDY_PLANS_DIR}/plans_en.json"
 
 def get_study_plans_output(language="cs"):
     if language == "cs":
@@ -44,8 +44,8 @@ def get_study_plans_output(language="cs"):
     else:
         raise ValueError("Neznámý jazyk. Použijte 'cs' nebo 'en'.")
 
-STUDY_PLANS_PROGRESS_CS = f"{DATA_DIR_CS}/{STUDY_PLANS_BASE}/progress_cs.json"
-STUDY_PLANS_PROGRESS_EN = f"{DATA_DIR_EN}/{STUDY_PLANS_BASE}/progress_en.json"
+STUDY_PLANS_PROGRESS_CS = f"{STUDY_PLANS_DIR}/progress_cs.json"
+STUDY_PLANS_PROGRESS_EN = f"{STUDY_PLANS_DIR}/progress_en.json"
 
 def get_study_plans_progress(language="cs"):
     if language == "cs":
