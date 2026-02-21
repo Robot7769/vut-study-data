@@ -52,12 +52,11 @@ class StudyPlanScraper:
         self.programs_url = PROGRAMS_URL_CS if language == "cs" else PROGRAMS_URL_EN
 
         # Cesty k souborům
-        self.output_dir = output_dir or STUDY_PLANS_DIR
-        os.makedirs(self.output_dir, exist_ok=True)
-
         self.output_file = get_study_plans_output(language)
-        
         self.progress_file = get_study_plans_progress(language)
+        
+        # Vytvoř adresář pro výstupní soubory
+        os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
         
         # HTTP klient
         self.client = HttpClient(
