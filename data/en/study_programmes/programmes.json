@@ -6,7 +6,9 @@
       {
         "zkratka_programu": "BPC-STC",
         "nazev_programu": "Sports Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9488"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9488",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       }
     ]
   },
@@ -17,51 +19,60 @@
       {
         "zkratka_programu": "BE_A+U",
         "nazev_programu": "Architecture and Urban Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9343"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9343",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "B_A+U",
         "nazev_programu": "Architecture and Urban Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9233"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9233",
+        "doba_studia": "4 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N_A+U",
         "nazev_programu": "Architecture and Urban Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9559"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9559",
+        "doba_studia": "2 years\ntitle Ing. arch.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "NE_INUS",
         "nazev_programu": "Integrative Urban Studies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9578"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9578",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "NE_A+U",
         "nazev_programu": "Architecture and Urban Design",
-        "url": "https://www.vut.cz/en/students/programmes/branch/18098/9203"
+        "url": "https://www.vut.cz/en/students/programmes/branch/18098/9203",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "ARCHURB",
         "nazev_programu": "Architecture and urban design - Architecture",
         "url": "https://www.vut.cz/en/students/programmes/branch/17759/9557",
-        "specializace": "ARCH"
+        "specializace": "ARCH",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "ARCHURB",
         "nazev_programu": "Architecture and urban design - Urban design",
         "url": "https://www.vut.cz/en/students/programmes/branch/17758/9557",
-        "specializace": "URBAN"
+        "specializace": "URBAN",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "ARCHURB",
         "nazev_programu": "Architecture and urban design - Architecture",
         "url": "https://www.vut.cz/en/students/programmes/branch/17757/9556",
-        "specializace": "ARCH"
+        "specializace": "ARCH",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "ARCHURB",
         "nazev_programu": "Architecture and urban design - Urban design",
         "url": "https://www.vut.cz/en/students/programmes/branch/17756/9556",
-        "specializace": "URBAN"
+        "specializace": "URBAN",
+        "doba_studia": "4 years"
       }
     ]
   },
@@ -72,368 +83,467 @@
       {
         "zkratka_programu": "BPC-APE",
         "nazev_programu": "English for Practice in Electrical Engineering and Communication Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9407"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9407",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BPC-AMT",
         "nazev_programu": "Automation and Measurement",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9406"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9406",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "BPC-BTB",
         "nazev_programu": "Biomedical Technology and Bioinformatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9409"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9409",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "BPC-EKT",
         "nazev_programu": "Electronics and Communication Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9410"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9410",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "BPC-EMU",
         "nazev_programu": "E-mobility and Sustainability",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9161"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9161",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BPC-IBE",
         "nazev_programu": "Information Security",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9411"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9411",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "BPC-MET",
         "nazev_programu": "Microelectronics and Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9412"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9412",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "BPC-NCP",
         "nazev_programu": "Chip Design and Modern Semiconductor Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9146"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9146",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "BPC-SEE",
         "nazev_programu": "Power Electrical and Electronic Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9413"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9413",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "BPC-TLI",
         "nazev_programu": "Telecommunication and Information Systems",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9414"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9414",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "MPC-BIO",
         "nazev_programu": "Bioengineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9471"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9471",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-BTB",
         "nazev_programu": "Biomedical Engineering and Bioinformatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9472"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9472",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-EAK",
         "nazev_programu": "Power Systems and Communication Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9473"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9473",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-EEN",
         "nazev_programu": "Electrical Power Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9474"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9474",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-EKT",
         "nazev_programu": "Electronics and Communication Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9475"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9475",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-EVM",
         "nazev_programu": "Electrical Manufacturing and Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9476"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9476",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-IBE",
         "nazev_programu": "Information Security",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9477"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9477",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-JAE",
         "nazev_programu": "Nuclear Power Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9478"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9478",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "MPC-KAM",
         "nazev_programu": "Cybernetics, Control and Measurements",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9479"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9479",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-NCP",
         "nazev_programu": "Chip Design and Modern Semiconductor Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9149"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9149",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "MPC-SVE",
         "nazev_programu": "Power Electrical and Electronic Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9481"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9481",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-TIT",
         "nazev_programu": "Communications and Informatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9482"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9482",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MKC-EVM",
         "nazev_programu": "Electrical Manufacturing and Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9456"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9456",
+        "doba_studia": "2 years\ntitle Ing.\ncombined study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MKC-TIT",
         "nazev_programu": "Communications and Informatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9458"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9458",
+        "doba_studia": "2 years\ntitle Ing.\ncombined study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPA-BIO",
         "nazev_programu": "Bioengineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9460"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9460",
+        "doba_studia": "2 years",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPAD-BIO",
         "nazev_programu": "Bioengineering (Double Degree)",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9467"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9467",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPA-CAN",
         "nazev_programu": "Communications and Networking",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9462"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9462",
+        "doba_studia": "2 years",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPAD-CAN",
         "nazev_programu": "Communications and Networking (Double-Degree)",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9468"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9468",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPA-EEN",
         "nazev_programu": "Electrical Power Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9464"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9464",
+        "doba_studia": "2 years",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPA-SAP",
         "nazev_programu": "Space Applications",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9466"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9466",
+        "doba_studia": "2 years",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MPA-AEE",
         "nazev_programu": "Automotive Electronics and Electromobility",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9459"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9459",
+        "doba_studia": "2 years",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "DPC-BTB",
         "nazev_programu": "Biomedical Technologies and Bioinformatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9445"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9445",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPC-EKT",
         "nazev_programu": "Electronics and Communication Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9446"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9446",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPC-IBE",
         "nazev_programu": "Information Security",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9447"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9447",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPC-KAM",
         "nazev_programu": "Cybernetics, Control and Measurements",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9448"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9448",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPC-MET",
         "nazev_programu": "Microelectronics and technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9449"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9449",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPC-SEE",
         "nazev_programu": "Power Systems and Power Electronics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9450"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9450",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPC-TLI",
         "nazev_programu": "Teleinformatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9452"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9452",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPC-TEE",
         "nazev_programu": "Theoretical Electrical Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9451"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9451",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DKC-BTB",
         "nazev_programu": "Biomedical Technology and Bioinformatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9427"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9427",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKC-EKT",
         "nazev_programu": "Electronics and Communication Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9428"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9428",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKC-IBE",
         "nazev_programu": "Information Security",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9429"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9429",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKC-KAM",
         "nazev_programu": "Cybernetics, Control and Measurements",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9430"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9430",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKC-MET",
         "nazev_programu": "Microelectronics and technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9431"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9431",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKC-SEE",
         "nazev_programu": "Power Systems and Power Electronics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9432"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9432",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKC-TLI",
         "nazev_programu": "Teleinformatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9434"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9434",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKC-TEE",
         "nazev_programu": "Theoretical Electrical Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9433"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9433",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DPA-BTB",
         "nazev_programu": "Biomedical Technologies and Bioinformatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9435"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9435",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DPA-KAM",
         "nazev_programu": "Cybernetics, Control and Measurements",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9438"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9438",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DPA-EKT",
         "nazev_programu": "Electronics and Communication Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9437"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9437",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DPA-EIT",
         "nazev_programu": "Electronics and Information Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9436"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9436",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DPAD-EIT",
         "nazev_programu": "Electronics and Information Technologies (Double-Degree)",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9444"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9444",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "DPA-MET",
         "nazev_programu": "Microelectronics and Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9439"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9439",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DPA-SEE",
         "nazev_programu": "Power Systems and Power Electronics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9440"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9440",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DPA-TLI",
         "nazev_programu": "Teleinformatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9442"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9442",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DPA-TEE",
         "nazev_programu": "Theoretical Electrical Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9441"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9441",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DKA-BTB",
         "nazev_programu": "Biomedical Technologies and Bioinformatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9418"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9418",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DKA-KAM",
         "nazev_programu": "Cybernetics, Control and Measurements",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9421"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9421",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DKA-EKT",
         "nazev_programu": "Electronics and Communication Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9420"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9420",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DKA-EIT",
         "nazev_programu": "Electronics and Information Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9419"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9419",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DKAD-EIT",
         "nazev_programu": "Electronics and Information Technologies (Double-Degree)",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9426"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9426",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study"
       },
       {
         "zkratka_programu": "DKA-MET",
         "nazev_programu": "Microelectronics and Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9422"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9422",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DKA-SEE",
         "nazev_programu": "Power Systems and Power Electronics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9423"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9423",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DKA-TLI",
         "nazev_programu": "Teleinformatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9425"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9425",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DKA-TEE",
         "nazev_programu": "Theoretical Electrical Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9424"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9424",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "CZV3-Cyber",
         "nazev_programu": "Master of Science in Cybersecurity",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9416"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9416",
+        "doba_studia": "2 years\ntitle MSc.\ncombined form\nCzech"
       },
       {
         "zkratka_programu": "BPC-AUD",
         "nazev_programu": "Audio Engineering - Audio Production and Recording",
         "url": "https://www.vut.cz/en/students/programmes/branch/17569/9408",
-        "specializace": "AUDB-ZVUK"
+        "specializace": "AUDB-ZVUK",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BPC-AUD",
         "nazev_programu": "Audio Engineering - Audio Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17570/9408",
-        "specializace": "AUDB-TECH"
+        "specializace": "AUDB-TECH",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BPA-ELE",
         "nazev_programu": "Electrical Engineering - Electronics and Communication Technologies",
         "url": "https://www.vut.cz/en/students/programmes/branch/17565/9405",
-        "specializace": "BPA-ECT"
+        "specializace": "BPA-ECT",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BPA-ELE",
         "nazev_programu": "Electrical Engineering - Power Systems and Automation",
         "url": "https://www.vut.cz/en/students/programmes/branch/17566/9405",
-        "specializace": "BPA-PSA"
+        "specializace": "BPA-PSA",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "MPC-AUD",
         "nazev_programu": "Audio Engineering - Acoustics and Audiovisual Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17632/9470",
-        "specializace": "AUDM-TECH"
+        "specializace": "AUDM-TECH",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MPC-AUD",
         "nazev_programu": "Audio Engineering - Audio Production and Recording",
         "url": "https://www.vut.cz/en/students/programmes/branch/17633/9470",
-        "specializace": "AUDM-ZVUK"
+        "specializace": "AUDM-ZVUK",
+        "doba_studia": "2 years"
       }
     ]
   },
@@ -444,223 +554,265 @@
       {
         "zkratka_programu": "BPCP_AAEFCH",
         "nazev_programu": "Applied Analytical, Environmental and Forensic Chemistry",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9352"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9352",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BPCP_ECHBM",
         "nazev_programu": "Environmental Chemistry, Safety and Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9353"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9353",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BPCP_CHTN",
         "nazev_programu": "Chemical Technology and Nanotechnology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9344"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9344",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BPCP_CHCHTE",
         "nazev_programu": "Chemistry and Chemical Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9357"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9357",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BPCP_CHTM",
         "nazev_programu": "Chemistry and Technology of Materials",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9354"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9354",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BPCP_CHMA",
         "nazev_programu": "Chemistry for Medical Application",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9346"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9346",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BKCP_AAEFCH",
         "nazev_programu": "Applied Analytical, Environmental and Forensic Chemistry",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9347"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9347",
+        "doba_studia": "3 years\ntitle Bc.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "BKCP_ECHBM",
         "nazev_programu": "Environmental Chemistry, Safety and Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9348"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9348",
+        "doba_studia": "3 years\ntitle Bc.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "BKCP_CHCHTE",
         "nazev_programu": "Chemistry and Chemical Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9358"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9358",
+        "doba_studia": "3 years\ntitle Bc.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "BKCP_CHTM",
         "nazev_programu": "Chemistry and Technology of Materials",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9349"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9349",
+        "doba_studia": "3 years\ntitle Bc.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "NPAP_ENVI",
         "nazev_programu": "Environmental Sciences and Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9388"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9388",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "NPCP_ECHT",
         "nazev_programu": "Environmental Chemistry and Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9390"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9390",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "NPCP_CHCHTE",
         "nazev_programu": "Chemistry and Chemical Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9384"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9384",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "NPCP_CHTM",
         "nazev_programu": "Chemistry and Technology of Materials",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9391"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9391",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "NPCP_PCHBT",
         "nazev_programu": "Food Chemistry and Biotechnology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9552"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9552",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "NKCP_ECHT",
         "nazev_programu": "Environmental Chemistry and Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9389"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9389",
+        "doba_studia": "2 years\ntitle Ing.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "NKCP_CHCHTE",
         "nazev_programu": "Chemistry and Chemical Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9385"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9385",
+        "doba_studia": "2 years\ntitle Ing.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "NKCP_CHTM",
         "nazev_programu": "Chemistry and Technology of Materials",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9392"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9392",
+        "doba_studia": "2 years\ntitle Ing.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "NKCP_CHPL",
         "nazev_programu": "Chemistry of Natural Products",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9394"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9394",
+        "doba_studia": "2 years\ntitle Ing.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DPCP_BCH",
         "nazev_programu": "Biophysical Chemistry",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9532"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9532",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPAP_BCH",
         "nazev_programu": "Biophysical Chemistry",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9542"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9542",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "DPCP_FCH_N",
         "nazev_programu": "Physical Chemistry",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9540"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9540",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPCP_CHTOZP_N",
         "nazev_programu": "Chemistry and technology of environmental protection",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9539"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9539",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPCP_CHM_4_N",
         "nazev_programu": "Chemistry, Technology and Properties of Materials",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9534"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9534",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPCP_PCH",
         "nazev_programu": "Food Chemistry",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9536"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9536",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BPCP_CHTP",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Biochemical Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17492/9355",
-        "specializace": "BT"
+        "specializace": "BT",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BPCP_CHTP",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Food Chemistry and Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17491/9355",
-        "specializace": "PCH"
+        "specializace": "PCH",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BPCP_CHTP",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Chemistry and Analysis of Natural Products",
         "url": "https://www.vut.cz/en/students/programmes/branch/17490/9355",
-        "specializace": "CHPL"
+        "specializace": "CHPL",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BPCP_CHTP",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Chemistry and Technology of Foodstuffs",
         "url": "https://www.vut.cz/en/students/programmes/branch/17493/9355",
-        "specializace": "CHTP"
+        "specializace": "CHTP",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BPCP_CHTPO",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Biochemical Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17496/9356",
-        "specializace": "BT"
+        "specializace": "BT",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BPCP_CHTPO",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Food Chemistry and Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17495/9356",
-        "specializace": "PCH"
+        "specializace": "PCH",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BPCP_CHTPO",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Chemistry and Analysis of Natural Products",
         "url": "https://www.vut.cz/en/students/programmes/branch/17494/9356",
-        "specializace": "CHPL"
+        "specializace": "CHPL",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BKCP_CHTP",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Biochemical Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17482/9350",
-        "specializace": "BT"
+        "specializace": "BT",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BKCP_CHTP",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Food Chemistry and Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17481/9350",
-        "specializace": "PCH"
+        "specializace": "PCH",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BKCP_CHTP",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Chemistry and Analysis of Natural Products",
         "url": "https://www.vut.cz/en/students/programmes/branch/17480/9350",
-        "specializace": "CHPL"
+        "specializace": "CHPL",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BKCP_CHTP",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Chemistry and Technology of Foodstuffs",
         "url": "https://www.vut.cz/en/students/programmes/branch/17483/9350",
-        "specializace": "CHTP"
+        "specializace": "CHTP",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BKCP_CHTPO",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Biochemical Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17485/9351",
-        "specializace": "BT"
+        "specializace": "BT",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BKCP_CHTPO",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Food Chemistry and Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17484/9351",
-        "specializace": "PCH"
+        "specializace": "PCH",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BKCP_CHTPO",
         "nazev_programu": "Chemistry and Technology of Foodstuffs - Chemistry and Analysis of Natural Products",
         "url": "https://www.vut.cz/en/students/programmes/branch/17486/9351",
-        "specializace": "CHPL"
+        "specializace": "CHPL",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "NPCP_CHMA",
         "nazev_programu": "Chemistry for Medical Application - Chemistry of Bioactive Substances",
         "url": "https://www.vut.cz/en/students/programmes/branch/17529/9386",
-        "specializace": "CHBL"
+        "specializace": "CHBL",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "NPCP_CHMA",
         "nazev_programu": "Chemistry for Medical Application - Processes and Materials of Medical Applications",
         "url": "https://www.vut.cz/en/students/programmes/branch/17528/9386",
-        "specializace": "BF"
+        "specializace": "BF",
+        "doba_studia": "2 years"
       }
     ]
   },
@@ -671,134 +823,159 @@
       {
         "zkratka_programu": "BIT",
         "nazev_programu": "Information Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9500"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9500",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "MIT-EN",
         "nazev_programu": "Master of Information Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9505"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9505",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "DIT",
         "nazev_programu": "Information Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9508"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9508",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DIT-EN",
         "nazev_programu": "Information Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9509"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9509",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "DIT",
         "nazev_programu": "Information Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9507"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9507",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DIT-EN",
         "nazev_programu": "Information Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9511"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9511",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Application Development",
         "url": "https://www.vut.cz/en/students/programmes/branch/17695/9506",
-        "specializace": "NADE"
+        "specializace": "NADE",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Bioinformatics and Biocomputing",
         "url": "https://www.vut.cz/en/students/programmes/branch/17691/9506",
-        "specializace": "NBIO"
+        "specializace": "NBIO",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Computer Graphics and Interaction",
         "url": "https://www.vut.cz/en/students/programmes/branch/17694/9506",
-        "specializace": "NGRI"
+        "specializace": "NGRI",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Computer Networks",
         "url": "https://www.vut.cz/en/students/programmes/branch/17681/9506",
-        "specializace": "NNET"
+        "specializace": "NNET",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Computer Vision",
         "url": "https://www.vut.cz/en/students/programmes/branch/17693/9506",
-        "specializace": "NVIZ"
+        "specializace": "NVIZ",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Cyberphysical Systems",
         "url": "https://www.vut.cz/en/students/programmes/branch/17683/9506",
-        "specializace": "NCPS"
+        "specializace": "NCPS",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Cybersecurity",
         "url": "https://www.vut.cz/en/students/programmes/branch/17679/9506",
-        "specializace": "NSEC"
+        "specializace": "NSEC",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Embedded Systems",
         "url": "https://www.vut.cz/en/students/programmes/branch/17690/9506",
-        "specializace": "NEMB"
+        "specializace": "NEMB",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - High Performance Computing",
         "url": "https://www.vut.cz/en/students/programmes/branch/17684/9506",
-        "specializace": "NHPC"
+        "specializace": "NHPC",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Information Systems and Databases",
         "url": "https://www.vut.cz/en/students/programmes/branch/17696/9506",
-        "specializace": "NISD"
+        "specializace": "NISD",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Intelligent Devices",
         "url": "https://www.vut.cz/en/students/programmes/branch/17686/9506",
-        "specializace": "NIDE"
+        "specializace": "NIDE",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Intelligent Systems",
         "url": "https://www.vut.cz/en/students/programmes/branch/17687/9506",
-        "specializace": "NISY"
+        "specializace": "NISY",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Machine Learning",
         "url": "https://www.vut.cz/en/students/programmes/branch/17682/9506",
-        "specializace": "NMAL"
+        "specializace": "NMAL",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Mathematical Methods",
         "url": "https://www.vut.cz/en/students/programmes/branch/17697/9506",
-        "specializace": "NMAT"
+        "specializace": "NMAT",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Software Engineering",
         "url": "https://www.vut.cz/en/students/programmes/branch/17692/9506",
-        "specializace": "NSEN"
+        "specializace": "NSEN",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Software Verification and Testing",
         "url": "https://www.vut.cz/en/students/programmes/branch/17685/9506",
-        "specializace": "NVER"
+        "specializace": "NVER",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MITAI",
         "nazev_programu": "Information Technology and Artificial Intelligence - Sound, Speech and Natural Language Processing",
         "url": "https://www.vut.cz/en/students/programmes/branch/17689/9506",
-        "specializace": "NSPE"
+        "specializace": "NSPE",
+        "doba_studia": "2 years"
       }
     ]
   },
@@ -809,99 +986,125 @@
       {
         "zkratka_programu": "BAK-EP",
         "nazev_programu": "Business Economics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9361"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9361",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "BAK-ESBD",
         "nazev_programu": "Entrepreneurship and Small Business Development",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9362"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9362",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BAK-MIn",
         "nazev_programu": "Managerial Informatics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9363"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9363",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "180"
       },
       {
         "zkratka_programu": "BAK-PM",
         "nazev_programu": "Process Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9364"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9364",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BAK-UAD",
         "nazev_programu": "Accounting and Taxes",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9365"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9365",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "MGR-IM",
         "nazev_programu": "Information Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9369"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9369",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MGR-IBM",
         "nazev_programu": "International Business and Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9368"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9368",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "MGR-MEO",
         "nazev_programu": "International Economics and Business",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9371"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9371",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MGR-SRP",
         "nazev_programu": "Strategic Company Development",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9372"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9372",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MGR-UFRP",
         "nazev_programu": "Accounting and Financial Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9374"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9374",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "MGR-IM-KS",
         "nazev_programu": "Information Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9370"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9370",
+        "doba_studia": "2 years\ntitle Ing.\ncombined study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MGR-SRP-KS",
         "nazev_programu": "Strategic Company Development",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9373"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9373",
+        "doba_studia": "2 years\ntitle Ing.\ncombined study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "MGR-UFRP-KS",
         "nazev_programu": "Accounting and Financial Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9375"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9375",
+        "doba_studia": "2 years\ntitle Ing.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DSP-CME",
         "nazev_programu": "Company Management and Economics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9380"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9380",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DSP-ŘEP",
         "nazev_programu": "Company Management and Economics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9382"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9382",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DSP-CME-KS",
         "nazev_programu": "Company Management and Economics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9381"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9381",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DSP-ŘEP-KS",
         "nazev_programu": "Company Management and Economics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9383"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9383",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "BAK-EAM",
         "nazev_programu": "Economics and Management - Accounting and Taxes",
         "url": "https://www.vut.cz/en/students/programmes/branch/18395/9906",
-        "specializace": "BAK-EAM-UAD"
+        "specializace": "BAK-EAM-UAD",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "BAK-EAM",
         "nazev_programu": "Economics and Management - Ekonomika podniku",
         "url": "https://www.vut.cz/en/students/programmes/branch/18396/9906",
-        "specializace": "BAK-EAM-EP"
+        "specializace": "BAK-EAM-EP",
+        "doba_studia": "3 years"
       }
     ]
   },
@@ -912,265 +1115,332 @@
       {
         "zkratka_programu": "BPC-APS",
         "nazev_programu": "Architecture of Building Construction",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9239"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9239",
+        "doba_studia": "4 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "240"
       },
       {
         "zkratka_programu": "BPA-SI",
         "nazev_programu": "Civil Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9238"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9238",
+        "doba_studia": "4 years\ntitle Bc.\nfull-time study",
+        "kredity": "240"
       },
       {
         "zkratka_programu": "BPC-EVB",
         "nazev_programu": "Sustainable Building Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9247"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9247",
+        "doba_studia": "4 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "240"
       },
       {
         "zkratka_programu": "BPC-ENI",
         "nazev_programu": "Environmental Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9485"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9485",
+        "doba_studia": "3.5 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "BPC-GK",
         "nazev_programu": "Geodesy and Cartography",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9246"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9246",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech",
+        "kredity": "240"
       },
       {
         "zkratka_programu": "BKC-SI",
         "nazev_programu": "Civil Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9248"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9248",
+        "doba_studia": "4 years\ntitle Bc.\ncombined study\nCzech",
+        "kredity": "240"
       },
       {
         "zkratka_programu": "NPA-SIS",
         "nazev_programu": "Civil Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9237"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9237",
+        "doba_studia": "1.5 year\ntitle Ing.\nfull-time study",
+        "kredity": "90"
       },
       {
         "zkratka_programu": "NPC-EVB",
         "nazev_programu": "Sustainable Building Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9497"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9497",
+        "doba_studia": "1.5 year\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "90"
       },
       {
         "zkratka_programu": "NPC-GK",
         "nazev_programu": "Geodesy and Cartography",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9496"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9496",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "NPC-MI",
         "nazev_programu": "Municipal Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9495"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9495",
+        "doba_studia": "1.5 year\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "90"
       },
       {
         "zkratka_programu": "NPC-SIK",
         "nazev_programu": "Civil Engineering – Structural and Transport Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9493"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9493",
+        "doba_studia": "1.5 year\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "90"
       },
       {
         "zkratka_programu": "NPC-SIE",
         "nazev_programu": "Civil Engineering – Civil Engineering Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9490"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9490",
+        "doba_studia": "1.5 year\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "90"
       },
       {
         "zkratka_programu": "NPC-SIS",
         "nazev_programu": "Civil Engineering – Building Construction",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9494"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9494",
+        "doba_studia": "1.5 year\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "90"
       },
       {
         "zkratka_programu": "NPC-SIR",
         "nazev_programu": "Civil Engineering – Construction Project Execution",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9491"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9491",
+        "doba_studia": "1.5 year\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "90"
       },
       {
         "zkratka_programu": "NPC-SIM",
         "nazev_programu": "Civil Engineering – Building Materials and Technologies",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9492"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9492",
+        "doba_studia": "1.5 year\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "90"
       },
       {
         "zkratka_programu": "NPC-SIV",
         "nazev_programu": "Civil Engineering – Water Management and Water Structures",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9489"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9489",
+        "doba_studia": "1.5 year\ntitle Ing.\nfull-time study\nCzech",
+        "kredity": "90"
       },
       {
         "zkratka_programu": "NKC-SIS",
         "nazev_programu": "Civil Engineering – Building Construction",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9499"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9499",
+        "doba_studia": "1.5 year\ntitle Ing.\ncombined study\nCzech",
+        "kredity": "90"
       },
       {
         "zkratka_programu": "DPA-S",
         "nazev_programu": "Building Construction",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9271"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9271",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "DPA-E",
         "nazev_programu": "Civil Engineering Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9260"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9260",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "DPC-M",
         "nazev_programu": "Physical and Building Materials Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9269"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9269",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPA-GK",
         "nazev_programu": "Geodesy and Cartography",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9275"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9275",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "DPC-GK",
         "nazev_programu": "Geodesy and Cartography",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9274"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9274",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPC-K",
         "nazev_programu": "Structural and Transport Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9265"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9265",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPC-E",
         "nazev_programu": "Civil Engineering Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9261"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9261",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPA-M",
         "nazev_programu": "Physical and Building Materials Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9268"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9268",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "DPC-S",
         "nazev_programu": "Building Construction",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9270"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9270",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPA-K",
         "nazev_programu": "Structural and Transport Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9264"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9264",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "DPC-V",
         "nazev_programu": "Water Management and Water Structures",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9257"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9257",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DPA-V",
         "nazev_programu": "Water Management and Water Structures",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9256"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9256",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "DKA-S",
         "nazev_programu": "Building Construction",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9273"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9273",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study"
       },
       {
         "zkratka_programu": "DKA-E",
         "nazev_programu": "Civil Engineering Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9258"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9258",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study"
       },
       {
         "zkratka_programu": "DKC-M",
         "nazev_programu": "Physical and Building Materials Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9267"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9267",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKA-GK",
         "nazev_programu": "Geodesy and Cartography",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9277"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9277",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study"
       },
       {
         "zkratka_programu": "DKC-GK",
         "nazev_programu": "Geodesy and Cartography",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9276"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9276",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKC-K",
         "nazev_programu": "Structural and Transport Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9263"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9263",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKC-E",
         "nazev_programu": "Civil Engineering Management",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9259"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9259",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKA-M",
         "nazev_programu": "Physical and Building Materials Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9266"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9266",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study"
       },
       {
         "zkratka_programu": "DKC-S",
         "nazev_programu": "Building Construction",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9272"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9272",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKA-K",
         "nazev_programu": "Structural and Transport Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9262"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9262",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study"
       },
       {
         "zkratka_programu": "DKC-V",
         "nazev_programu": "Water Management and Water Structures",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9255"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9255",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "DKA-V",
         "nazev_programu": "Water Management and Water Structures",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9254"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9254",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study"
       },
       {
         "zkratka_programu": "CZV3-MSCCE",
         "nazev_programu": "Master of Science in Civil Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9487"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9487",
+        "doba_studia": "1.5 year\ntitle MSc\ndistance form\nCzech"
       },
       {
         "zkratka_programu": "CZV3-MSCEE",
         "nazev_programu": "Master of Science in Environmental Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9486"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9486",
+        "doba_studia": "1.5 year\ntitle MSc\ndistance form\nCzech"
       },
       {
         "zkratka_programu": "BPC-SI",
         "nazev_programu": "Civil Engineering - Building Construction",
         "url": "https://www.vut.cz/en/students/programmes/branch/17308/9244",
-        "specializace": "S"
+        "specializace": "S",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "BPC-SI",
         "nazev_programu": "Civil Engineering - Building Materials and Technologies",
         "url": "https://www.vut.cz/en/students/programmes/branch/17311/9244",
-        "specializace": "M"
+        "specializace": "M",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "BPC-SI",
         "nazev_programu": "Civil Engineering - Civil Engineering Management",
         "url": "https://www.vut.cz/en/students/programmes/branch/17310/9244",
-        "specializace": "E"
+        "specializace": "E",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "BPC-SI",
         "nazev_programu": "Civil Engineering - General Studies",
         "url": "https://www.vut.cz/en/students/programmes/branch/17307/9244",
-        "specializace": "VS"
+        "specializace": "VS",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "BPC-SI",
         "nazev_programu": "Civil Engineering - Structural and Transport Engineering",
         "url": "https://www.vut.cz/en/students/programmes/branch/17309/9244",
-        "specializace": "K"
+        "specializace": "K",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "BPC-SI",
         "nazev_programu": "Civil Engineering - Water Management and Water Structures",
         "url": "https://www.vut.cz/en/students/programmes/branch/17312/9244",
-        "specializace": "V"
+        "specializace": "V",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "NPC-ARS",
         "nazev_programu": "Architecture and Urban Development - Architecture",
         "url": "https://www.vut.cz/en/students/programmes/branch/17670/9498",
-        "specializace": "ARA"
+        "specializace": "ARA",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "NPC-ARS",
         "nazev_programu": "Architecture and Urban Development - Urban Planning",
         "url": "https://www.vut.cz/en/students/programmes/branch/17671/9498",
-        "specializace": "ARP"
+        "specializace": "ARP",
+        "doba_studia": "2 years"
       }
     ]
   },
@@ -1181,317 +1451,376 @@
       {
         "zkratka_programu": "B-ENE-P",
         "nazev_programu": "Energy",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9289"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9289",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "B-STI-A",
         "nazev_programu": "Fundamentals of Mechanical Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9296"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9296",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "B-FIN-P",
         "nazev_programu": "Physical Engineering and Nanotechnology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9290"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9290",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "B-KSI-P",
         "nazev_programu": "Mechanical Engineering Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9291"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9291",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "B-MAI-P",
         "nazev_programu": "Mathematical Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9292"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9292",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "B-MET-P",
         "nazev_programu": "Mechatronics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9293"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9293",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "B-PRP-P",
         "nazev_programu": "Professional Pilot",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9295"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9295",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "B-PDS-P",
         "nazev_programu": "Industrial Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9294"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9294",
+        "doba_studia": "3 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "B-VKP-P",
         "nazev_programu": "Visual Communication in the Creative Industries",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9341"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9341",
+        "doba_studia": "4 years\ntitle Bc.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-AST-A",
         "nazev_programu": "Aerospace Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9318"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9318",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-AIŘ-P",
         "nazev_programu": "Applied Computer Science and Control",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9317"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9317",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-AIM-A",
         "nazev_programu": "Applied and Interdisciplinary Mathematics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9316"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9316",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-ADI-P",
         "nazev_programu": "Automotive and Material Handling Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9315"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9315",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-FIN-P",
         "nazev_programu": "Physical Engineering and Nanotechnology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9321"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9321",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-KSI-P",
         "nazev_programu": "Mechanical Engineering Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9324"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9324",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-KSB-P",
         "nazev_programu": "Quality, Reliability and Safety",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9323"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9323",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-LAN-A",
         "nazev_programu": "Logistics Analytics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9325"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9325",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study"
       },
       {
         "zkratka_programu": "N-MAI-P",
         "nazev_programu": "Mathematical Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9328"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9328",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-MTI-P",
         "nazev_programu": "Materials Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9330"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9330",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-MAI-A",
         "nazev_programu": "Mathematical Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9327"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9327",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-ENG-A",
         "nazev_programu": "Mechanical Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9319"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9319",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-MET-P",
         "nazev_programu": "Mechatronics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9329"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9329",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-AAE-P",
         "nazev_programu": "Advanced Automotiv Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9314"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9314",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-PRI-P",
         "nazev_programu": "Process Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9333"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9333",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-PDS-P",
         "nazev_programu": "Industrial Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9331"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9331",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-PMO-P",
         "nazev_programu": "Precise Mechanics and Optics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9332"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9332",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-SLE-P",
         "nazev_programu": "Foundry Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9334"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9334",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-SUE-P",
         "nazev_programu": "Computational Simulations for Sustainable Energy",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9342"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9342",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-VSR-P",
         "nazev_programu": "Production Machines, Systems and Robots",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9336"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9336",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-VSY-P",
         "nazev_programu": "Production Systems",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9337"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9337",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "N-VSR-K",
         "nazev_programu": "Production Machines, Systems and Robots",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9530"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9530",
+        "doba_studia": "2 years\ntitle Ing.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "D-APM-P",
         "nazev_programu": "Applied Mathematics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9301"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9301",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "D-ENE-P",
         "nazev_programu": "Power Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9303"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9303",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "D-FIN-P",
         "nazev_programu": "Physical Engineering and Nanotechnology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9305"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9305",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "D-IME-P",
         "nazev_programu": "Applied Mechanics",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9307"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9307",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "D-KPI-P",
         "nazev_programu": "Design and Process Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9309"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9309",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "D-MAT-P",
         "nazev_programu": "Materials Sciences",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9311"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9311",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "D-ENE-A",
         "nazev_programu": "Power Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9302"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9302",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "D-STG-P",
         "nazev_programu": "Manufacturing Technology",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9313"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9313",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "B-STR-P",
         "nazev_programu": "Engineering - Applied Computer Science and Control",
         "url": "https://www.vut.cz/en/students/programmes/branch/17416/9297",
-        "specializace": "AIŘ"
+        "specializace": "AIŘ",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "B-STR-P",
         "nazev_programu": "Engineering - Machine and Equipment Construction",
         "url": "https://www.vut.cz/en/students/programmes/branch/17419/9297",
-        "specializace": "SSZ"
+        "specializace": "SSZ",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "B-STR-P",
         "nazev_programu": "Engineering - Manufacturing Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17420/9297",
-        "specializace": "STG"
+        "specializace": "STG",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "B-STR-P",
         "nazev_programu": "Engineering - Quality, Reliability and Safety",
         "url": "https://www.vut.cz/en/students/programmes/branch/17417/9297",
-        "specializace": "KSB"
+        "specializace": "KSB",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "B-ZSI-P",
         "nazev_programu": "Fundamentals of Mechanical Engineering - Fundamentals of Mechanical Engineering",
         "url": "https://www.vut.cz/en/students/programmes/branch/17422/9299",
-        "specializace": "STI"
+        "specializace": "STI",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "B-ZSI-P",
         "nazev_programu": "Fundamentals of Mechanical Engineering - Materials Engineering",
         "url": "https://www.vut.cz/en/students/programmes/branch/17423/9299",
-        "specializace": "MTI"
+        "specializace": "MTI",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "B-STR-K",
         "nazev_programu": "Engineering - Applied Computer Science and Control",
         "url": "https://www.vut.cz/en/students/programmes/branch/17704/9512",
-        "specializace": "AIŘ"
+        "specializace": "AIŘ",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "B-STR-K",
         "nazev_programu": "Engineering - Machine and Equipment Construction",
         "url": "https://www.vut.cz/en/students/programmes/branch/17705/9512",
-        "specializace": "SSZ"
+        "specializace": "SSZ",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "B-STR-K",
         "nazev_programu": "Engineering - Manufacturing Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17706/9512",
-        "specializace": "STG"
+        "specializace": "STG",
+        "doba_studia": "3 years"
       },
       {
         "zkratka_programu": "N-ETI-P",
         "nazev_programu": "Power and Thermo-fluid Engineering - Environmental Engineering",
         "url": "https://www.vut.cz/en/students/programmes/branch/17444/9320",
-        "specializace": "TEP"
+        "specializace": "TEP",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-ETI-P",
         "nazev_programu": "Power and Thermo-fluid Engineering - Fluid Engineering",
         "url": "https://www.vut.cz/en/students/programmes/branch/17446/9320",
-        "specializace": "FLI"
+        "specializace": "FLI",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-ETI-P",
         "nazev_programu": "Power and Thermo-fluid Engineering - Power Engineering",
         "url": "https://www.vut.cz/en/students/programmes/branch/17445/9320",
-        "specializace": "ENI"
+        "specializace": "ENI",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-IMB-P",
         "nazev_programu": "Engineering Mechanics and Biomechanics - Biomechanics",
         "url": "https://www.vut.cz/en/students/programmes/branch/17449/9322",
-        "specializace": "BIO"
+        "specializace": "BIO",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-IMB-P",
         "nazev_programu": "Engineering Mechanics and Biomechanics - Engineering Mechanics",
         "url": "https://www.vut.cz/en/students/programmes/branch/17448/9322",
-        "specializace": "IME"
+        "specializace": "IME",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-LKT-P",
         "nazev_programu": "Aerospace Technology - Aircraft Design",
         "url": "https://www.vut.cz/en/students/programmes/branch/17453/9326",
-        "specializace": "STL"
+        "specializace": "STL",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-LKT-P",
         "nazev_programu": "Aerospace Technology - Airtransport and Airport Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17454/9326",
-        "specializace": "TLT"
+        "specializace": "TLT",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-STG-P",
         "nazev_programu": "Manufacturing Technology - Manufacturing Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17465/9335",
-        "specializace": "STG"
+        "specializace": "STG",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-STG-P",
         "nazev_programu": "Manufacturing Technology - Manufacturing Technology and Management in Industry",
         "url": "https://www.vut.cz/en/students/programmes/branch/17463/9335",
-        "specializace": "STM"
+        "specializace": "STM",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-STG-K",
         "nazev_programu": "Manufacturing Technology - Manufacturing Technology",
         "url": "https://www.vut.cz/en/students/programmes/branch/17725/9529",
-        "specializace": "STG"
+        "specializace": "STG",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "N-STG-K",
         "nazev_programu": "Manufacturing Technology - Manufacturing Technology and Management in Industry",
         "url": "https://www.vut.cz/en/students/programmes/branch/17723/9529",
-        "specializace": "STM"
+        "specializace": "STM",
+        "doba_studia": "2 years"
       }
     ]
   },
@@ -1502,219 +1831,257 @@
       {
         "zkratka_programu": "FAAD",
         "nazev_programu": "Fine Art and Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9283"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9283",
+        "doba_studia": "2 years",
+        "kredity": "120"
       },
       {
         "zkratka_programu": "VUD_P_CZ",
         "nazev_programu": "Research in Art and Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9571"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9571",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "VUD_K_CZ",
         "nazev_programu": "Research in Art and Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9572"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9572",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "VUD_P_EN",
         "nazev_programu": "Research in Art and Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9576"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9576",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study"
       },
       {
         "zkratka_programu": "VUD_K_EN",
         "nazev_programu": "Research in Art and Design",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9577"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9577",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study"
       },
       {
         "zkratka_programu": "DES_B",
         "nazev_programu": "Design - no specialisation (Ateliér grafického designu 1)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17371/9279",
-        "specializace": "AGD1"
+        "specializace": "AGD1",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DES_B",
         "nazev_programu": "Design - no specialisation (Ateliér grafického designu 2)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17374/9279",
-        "specializace": "AGD2"
+        "specializace": "AGD2",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DES_B",
         "nazev_programu": "Design - no specialisation (Ateliér herních médií)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17373/9279",
-        "specializace": "AHM"
+        "specializace": "AHM",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DES_B",
         "nazev_programu": "Design - no specialisation (Ateliér produktového designu)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17372/9279",
-        "specializace": "APD"
+        "specializace": "APD",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér environmentu)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17375/9280",
-        "specializace": "AEN"
+        "specializace": "AEN",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér fotografie)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17376/9280",
-        "specializace": "AFO"
+        "specializace": "AFO",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér intermédií)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17377/9280",
-        "specializace": "AIN"
+        "specializace": "AIN",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér kresby a grafiky)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17378/9280",
-        "specializace": "AKG"
+        "specializace": "AKG",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér malířství 1)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17379/9280",
-        "specializace": "AM1"
+        "specializace": "AM1",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér malířství 2)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17386/9280",
-        "specializace": "AM2"
+        "specializace": "AM2",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér malířství 3)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17381/9280",
-        "specializace": "AM3"
+        "specializace": "AM3",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér performance)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17382/9280",
-        "specializace": "APE"
+        "specializace": "APE",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér prostorové tvorby)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17384/9280",
-        "specializace": "APT"
+        "specializace": "APT",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér sochařství)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17383/9280",
-        "specializace": "ASO"
+        "specializace": "ASO",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér tělového designu)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17385/9280",
-        "specializace": "ATD"
+        "specializace": "ATD",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "VUM_B",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér video)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17380/9280",
-        "specializace": "AVI"
+        "specializace": "AVI",
+        "doba_studia": "4 years"
       },
       {
         "zkratka_programu": "DES_M",
         "nazev_programu": "Design - no specialisation (Ateliér grafického designu 1)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17388/9281",
-        "specializace": "AGD1"
+        "specializace": "AGD1",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "DES_M",
         "nazev_programu": "Design - no specialisation (Ateliér grafického designu 2)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17391/9281",
-        "specializace": "AGD2"
+        "specializace": "AGD2",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "DES_M",
         "nazev_programu": "Design - no specialisation (Ateliér herních médií)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17390/9281",
-        "specializace": "AHM"
+        "specializace": "AHM",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "DES_M",
         "nazev_programu": "Design - no specialisation (Ateliér produktového designu)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17389/9281",
-        "specializace": "APD"
+        "specializace": "APD",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér environmentu)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17392/9282",
-        "specializace": "AEN"
+        "specializace": "AEN",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér fotografie)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17393/9282",
-        "specializace": "AFO"
+        "specializace": "AFO",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér intermédií)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17394/9282",
-        "specializace": "AIN"
+        "specializace": "AIN",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér kresby a grafiky)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17395/9282",
-        "specializace": "AKG"
+        "specializace": "AKG",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér malířství 1)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17396/9282",
-        "specializace": "AM1"
+        "specializace": "AM1",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér malířství 2)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17403/9282",
-        "specializace": "AM2"
+        "specializace": "AM2",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér malířství 3)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17398/9282",
-        "specializace": "AM3"
+        "specializace": "AM3",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér performance)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17399/9282",
-        "specializace": "APE"
+        "specializace": "APE",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér prostorové tvorby)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17401/9282",
-        "specializace": "APT"
+        "specializace": "APT",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér sochařství)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17400/9282",
-        "specializace": "ASO"
+        "specializace": "ASO",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér tělového designu)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17402/9282",
-        "specializace": "ATD"
+        "specializace": "ATD",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "VUM_M",
         "nazev_programu": "Fine Arts - no specialisation (Ateliér video)",
         "url": "https://www.vut.cz/en/students/programmes/branch/17397/9282",
-        "specializace": "AVI"
+        "specializace": "AVI",
+        "doba_studia": "2 years"
       }
     ]
   },
@@ -1725,34 +2092,40 @@
       {
         "zkratka_programu": "NMSP-EID",
         "nazev_programu": "Expert Engineering in Traffic",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9549"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9549",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "NMSP-REI",
         "nazev_programu": "Real Estate Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9550"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9550",
+        "doba_studia": "2 years\ntitle Ing.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DSP SoI_P",
         "nazev_programu": "Forensic Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9182"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9182",
+        "doba_studia": "4 years\ntitle Ph.D.\nfull-time study\nCzech"
       },
       {
         "zkratka_programu": "DSP SoI_K",
         "nazev_programu": "Forensic Engineering",
-        "url": "https://www.vut.cz/en/students/programmes/programme/9181"
+        "url": "https://www.vut.cz/en/students/programmes/programme/9181",
+        "doba_studia": "4 years\ntitle Ph.D.\ncombined study\nCzech"
       },
       {
         "zkratka_programu": "NMSP-RRTES",
         "nazev_programu": "Risk Management of Technical and Economic Systems - Risk Management of Economic Systems",
         "url": "https://www.vut.cz/en/students/programmes/branch/17747/9551",
-        "specializace": "RRES"
+        "specializace": "RRES",
+        "doba_studia": "2 years"
       },
       {
         "zkratka_programu": "NMSP-RRTES",
         "nazev_programu": "Risk Management of Technical and Economic Systems - Risk Management of Technical Systems",
         "url": "https://www.vut.cz/en/students/programmes/branch/17746/9551",
-        "specializace": "RRTS"
+        "specializace": "RRTS",
+        "doba_studia": "2 years"
       }
     ]
   }
