@@ -151,6 +151,7 @@ class DataAnalyst:
             # Přidání standardní doby studia, pokud existuje
             duration = plan.get("doba_studia", "")
             if duration:
+                duration = duration.split(" ")[0]  # Extrakce pouze čísla (např. "3 roky" → "3")
                 program_entry["doba_studia"] = duration
             
             # Přidání kreditů, pokud existují
