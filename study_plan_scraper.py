@@ -207,7 +207,8 @@ class StudyPlanScraper:
         """
         Extrahuje počet kreditů ze stránky studijního plánu.
         
-        Hledá všechny výskyty "X credits" nebo "X kreditů" a vrací nejvyšší hodnotu.
+        Hledá všechny výskyty "X credits", "X kreditů", "X ECTS kreditů" apod.
+        a vrací nejvyšší hodnotu.
         
         Args:
             soup: BeautifulSoup objekt celé stránky
@@ -221,10 +222,13 @@ class StudyPlanScraper:
         text = soup.get_text()
         credits_values = []
         
-        # Hledání všech výskytů "X credits" nebo "X kreditů"
+        # Hledání všech výskytů kreditů v různých formátech
         patterns = [
-            r'(\d+)\s*credits?',
-            r'(\d+)\s*kredit[ůy]?',
+            r'(\d+)\s*ECTS\s*kredit[ůy]?',  # "120 ECTS kreditů"
+            r'(\d+)\s*ECTS\s*credits?',       # "120 ECTS credits"
+            r'(\d+)\s*ECTS',                  # "120 ECTS"
+            r'(\d+)\s*credits?',              # "120 credits"
+            r'(\d+)\s*kredit[ůy]?',           # "120 kreditů"
         ]
         
         for pattern in patterns:
