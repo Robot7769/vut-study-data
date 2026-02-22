@@ -163,6 +163,81 @@ class StudyPlanScraper:
         return ""
 
     @staticmethod
+    def _extract_study_duration(element) -> str:
+        """
+        Extrahuje standardní dobu studia z HTML elementu.
+        
+        Hledá text ve formátu "X roky", "X rok", "X years", "X year".
+        
+        Args:
+            element: BeautifulSoup element (např. .b-programme nebo row)
+            
+        Returns:
+            Standardní doba studia (např. "4 roky") nebo prázdný řetězec
+        """
+        if not element:
+            return ""
+        
+        # Hledání v meta informacích (např. .b-branch__meta-title, .b-programme__meta)
+        meta_selectors = [
+            ".b-branch__meta-title",
+            ".b-programme__meta",
+            ".b-meta",
+        ]
+        
+        for selector in meta_selectors:
+            meta_elem = element.select_one(selector)
+            if meta_elem:
+                text = meta_elem.get_text().strip()
+                # Hledání patternu "X roky/rok" nebo "X years/year"
+                match = re.search(r'(\d+)\s*(rok[ůy]?|years?)', text, re.IGNORECASE)
+                if match:
+                    return text
+        
+        # Hledání v celém textu elementu jako fallback
+        text = element.get_text()
+        match = re.search(r'(\d+)\s*(rok[ůy]?|years?)(?!\s*[,.]?\s*ročník)', text, re.IGNORECASE)
+        if match:
+            return match.group(0)
+        
+        return ""
+
+    @staticmethod
+    def _extract_credits(soup: BeautifulSoup) -> str:
+        """
+        Extrahuje počet kreditů ze stránky studijního plánu.
+        
+        Hledá všechny výskyty "X credits" nebo "X kreditů" a vrací nejvyšší hodnotu.
+        
+        Args:
+            soup: BeautifulSoup objekt celé stránky
+            
+        Returns:
+            Počet kreditů jako řetězec (např. "120") nebo prázdný řetězec
+        """
+        if not soup:
+            return ""
+        
+        text = soup.get_text()
+        credits_values = []
+        
+        # Hledání všech výskytů "X credits" nebo "X kreditů"
+        patterns = [
+            r'(\d+)\s*credits?',
+            r'(\d+)\s*kredit[ůy]?',
+        ]
+        
+        for pattern in patterns:
+            matches = re.findall(pattern, text, re.IGNORECASE)
+            credits_values.extend([int(m) for m in matches])
+        
+        # Vrátí maximální hodnotu nebo prázdný řetězec
+        if credits_values:
+            return str(max(credits_values))
+        
+        return ""
+
+    @staticmethod
     def _parse_caption(caption_text: str) -> Dict[str, str]:
         """
         Parsuje caption tabulky na ročník a semestr.
@@ -257,6 +332,9 @@ class StudyPlanScraper:
                     print(f"    – {abbr or name} (bez URL, přeskakuji)")
                     continue
 
+                # Extrakce standardní doby studia
+                duration = self._extract_study_duration(prog)
+
                 queue_item = {
                     "url": href,
                     "zkratka_fakulty": faculty_abbr,
@@ -264,11 +342,13 @@ class StudyPlanScraper:
                     "zkratka_programu": abbr or "",
                     "nazev_programu": name,
                     "specializace": "",
+                    "doba_studia": duration,
                     "typ": "program",
                     "retries": 0,
                 }
                 self.queue.append(queue_item)
-                print(f"    + {abbr}: {name}")
+                duration_info = f" ({duration})" if duration else ""
+                print(f"    + {abbr}: {name}{duration_info}")
 
         print(
             f"\n✓ Fáze 1 dokončena. Fronta obsahuje {len(self.queue)} položek."
@@ -355,6 +435,12 @@ class StudyPlanScraper:
             else:
                 spec_label = spec_name
 
+            # Extrakce standardní doby studia ze řádku tabulky
+            duration = self._extract_study_duration(row)
+            # Pokud není v řádku, zkusit zdědit z parent_item
+            if not duration:
+                duration = parent_item.get("doba_studia", "")
+
             item = {
                 "url": spec_href,
                 "zkratka_fakulty": parent_item["zkratka_fakulty"],
@@ -362,6 +448,7 @@ class StudyPlanScraper:
                 "zkratka_programu": parent_item["zkratka_programu"],
                 "nazev_programu": parent_item["nazev_programu"],
                 "specializace": spec_label,
+                "doba_studia": duration,
                 "typ": "specializace",
                 "retries": 0,
             }
@@ -607,6 +694,7 @@ class StudyPlanScraper:
 
             elif page_type == "study_plan":
                 subjects = self._extract_subjects_with_semesters(soup)
+                credits = self._extract_credits(soup)
                 result = {
                     "zkratka_fakulty": item["zkratka_fakulty"],
                     "fakulta": item["fakulta"],
@@ -615,15 +703,19 @@ class StudyPlanScraper:
                     "specializace": self._normalize_specialization(
                         item.get("specializace", "")
                     ) or "Bez specializace",
+                    "doba_studia": item.get("doba_studia", ""),
+                    "kredity": credits,
                     "url_planu": full_url,
                     "predmety": subjects,
                 }
                 self.results.append(result)
-                print(f"    ✓ Extrahováno {len(subjects)} předmětů")
+                credits_info = f" ({credits} kreditů)" if credits else ""
+                print(f"    ✓ Extrahováno {len(subjects)} předmětů{credits_info}")
 
             else:
                 subjects = self._extract_subjects_with_semesters(soup)
                 if subjects:
+                    credits = self._extract_credits(soup)
                     result = {
                         "zkratka_fakulty": item["zkratka_fakulty"],
                         "fakulta": item["fakulta"],
@@ -632,13 +724,16 @@ class StudyPlanScraper:
                         "specializace": self._normalize_specialization(
                             item.get("specializace", "")
                         ) or "Bez specializace",
+                        "doba_studia": item.get("doba_studia", ""),
+                        "kredity": credits,
                         "url_planu": full_url,
                         "predmety": subjects,
                     }
                     self.results.append(result)
+                    credits_info = f" ({credits} kreditů)" if credits else ""
                     print(
                         f"    ? Neznámý typ, ale nalezeno "
-                        f"{len(subjects)} předmětů"
+                        f"{len(subjects)} předmětů{credits_info}"
                     )
                 else:
                     print(

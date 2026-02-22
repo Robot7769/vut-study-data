@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/dat
 ```
 #### Pokud má program specializace, jsou předměty rozděleny podle nich.
 ```
-https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/data/{cs,en}/subjects/{programme_code}_{specialization_code}.json
+https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/data/{cs,en}/subjects/{programme_code}/{specialization_code}.json
 ```
 
 ### Příklad:

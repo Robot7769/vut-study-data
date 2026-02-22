@@ -104,7 +104,9 @@ class DataAnalyst:
                 {
                     "zkratka_programu": "...",
                     "nazev_programu": "...",
-                    "specializace": "...",
+                    "specializace": "..." (volitelné),
+                    "doba_studia": "..." (volitelné),
+                    "kredity": "..." (volitelné),
                     "url_planu": "..."
                 },
                 ...
@@ -145,6 +147,16 @@ class DataAnalyst:
             
             if specializace and specializace.lower() != "bez specializace":
                 program_entry["specializace"] = specializace
+            
+            # Přidání standardní doby studia, pokud existuje
+            duration = plan.get("doba_studia", "")
+            if duration:
+                program_entry["doba_studia"] = duration
+            
+            # Přidání kreditů, pokud existují
+            credits = plan.get("kredity", "")
+            if credits:
+                program_entry["kredity"] = credits
             
             faculties[key]["programy"].append(program_entry)
 
