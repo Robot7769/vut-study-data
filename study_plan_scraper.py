@@ -143,6 +143,25 @@ class StudyPlanScraper:
             return match.group(1).strip(), match.group(2).strip()
         return full_text, None
 
+    def _normalize_specialization(self, spec: str) -> str:
+        """
+        Normalizuje specializaci podle pravidla:
+        - Pokud obsahuje ':', je to skutečná specializace
+        - Pokud ne, vrátí prázdný řetězec (= bez specializace)
+        
+        Args:
+            spec: Řetězec se specializací
+            
+        Returns:
+            Normalizovaná specializace nebo prázdný řetězec
+        """
+        if not spec:
+            return ""
+        spec = spec.strip()
+        if ":" in spec:
+            return spec
+        return ""
+
     @staticmethod
     def _parse_caption(caption_text: str) -> Dict[str, str]:
         """
@@ -593,8 +612,9 @@ class StudyPlanScraper:
                     "fakulta": item["fakulta"],
                     "zkratka_programu": item["zkratka_programu"],
                     "nazev_programu": item["nazev_programu"],
-                    "specializace": item.get("specializace", "")
-                    or "Bez specializace",
+                    "specializace": self._normalize_specialization(
+                        item.get("specializace", "")
+                    ) or "Bez specializace",
                     "url_planu": full_url,
                     "predmety": subjects,
                 }
@@ -609,8 +629,9 @@ class StudyPlanScraper:
                         "fakulta": item["fakulta"],
                         "zkratka_programu": item["zkratka_programu"],
                         "nazev_programu": item["nazev_programu"],
-                        "specializace": item.get("specializace", "")
-                        or "Bez specializace",
+                        "specializace": self._normalize_specialization(
+                            item.get("specializace", "")
+                        ) or "Bez specializace",
                         "url_planu": full_url,
                         "predmety": subjects,
                     }

@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from collections import OrderedDict
 
 from config import *
@@ -74,6 +75,10 @@ class DataAnalyst:
             if raw_spec and ":" in raw_spec:
                 # Se specializací → složka programu / soubor specializace
                 spec_code = raw_spec.split(":", 1)[0].strip()
+                # Extrakce kódu ze závorek (např. --- (AM1) → AM1)
+                match = re.search(r'\(([^)]+)\)', spec_code)
+                if match:
+                    spec_code = match.group(1).strip()
                 dir_path = os.path.join(subjects_dir, zkratka)
                 os.makedirs(dir_path, exist_ok=True)
                 file_path = os.path.join(dir_path, f"{spec_code}.json")
@@ -121,7 +126,12 @@ class DataAnalyst:
             raw_spec = plan.get("specializace", "")
             if raw_spec and ":" in raw_spec:
                 spec_code, spec_name = raw_spec.split(":", 1)
-                specializace = spec_code.strip()
+                spec_code = spec_code.strip()
+                # Extrakce kódu ze závorek (např. --- (AM1) → AM1)
+                match = re.search(r'\(([^)]+)\)', spec_code)
+                if match:
+                    spec_code = match.group(1).strip()
+                specializace = spec_code
                 nazev = f"{plan.get('nazev_programu', '')} - {spec_name.strip()}"
             else:
                 specializace = raw_spec
