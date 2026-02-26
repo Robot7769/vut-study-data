@@ -203,6 +203,43 @@ class StudyPlanScraper:
         return ""
 
     @staticmethod
+    def _extract_study_type(duration_text: str) -> str:
+        """
+        Extrahuje typ studia z textu doby studia.
+        
+        Args:
+            duration_text: Text obsahující informace o době studia (např. "3 roky\ntitul Bc.\nprezenční studium")
+            
+        Returns:
+            Typ studia nebo prázdný řetězec. Možné hodnoty:
+            - "prezenční studium" / "full-time study"
+            - "kombinované studium" / "combined study"
+            - "distanční studium" / "distance study"
+        """
+        if not duration_text:
+            return ""
+        
+        text_lower = duration_text.lower()
+        
+        # České varianty
+        if "prezenční" in text_lower:
+            return "prezenční studium"
+        elif "kombinované" in text_lower or "kombinovan" in text_lower:
+            return "kombinované studium"
+        elif "distanční" in text_lower or "distančn" in text_lower:
+            return "distanční studium"
+        
+        # Anglické varianty
+        elif "full-time" in text_lower or "full time" in text_lower:
+            return "full-time study"
+        elif "combined" in text_lower:
+            return "combined study"
+        elif "distance" in text_lower:
+            return "distance study"
+        
+        return ""
+
+    @staticmethod
     def _extract_credits(soup: BeautifulSoup) -> str:
         """
         Extrahuje počet kreditů ze stránky studijního plánu.
@@ -338,6 +375,7 @@ class StudyPlanScraper:
 
                 # Extrakce standardní doby studia
                 duration = self._extract_study_duration(prog)
+                study_type = self._extract_study_type(duration)
 
                 queue_item = {
                     "url": href,
@@ -347,6 +385,7 @@ class StudyPlanScraper:
                     "nazev_programu": name,
                     "specializace": "",
                     "doba_studia": duration,
+                    "typ_studia": study_type,
                     "typ": "program",
                     "retries": 0,
                 }
@@ -444,6 +483,11 @@ class StudyPlanScraper:
             # Pokud není v řádku, zkusit zdědit z parent_item
             if not duration:
                 duration = parent_item.get("doba_studia", "")
+            
+            study_type = self._extract_study_type(duration)
+            # Pokud typ studia není zjištěn, zkusit zdědit z parent_item
+            if not study_type:
+                study_type = parent_item.get("typ_studia", "")
 
             item = {
                 "url": spec_href,
@@ -453,6 +497,7 @@ class StudyPlanScraper:
                 "nazev_programu": parent_item["nazev_programu"],
                 "specializace": spec_label,
                 "doba_studia": duration,
+                "typ_studia": study_type,
                 "typ": "specializace",
                 "retries": 0,
             }
@@ -708,6 +753,7 @@ class StudyPlanScraper:
                         item.get("specializace", "")
                     ) or "Bez specializace",
                     "doba_studia": item.get("doba_studia", ""),
+                    "typ_studia": item.get("typ_studia", ""),
                     "kredity": credits,
                     "url_planu": full_url,
                     "predmety": subjects,
@@ -729,6 +775,7 @@ class StudyPlanScraper:
                             item.get("specializace", "")
                         ) or "Bez specializace",
                         "doba_studia": item.get("doba_studia", ""),
+                        "typ_studia": item.get("typ_studia", ""),
                         "kredity": credits,
                         "url_planu": full_url,
                         "predmety": subjects,

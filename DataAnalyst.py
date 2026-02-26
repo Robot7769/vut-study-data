@@ -153,6 +153,10 @@ class DataAnalyst:
             if duration:
                 duration = duration.split(" ")[0]  # Extrakce pouze čísla (např. "3 roky" → "3")
                 program_entry["doba_studia"] = duration
+
+            study_type = plan.get("typ_studia", "")
+            if study_type:
+                program_entry["typ_studia"] = study_type
             
             # Přidání kreditů, pokud existují
             credits = plan.get("kredity", "")
