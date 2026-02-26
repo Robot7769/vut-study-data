@@ -33,7 +33,7 @@ jobs:
 
       # 4. Spustí scraper pro češtinu (raw data)
       - name: Scrape CZ raw data
-        run: python study_plan_scraper.py --language cs --no-resume
+        run: python study_plan_scraper.py --language cs-CZ --no-resume
 
       # 5. Detekce změn v CZ raw datech
       - name: Check if CZ data changed
@@ -64,5 +64,5 @@ jobs:
           commit_message: "Auto-update: Update study programs and subjects data"
           file_pattern: >-
             data/raw_study_plans/*.json
-            data/cs/**/*.json
-            data/en/**/*.json
+            data/cs-CZ/**/*.json
+            data/en-US/**/*.json
