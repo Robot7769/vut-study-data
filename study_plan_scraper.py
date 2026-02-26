@@ -43,13 +43,13 @@ class StudyPlanScraper:
 
     def __init__(
         self,
-        language: str = "cs",
+        language: str = "cs-CZ",
         delay_range: tuple = (2.0, 5.0),
         output_dir: Optional[str] = None,
     ):
         self.language = language
         self.base_url = BASE_URL
-        self.programs_url = PROGRAMS_URL_CS if language == "cs" else PROGRAMS_URL_EN
+        self.programs_url = PROGRAMS_URL_CS if language == "cs-CZ" else PROGRAMS_URL_EN
 
         # Cesty k souborům
         self.output_file = get_study_plans_output(language)
@@ -846,9 +846,9 @@ def main():
     parser.add_argument(
         "--language",
         "-l",
-        choices=["cs", "en"],
-        default="cs",
-        help="Jazyk stránek (default: cs)",
+        choices=["cs-CZ", "en-US"],
+        default="cs-CZ",
+        help="Jazyk stránek (default: cs-CZ)",
     )
     parser.add_argument(
         "--no-resume",
