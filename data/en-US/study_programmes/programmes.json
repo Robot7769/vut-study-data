@@ -8,6 +8,7 @@
         "nazev_programu": "Sports Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9488",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       }
     ]
@@ -26,13 +27,15 @@
         "zkratka_programu": "B_A+U",
         "nazev_programu": "Architecture and Urban Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9233",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N_A+U",
         "nazev_programu": "Architecture and Urban Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9559",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "NE_INUS",
@@ -85,13 +88,15 @@
         "zkratka_programu": "BPC-APE",
         "nazev_programu": "English for Practice in Electrical Engineering and Communication Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9407",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BPC-AMT",
         "nazev_programu": "Automation and Measurement",
         "url": "https://www.vut.cz/en/students/programmes/programme/9406",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
@@ -99,6 +104,7 @@
         "nazev_programu": "Biomedical Technology and Bioinformatics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9409",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
@@ -106,19 +112,22 @@
         "nazev_programu": "Electronics and Communication Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9410",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
         "zkratka_programu": "BPC-EMU",
         "nazev_programu": "E-mobility and Sustainability",
         "url": "https://www.vut.cz/en/students/programmes/programme/9161",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BPC-IBE",
         "nazev_programu": "Information Security",
         "url": "https://www.vut.cz/en/students/programmes/programme/9411",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
@@ -126,6 +135,7 @@
         "nazev_programu": "Microelectronics and Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9412",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
@@ -133,6 +143,7 @@
         "nazev_programu": "Chip Design and Modern Semiconductor Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9146",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
@@ -140,6 +151,7 @@
         "nazev_programu": "Power Electrical and Electronic Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9413",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
@@ -147,6 +159,7 @@
         "nazev_programu": "Telecommunication and Information Systems",
         "url": "https://www.vut.cz/en/students/programmes/programme/9414",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
@@ -154,6 +167,7 @@
         "nazev_programu": "Bioengineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9471",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -161,6 +175,7 @@
         "nazev_programu": "Biomedical Engineering and Bioinformatics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9472",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -168,6 +183,7 @@
         "nazev_programu": "Power Systems and Communication Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9473",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -175,6 +191,7 @@
         "nazev_programu": "Electrical Power Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9474",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -182,6 +199,7 @@
         "nazev_programu": "Electronics and Communication Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9475",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -189,6 +207,7 @@
         "nazev_programu": "Electrical Manufacturing and Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9476",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -196,32 +215,37 @@
         "nazev_programu": "Information Security",
         "url": "https://www.vut.cz/en/students/programmes/programme/9477",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-JAE",
         "nazev_programu": "Nuclear Power Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9478",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "MPC-KAM",
         "nazev_programu": "Cybernetics, Control and Measurements",
         "url": "https://www.vut.cz/en/students/programmes/programme/9479",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
         "zkratka_programu": "MPC-NCP",
         "nazev_programu": "Chip Design and Modern Semiconductor Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9149",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "MPC-SVE",
         "nazev_programu": "Power Electrical and Electronic Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9481",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -229,6 +253,7 @@
         "nazev_programu": "Communications and Informatics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9482",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -236,6 +261,7 @@
         "nazev_programu": "Electrical Manufacturing and Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9456",
         "doba_studia": "2",
+        "typ_studia": "combined study",
         "kredity": "120"
       },
       {
@@ -243,6 +269,7 @@
         "nazev_programu": "Communications and Informatics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9458",
         "doba_studia": "2",
+        "typ_studia": "combined study",
         "kredity": "120"
       },
       {
@@ -257,6 +284,7 @@
         "nazev_programu": "Bioengineering (Double Degree)",
         "url": "https://www.vut.cz/en/students/programmes/programme/9467",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -271,6 +299,7 @@
         "nazev_programu": "Communications and Networking (Double-Degree)",
         "url": "https://www.vut.cz/en/students/programmes/programme/9468",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -298,97 +327,113 @@
         "zkratka_programu": "DPC-BTB",
         "nazev_programu": "Biomedical Technologies and Bioinformatics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9445",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-EKT",
         "nazev_programu": "Electronics and Communication Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9446",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-IBE",
         "nazev_programu": "Information Security",
         "url": "https://www.vut.cz/en/students/programmes/programme/9447",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-KAM",
         "nazev_programu": "Cybernetics, Control and Measurements",
         "url": "https://www.vut.cz/en/students/programmes/programme/9448",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-MET",
         "nazev_programu": "Microelectronics and technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9449",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-SEE",
         "nazev_programu": "Power Systems and Power Electronics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9450",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-TLI",
         "nazev_programu": "Teleinformatics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9452",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-TEE",
         "nazev_programu": "Theoretical Electrical Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9451",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DKC-BTB",
         "nazev_programu": "Biomedical Technology and Bioinformatics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9427",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-EKT",
         "nazev_programu": "Electronics and Communication Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9428",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-IBE",
         "nazev_programu": "Information Security",
         "url": "https://www.vut.cz/en/students/programmes/programme/9429",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-KAM",
         "nazev_programu": "Cybernetics, Control and Measurements",
         "url": "https://www.vut.cz/en/students/programmes/programme/9430",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-MET",
         "nazev_programu": "Microelectronics and technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9431",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-SEE",
         "nazev_programu": "Power Systems and Power Electronics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9432",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-TLI",
         "nazev_programu": "Teleinformatics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9434",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-TEE",
         "nazev_programu": "Theoretical Electrical Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9433",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DPA-BTB",
@@ -418,7 +463,8 @@
         "zkratka_programu": "DPAD-EIT",
         "nazev_programu": "Electronics and Information Technologies (Double-Degree)",
         "url": "https://www.vut.cz/en/students/programmes/programme/9444",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPA-MET",
@@ -472,7 +518,8 @@
         "zkratka_programu": "DKAD-EIT",
         "nazev_programu": "Electronics and Information Technologies (Double-Degree)",
         "url": "https://www.vut.cz/en/students/programmes/programme/9426",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKA-MET",
@@ -502,7 +549,8 @@
         "zkratka_programu": "CZV3-Cyber",
         "nazev_programu": "Master of Science in Cybersecurity",
         "url": "https://www.vut.cz/en/students/programmes/programme/9416",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "BPC-AUD",
@@ -556,152 +604,177 @@
         "zkratka_programu": "BPCP_AAEFCH",
         "nazev_programu": "Applied Analytical, Environmental and Forensic Chemistry",
         "url": "https://www.vut.cz/en/students/programmes/programme/9352",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BPCP_ECHBM",
         "nazev_programu": "Environmental Chemistry, Safety and Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9353",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BPCP_CHTN",
         "nazev_programu": "Chemical Technology and Nanotechnology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9344",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BPCP_CHCHTE",
         "nazev_programu": "Chemistry and Chemical Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9357",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BPCP_CHTM",
         "nazev_programu": "Chemistry and Technology of Materials",
         "url": "https://www.vut.cz/en/students/programmes/programme/9354",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BPCP_CHMA",
         "nazev_programu": "Chemistry for Medical Application",
         "url": "https://www.vut.cz/en/students/programmes/programme/9346",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BKCP_AAEFCH",
         "nazev_programu": "Applied Analytical, Environmental and Forensic Chemistry",
         "url": "https://www.vut.cz/en/students/programmes/programme/9347",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "BKCP_ECHBM",
         "nazev_programu": "Environmental Chemistry, Safety and Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9348",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "BKCP_CHCHTE",
         "nazev_programu": "Chemistry and Chemical Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9358",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "BKCP_CHTM",
         "nazev_programu": "Chemistry and Technology of Materials",
         "url": "https://www.vut.cz/en/students/programmes/programme/9349",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "NPAP_ENVI",
         "nazev_programu": "Environmental Sciences and Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9388",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
         "zkratka_programu": "NPCP_ECHT",
         "nazev_programu": "Environmental Chemistry and Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9390",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "NPCP_CHCHTE",
         "nazev_programu": "Chemistry and Chemical Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9384",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "NPCP_CHTM",
         "nazev_programu": "Chemistry and Technology of Materials",
         "url": "https://www.vut.cz/en/students/programmes/programme/9391",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "NPCP_PCHBT",
         "nazev_programu": "Food Chemistry and Biotechnology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9552",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "NKCP_ECHT",
         "nazev_programu": "Environmental Chemistry and Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9389",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "NKCP_CHCHTE",
         "nazev_programu": "Chemistry and Chemical Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9385",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "NKCP_CHTM",
         "nazev_programu": "Chemistry and Technology of Materials",
         "url": "https://www.vut.cz/en/students/programmes/programme/9392",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "NKCP_CHPL",
         "nazev_programu": "Chemistry of Natural Products",
         "url": "https://www.vut.cz/en/students/programmes/programme/9394",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DPCP_BCH",
         "nazev_programu": "Biophysical Chemistry",
         "url": "https://www.vut.cz/en/students/programmes/programme/9532",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPAP_BCH",
         "nazev_programu": "Biophysical Chemistry",
         "url": "https://www.vut.cz/en/students/programmes/programme/9542",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPCP_FCH_N",
         "nazev_programu": "Physical Chemistry",
         "url": "https://www.vut.cz/en/students/programmes/programme/9540",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPCP_CHTOZP_N",
         "nazev_programu": "Chemistry and technology of environmental protection",
         "url": "https://www.vut.cz/en/students/programmes/programme/9539",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPCP_CHM_4_N",
         "nazev_programu": "Chemistry, Technology and Properties of Materials",
         "url": "https://www.vut.cz/en/students/programmes/programme/9534",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPCP_PCH",
         "nazev_programu": "Food Chemistry",
         "url": "https://www.vut.cz/en/students/programmes/programme/9536",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BPCP_CHTP",
@@ -826,6 +899,7 @@
         "nazev_programu": "Information Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9500",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
@@ -833,31 +907,36 @@
         "nazev_programu": "Master of Information Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9505",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
         "zkratka_programu": "DIT",
         "nazev_programu": "Information Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9508",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DIT-EN",
         "nazev_programu": "Information Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9509",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DIT",
         "nazev_programu": "Information Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9507",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DIT-EN",
         "nazev_programu": "Information Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9511",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "MITAI",
@@ -989,6 +1068,7 @@
         "nazev_programu": "Business Economics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9361",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
@@ -1002,25 +1082,29 @@
         "nazev_programu": "Managerial Informatics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9363",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "180"
       },
       {
         "zkratka_programu": "BAK-PM",
         "nazev_programu": "Process Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9364",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BAK-UAD",
         "nazev_programu": "Accounting and Taxes",
         "url": "https://www.vut.cz/en/students/programmes/programme/9365",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "MGR-IM",
         "nazev_programu": "Information Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9369",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -1034,6 +1118,7 @@
         "nazev_programu": "International Economics and Business",
         "url": "https://www.vut.cz/en/students/programmes/programme/9371",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -1041,19 +1126,22 @@
         "nazev_programu": "Strategic Company Development",
         "url": "https://www.vut.cz/en/students/programmes/programme/9372",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
         "zkratka_programu": "MGR-UFRP",
         "nazev_programu": "Accounting and Financial Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9374",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "MGR-IM-KS",
         "nazev_programu": "Information Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9370",
         "doba_studia": "2",
+        "typ_studia": "combined study",
         "kredity": "120"
       },
       {
@@ -1061,13 +1149,15 @@
         "nazev_programu": "Strategic Company Development",
         "url": "https://www.vut.cz/en/students/programmes/programme/9373",
         "doba_studia": "2",
+        "typ_studia": "combined study",
         "kredity": "120"
       },
       {
         "zkratka_programu": "MGR-UFRP-KS",
         "nazev_programu": "Accounting and Financial Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9375",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DSP-CME",
@@ -1079,7 +1169,8 @@
         "zkratka_programu": "DSP-ŘEP",
         "nazev_programu": "Company Management and Economics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9382",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DSP-CME-KS",
@@ -1091,7 +1182,8 @@
         "zkratka_programu": "DSP-ŘEP-KS",
         "nazev_programu": "Company Management and Economics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9383",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "BAK-EAM",
@@ -1118,6 +1210,7 @@
         "nazev_programu": "Architecture of Building Construction",
         "url": "https://www.vut.cz/en/students/programmes/programme/9239",
         "doba_studia": "4",
+        "typ_studia": "full-time study",
         "kredity": "240"
       },
       {
@@ -1125,6 +1218,7 @@
         "nazev_programu": "Civil Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9238",
         "doba_studia": "4",
+        "typ_studia": "full-time study",
         "kredity": "240"
       },
       {
@@ -1132,19 +1226,22 @@
         "nazev_programu": "Sustainable Building Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9247",
         "doba_studia": "4",
+        "typ_studia": "full-time study",
         "kredity": "240"
       },
       {
         "zkratka_programu": "BPC-ENI",
         "nazev_programu": "Environmental Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9485",
-        "doba_studia": "3.5"
+        "doba_studia": "3.5",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "BPC-GK",
         "nazev_programu": "Geodesy and Cartography",
         "url": "https://www.vut.cz/en/students/programmes/programme/9246",
         "doba_studia": "3",
+        "typ_studia": "full-time study",
         "kredity": "240"
       },
       {
@@ -1152,6 +1249,7 @@
         "nazev_programu": "Civil Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9248",
         "doba_studia": "4",
+        "typ_studia": "combined study",
         "kredity": "240"
       },
       {
@@ -1159,6 +1257,7 @@
         "nazev_programu": "Civil Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9237",
         "doba_studia": "1.5",
+        "typ_studia": "full-time study",
         "kredity": "90"
       },
       {
@@ -1166,6 +1265,7 @@
         "nazev_programu": "Sustainable Building Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9497",
         "doba_studia": "1.5",
+        "typ_studia": "full-time study",
         "kredity": "90"
       },
       {
@@ -1173,6 +1273,7 @@
         "nazev_programu": "Geodesy and Cartography",
         "url": "https://www.vut.cz/en/students/programmes/programme/9496",
         "doba_studia": "2",
+        "typ_studia": "full-time study",
         "kredity": "120"
       },
       {
@@ -1180,6 +1281,7 @@
         "nazev_programu": "Municipal Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9495",
         "doba_studia": "1.5",
+        "typ_studia": "full-time study",
         "kredity": "90"
       },
       {
@@ -1187,6 +1289,7 @@
         "nazev_programu": "Civil Engineering – Structural and Transport Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9493",
         "doba_studia": "1.5",
+        "typ_studia": "full-time study",
         "kredity": "90"
       },
       {
@@ -1194,6 +1297,7 @@
         "nazev_programu": "Civil Engineering – Civil Engineering Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9490",
         "doba_studia": "1.5",
+        "typ_studia": "full-time study",
         "kredity": "90"
       },
       {
@@ -1201,6 +1305,7 @@
         "nazev_programu": "Civil Engineering – Building Construction",
         "url": "https://www.vut.cz/en/students/programmes/programme/9494",
         "doba_studia": "1.5",
+        "typ_studia": "full-time study",
         "kredity": "90"
       },
       {
@@ -1208,6 +1313,7 @@
         "nazev_programu": "Civil Engineering – Construction Project Execution",
         "url": "https://www.vut.cz/en/students/programmes/programme/9491",
         "doba_studia": "1.5",
+        "typ_studia": "full-time study",
         "kredity": "90"
       },
       {
@@ -1215,6 +1321,7 @@
         "nazev_programu": "Civil Engineering – Building Materials and Technologies",
         "url": "https://www.vut.cz/en/students/programmes/programme/9492",
         "doba_studia": "1.5",
+        "typ_studia": "full-time study",
         "kredity": "90"
       },
       {
@@ -1222,6 +1329,7 @@
         "nazev_programu": "Civil Engineering – Water Management and Water Structures",
         "url": "https://www.vut.cz/en/students/programmes/programme/9489",
         "doba_studia": "1.5",
+        "typ_studia": "full-time study",
         "kredity": "90"
       },
       {
@@ -1229,163 +1337,190 @@
         "nazev_programu": "Civil Engineering – Building Construction",
         "url": "https://www.vut.cz/en/students/programmes/programme/9499",
         "doba_studia": "1.5",
+        "typ_studia": "combined study",
         "kredity": "90"
       },
       {
         "zkratka_programu": "DPA-S",
         "nazev_programu": "Building Construction",
         "url": "https://www.vut.cz/en/students/programmes/programme/9271",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPA-E",
         "nazev_programu": "Civil Engineering Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9260",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-M",
         "nazev_programu": "Physical and Building Materials Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9269",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPA-GK",
         "nazev_programu": "Geodesy and Cartography",
         "url": "https://www.vut.cz/en/students/programmes/programme/9275",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-GK",
         "nazev_programu": "Geodesy and Cartography",
         "url": "https://www.vut.cz/en/students/programmes/programme/9274",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-K",
         "nazev_programu": "Structural and Transport Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9265",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-E",
         "nazev_programu": "Civil Engineering Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9261",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPA-M",
         "nazev_programu": "Physical and Building Materials Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9268",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-S",
         "nazev_programu": "Building Construction",
         "url": "https://www.vut.cz/en/students/programmes/programme/9270",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPA-K",
         "nazev_programu": "Structural and Transport Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9264",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPC-V",
         "nazev_programu": "Water Management and Water Structures",
         "url": "https://www.vut.cz/en/students/programmes/programme/9257",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DPA-V",
         "nazev_programu": "Water Management and Water Structures",
         "url": "https://www.vut.cz/en/students/programmes/programme/9256",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DKA-S",
         "nazev_programu": "Building Construction",
         "url": "https://www.vut.cz/en/students/programmes/programme/9273",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKA-E",
         "nazev_programu": "Civil Engineering Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9258",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-M",
         "nazev_programu": "Physical and Building Materials Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9267",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKA-GK",
         "nazev_programu": "Geodesy and Cartography",
         "url": "https://www.vut.cz/en/students/programmes/programme/9277",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-GK",
         "nazev_programu": "Geodesy and Cartography",
         "url": "https://www.vut.cz/en/students/programmes/programme/9276",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-K",
         "nazev_programu": "Structural and Transport Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9263",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-E",
         "nazev_programu": "Civil Engineering Management",
         "url": "https://www.vut.cz/en/students/programmes/programme/9259",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKA-M",
         "nazev_programu": "Physical and Building Materials Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9266",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-S",
         "nazev_programu": "Building Construction",
         "url": "https://www.vut.cz/en/students/programmes/programme/9272",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKA-K",
         "nazev_programu": "Structural and Transport Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9262",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKC-V",
         "nazev_programu": "Water Management and Water Structures",
         "url": "https://www.vut.cz/en/students/programmes/programme/9255",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DKA-V",
         "nazev_programu": "Water Management and Water Structures",
         "url": "https://www.vut.cz/en/students/programmes/programme/9254",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "CZV3-MSCCE",
         "nazev_programu": "Master of Science in Civil Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9487",
-        "doba_studia": "1.5"
+        "doba_studia": "1.5",
+        "typ_studia": "distance study"
       },
       {
         "zkratka_programu": "CZV3-MSCEE",
         "nazev_programu": "Master of Science in Environmental Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9486",
-        "doba_studia": "1.5"
+        "doba_studia": "1.5",
+        "typ_studia": "distance study"
       },
       {
         "zkratka_programu": "BPC-SI",
@@ -1453,7 +1588,8 @@
         "zkratka_programu": "B-ENE-P",
         "nazev_programu": "Energy",
         "url": "https://www.vut.cz/en/students/programmes/programme/9289",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "B-STI-A",
@@ -1465,43 +1601,50 @@
         "zkratka_programu": "B-FIN-P",
         "nazev_programu": "Physical Engineering and Nanotechnology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9290",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "B-KSI-P",
         "nazev_programu": "Mechanical Engineering Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9291",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "B-MAI-P",
         "nazev_programu": "Mathematical Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9292",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "B-MET-P",
         "nazev_programu": "Mechatronics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9293",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "B-PRP-P",
         "nazev_programu": "Professional Pilot",
         "url": "https://www.vut.cz/en/students/programmes/programme/9295",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "B-PDS-P",
         "nazev_programu": "Industrial Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9294",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "B-VKP-P",
         "nazev_programu": "Visual Communication in the Creative Industries",
         "url": "https://www.vut.cz/en/students/programmes/programme/9341",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-AST-A",
@@ -1513,7 +1656,8 @@
         "zkratka_programu": "N-AIŘ-P",
         "nazev_programu": "Applied Computer Science and Control",
         "url": "https://www.vut.cz/en/students/programmes/programme/9317",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-AIM-A",
@@ -1525,43 +1669,50 @@
         "zkratka_programu": "N-ADI-P",
         "nazev_programu": "Automotive and Material Handling Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9315",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-FIN-P",
         "nazev_programu": "Physical Engineering and Nanotechnology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9321",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-KSI-P",
         "nazev_programu": "Mechanical Engineering Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9324",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-KSB-P",
         "nazev_programu": "Quality, Reliability and Safety",
         "url": "https://www.vut.cz/en/students/programmes/programme/9323",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-LAN-A",
         "nazev_programu": "Logistics Analytics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9325",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-MAI-P",
         "nazev_programu": "Mathematical Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9328",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-MTI-P",
         "nazev_programu": "Materials Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9330",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-MAI-A",
@@ -1579,109 +1730,127 @@
         "zkratka_programu": "N-MET-P",
         "nazev_programu": "Mechatronics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9329",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-AAE-P",
         "nazev_programu": "Advanced Automotiv Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9314",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-PRI-P",
         "nazev_programu": "Process Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9333",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-PDS-P",
         "nazev_programu": "Industrial Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9331",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-PMO-P",
         "nazev_programu": "Precise Mechanics and Optics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9332",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-SLE-P",
         "nazev_programu": "Foundry Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9334",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-SUE-P",
         "nazev_programu": "Computational Simulations for Sustainable Energy",
         "url": "https://www.vut.cz/en/students/programmes/programme/9342",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-VSR-P",
         "nazev_programu": "Production Machines, Systems and Robots",
         "url": "https://www.vut.cz/en/students/programmes/programme/9336",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-VSY-P",
         "nazev_programu": "Production Systems",
         "url": "https://www.vut.cz/en/students/programmes/programme/9337",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "N-VSR-K",
         "nazev_programu": "Production Machines, Systems and Robots",
         "url": "https://www.vut.cz/en/students/programmes/programme/9530",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "D-APM-P",
         "nazev_programu": "Applied Mathematics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9301",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "D-ENE-P",
         "nazev_programu": "Power Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9303",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "D-FIN-P",
         "nazev_programu": "Physical Engineering and Nanotechnology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9305",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "D-IME-P",
         "nazev_programu": "Applied Mechanics",
         "url": "https://www.vut.cz/en/students/programmes/programme/9307",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "D-KPI-P",
         "nazev_programu": "Design and Process Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9309",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "D-MAT-P",
         "nazev_programu": "Materials Sciences",
         "url": "https://www.vut.cz/en/students/programmes/programme/9311",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "D-ENE-A",
         "nazev_programu": "Power Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9302",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "D-STG-P",
         "nazev_programu": "Manufacturing Technology",
         "url": "https://www.vut.cz/en/students/programmes/programme/9313",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "B-STR-P",
@@ -1840,25 +2009,29 @@
         "zkratka_programu": "VUD_P_CZ",
         "nazev_programu": "Research in Art and Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9571",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "VUD_K_CZ",
         "nazev_programu": "Research in Art and Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9572",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "VUD_P_EN",
         "nazev_programu": "Research in Art and Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9576",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "VUD_K_EN",
         "nazev_programu": "Research in Art and Design",
         "url": "https://www.vut.cz/en/students/programmes/programme/9577",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "DES_B",
@@ -2094,25 +2267,29 @@
         "zkratka_programu": "NMSP-EID",
         "nazev_programu": "Expert Engineering in Traffic",
         "url": "https://www.vut.cz/en/students/programmes/programme/9549",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "NMSP-REI",
         "nazev_programu": "Real Estate Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9550",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DSP SoI_P",
         "nazev_programu": "Forensic Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9182",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "full-time study"
       },
       {
         "zkratka_programu": "DSP SoI_K",
         "nazev_programu": "Forensic Engineering",
         "url": "https://www.vut.cz/en/students/programmes/programme/9181",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "combined study"
       },
       {
         "zkratka_programu": "NMSP-RRTES",

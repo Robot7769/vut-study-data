@@ -8,6 +8,7 @@
         "nazev_programu": "Sportovní technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9488",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       }
     ]
@@ -28,6 +29,7 @@
         "nazev_programu": "Architektura a urbanismus",
         "url": "https://www.vut.cz/studenti/programy/program/9233",
         "doba_studia": "4",
+        "typ_studia": "prezenční studium",
         "kredity": "240"
       },
       {
@@ -35,6 +37,7 @@
         "nazev_programu": "Architektura a urbanismus",
         "url": "https://www.vut.cz/studenti/programy/program/9559",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -89,6 +92,7 @@
         "nazev_programu": "Angličtina pro praxi v elektrotechnice a komunikačních technologiích",
         "url": "https://www.vut.cz/studenti/programy/program/9407",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -96,6 +100,7 @@
         "nazev_programu": "Automatizační a měřicí technika",
         "url": "https://www.vut.cz/studenti/programy/program/9406",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -103,6 +108,7 @@
         "nazev_programu": "Biomedicínská technika a bioinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9409",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -110,6 +116,7 @@
         "nazev_programu": "Elektronika a komunikační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9410",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -117,6 +124,7 @@
         "nazev_programu": "E-mobilita a udržitelnost",
         "url": "https://www.vut.cz/studenti/programy/program/9161",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -124,6 +132,7 @@
         "nazev_programu": "Informační bezpečnost",
         "url": "https://www.vut.cz/studenti/programy/program/9411",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -131,6 +140,7 @@
         "nazev_programu": "Mikroelektronika a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9412",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -138,6 +148,7 @@
         "nazev_programu": "Návrh čipů a moderní polovodičové technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9146",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -145,6 +156,7 @@
         "nazev_programu": "Silnoproudá elektrotechnika a elektroenergetika",
         "url": "https://www.vut.cz/studenti/programy/program/9413",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -152,6 +164,7 @@
         "nazev_programu": "Telekomunikační a informační systémy",
         "url": "https://www.vut.cz/studenti/programy/program/9414",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -159,6 +172,7 @@
         "nazev_programu": "Bioinženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9471",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -166,6 +180,7 @@
         "nazev_programu": "Biomedicínské inženýrství a bioinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9472",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -173,6 +188,7 @@
         "nazev_programu": "Elektroenergetika a komunikační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9473",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -180,6 +196,7 @@
         "nazev_programu": "Elektroenergetika",
         "url": "https://www.vut.cz/studenti/programy/program/9474",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -187,6 +204,7 @@
         "nazev_programu": "Elektronika a komunikační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9475",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -194,6 +212,7 @@
         "nazev_programu": "Elektrotechnická výroba a management",
         "url": "https://www.vut.cz/studenti/programy/program/9476",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -201,6 +220,7 @@
         "nazev_programu": "Informační bezpečnost",
         "url": "https://www.vut.cz/studenti/programy/program/9477",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -208,6 +228,7 @@
         "nazev_programu": "Jaderná energetika",
         "url": "https://www.vut.cz/studenti/programy/program/9478",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -215,6 +236,7 @@
         "nazev_programu": "Kybernetika, automatizace a měření",
         "url": "https://www.vut.cz/studenti/programy/program/9479",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -222,6 +244,7 @@
         "nazev_programu": "Návrh čipů a moderní polovodičové technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9149",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -229,6 +252,7 @@
         "nazev_programu": "Silnoproudá elektrotechnika a výkonová elektronika",
         "url": "https://www.vut.cz/studenti/programy/program/9481",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -236,6 +260,7 @@
         "nazev_programu": "Telekomunikační a informační technika",
         "url": "https://www.vut.cz/studenti/programy/program/9482",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -243,6 +268,7 @@
         "nazev_programu": "Elektrotechnická výroba a management",
         "url": "https://www.vut.cz/studenti/programy/program/9456",
         "doba_studia": "2",
+        "typ_studia": "kombinované studium",
         "kredity": "120"
       },
       {
@@ -250,6 +276,7 @@
         "nazev_programu": "Telekomunikační a informační technika",
         "url": "https://www.vut.cz/studenti/programy/program/9458",
         "doba_studia": "2",
+        "typ_studia": "kombinované studium",
         "kredity": "120"
       },
       {
@@ -264,6 +291,7 @@
         "nazev_programu": "Bioengineering (Double Degree)",
         "url": "https://www.vut.cz/studenti/programy/program/9467",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -278,6 +306,7 @@
         "nazev_programu": "Communications and Networking (Double-Degree)",
         "url": "https://www.vut.cz/studenti/programy/program/9468",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -305,97 +334,113 @@
         "zkratka_programu": "DPC-BTB",
         "nazev_programu": "Biomedicínské technologie a bioinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9445",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-EKT",
         "nazev_programu": "Elektronika a komunikační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9446",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-IBE",
         "nazev_programu": "Informační bezpečnost",
         "url": "https://www.vut.cz/studenti/programy/program/9447",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-KAM",
         "nazev_programu": "Kybernetika, automatizace a měření",
         "url": "https://www.vut.cz/studenti/programy/program/9448",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-MET",
         "nazev_programu": "Mikroelektronika a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9449",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-SEE",
         "nazev_programu": "Silnoproudá elektrotechnika a elektroenergetika",
         "url": "https://www.vut.cz/studenti/programy/program/9450",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-TLI",
         "nazev_programu": "Teleinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9452",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-TEE",
         "nazev_programu": "Teoretická elektrotechnika",
         "url": "https://www.vut.cz/studenti/programy/program/9451",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DKC-BTB",
         "nazev_programu": "Biomedicínské technologie a bioinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9427",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-EKT",
         "nazev_programu": "Elektronika a komunikační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9428",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-IBE",
         "nazev_programu": "Informační bezpečnost",
         "url": "https://www.vut.cz/studenti/programy/program/9429",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-KAM",
         "nazev_programu": "Kybernetika, automatizace a měření",
         "url": "https://www.vut.cz/studenti/programy/program/9430",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-MET",
         "nazev_programu": "Mikroelektronika a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9431",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-SEE",
         "nazev_programu": "Silnoproudá elektrotechnika a elektroenergetika",
         "url": "https://www.vut.cz/studenti/programy/program/9432",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-TLI",
         "nazev_programu": "Teleinformatika",
         "url": "https://www.vut.cz/studenti/programy/program/9434",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-TEE",
         "nazev_programu": "Teoretická elektrotechnika",
         "url": "https://www.vut.cz/studenti/programy/program/9433",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DPA-BTB",
@@ -425,7 +470,8 @@
         "zkratka_programu": "DPAD-EIT",
         "nazev_programu": "Electronics and Information Technologies (Double-Degree)",
         "url": "https://www.vut.cz/studenti/programy/program/9444",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPA-MET",
@@ -479,7 +525,8 @@
         "zkratka_programu": "DKAD-EIT",
         "nazev_programu": "Electronics and Information Technologies (Double-Degree)",
         "url": "https://www.vut.cz/studenti/programy/program/9426",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKA-MET",
@@ -510,6 +557,7 @@
         "nazev_programu": "Master of Science in Cybersecurity",
         "url": "https://www.vut.cz/studenti/programy/program/9416",
         "doba_studia": "2",
+        "typ_studia": "kombinované studium",
         "kredity": "122"
       },
       {
@@ -565,6 +613,7 @@
         "nazev_programu": "Aplikovaná analytická, environmentální a forenzní chemie",
         "url": "https://www.vut.cz/studenti/programy/program/9352",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -572,6 +621,7 @@
         "nazev_programu": "Environmentální chemie, bezpečnost a management",
         "url": "https://www.vut.cz/studenti/programy/program/9353",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -579,6 +629,7 @@
         "nazev_programu": "Chemické technologie a nanotechnologie",
         "url": "https://www.vut.cz/studenti/programy/program/9344",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -586,6 +637,7 @@
         "nazev_programu": "Chemie a chemické technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9357",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -593,6 +645,7 @@
         "nazev_programu": "Chemie a technologie materiálů",
         "url": "https://www.vut.cz/studenti/programy/program/9354",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -600,6 +653,7 @@
         "nazev_programu": "Chemie pro medicínské aplikace",
         "url": "https://www.vut.cz/studenti/programy/program/9346",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -607,6 +661,7 @@
         "nazev_programu": "Aplikovaná analytická, environmentální a forenzní chemie",
         "url": "https://www.vut.cz/studenti/programy/program/9347",
         "doba_studia": "3",
+        "typ_studia": "kombinované studium",
         "kredity": "180"
       },
       {
@@ -614,6 +669,7 @@
         "nazev_programu": "Environmentální chemie, bezpečnost a management",
         "url": "https://www.vut.cz/studenti/programy/program/9348",
         "doba_studia": "3",
+        "typ_studia": "kombinované studium",
         "kredity": "180"
       },
       {
@@ -621,6 +677,7 @@
         "nazev_programu": "Chemie a chemické technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9358",
         "doba_studia": "3",
+        "typ_studia": "kombinované studium",
         "kredity": "180"
       },
       {
@@ -628,6 +685,7 @@
         "nazev_programu": "Chemie a technologie materiálů",
         "url": "https://www.vut.cz/studenti/programy/program/9349",
         "doba_studia": "3",
+        "typ_studia": "kombinované studium",
         "kredity": "180"
       },
       {
@@ -635,6 +693,7 @@
         "nazev_programu": "Environmental Sciences and Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9388",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -642,6 +701,7 @@
         "nazev_programu": "Environmentální chemie a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9390",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -649,6 +709,7 @@
         "nazev_programu": "Chemie a chemické technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9384",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -656,6 +717,7 @@
         "nazev_programu": "Chemie a technologie materiálů",
         "url": "https://www.vut.cz/studenti/programy/program/9391",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -663,6 +725,7 @@
         "nazev_programu": "Potravinářská chemie a biotechnologie",
         "url": "https://www.vut.cz/studenti/programy/program/9552",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -670,6 +733,7 @@
         "nazev_programu": "Environmentální chemie a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9389",
         "doba_studia": "2",
+        "typ_studia": "kombinované studium",
         "kredity": "120"
       },
       {
@@ -677,6 +741,7 @@
         "nazev_programu": "Chemie a chemické technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9385",
         "doba_studia": "2",
+        "typ_studia": "kombinované studium",
         "kredity": "120"
       },
       {
@@ -684,6 +749,7 @@
         "nazev_programu": "Chemie a technologie materiálů",
         "url": "https://www.vut.cz/studenti/programy/program/9392",
         "doba_studia": "2",
+        "typ_studia": "kombinované studium",
         "kredity": "120"
       },
       {
@@ -691,43 +757,50 @@
         "nazev_programu": "Chemie přírodních látek",
         "url": "https://www.vut.cz/studenti/programy/program/9394",
         "doba_studia": "2",
+        "typ_studia": "kombinované studium",
         "kredity": "120"
       },
       {
         "zkratka_programu": "DPCP_BCH",
         "nazev_programu": "Biofyzikální chemie",
         "url": "https://www.vut.cz/studenti/programy/program/9532",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPAP_BCH",
         "nazev_programu": "Biophysical Chemistry",
         "url": "https://www.vut.cz/studenti/programy/program/9542",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPCP_FCH_N",
         "nazev_programu": "Fyzikální chemie",
         "url": "https://www.vut.cz/studenti/programy/program/9540",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPCP_CHTOZP_N",
         "nazev_programu": "Chemie a technologie ochrany životního prostředí",
         "url": "https://www.vut.cz/studenti/programy/program/9539",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPCP_CHM_4_N",
         "nazev_programu": "Chemie, technologie a vlastnosti materiálů",
         "url": "https://www.vut.cz/studenti/programy/program/9534",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPCP_PCH",
         "nazev_programu": "Potravinářská chemie",
         "url": "https://www.vut.cz/studenti/programy/program/9536",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "BPCP_CHTP",
@@ -852,6 +925,7 @@
         "nazev_programu": "Informační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9500",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -859,31 +933,36 @@
         "nazev_programu": "Master of Information Technology",
         "url": "https://www.vut.cz/studenti/programy/program/9505",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
         "zkratka_programu": "DIT",
         "nazev_programu": "Informační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9508",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DIT-EN",
         "nazev_programu": "Information Technology",
         "url": "https://www.vut.cz/studenti/programy/program/9509",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DIT",
         "nazev_programu": "Informační technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9507",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DIT-EN",
         "nazev_programu": "Information Technology",
         "url": "https://www.vut.cz/studenti/programy/program/9511",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "MITAI",
@@ -1015,6 +1094,7 @@
         "nazev_programu": "Ekonomika podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9361",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
@@ -1027,26 +1107,30 @@
         "zkratka_programu": "BAK-MIn",
         "nazev_programu": "Manažerská informatika",
         "url": "https://www.vut.cz/studenti/programy/program/9363",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "BAK-PM",
         "nazev_programu": "Procesní management",
         "url": "https://www.vut.cz/studenti/programy/program/9364",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "180"
       },
       {
         "zkratka_programu": "BAK-UAD",
         "nazev_programu": "Účetnictví a daně",
         "url": "https://www.vut.cz/studenti/programy/program/9365",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "MGR-IM",
         "nazev_programu": "Informační management",
         "url": "https://www.vut.cz/studenti/programy/program/9369",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "MGR-IBM",
@@ -1059,6 +1143,7 @@
         "nazev_programu": "Mezinárodní ekonomika a obchod",
         "url": "https://www.vut.cz/studenti/programy/program/9371",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -1066,6 +1151,7 @@
         "nazev_programu": "Strategický rozvoj podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9372",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -1073,19 +1159,22 @@
         "nazev_programu": "Účetnictví a finanční řízení podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9374",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
         "zkratka_programu": "MGR-IM-KS",
         "nazev_programu": "Informační management",
         "url": "https://www.vut.cz/studenti/programy/program/9370",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "MGR-SRP-KS",
         "nazev_programu": "Strategický rozvoj podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9373",
         "doba_studia": "2",
+        "typ_studia": "kombinované studium",
         "kredity": "120"
       },
       {
@@ -1093,6 +1182,7 @@
         "nazev_programu": "Účetnictví a finanční řízení podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9375",
         "doba_studia": "2",
+        "typ_studia": "kombinované studium",
         "kredity": "120"
       },
       {
@@ -1105,7 +1195,8 @@
         "zkratka_programu": "DSP-ŘEP",
         "nazev_programu": "Řízení a ekonomika podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9382",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DSP-CME-KS",
@@ -1117,7 +1208,8 @@
         "zkratka_programu": "DSP-ŘEP-KS",
         "nazev_programu": "Řízení a ekonomika podniku",
         "url": "https://www.vut.cz/studenti/programy/program/9383",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "BAK-EAM",
@@ -1144,6 +1236,7 @@
         "nazev_programu": "Architektura pozemních staveb",
         "url": "https://www.vut.cz/studenti/programy/program/9239",
         "doba_studia": "4",
+        "typ_studia": "prezenční studium",
         "kredity": "240"
       },
       {
@@ -1151,6 +1244,7 @@
         "nazev_programu": "Civil Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9238",
         "doba_studia": "4",
+        "typ_studia": "prezenční studium",
         "kredity": "240"
       },
       {
@@ -1158,6 +1252,7 @@
         "nazev_programu": "Environmentálně vyspělé budovy",
         "url": "https://www.vut.cz/studenti/programy/program/9247",
         "doba_studia": "4",
+        "typ_studia": "prezenční studium",
         "kredity": "240"
       },
       {
@@ -1165,6 +1260,7 @@
         "nazev_programu": "Environmentální inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9485",
         "doba_studia": "3.5",
+        "typ_studia": "prezenční studium",
         "kredity": "210"
       },
       {
@@ -1172,6 +1268,7 @@
         "nazev_programu": "Geodézie a kartografie",
         "url": "https://www.vut.cz/studenti/programy/program/9246",
         "doba_studia": "3",
+        "typ_studia": "prezenční studium",
         "kredity": "240"
       },
       {
@@ -1179,6 +1276,7 @@
         "nazev_programu": "Stavební inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9248",
         "doba_studia": "4",
+        "typ_studia": "kombinované studium",
         "kredity": "240"
       },
       {
@@ -1186,6 +1284,7 @@
         "nazev_programu": "Civil Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9237",
         "doba_studia": "1.5",
+        "typ_studia": "prezenční studium",
         "kredity": "90"
       },
       {
@@ -1193,6 +1292,7 @@
         "nazev_programu": "Environmentálně vyspělé budovy",
         "url": "https://www.vut.cz/studenti/programy/program/9497",
         "doba_studia": "1.5",
+        "typ_studia": "prezenční studium",
         "kredity": "90"
       },
       {
@@ -1200,6 +1300,7 @@
         "nazev_programu": "Geodézie a kartografie",
         "url": "https://www.vut.cz/studenti/programy/program/9496",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
@@ -1207,6 +1308,7 @@
         "nazev_programu": "Městské inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9495",
         "doba_studia": "1.5",
+        "typ_studia": "prezenční studium",
         "kredity": "90"
       },
       {
@@ -1214,6 +1316,7 @@
         "nazev_programu": "Stavební inženýrství – konstrukce a dopravní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9493",
         "doba_studia": "1.5",
+        "typ_studia": "prezenční studium",
         "kredity": "90"
       },
       {
@@ -1221,6 +1324,7 @@
         "nazev_programu": "Stavební inženýrství – management stavebnictví",
         "url": "https://www.vut.cz/studenti/programy/program/9490",
         "doba_studia": "1.5",
+        "typ_studia": "prezenční studium",
         "kredity": "90"
       },
       {
@@ -1228,6 +1332,7 @@
         "nazev_programu": "Stavební inženýrství – pozemní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9494",
         "doba_studia": "1.5",
+        "typ_studia": "prezenční studium",
         "kredity": "90"
       },
       {
@@ -1235,6 +1340,7 @@
         "nazev_programu": "Stavební inženýrství – realizace staveb",
         "url": "https://www.vut.cz/studenti/programy/program/9491",
         "doba_studia": "1.5",
+        "typ_studia": "prezenční studium",
         "kredity": "90"
       },
       {
@@ -1242,6 +1348,7 @@
         "nazev_programu": "Stavební inženýrství – stavební materiály a technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9492",
         "doba_studia": "1.5",
+        "typ_studia": "prezenční studium",
         "kredity": "90"
       },
       {
@@ -1249,6 +1356,7 @@
         "nazev_programu": "Stavební inženýrství – vodní hospodářství a vodní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9489",
         "doba_studia": "1.5",
+        "typ_studia": "prezenční studium",
         "kredity": "90"
       },
       {
@@ -1256,157 +1364,183 @@
         "nazev_programu": "Stavební inženýrství – pozemní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9499",
         "doba_studia": "1.5",
+        "typ_studia": "kombinované studium",
         "kredity": "90"
       },
       {
         "zkratka_programu": "DPA-S",
         "nazev_programu": "Building Construction",
         "url": "https://www.vut.cz/studenti/programy/program/9271",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPA-E",
         "nazev_programu": "Civil Engineering Management",
         "url": "https://www.vut.cz/studenti/programy/program/9260",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-M",
         "nazev_programu": "Fyzikální a stavebně materiálové inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9269",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPA-GK",
         "nazev_programu": "Geodesy and Cartography",
         "url": "https://www.vut.cz/studenti/programy/program/9275",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-GK",
         "nazev_programu": "Geodézie a kartografie",
         "url": "https://www.vut.cz/studenti/programy/program/9274",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-K",
         "nazev_programu": "Konstrukce a dopravní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9265",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-E",
         "nazev_programu": "Management stavebnictví",
         "url": "https://www.vut.cz/studenti/programy/program/9261",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPA-M",
         "nazev_programu": "Physical and Building Materials Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9268",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-S",
         "nazev_programu": "Pozemní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9270",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPA-K",
         "nazev_programu": "Structural and Transport Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9264",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPC-V",
         "nazev_programu": "Vodní hospodářství a vodní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9257",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DPA-V",
         "nazev_programu": "Water Management and Water Structures",
         "url": "https://www.vut.cz/studenti/programy/program/9256",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DKA-S",
         "nazev_programu": "Building Construction",
         "url": "https://www.vut.cz/studenti/programy/program/9273",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKA-E",
         "nazev_programu": "Civil Engineering Management",
         "url": "https://www.vut.cz/studenti/programy/program/9258",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-M",
         "nazev_programu": "Fyzikální a stavebně materiálové inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9267",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKA-GK",
         "nazev_programu": "Geodesy and Cartography",
         "url": "https://www.vut.cz/studenti/programy/program/9277",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-GK",
         "nazev_programu": "Geodézie a kartografie",
         "url": "https://www.vut.cz/studenti/programy/program/9276",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-K",
         "nazev_programu": "Konstrukce a dopravní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9263",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-E",
         "nazev_programu": "Management stavebnictví",
         "url": "https://www.vut.cz/studenti/programy/program/9259",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKA-M",
         "nazev_programu": "Physical and Building Materials Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9266",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-S",
         "nazev_programu": "Pozemní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9272",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKA-K",
         "nazev_programu": "Structural and Transport Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9262",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKC-V",
         "nazev_programu": "Vodní hospodářství a vodní stavby",
         "url": "https://www.vut.cz/studenti/programy/program/9255",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DKA-V",
         "nazev_programu": "Water Management and Water Structures",
         "url": "https://www.vut.cz/studenti/programy/program/9254",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "CZV3-MSCCE",
         "nazev_programu": "Master of Science in Civil Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9487",
         "doba_studia": "1.5",
+        "typ_studia": "distanční studium",
         "kredity": "120"
       },
       {
@@ -1414,6 +1548,7 @@
         "nazev_programu": "Master of Science in Environmental Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9486",
         "doba_studia": "1.5",
+        "typ_studia": "distanční studium",
         "kredity": "120"
       },
       {
@@ -1482,7 +1617,8 @@
         "zkratka_programu": "B-ENE-P",
         "nazev_programu": "Energetika",
         "url": "https://www.vut.cz/studenti/programy/program/9289",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "B-STI-A",
@@ -1494,43 +1630,50 @@
         "zkratka_programu": "B-FIN-P",
         "nazev_programu": "Fyzikální inženýrství a nanotechnologie",
         "url": "https://www.vut.cz/studenti/programy/program/9290",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "B-KSI-P",
         "nazev_programu": "Konstrukční inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9291",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "B-MAI-P",
         "nazev_programu": "Matematické inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9292",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "B-MET-P",
         "nazev_programu": "Mechatronika",
         "url": "https://www.vut.cz/studenti/programy/program/9293",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "B-PRP-P",
         "nazev_programu": "Profesionální pilot",
         "url": "https://www.vut.cz/studenti/programy/program/9295",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "B-PDS-P",
         "nazev_programu": "Průmyslový design ve strojírenství",
         "url": "https://www.vut.cz/studenti/programy/program/9294",
-        "doba_studia": "3"
+        "doba_studia": "3",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "B-VKP-P",
         "nazev_programu": "Vizuální komunikace v kreativních průmyslech",
         "url": "https://www.vut.cz/studenti/programy/program/9341",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-AST-A",
@@ -1542,7 +1685,8 @@
         "zkratka_programu": "N-AIŘ-P",
         "nazev_programu": "Aplikovaná informatika a řízení",
         "url": "https://www.vut.cz/studenti/programy/program/9317",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-AIM-A",
@@ -1554,43 +1698,50 @@
         "zkratka_programu": "N-ADI-P",
         "nazev_programu": "Automobilní a dopravní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9315",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-FIN-P",
         "nazev_programu": "Fyzikální inženýrství a nanotechnologie",
         "url": "https://www.vut.cz/studenti/programy/program/9321",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-KSI-P",
         "nazev_programu": "Konstrukční inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9324",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-KSB-P",
         "nazev_programu": "Kvalita, spolehlivost a bezpečnost",
         "url": "https://www.vut.cz/studenti/programy/program/9323",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-LAN-A",
         "nazev_programu": "Logistics Analytics",
         "url": "https://www.vut.cz/studenti/programy/program/9325",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-MAI-P",
         "nazev_programu": "Matematické inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9328",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-MTI-P",
         "nazev_programu": "Materiálové inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9330",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-MAI-A",
@@ -1608,109 +1759,127 @@
         "zkratka_programu": "N-MET-P",
         "nazev_programu": "Mechatronika",
         "url": "https://www.vut.cz/studenti/programy/program/9329",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-AAE-P",
         "nazev_programu": "Pokročilé automobilové inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9314",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-PRI-P",
         "nazev_programu": "Procesní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9333",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-PDS-P",
         "nazev_programu": "Průmyslový design ve strojírenství",
         "url": "https://www.vut.cz/studenti/programy/program/9331",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-PMO-P",
         "nazev_programu": "Přesná mechanika a optika",
         "url": "https://www.vut.cz/studenti/programy/program/9332",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-SLE-P",
         "nazev_programu": "Slévárenská technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9334",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-SUE-P",
         "nazev_programu": "Výpočtové simulace pro udržitelnou energetiku",
         "url": "https://www.vut.cz/studenti/programy/program/9342",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-VSR-P",
         "nazev_programu": "Výrobní stroje, systémy a roboty",
         "url": "https://www.vut.cz/studenti/programy/program/9336",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-VSY-P",
         "nazev_programu": "Výrobní systémy",
         "url": "https://www.vut.cz/studenti/programy/program/9337",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "N-VSR-K",
         "nazev_programu": "Výrobní stroje, systémy a roboty",
         "url": "https://www.vut.cz/studenti/programy/program/9530",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "D-APM-P",
         "nazev_programu": "Aplikovaná matematika",
         "url": "https://www.vut.cz/studenti/programy/program/9301",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "D-ENE-P",
         "nazev_programu": "Energetické inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9303",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "D-FIN-P",
         "nazev_programu": "Fyzikální inženýrství a nanotechnologie",
         "url": "https://www.vut.cz/studenti/programy/program/9305",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "D-IME-P",
         "nazev_programu": "Inženýrská mechanika",
         "url": "https://www.vut.cz/studenti/programy/program/9307",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "D-KPI-P",
         "nazev_programu": "Konstrukční a procesní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9309",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "D-MAT-P",
         "nazev_programu": "Materiálové vědy",
         "url": "https://www.vut.cz/studenti/programy/program/9311",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "D-ENE-A",
         "nazev_programu": "Power Engineering",
         "url": "https://www.vut.cz/studenti/programy/program/9302",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "D-STG-P",
         "nazev_programu": "Strojírenská technologie",
         "url": "https://www.vut.cz/studenti/programy/program/9313",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "B-STR-P",
@@ -1869,25 +2038,29 @@
         "zkratka_programu": "VUD_P_CZ",
         "nazev_programu": "Výzkum v umění a designu",
         "url": "https://www.vut.cz/studenti/programy/program/9571",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "VUD_K_CZ",
         "nazev_programu": "Výzkum v umění a designu",
         "url": "https://www.vut.cz/studenti/programy/program/9572",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "VUD_P_EN",
         "nazev_programu": "Research in Art and Design",
         "url": "https://www.vut.cz/studenti/programy/program/9576",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "VUD_K_EN",
         "nazev_programu": "Research in Art and Design",
         "url": "https://www.vut.cz/studenti/programy/program/9577",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "DES_B",
@@ -2124,25 +2297,29 @@
         "nazev_programu": "Expertní inženýrství v dopravě",
         "url": "https://www.vut.cz/studenti/programy/program/9549",
         "doba_studia": "2",
+        "typ_studia": "prezenční studium",
         "kredity": "120"
       },
       {
         "zkratka_programu": "NMSP-REI",
         "nazev_programu": "Realitní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9550",
-        "doba_studia": "2"
+        "doba_studia": "2",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DSP SoI_P",
         "nazev_programu": "Soudní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9182",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "prezenční studium"
       },
       {
         "zkratka_programu": "DSP SoI_K",
         "nazev_programu": "Soudní inženýrství",
         "url": "https://www.vut.cz/studenti/programy/program/9181",
-        "doba_studia": "4"
+        "doba_studia": "4",
+        "typ_studia": "kombinované studium"
       },
       {
         "zkratka_programu": "NMSP-RRTES",
