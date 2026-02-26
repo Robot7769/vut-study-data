@@ -50,7 +50,7 @@ jobs:
       # 6. Pokud se CZ data změnila → stáhnout EN data a spustit analýzu
       - name: Scrape EN raw data
         if: steps.check_changes.outputs.changed == 'true'
-        run: python study_plan_scraper.py --language en --no-resume
+        run: python study_plan_scraper.py --language en-US --no-resume
 
       - name: Run data analysis (programmes + subjects)
         if: steps.check_changes.outputs.changed == 'true'
