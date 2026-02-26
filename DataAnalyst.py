@@ -14,7 +14,7 @@ class DataAnalyst:
     # ------------------------------------------------------------------
 
     def run(self):
-        """Spustí analýzu pro obě jazykové verze (cs i en)."""
+        """Spustí analýzu pro obě jazykové verze (cs-CS i en-US)."""
         for lang in LANGUAGES:
             self._process_language(lang)
             self._export_subjects(lang)

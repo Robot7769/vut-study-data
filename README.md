@@ -5,25 +5,25 @@ Data jsou získávána z [webu VUT Brno](https://www.vut.cz/studenti/programy) p
 Data jsou automaticky aktualizována pomocí [GitHub Actions](./.github/workflows/update_study_plans.yml).
 
 #### Podporované jazyky
-- Čeština (cs)
-- Angličtina (en)
+- Čeština (cs-CZ)
+- Angličtina (en-US)
 
 ### Získání studijních programů
 Vrací seznam studijních programů na VUT Brno, včetně jejich zkratek, názvů, specializací a URL odkazů.
 
 ```
-https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/data/{cs,en}/study_programmes/programmes.json
+https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/data/{cs-CZ,en-US}/study_programmes/programmes.json
 ```
 
 ### Získání předmětů
 Vrací seznam předmětů pro každý studijní program, včetně jejich zkratky, názvu a URL odkazu.
 
 ```
-https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/data/{cs,en}/subjects/{programme_code}.json
+https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/data/{cs-CZ,en-US}/subjects/{programme_code}.json
 ```
 #### Pokud má program specializace, jsou předměty rozděleny podle nich.
 ```
-https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/data/{cs,en}/subjects/{programme_code}/{specialization_code}.json
+https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/data/{cs-CZ,en-US}/subjects/{programme_code}/{specialization_code}.json
 ```
 
 ### Příklad:
@@ -33,7 +33,7 @@ FIT - Fakulta informačních technologií
  - NMAL: Strojové učení
    [https://www.vut.cz/studenti/programy/obor/17682/9506](https://www.vut.cz/studenti/programy/obor/17682/9506)
 ```
-https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/data/cs/subjects/MITAI/NMAL.json
+https://raw.githubusercontent.com/Robot7769/vut-study-data/refs/heads/master/data/cs-CZ/subjects/MITAI/NMAL.json
 ```
 
 ## Jak spustit vlastní sběr dat
@@ -47,14 +47,14 @@ pip install -r requirements.txt
 python study_plan_scraper.py
 ```
 ```bash
-usage: study_plan_scraper.py [-h] [--language {cs,en}] [--no-resume] [--delay-min DELAY_MIN] [--delay-max DELAY_MAX]
+usage: study_plan_scraper.py [-h] [--language {cs-CZ,en-US}] [--no-resume] [--delay-min DELAY_MIN] [--delay-max DELAY_MAX]
 
 VUT Study Plan Scraper – stahování studijních plánů
 
 options:
   -h, --help            show this help message and exit
-  --language {cs,en}, -l {cs,en}
-                        Jazyk stránek (default: cs)
+  --language {cs-CZ,en-US}, -l {cs-CZ,en-US}
+                        Jazyk stránek (default: cs-CZ)
   --no-resume           Ignorovat uložený stav a začít od začátku
   --delay-min DELAY_MIN
                         Minimální zpoždění mezi požadavky v sekundách (default: 2.0)
