@@ -2722,6 +2722,19 @@
         "rocnik": "3"
       },
       {
+        "zkratka": "DEM-KE",
+        "nazev": "Design Manual",
+        "kredity": "3",
+        "povinnost": "Elective",
+        "zakonceni": "GCr",
+        "skupina": "",
+        "url": "https://www.vut.cz/en/students/courses/detail/288446",
+        "semestr": [
+          "zimní"
+        ],
+        "rocnik": "3"
+      },
+      {
         "zkratka": "DEM-K",
         "nazev": "Design Manual",
         "kredity": "3",
@@ -2732,19 +2745,6 @@
         "semestr": [
           "zimní",
           "letní"
-        ],
-        "rocnik": "3"
-      },
-      {
-        "zkratka": "DEM-KE",
-        "nazev": "Design Manual",
-        "kredity": "3",
-        "povinnost": "Elective",
-        "zakonceni": "GCr",
-        "skupina": "",
-        "url": "https://www.vut.cz/en/students/courses/detail/288446",
-        "semestr": [
-          "zimní"
         ],
         "rocnik": "3"
       },
@@ -5662,6 +5662,19 @@
         "zakonceni": "Cr,Ex",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/290615",
+        "semestr": [
+          "letní"
+        ],
+        "rocnik": "1"
+      },
+      {
+        "zkratka": "BPC-OP1",
+        "nazev": "Professional Practice 1",
+        "kredity": "5",
+        "povinnost": "Compulsory",
+        "zakonceni": "Cr",
+        "skupina": "",
+        "url": "https://www.vut.cz/en/students/courses/detail/290633",
         "semestr": [
           "letní"
         ],
@@ -93559,7 +93572,7 @@
         "nazev": "Digitalisation and Automation in Civil Engineering",
         "kredity": "6",
         "povinnost": "Compulsory",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/295394",
         "semestr": [
@@ -93572,7 +93585,7 @@
         "nazev": "Construction Materials",
         "kredity": "6",
         "povinnost": "Compulsory",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/295412",
         "semestr": [
@@ -93585,7 +93598,7 @@
         "nazev": "Selected Topics in Building Construction 1",
         "kredity": "6",
         "povinnost": "Compulsory",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/295411",
         "semestr": [
@@ -93598,7 +93611,7 @@
         "nazev": "Foundation Engineering",
         "kredity": "6",
         "povinnost": "Compulsory",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/295410",
         "semestr": [
@@ -93611,7 +93624,7 @@
         "nazev": "Circular Economy in Civil Engineering",
         "kredity": "6",
         "povinnost": "Compulsory-optional",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "1",
         "url": "https://www.vut.cz/en/students/courses/detail/295393",
         "semestr": [
@@ -93624,7 +93637,7 @@
         "nazev": "Defects, Remediation and Refurbishment",
         "kredity": "6",
         "povinnost": "Compulsory-optional",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "1",
         "url": "https://www.vut.cz/en/students/courses/detail/295395",
         "semestr": [
@@ -93832,7 +93845,7 @@
         "nazev": "Digitalisation and Automation in Civil Engineering",
         "kredity": "6",
         "povinnost": "Compulsory",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/295394",
         "semestr": [
@@ -93845,7 +93858,7 @@
         "nazev": "Ecology and Green Design in Civil Engineering",
         "kredity": "6",
         "povinnost": "Compulsory",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/295391",
         "semestr": [
@@ -93858,7 +93871,7 @@
         "nazev": "Renewable Energy Sources",
         "kredity": "6",
         "povinnost": "Compulsory",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/295390",
         "semestr": [
@@ -93871,7 +93884,7 @@
         "nazev": "Environment and Legislation",
         "kredity": "6",
         "povinnost": "Compulsory",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/295392",
         "semestr": [
@@ -93884,7 +93897,7 @@
         "nazev": "Circular Economy in Civil Engineering",
         "kredity": "6",
         "povinnost": "Compulsory-optional",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "1",
         "url": "https://www.vut.cz/en/students/courses/detail/295393",
         "semestr": [
@@ -93897,7 +93910,7 @@
         "nazev": "Defects, Remediation and Refurbishment",
         "kredity": "6",
         "povinnost": "Compulsory-optional",
-        "zakonceni": "Col",
+        "zakonceni": "Ex",
         "skupina": "1",
         "url": "https://www.vut.cz/en/students/courses/detail/295395",
         "semestr": [

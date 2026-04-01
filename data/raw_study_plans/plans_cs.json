@@ -5668,6 +5668,19 @@
         "rocnik": "1"
       },
       {
+        "zkratka": "BPC-OP1",
+        "nazev": "Odborná praxe 1",
+        "kredity": "5",
+        "povinnost": "Povinný",
+        "zakonceni": "zá",
+        "skupina": "",
+        "url": "https://www.vut.cz/studenti/predmety/detail/290633",
+        "semestr": [
+          "letní"
+        ],
+        "rocnik": "1"
+      },
+      {
         "zkratka": "BPC-POP",
         "nazev": "Počítače a programování",
         "kredity": "4",
@@ -93559,7 +93572,7 @@
         "nazev": "Digitalizace a automatizace ve stavebnictví",
         "kredity": "6",
         "povinnost": "Povinný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "",
         "url": "https://www.vut.cz/studenti/predmety/detail/295394",
         "semestr": [
@@ -93572,7 +93585,7 @@
         "nazev": "Stavební materiály",
         "kredity": "6",
         "povinnost": "Povinný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "",
         "url": "https://www.vut.cz/studenti/predmety/detail/295412",
         "semestr": [
@@ -93585,7 +93598,7 @@
         "nazev": "Vybrané statě z pozemního stavitelství 1",
         "kredity": "6",
         "povinnost": "Povinný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "",
         "url": "https://www.vut.cz/studenti/predmety/detail/295411",
         "semestr": [
@@ -93598,7 +93611,7 @@
         "nazev": "Zakládání staveb",
         "kredity": "6",
         "povinnost": "Povinný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "",
         "url": "https://www.vut.cz/studenti/predmety/detail/295410",
         "semestr": [
@@ -93611,7 +93624,7 @@
         "nazev": "Cirkulární ekonomika ve stavebnictví",
         "kredity": "6",
         "povinnost": "Povinně volitelný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "CE-II",
         "url": "https://www.vut.cz/studenti/predmety/detail/295393",
         "semestr": [
@@ -93624,7 +93637,7 @@
         "nazev": "Poruchy, sanace a rekonstrukce",
         "kredity": "6",
         "povinnost": "Povinně volitelný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "CE-II",
         "url": "https://www.vut.cz/studenti/predmety/detail/295395",
         "semestr": [
@@ -93832,7 +93845,7 @@
         "nazev": "Digitalizace a automatizace ve stavebnictví",
         "kredity": "6",
         "povinnost": "Povinný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "",
         "url": "https://www.vut.cz/studenti/predmety/detail/295394",
         "semestr": [
@@ -93845,7 +93858,7 @@
         "nazev": "Ekologie a zelený design ve stavebnictví",
         "kredity": "6",
         "povinnost": "Povinný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "",
         "url": "https://www.vut.cz/studenti/predmety/detail/295391",
         "semestr": [
@@ -93858,7 +93871,7 @@
         "nazev": "Obnovitelné zdroje energie",
         "kredity": "6",
         "povinnost": "Povinný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "",
         "url": "https://www.vut.cz/studenti/predmety/detail/295390",
         "semestr": [
@@ -93871,7 +93884,7 @@
         "nazev": "Životní prostředí, legislativa",
         "kredity": "6",
         "povinnost": "Povinný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "",
         "url": "https://www.vut.cz/studenti/predmety/detail/295392",
         "semestr": [
@@ -93884,7 +93897,7 @@
         "nazev": "Cirkulární ekonomika ve stavebnictví",
         "kredity": "6",
         "povinnost": "Povinně volitelný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "EE-II",
         "url": "https://www.vut.cz/studenti/predmety/detail/295393",
         "semestr": [
@@ -93897,7 +93910,7 @@
         "nazev": "Poruchy, sanace a rekonstrukce",
         "kredity": "6",
         "povinnost": "Povinně volitelný",
-        "zakonceni": "kol",
+        "zakonceni": "zk",
         "skupina": "EE-II",
         "url": "https://www.vut.cz/studenti/predmety/detail/295395",
         "semestr": [

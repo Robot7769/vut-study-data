@@ -143,6 +143,19 @@
     "rocnik": "1"
   },
   {
+    "zkratka": "BPC-OP1",
+    "nazev": "Professional Practice 1",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/290633",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
     "zkratka": "BPC-POP",
     "nazev": "Computers and Programming",
     "kredity": "4",

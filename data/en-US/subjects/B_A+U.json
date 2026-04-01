@@ -1045,6 +1045,19 @@
     "rocnik": "3"
   },
   {
+    "zkratka": "DEM-KE",
+    "nazev": "Design Manual",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/288446",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
     "zkratka": "DEM-K",
     "nazev": "Design Manual",
     "kredity": "3",
@@ -1055,19 +1068,6 @@
     "semestr": [
       "zimní",
       "letní"
-    ],
-    "rocnik": "3"
-  },
-  {
-    "zkratka": "DEM-KE",
-    "nazev": "Design Manual",
-    "kredity": "3",
-    "povinnost": "Elective",
-    "zakonceni": "GCr",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/288446",
-    "semestr": [
-      "zimní"
     ],
     "rocnik": "3"
   },

@@ -143,6 +143,19 @@
     "rocnik": "1"
   },
   {
+    "zkratka": "BPC-OP1",
+    "nazev": "Odborná praxe 1",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/290633",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
     "zkratka": "BPC-POP",
     "nazev": "Počítače a programování",
     "kredity": "4",
