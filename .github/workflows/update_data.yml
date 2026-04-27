@@ -18,6 +18,8 @@ jobs:
       # 1. Stáhne aktuální kód repozitáře
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       # 2. Připraví Python prostředí
       - name: Set up Python
@@ -70,6 +72,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update: Update study programs, subjects and sports data"
+          push_options: '--force-with-lease'
           file_pattern: >-
             data/raw_study_plans/*.json
             data/cs-CZ/sports.json
