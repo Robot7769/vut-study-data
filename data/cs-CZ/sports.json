@@ -1,0 +1,2407 @@
+[
+  {
+    "zkratka": "TV-BAD",
+    "nazev": "Badminton",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295514"
+  },
+  {
+    "zkratka": "TV-BAD",
+    "nazev": "Badminton",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295515"
+  },
+  {
+    "zkratka": "TV-BAD-EN",
+    "nazev": "Badminton - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295517"
+  },
+  {
+    "zkratka": "TV-BAD-EN",
+    "nazev": "Badminton - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295516"
+  },
+  {
+    "zkratka": "TV-BAD-L",
+    "nazev": "Badminton - VŠ liga",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295519"
+  },
+  {
+    "zkratka": "TV-BAD-L",
+    "nazev": "Badminton - VŠ liga",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295518"
+  },
+  {
+    "zkratka": "TV-BAS",
+    "nazev": "Basketbal",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295521"
+  },
+  {
+    "zkratka": "TV-BAS",
+    "nazev": "Basketbal",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295520"
+  },
+  {
+    "zkratka": "TV-KARA-R",
+    "nazev": "Bojová umění - Karate - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295602"
+  },
+  {
+    "zkratka": "TV-ALLK",
+    "nazev": "Bojová umění - Allkampf-jitsu - sebeobrana",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295511"
+  },
+  {
+    "zkratka": "TV-ALLK",
+    "nazev": "Bojová umění - Allkampf-jitsu - sebeobrana",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295512"
+  },
+  {
+    "zkratka": "TV-BV-BU",
+    "nazev": "Bojová umění - bloková výuka",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295507"
+  },
+  {
+    "zkratka": "TV-JUDO",
+    "nazev": "Bojová umění - Judo",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295594"
+  },
+  {
+    "zkratka": "TV-JUDO",
+    "nazev": "Bojová umění - Judo",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295593"
+  },
+  {
+    "zkratka": "TV-JUDO-R",
+    "nazev": "Bojová umění - Judo - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295595"
+  },
+  {
+    "zkratka": "TV-JUDO-R",
+    "nazev": "Bojová umění - Judo - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295596"
+  },
+  {
+    "zkratka": "TV-KADO",
+    "nazev": "Bojová umění - Karate do - tradiční karate a sebeobrana",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295598"
+  },
+  {
+    "zkratka": "TV-KADO",
+    "nazev": "Bojová umění - Karate do - tradiční karate a sebeobrana",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295597"
+  },
+  {
+    "zkratka": "TV-KOBU",
+    "nazev": "Bojová umění - Kobudo",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295607"
+  },
+  {
+    "zkratka": "TV-KOBU",
+    "nazev": "Bojová umění - Kobudo",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295608"
+  },
+  {
+    "zkratka": "TV-BUUC",
+    "nazev": "Bojová umění - Sebeobrana – systém Urban Combatives",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295534"
+  },
+  {
+    "zkratka": "TV-BUUC",
+    "nazev": "Bojová umění - Sebeobrana – systém Urban Combatives",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295533"
+  },
+  {
+    "zkratka": "TV-SEBE",
+    "nazev": "Bojová umění - Sebeobrana a kontaktní boj",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295647"
+  },
+  {
+    "zkratka": "TV-SEBE",
+    "nazev": "Bojová umění - Sebeobrana a kontaktní boj",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295648"
+  },
+  {
+    "zkratka": "TV-TAEK",
+    "nazev": "Bojová umění - Taekwondo W.T.F.",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295660"
+  },
+  {
+    "zkratka": "TV-TAEK",
+    "nazev": "Bojová umění - Taekwondo W.T.F.",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295661"
+  },
+  {
+    "zkratka": "TV-BOUL",
+    "nazev": "Bouldering",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295526"
+  },
+  {
+    "zkratka": "TV-BOUL",
+    "nazev": "Bouldering",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295525"
+  },
+  {
+    "zkratka": "TV-BOUL-EN",
+    "nazev": "Bouldering - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295528"
+  },
+  {
+    "zkratka": "TV-BOUL-EN",
+    "nazev": "Bouldering - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295527"
+  },
+  {
+    "zkratka": "TV-BOUL-R",
+    "nazev": "Bouldering - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295530"
+  },
+  {
+    "zkratka": "TV-BOUL-R",
+    "nazev": "Bouldering - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295529"
+  },
+  {
+    "zkratka": "TV-BRU",
+    "nazev": "Bruslení",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295531"
+  },
+  {
+    "zkratka": "TV-BRU",
+    "nazev": "Bruslení",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295532"
+  },
+  {
+    "zkratka": "TV-CR",
+    "nazev": "Curling",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295538"
+  },
+  {
+    "zkratka": "TV-CR",
+    "nazev": "Curling",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295537"
+  },
+  {
+    "zkratka": "TV-DIS",
+    "nazev": "Discgolf",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295542"
+  },
+  {
+    "zkratka": "TV-DIS",
+    "nazev": "Discgolf",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295541"
+  },
+  {
+    "zkratka": "TV-DB",
+    "nazev": "Dodgeball",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295539"
+  },
+  {
+    "zkratka": "TV-DB",
+    "nazev": "Dodgeball",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295540"
+  },
+  {
+    "zkratka": "TV-DL",
+    "nazev": "Dračí lodě",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295543"
+  },
+  {
+    "zkratka": "TV-DL",
+    "nazev": "Dračí lodě",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301315"
+  },
+  {
+    "zkratka": "TV-PNM-AA",
+    "nazev": "Fitness aktivita - Práce na mobilitě: Animal Flow",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295504"
+  },
+  {
+    "zkratka": "TV-PNM-AA",
+    "nazev": "Fitness aktivita - Práce na mobilitě: Akrobacie a Animal Flow",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295503"
+  },
+  {
+    "zkratka": "TV-PNM-FS",
+    "nazev": "Fitness aktivita - Práce na mobilitě: Flexibilita a Síla",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295501"
+  },
+  {
+    "zkratka": "TV-PNM-FS",
+    "nazev": "Fitness aktivita - Práce na mobilitě: Flexibilita a Síla",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295502"
+  },
+  {
+    "zkratka": "TV-CONTEM",
+    "nazev": "Fitness aktivity - Contemporary",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/307519"
+  },
+  {
+    "zkratka": "TV-CPZZ",
+    "nazev": "Fitness aktivity - Cvičení pro zdravá záda",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295509"
+  },
+  {
+    "zkratka": "TV-CPZZ",
+    "nazev": "Fitness aktivity - Cvičení pro zdravá záda",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295508"
+  },
+  {
+    "zkratka": "N/A",
+    "nazev": "Fitness aktivity - Fasciální jóga a automasáž – TV - FAJA",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301024"
+  },
+  {
+    "zkratka": "TV-FJ",
+    "nazev": "Fitness aktivity - Fyzio jóga",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295498"
+  },
+  {
+    "zkratka": "TV-FJ",
+    "nazev": "Fitness aktivity - Fyzio jóga",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295499"
+  },
+  {
+    "zkratka": "TV-FAJO",
+    "nazev": "Fitness aktivity - Jóga",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295545"
+  },
+  {
+    "zkratka": "TV-FAJO",
+    "nazev": "Fitness aktivity - Jóga",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295546"
+  },
+  {
+    "zkratka": "TV-KTTEL",
+    "nazev": "Fitness aktivity - Kruhový trénink v tělocvicně",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295621"
+  },
+  {
+    "zkratka": "TV-KTTEL",
+    "nazev": "Fitness aktivity - Kruhový trénink v tělocvicně",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295620"
+  },
+  {
+    "zkratka": "TV-PIL",
+    "nazev": "Fitness aktivity - Pilates",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295635"
+  },
+  {
+    "zkratka": "TV-PIL",
+    "nazev": "Fitness aktivity - Pilates",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295634"
+  },
+  {
+    "zkratka": "TV-FBW",
+    "nazev": "Fitness aktivity - Posilování celého těla /Full body workout",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295497"
+  },
+  {
+    "zkratka": "TV-FBW",
+    "nazev": "Fitness aktivity - Posilování celého těla /Full body workout",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301036"
+  },
+  {
+    "zkratka": "TV-FATA",
+    "nazev": "Fitness aktivity - Tabata",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295550"
+  },
+  {
+    "zkratka": "TV-FATA",
+    "nazev": "Fitness aktivity - Tabata",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295549"
+  },
+  {
+    "zkratka": "TV-FAJO-EN",
+    "nazev": "Fitness aktivity - Yoga - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295547"
+  },
+  {
+    "zkratka": "TV-ZB",
+    "nazev": "Fitness aktivity - Základy baletu",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/307516"
+  },
+  {
+    "zkratka": "TV-ZTV",
+    "nazev": "Fitness aktivity - Zdravotně kompenzační cvičení",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295686"
+  },
+  {
+    "zkratka": "TV-ZTV",
+    "nazev": "Fitness aktivity - Zdravotně kompenzační cvičení",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295687"
+  },
+  {
+    "zkratka": "TV-ZUM",
+    "nazev": "Fitness aktivity - Zumba Fitness®",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295689"
+  },
+  {
+    "zkratka": "TV-ZUM",
+    "nazev": "Fitness aktivity - Zumba Fitness®",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295688"
+  },
+  {
+    "zkratka": "TV-ZUM-EN",
+    "nazev": "Fitness aktivity - Zumba Fitness®- EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/307638"
+  },
+  {
+    "zkratka": "TV-FLO",
+    "nazev": "Florbal",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295556"
+  },
+  {
+    "zkratka": "TV-FLO",
+    "nazev": "Florbal",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295555"
+  },
+  {
+    "zkratka": "TV-FOT-EN",
+    "nazev": "Fotbal - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301401"
+  },
+  {
+    "zkratka": "TV-FOT-EN",
+    "nazev": "Fotbal - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/307485"
+  },
+  {
+    "zkratka": "TV-FOT-R",
+    "nazev": "Fotbal - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295560"
+  },
+  {
+    "zkratka": "TV-FOT-R",
+    "nazev": "Fotbal - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301397"
+  },
+  {
+    "zkratka": "TV-FOT",
+    "nazev": "Fotbal/ malá kopaná",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295558"
+  },
+  {
+    "zkratka": "TV-FOT",
+    "nazev": "Fotbal/ malá kopaná",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295559"
+  },
+  {
+    "zkratka": "TV-FRI",
+    "nazev": "Frisbee",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295564"
+  },
+  {
+    "zkratka": "TV-FRI",
+    "nazev": "Frisbee",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295563"
+  },
+  {
+    "zkratka": "TV-FRI-R",
+    "nazev": "Frisbee - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295566"
+  },
+  {
+    "zkratka": "TV-FRI-R",
+    "nazev": "Frisbee - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295565"
+  },
+  {
+    "zkratka": "TV-FCIT",
+    "nazev": "Funkční trénink",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295552"
+  },
+  {
+    "zkratka": "TV-FCIT-EN",
+    "nazev": "Funkční trénink - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295554"
+  },
+  {
+    "zkratka": "TV-FUT",
+    "nazev": "Futsal",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295567"
+  },
+  {
+    "zkratka": "TV-FUT",
+    "nazev": "Futsal",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295568"
+  },
+  {
+    "zkratka": "TV-FUT-EN",
+    "nazev": "Futsal - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295569"
+  },
+  {
+    "zkratka": "TV-FUT-EN",
+    "nazev": "Futsal - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295570"
+  },
+  {
+    "zkratka": "TV-FUT-R",
+    "nazev": "Futsal - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295571"
+  },
+  {
+    "zkratka": "TV-FUT-R",
+    "nazev": "Futsal - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295572"
+  },
+  {
+    "zkratka": "TV-FPF",
+    "nazev": "Fyzioprogramy – FitPainFree®",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295561"
+  },
+  {
+    "zkratka": "TV-FPF",
+    "nazev": "Fyzioprogramy – FitPainFree®",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295562"
+  },
+  {
+    "zkratka": "TV-KOND",
+    "nazev": "Fyzioprogramy - kondice",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295612"
+  },
+  {
+    "zkratka": "TV-KOND",
+    "nazev": "Fyzioprogramy - Kondice",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295611"
+  },
+  {
+    "zkratka": "TV-REDC",
+    "nazev": "Fyzioprogramy - redcord",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295645"
+  },
+  {
+    "zkratka": "TV-REDC",
+    "nazev": "Fyzioprogramy - Redcord",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295646"
+  },
+  {
+    "zkratka": "TV-ZADA",
+    "nazev": "Fyzioprogramy - záda",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295684"
+  },
+  {
+    "zkratka": "TV-ZADA",
+    "nazev": "Fyzioprogramy - Záda",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295685"
+  },
+  {
+    "zkratka": "TV-GYMPR",
+    "nazev": "Gymnastická průprava",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295574"
+  },
+  {
+    "zkratka": "TV-GYMPR",
+    "nazev": "Gymnastická průprava",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295573"
+  },
+  {
+    "zkratka": "TV-HAZ",
+    "nazev": "Házená",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295576"
+  },
+  {
+    "zkratka": "TV-HAZ",
+    "nazev": "Házená",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295575"
+  },
+  {
+    "zkratka": "TV-HAZ-R",
+    "nazev": "Házená - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295577"
+  },
+  {
+    "zkratka": "TV-HAZ-R",
+    "nazev": "Házená - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295578"
+  },
+  {
+    "zkratka": "TV-HEAT",
+    "nazev": "H.E.A.T. program (chodecké trenažéry)",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295579"
+  },
+  {
+    "zkratka": "TV-HEAT",
+    "nazev": "H.E.A.T. program (chodecké trenažéry)",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295580"
+  },
+  {
+    "zkratka": "TV-HK",
+    "nazev": "Horská kola",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295582"
+  },
+  {
+    "zkratka": "TV-HK",
+    "nazev": "Horská kola",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295581"
+  },
+  {
+    "zkratka": "TV-HK-R",
+    "nazev": "Horská kola - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295583"
+  },
+  {
+    "zkratka": "TV-HK-R",
+    "nazev": "Horská kola - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295584"
+  },
+  {
+    "zkratka": "TV-ICEEN",
+    "nazev": "Indoor cycling - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295587"
+  },
+  {
+    "zkratka": "TV-ICEEN",
+    "nazev": "Indoor cycling - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295588"
+  },
+  {
+    "zkratka": "TV-ICE",
+    "nazev": "Indoorcycling (spinning)",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295585"
+  },
+  {
+    "zkratka": "TV-ICE",
+    "nazev": "Indoorcycling (spinning)",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295586"
+  },
+  {
+    "zkratka": "TV-KANO",
+    "nazev": "Kanoistika",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295600"
+  },
+  {
+    "zkratka": "TV-KANO",
+    "nazev": "Kanoistika",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295599"
+  },
+  {
+    "zkratka": "TV-KARA-R",
+    "nazev": "Karate - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295601"
+  },
+  {
+    "zkratka": "TV-KINB",
+    "nazev": "Kin-ball",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295606"
+  },
+  {
+    "zkratka": "TV-KINB",
+    "nazev": "Kin-ball",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295605"
+  },
+  {
+    "zkratka": "N/A",
+    "nazev": "Koloběh na koloběžkách – TV-Kolob",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295610"
+  },
+  {
+    "zkratka": "N/A",
+    "nazev": "Koloběh na koloběžkách - bloková výuka – TV-Kolob",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295609"
+  },
+  {
+    "zkratka": "TV-KKP",
+    "nazev": "Komplexní kondiční příprava",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301687"
+  },
+  {
+    "zkratka": "TV-KKP",
+    "nazev": "Komplexní kondiční příprava",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301688"
+  },
+  {
+    "zkratka": "TV-KATL",
+    "nazev": "Kondiční atletika",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295604"
+  },
+  {
+    "zkratka": "TV-KATL",
+    "nazev": "Kondiční atletika",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295603"
+  },
+  {
+    "zkratka": "TV-KP",
+    "nazev": "Kondiční posilování",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295615"
+  },
+  {
+    "zkratka": "TV-KP",
+    "nazev": "Kondiční posilování",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295614"
+  },
+  {
+    "zkratka": "TV-KP-EN",
+    "nazev": "Kondiční posilování - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295617"
+  },
+  {
+    "zkratka": "TV-KP-EN",
+    "nazev": "Kondiční posilování - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295616"
+  },
+  {
+    "zkratka": "TV-KT",
+    "nazev": "Kondiční trénink",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295618"
+  },
+  {
+    "zkratka": "TV-KT",
+    "nazev": "Kondiční trénink",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295619"
+  },
+  {
+    "zkratka": "TV-LH",
+    "nazev": "Lední hokej",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295623"
+  },
+  {
+    "zkratka": "TV-LH",
+    "nazev": "Lední hokej",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295622"
+  },
+  {
+    "zkratka": "TV-MAR1",
+    "nazev": "Masáž a regenerace 1",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295625"
+  },
+  {
+    "zkratka": "TV-MAR1",
+    "nazev": "Masáž a regenerace 1",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295624"
+  },
+  {
+    "zkratka": "TV-NETRH",
+    "nazev": "Netradiční hry",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295627"
+  },
+  {
+    "zkratka": "TV-NETRH",
+    "nazev": "Netradiční hry",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295628"
+  },
+  {
+    "zkratka": "TV-NW",
+    "nazev": "Nordic walking (chůze s holemi)",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295629"
+  },
+  {
+    "zkratka": "TV-NW",
+    "nazev": "Nordic walking (chůze s holemi)",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295630"
+  },
+  {
+    "zkratka": "TV-TUR",
+    "nazev": "Pěší turistika",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295678"
+  },
+  {
+    "zkratka": "TV-TUR",
+    "nazev": "Pěší turistika",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295677"
+  },
+  {
+    "zkratka": "TV-PLA",
+    "nazev": "Plavání",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295637"
+  },
+  {
+    "zkratka": "TV-PLA",
+    "nazev": "Plavání",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295636"
+  },
+  {
+    "zkratka": "TV-PLA-R",
+    "nazev": "Plavání - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295639"
+  },
+  {
+    "zkratka": "TV-PLA-R",
+    "nazev": "Plavání - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295638"
+  },
+  {
+    "zkratka": "TV-POT",
+    "nazev": "Potápění",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295640"
+  },
+  {
+    "zkratka": "TV-POZS",
+    "nazev": "Požární sport",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295642"
+  },
+  {
+    "zkratka": "TV-POZS",
+    "nazev": "Požární sport",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295641"
+  },
+  {
+    "zkratka": "TV-ROB",
+    "nazev": "Rádiový orientační běh",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301674"
+  },
+  {
+    "zkratka": "TV-ROB",
+    "nazev": "Rádiový orientační běh",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301675"
+  },
+  {
+    "zkratka": "TV-SOFT",
+    "nazev": "Softbal",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295650"
+  },
+  {
+    "zkratka": "TV-SOFT",
+    "nazev": "Softbal",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295651"
+  },
+  {
+    "zkratka": "TV-SOFT-R",
+    "nazev": "Softbal - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295653"
+  },
+  {
+    "zkratka": "TV-SOFT-R",
+    "nazev": "Softbal - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295652"
+  },
+  {
+    "zkratka": "TV-ST",
+    "nazev": "Stolní tenis",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295656"
+  },
+  {
+    "zkratka": "TV-ST",
+    "nazev": "Stolní tenis",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295657"
+  },
+  {
+    "zkratka": "TV-ST-R",
+    "nazev": "Stolní tenis - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295659"
+  },
+  {
+    "zkratka": "TV-ST-R",
+    "nazev": "Stolní tenis - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295658"
+  },
+  {
+    "zkratka": "TV-SPSE",
+    "nazev": "Šerm",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295654"
+  },
+  {
+    "zkratka": "TV-SPSE",
+    "nazev": "Šerm",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295655"
+  },
+  {
+    "zkratka": "TV-PARLAT",
+    "nazev": "Tanec - Párové latino",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295631"
+  },
+  {
+    "zkratka": "TV-PARLAT",
+    "nazev": "Tanec - Párové latino",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295632"
+  },
+  {
+    "zkratka": "TV-PARLAT",
+    "nazev": "Tanec - Párové latino 2",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295633"
+  },
+  {
+    "zkratka": "TV-PARLAT",
+    "nazev": "Tanec - Párové latino 2",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/307451"
+  },
+  {
+    "zkratka": "TV-TATEN",
+    "nazev": "Tanec - Taneční v teniskách",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295663"
+  },
+  {
+    "zkratka": "TV-TATEN",
+    "nazev": "Tanec - Taneční v teniskách",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295662"
+  },
+  {
+    "zkratka": "TV-TATEN",
+    "nazev": "Tanec - Taneční v teniskách 2",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295664"
+  },
+  {
+    "zkratka": "TV-TATEN",
+    "nazev": "Tanec - Taneční v teniskách 2",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/307450"
+  },
+  {
+    "zkratka": "TV-TEN",
+    "nazev": "Tenis",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295666"
+  },
+  {
+    "zkratka": "TV-TEN",
+    "nazev": "Tenis",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295665"
+  },
+  {
+    "zkratka": "TV-TEN-EN",
+    "nazev": "Tennis -EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295668"
+  },
+  {
+    "zkratka": "TV-TEN-EN",
+    "nazev": "Tennis -EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295667"
+  },
+  {
+    "zkratka": "TV-TRBEH",
+    "nazev": "Trailový běh pro radost",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295672"
+  },
+  {
+    "zkratka": "TV-TRBEH",
+    "nazev": "Trailový běh pro radost",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295671"
+  },
+  {
+    "zkratka": "TV-TRX",
+    "nazev": "TRX (Suspension Training)",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295673"
+  },
+  {
+    "zkratka": "TV-TRX",
+    "nazev": "TRX (Suspension Training)",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295674"
+  },
+  {
+    "zkratka": "TV-TRX-EN",
+    "nazev": "TRX (Suspension Training) - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295675"
+  },
+  {
+    "zkratka": "TV-TRX-EN",
+    "nazev": "TRX (Suspension Training) - EN",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295676"
+  },
+  {
+    "zkratka": "TV-UNILIGY",
+    "nazev": "Univerzitní ligy",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301430"
+  },
+  {
+    "zkratka": "TV-UNILIGY",
+    "nazev": "Univerzitní ligy",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301431"
+  },
+  {
+    "zkratka": "TV-IR",
+    "nazev": "Veslařské trenažéry (indoor rowing)",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295590"
+  },
+  {
+    "zkratka": "TV-IR",
+    "nazev": "Veslařské trenažéry (indoor rowing)",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295589"
+  },
+  {
+    "zkratka": "TV-IR-R",
+    "nazev": "Veslařské trenažéry (indoor rowing) - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295592"
+  },
+  {
+    "zkratka": "TV-IR-R",
+    "nazev": "Veslařské trenažéry (indoor rowing) - reprezentace",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295591"
+  },
+  {
+    "zkratka": "TV-VOL",
+    "nazev": "Volejbal",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295680"
+  },
+  {
+    "zkratka": "TV-VOL",
+    "nazev": "Volejbal",
+    "kredity": 1,
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295679"
+  }
+]
