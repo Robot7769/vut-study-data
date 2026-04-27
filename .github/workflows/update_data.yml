@@ -72,5 +72,7 @@ jobs:
           commit_message: "Auto-update: Update study programs, subjects and sports data"
           file_pattern: >-
             data/raw_study_plans/*.json
+            data/cs-CZ/sports.json
             data/cs-CZ/**/*.json
+            data/en-US/sports.json
             data/en-US/**/*.json
