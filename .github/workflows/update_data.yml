@@ -33,13 +33,17 @@ jobs:
 
       # 4. Spustí scraper pro češtinu (raw data)
       - name: Scrape CZ raw data
-        run: python study_plan_scraper.py --language cs-CZ --no-resume
+        run: python study_plan_scraper.py --language cs-CZ --no-resume --delay-min 1.5 --delay-max 3.5
+
+      # 4b. Spustí sports scraper pro češtinu
+      - name: Scrape CZ sports data
+        run: python sport_scrapper.py --language cs-CZ --delay-min 1.5 --delay-max 3.5
 
       # 5. Detekce změn v CZ raw datech
       - name: Check if CZ data changed
         id: check_changes
         run: |
-          if git diff --quiet data/raw_study_plans/plans_cs.json; then
+          if git diff --quiet data/raw_study_plans/plans_cs.json data/cs-CZ/sports.json; then
             echo "Žádná změna v CZ datech."
             echo "changed=false" >> $GITHUB_OUTPUT
           else
@@ -50,7 +54,11 @@ jobs:
       # 6. Pokud se CZ data změnila → stáhnout EN data a spustit analýzu
       - name: Scrape EN raw data
         if: steps.check_changes.outputs.changed == 'true'
-        run: python study_plan_scraper.py --language en-US --no-resume
+        run: python study_plan_scraper.py --language en-US --no-resume --delay-min 1.5 --delay-max 3.5
+
+      - name: Scrape EN sports data
+        if: steps.check_changes.outputs.changed == 'true'
+        run: python sport_scrapper.py --language en-US --delay-min 1.5 --delay-max 3.5
 
       - name: Run data analysis (programmes + subjects)
         if: steps.check_changes.outputs.changed == 'true'
@@ -61,7 +69,7 @@ jobs:
         if: steps.check_changes.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: Update study programs and subjects data"
+          commit_message: "Auto-update: Update study programs, subjects and sports data"
           file_pattern: >-
             data/raw_study_plans/*.json
             data/cs-CZ/**/*.json

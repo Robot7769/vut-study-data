@@ -66,3 +66,18 @@ def get_study_programmes_output(language=LANGUAGES[0]):
         return STUDY_PROGRAMMES_OUTPUT_EN
     else:
         raise ValueError("Neznámý jazyk. Použijte 'cs-CZ' nebo 'en-US'.")
+
+# Sports configuration
+SPORTS_URL_CS = "https://www.cesa.vut.cz/studenti/sporty?str="
+SPORTS_URL_EN = "https://www.cesa.vut.cz/en/students/sports-offer?str="
+
+SPORTS_OUTPUT_CS = f"{DATA_DIR_CS}/sports.json"
+SPORTS_OUTPUT_EN = f"{DATA_DIR_EN}/sports.json"
+
+def get_sports_output(language=LANGUAGES[0]):
+    if language == LANGUAGES[0]:  # "cs-CZ"
+        return SPORTS_OUTPUT_CS
+    elif language == LANGUAGES[1]:  # "en-US"
+        return SPORTS_OUTPUT_EN
+    else:
+        raise ValueError("Neznámý jazyk. Použijte 'cs-CZ' nebo 'en-US'.")
