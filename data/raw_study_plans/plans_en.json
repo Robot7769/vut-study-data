@@ -2722,19 +2722,6 @@
         "rocnik": "3"
       },
       {
-        "zkratka": "DEM-KE",
-        "nazev": "Design Manual",
-        "kredity": "3",
-        "povinnost": "Elective",
-        "zakonceni": "GCr",
-        "skupina": "",
-        "url": "https://www.vut.cz/en/students/courses/detail/288446",
-        "semestr": [
-          "zimní"
-        ],
-        "rocnik": "3"
-      },
-      {
         "zkratka": "DEM-K",
         "nazev": "Design Manual",
         "kredity": "3",
@@ -2745,6 +2732,19 @@
         "semestr": [
           "zimní",
           "letní"
+        ],
+        "rocnik": "3"
+      },
+      {
+        "zkratka": "DEM-KE",
+        "nazev": "Design Manual",
+        "kredity": "3",
+        "povinnost": "Elective",
+        "zakonceni": "GCr",
+        "skupina": "",
+        "url": "https://www.vut.cz/en/students/courses/detail/288446",
+        "semestr": [
+          "zimní"
         ],
         "rocnik": "3"
       },
@@ -48100,7 +48100,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -48113,7 +48113,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -48932,7 +48932,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -48945,7 +48945,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -49543,7 +49543,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -49556,7 +49556,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -50334,7 +50334,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -50347,7 +50347,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -51138,7 +51138,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -51151,7 +51151,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -51944,7 +51944,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -51957,7 +51957,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -52763,7 +52763,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -52776,7 +52776,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -53595,7 +53595,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -53608,7 +53608,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -54206,7 +54206,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -54219,7 +54219,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -55010,7 +55010,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -55023,7 +55023,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -115941,19 +115941,6 @@
         "rocnik": "1"
       },
       {
-        "zkratka": "OP1-AE",
-        "nazev": "Internship",
-        "kredity": "30",
-        "povinnost": "Compulsory",
-        "zakonceni": "Cr",
-        "skupina": "",
-        "url": "https://www.vut.cz/en/students/courses/detail/288543",
-        "semestr": [
-          "letní"
-        ],
-        "rocnik": "1"
-      },
-      {
         "zkratka": "SP2-KE",
         "nazev": "Law in Urban Planning and Architecture",
         "kredity": "2",
@@ -126950,7 +126937,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -126963,7 +126950,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -131474,7 +131461,7 @@
       },
       {
         "zkratka": "CZV_CH",
-        "nazev": "",
+        "nazev": "An Overview of High School Chemistry",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -131487,7 +131474,7 @@
       },
       {
         "zkratka": "CZV_M",
-        "nazev": "",
+        "nazev": "An Overview of High School Mathematics",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
