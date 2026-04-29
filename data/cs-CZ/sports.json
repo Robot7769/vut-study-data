@@ -2,7 +2,7 @@
   {
     "zkratka": "TV-BAD",
     "nazev": "Badminton",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -15,7 +15,7 @@
   {
     "zkratka": "TV-BAD",
     "nazev": "Badminton",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -28,7 +28,7 @@
   {
     "zkratka": "TV-BAD-EN",
     "nazev": "Badminton - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -41,7 +41,7 @@
   {
     "zkratka": "TV-BAD-EN",
     "nazev": "Badminton - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -54,7 +54,7 @@
   {
     "zkratka": "TV-BAD-L",
     "nazev": "Badminton - VŠ liga",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -67,7 +67,7 @@
   {
     "zkratka": "TV-BAD-L",
     "nazev": "Badminton - VŠ liga",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -80,7 +80,7 @@
   {
     "zkratka": "TV-BAS",
     "nazev": "Basketbal",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -93,7 +93,7 @@
   {
     "zkratka": "TV-BAS",
     "nazev": "Basketbal",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -106,7 +106,7 @@
   {
     "zkratka": "TV-KARA-R",
     "nazev": "Bojová umění - Karate - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -119,7 +119,7 @@
   {
     "zkratka": "TV-ALLK",
     "nazev": "Bojová umění - Allkampf-jitsu - sebeobrana",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -132,7 +132,7 @@
   {
     "zkratka": "TV-ALLK",
     "nazev": "Bojová umění - Allkampf-jitsu - sebeobrana",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -145,7 +145,7 @@
   {
     "zkratka": "TV-BV-BU",
     "nazev": "Bojová umění - bloková výuka",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -158,7 +158,7 @@
   {
     "zkratka": "TV-JUDO",
     "nazev": "Bojová umění - Judo",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -171,7 +171,7 @@
   {
     "zkratka": "TV-JUDO",
     "nazev": "Bojová umění - Judo",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -184,7 +184,7 @@
   {
     "zkratka": "TV-JUDO-R",
     "nazev": "Bojová umění - Judo - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -197,7 +197,7 @@
   {
     "zkratka": "TV-JUDO-R",
     "nazev": "Bojová umění - Judo - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -210,7 +210,7 @@
   {
     "zkratka": "TV-KADO",
     "nazev": "Bojová umění - Karate do - tradiční karate a sebeobrana",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -223,7 +223,7 @@
   {
     "zkratka": "TV-KADO",
     "nazev": "Bojová umění - Karate do - tradiční karate a sebeobrana",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -236,7 +236,7 @@
   {
     "zkratka": "TV-KOBU",
     "nazev": "Bojová umění - Kobudo",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -249,7 +249,7 @@
   {
     "zkratka": "TV-KOBU",
     "nazev": "Bojová umění - Kobudo",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -262,7 +262,7 @@
   {
     "zkratka": "TV-BUUC",
     "nazev": "Bojová umění - Sebeobrana – systém Urban Combatives",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -275,7 +275,7 @@
   {
     "zkratka": "TV-BUUC",
     "nazev": "Bojová umění - Sebeobrana – systém Urban Combatives",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -288,7 +288,7 @@
   {
     "zkratka": "TV-SEBE",
     "nazev": "Bojová umění - Sebeobrana a kontaktní boj",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -301,7 +301,7 @@
   {
     "zkratka": "TV-SEBE",
     "nazev": "Bojová umění - Sebeobrana a kontaktní boj",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -314,7 +314,7 @@
   {
     "zkratka": "TV-TAEK",
     "nazev": "Bojová umění - Taekwondo W.T.F.",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -327,7 +327,7 @@
   {
     "zkratka": "TV-TAEK",
     "nazev": "Bojová umění - Taekwondo W.T.F.",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -340,7 +340,7 @@
   {
     "zkratka": "TV-BOUL",
     "nazev": "Bouldering",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -353,7 +353,7 @@
   {
     "zkratka": "TV-BOUL",
     "nazev": "Bouldering",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -366,7 +366,7 @@
   {
     "zkratka": "TV-BOUL-EN",
     "nazev": "Bouldering - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -379,7 +379,7 @@
   {
     "zkratka": "TV-BOUL-EN",
     "nazev": "Bouldering - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -392,7 +392,7 @@
   {
     "zkratka": "TV-BOUL-R",
     "nazev": "Bouldering - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -405,7 +405,7 @@
   {
     "zkratka": "TV-BOUL-R",
     "nazev": "Bouldering - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -418,7 +418,7 @@
   {
     "zkratka": "TV-BRU",
     "nazev": "Bruslení",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -431,7 +431,7 @@
   {
     "zkratka": "TV-BRU",
     "nazev": "Bruslení",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -444,7 +444,7 @@
   {
     "zkratka": "TV-CR",
     "nazev": "Curling",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -457,7 +457,7 @@
   {
     "zkratka": "TV-CR",
     "nazev": "Curling",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -470,7 +470,7 @@
   {
     "zkratka": "TV-DIS",
     "nazev": "Discgolf",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -483,7 +483,7 @@
   {
     "zkratka": "TV-DIS",
     "nazev": "Discgolf",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -496,7 +496,7 @@
   {
     "zkratka": "TV-DB",
     "nazev": "Dodgeball",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -509,7 +509,7 @@
   {
     "zkratka": "TV-DB",
     "nazev": "Dodgeball",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -522,7 +522,7 @@
   {
     "zkratka": "TV-DL",
     "nazev": "Dračí lodě",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -535,7 +535,7 @@
   {
     "zkratka": "TV-DL",
     "nazev": "Dračí lodě",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -548,7 +548,7 @@
   {
     "zkratka": "TV-PNM-AA",
     "nazev": "Fitness aktivita - Práce na mobilitě: Animal Flow",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -561,7 +561,7 @@
   {
     "zkratka": "TV-PNM-AA",
     "nazev": "Fitness aktivita - Práce na mobilitě: Akrobacie a Animal Flow",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -574,7 +574,7 @@
   {
     "zkratka": "TV-PNM-FS",
     "nazev": "Fitness aktivita - Práce na mobilitě: Flexibilita a Síla",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -587,7 +587,7 @@
   {
     "zkratka": "TV-PNM-FS",
     "nazev": "Fitness aktivita - Práce na mobilitě: Flexibilita a Síla",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -600,7 +600,7 @@
   {
     "zkratka": "TV-CONTEM",
     "nazev": "Fitness aktivity - Contemporary",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -613,7 +613,7 @@
   {
     "zkratka": "TV-CPZZ",
     "nazev": "Fitness aktivity - Cvičení pro zdravá záda",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -626,7 +626,7 @@
   {
     "zkratka": "TV-CPZZ",
     "nazev": "Fitness aktivity - Cvičení pro zdravá záda",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -639,7 +639,7 @@
   {
     "zkratka": "N/A",
     "nazev": "Fitness aktivity - Fasciální jóga a automasáž – TV - FAJA",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -652,7 +652,7 @@
   {
     "zkratka": "TV-FJ",
     "nazev": "Fitness aktivity - Fyzio jóga",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -665,7 +665,7 @@
   {
     "zkratka": "TV-FJ",
     "nazev": "Fitness aktivity - Fyzio jóga",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -678,7 +678,7 @@
   {
     "zkratka": "TV-FAJO",
     "nazev": "Fitness aktivity - Jóga",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -691,7 +691,7 @@
   {
     "zkratka": "TV-FAJO",
     "nazev": "Fitness aktivity - Jóga",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -704,7 +704,7 @@
   {
     "zkratka": "TV-KTTEL",
     "nazev": "Fitness aktivity - Kruhový trénink v tělocvicně",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -717,7 +717,7 @@
   {
     "zkratka": "TV-KTTEL",
     "nazev": "Fitness aktivity - Kruhový trénink v tělocvicně",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -730,7 +730,7 @@
   {
     "zkratka": "TV-PIL",
     "nazev": "Fitness aktivity - Pilates",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -743,7 +743,7 @@
   {
     "zkratka": "TV-PIL",
     "nazev": "Fitness aktivity - Pilates",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -756,7 +756,7 @@
   {
     "zkratka": "TV-FBW",
     "nazev": "Fitness aktivity - Posilování celého těla /Full body workout",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -769,7 +769,7 @@
   {
     "zkratka": "TV-FBW",
     "nazev": "Fitness aktivity - Posilování celého těla /Full body workout",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -782,7 +782,7 @@
   {
     "zkratka": "TV-FATA",
     "nazev": "Fitness aktivity - Tabata",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -795,7 +795,7 @@
   {
     "zkratka": "TV-FATA",
     "nazev": "Fitness aktivity - Tabata",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -808,7 +808,7 @@
   {
     "zkratka": "TV-FAJO-EN",
     "nazev": "Fitness aktivity - Yoga - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -821,7 +821,7 @@
   {
     "zkratka": "TV-ZB",
     "nazev": "Fitness aktivity - Základy baletu",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -834,7 +834,7 @@
   {
     "zkratka": "TV-ZTV",
     "nazev": "Fitness aktivity - Zdravotně kompenzační cvičení",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -847,7 +847,7 @@
   {
     "zkratka": "TV-ZTV",
     "nazev": "Fitness aktivity - Zdravotně kompenzační cvičení",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -860,7 +860,7 @@
   {
     "zkratka": "TV-ZUM",
     "nazev": "Fitness aktivity - Zumba Fitness®",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -873,7 +873,7 @@
   {
     "zkratka": "TV-ZUM",
     "nazev": "Fitness aktivity - Zumba Fitness®",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -886,7 +886,7 @@
   {
     "zkratka": "TV-ZUM-EN",
     "nazev": "Fitness aktivity - Zumba Fitness®- EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -899,7 +899,7 @@
   {
     "zkratka": "TV-FLO",
     "nazev": "Florbal",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -912,7 +912,7 @@
   {
     "zkratka": "TV-FLO",
     "nazev": "Florbal",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -925,7 +925,7 @@
   {
     "zkratka": "TV-FOT-EN",
     "nazev": "Fotbal - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -938,7 +938,7 @@
   {
     "zkratka": "TV-FOT-EN",
     "nazev": "Fotbal - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -951,7 +951,7 @@
   {
     "zkratka": "TV-FOT-R",
     "nazev": "Fotbal - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -964,7 +964,7 @@
   {
     "zkratka": "TV-FOT-R",
     "nazev": "Fotbal - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -977,7 +977,7 @@
   {
     "zkratka": "TV-FOT",
     "nazev": "Fotbal/ malá kopaná",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -990,7 +990,7 @@
   {
     "zkratka": "TV-FOT",
     "nazev": "Fotbal/ malá kopaná",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1003,7 +1003,7 @@
   {
     "zkratka": "TV-FRI",
     "nazev": "Frisbee",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1016,7 +1016,7 @@
   {
     "zkratka": "TV-FRI",
     "nazev": "Frisbee",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1029,7 +1029,7 @@
   {
     "zkratka": "TV-FRI-R",
     "nazev": "Frisbee - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1042,7 +1042,7 @@
   {
     "zkratka": "TV-FRI-R",
     "nazev": "Frisbee - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1055,7 +1055,7 @@
   {
     "zkratka": "TV-FCIT",
     "nazev": "Funkční trénink",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1068,7 +1068,7 @@
   {
     "zkratka": "TV-FCIT-EN",
     "nazev": "Funkční trénink - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1081,7 +1081,7 @@
   {
     "zkratka": "TV-FUT",
     "nazev": "Futsal",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1094,7 +1094,7 @@
   {
     "zkratka": "TV-FUT",
     "nazev": "Futsal",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1107,7 +1107,7 @@
   {
     "zkratka": "TV-FUT-EN",
     "nazev": "Futsal - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1120,7 +1120,7 @@
   {
     "zkratka": "TV-FUT-EN",
     "nazev": "Futsal - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1133,7 +1133,7 @@
   {
     "zkratka": "TV-FUT-R",
     "nazev": "Futsal - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1146,7 +1146,7 @@
   {
     "zkratka": "TV-FUT-R",
     "nazev": "Futsal - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1159,7 +1159,7 @@
   {
     "zkratka": "TV-FPF",
     "nazev": "Fyzioprogramy – FitPainFree®",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1172,7 +1172,7 @@
   {
     "zkratka": "TV-FPF",
     "nazev": "Fyzioprogramy – FitPainFree®",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1185,7 +1185,7 @@
   {
     "zkratka": "TV-KOND",
     "nazev": "Fyzioprogramy - kondice",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1198,7 +1198,7 @@
   {
     "zkratka": "TV-KOND",
     "nazev": "Fyzioprogramy - Kondice",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1211,7 +1211,7 @@
   {
     "zkratka": "TV-REDC",
     "nazev": "Fyzioprogramy - redcord",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1224,7 +1224,7 @@
   {
     "zkratka": "TV-REDC",
     "nazev": "Fyzioprogramy - Redcord",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1237,7 +1237,7 @@
   {
     "zkratka": "TV-ZADA",
     "nazev": "Fyzioprogramy - záda",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1250,7 +1250,7 @@
   {
     "zkratka": "TV-ZADA",
     "nazev": "Fyzioprogramy - Záda",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1263,7 +1263,7 @@
   {
     "zkratka": "TV-GYMPR",
     "nazev": "Gymnastická průprava",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1276,7 +1276,7 @@
   {
     "zkratka": "TV-GYMPR",
     "nazev": "Gymnastická průprava",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1289,7 +1289,7 @@
   {
     "zkratka": "TV-HAZ",
     "nazev": "Házená",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1302,7 +1302,7 @@
   {
     "zkratka": "TV-HAZ",
     "nazev": "Házená",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1315,7 +1315,7 @@
   {
     "zkratka": "TV-HAZ-R",
     "nazev": "Házená - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1328,7 +1328,7 @@
   {
     "zkratka": "TV-HAZ-R",
     "nazev": "Házená - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1341,7 +1341,7 @@
   {
     "zkratka": "TV-HEAT",
     "nazev": "H.E.A.T. program (chodecké trenažéry)",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1354,7 +1354,7 @@
   {
     "zkratka": "TV-HEAT",
     "nazev": "H.E.A.T. program (chodecké trenažéry)",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1367,7 +1367,7 @@
   {
     "zkratka": "TV-HK",
     "nazev": "Horská kola",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1380,7 +1380,7 @@
   {
     "zkratka": "TV-HK",
     "nazev": "Horská kola",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1393,7 +1393,7 @@
   {
     "zkratka": "TV-HK-R",
     "nazev": "Horská kola - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1406,7 +1406,7 @@
   {
     "zkratka": "TV-HK-R",
     "nazev": "Horská kola - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1419,7 +1419,7 @@
   {
     "zkratka": "TV-ICEEN",
     "nazev": "Indoor cycling - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1432,7 +1432,7 @@
   {
     "zkratka": "TV-ICEEN",
     "nazev": "Indoor cycling - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1445,7 +1445,7 @@
   {
     "zkratka": "TV-ICE",
     "nazev": "Indoorcycling (spinning)",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1458,7 +1458,7 @@
   {
     "zkratka": "TV-ICE",
     "nazev": "Indoorcycling (spinning)",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1471,7 +1471,7 @@
   {
     "zkratka": "TV-KANO",
     "nazev": "Kanoistika",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1484,7 +1484,7 @@
   {
     "zkratka": "TV-KANO",
     "nazev": "Kanoistika",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1497,7 +1497,7 @@
   {
     "zkratka": "TV-KARA-R",
     "nazev": "Karate - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1510,7 +1510,7 @@
   {
     "zkratka": "TV-KINB",
     "nazev": "Kin-ball",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1523,7 +1523,7 @@
   {
     "zkratka": "TV-KINB",
     "nazev": "Kin-ball",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1536,7 +1536,7 @@
   {
     "zkratka": "N/A",
     "nazev": "Koloběh na koloběžkách – TV-Kolob",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1549,7 +1549,7 @@
   {
     "zkratka": "N/A",
     "nazev": "Koloběh na koloběžkách - bloková výuka – TV-Kolob",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1562,7 +1562,7 @@
   {
     "zkratka": "TV-KKP",
     "nazev": "Komplexní kondiční příprava",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1575,7 +1575,7 @@
   {
     "zkratka": "TV-KKP",
     "nazev": "Komplexní kondiční příprava",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1588,7 +1588,7 @@
   {
     "zkratka": "TV-KATL",
     "nazev": "Kondiční atletika",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1601,7 +1601,7 @@
   {
     "zkratka": "TV-KATL",
     "nazev": "Kondiční atletika",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1614,7 +1614,7 @@
   {
     "zkratka": "TV-KP",
     "nazev": "Kondiční posilování",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1627,7 +1627,7 @@
   {
     "zkratka": "TV-KP",
     "nazev": "Kondiční posilování",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1640,7 +1640,7 @@
   {
     "zkratka": "TV-KP-EN",
     "nazev": "Kondiční posilování - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1653,7 +1653,7 @@
   {
     "zkratka": "TV-KP-EN",
     "nazev": "Kondiční posilování - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1666,7 +1666,7 @@
   {
     "zkratka": "TV-KT",
     "nazev": "Kondiční trénink",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1679,7 +1679,7 @@
   {
     "zkratka": "TV-KT",
     "nazev": "Kondiční trénink",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1692,7 +1692,7 @@
   {
     "zkratka": "TV-LH",
     "nazev": "Lední hokej",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1705,7 +1705,7 @@
   {
     "zkratka": "TV-LH",
     "nazev": "Lední hokej",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1718,7 +1718,7 @@
   {
     "zkratka": "TV-MAR1",
     "nazev": "Masáž a regenerace 1",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1731,7 +1731,7 @@
   {
     "zkratka": "TV-MAR1",
     "nazev": "Masáž a regenerace 1",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1744,7 +1744,7 @@
   {
     "zkratka": "TV-NETRH",
     "nazev": "Netradiční hry",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1757,7 +1757,7 @@
   {
     "zkratka": "TV-NETRH",
     "nazev": "Netradiční hry",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1770,7 +1770,7 @@
   {
     "zkratka": "TV-NW",
     "nazev": "Nordic walking (chůze s holemi)",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1783,7 +1783,7 @@
   {
     "zkratka": "TV-NW",
     "nazev": "Nordic walking (chůze s holemi)",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1796,7 +1796,7 @@
   {
     "zkratka": "TV-TUR",
     "nazev": "Pěší turistika",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1809,7 +1809,7 @@
   {
     "zkratka": "TV-TUR",
     "nazev": "Pěší turistika",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1822,7 +1822,7 @@
   {
     "zkratka": "TV-PLA",
     "nazev": "Plavání",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1835,7 +1835,7 @@
   {
     "zkratka": "TV-PLA",
     "nazev": "Plavání",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1848,7 +1848,7 @@
   {
     "zkratka": "TV-PLA-R",
     "nazev": "Plavání - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1861,7 +1861,7 @@
   {
     "zkratka": "TV-PLA-R",
     "nazev": "Plavání - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1874,7 +1874,7 @@
   {
     "zkratka": "TV-POT",
     "nazev": "Potápění",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1887,7 +1887,7 @@
   {
     "zkratka": "TV-POZS",
     "nazev": "Požární sport",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1900,7 +1900,7 @@
   {
     "zkratka": "TV-POZS",
     "nazev": "Požární sport",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1913,7 +1913,7 @@
   {
     "zkratka": "TV-ROB",
     "nazev": "Rádiový orientační běh",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1926,7 +1926,7 @@
   {
     "zkratka": "TV-ROB",
     "nazev": "Rádiový orientační běh",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1939,7 +1939,7 @@
   {
     "zkratka": "TV-SOFT",
     "nazev": "Softbal",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1952,7 +1952,7 @@
   {
     "zkratka": "TV-SOFT",
     "nazev": "Softbal",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1965,7 +1965,7 @@
   {
     "zkratka": "TV-SOFT-R",
     "nazev": "Softbal - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1978,7 +1978,7 @@
   {
     "zkratka": "TV-SOFT-R",
     "nazev": "Softbal - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -1991,7 +1991,7 @@
   {
     "zkratka": "TV-ST",
     "nazev": "Stolní tenis",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2004,7 +2004,7 @@
   {
     "zkratka": "TV-ST",
     "nazev": "Stolní tenis",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2017,7 +2017,7 @@
   {
     "zkratka": "TV-ST-R",
     "nazev": "Stolní tenis - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2030,7 +2030,7 @@
   {
     "zkratka": "TV-ST-R",
     "nazev": "Stolní tenis - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2043,7 +2043,7 @@
   {
     "zkratka": "TV-SPSE",
     "nazev": "Šerm",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2056,7 +2056,7 @@
   {
     "zkratka": "TV-SPSE",
     "nazev": "Šerm",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2069,7 +2069,7 @@
   {
     "zkratka": "TV-PARLAT",
     "nazev": "Tanec - Párové latino",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2082,7 +2082,7 @@
   {
     "zkratka": "TV-PARLAT",
     "nazev": "Tanec - Párové latino",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2095,7 +2095,7 @@
   {
     "zkratka": "TV-PARLAT",
     "nazev": "Tanec - Párové latino 2",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2108,7 +2108,7 @@
   {
     "zkratka": "TV-PARLAT",
     "nazev": "Tanec - Párové latino 2",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2121,7 +2121,7 @@
   {
     "zkratka": "TV-TATEN",
     "nazev": "Tanec - Taneční v teniskách",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2134,7 +2134,7 @@
   {
     "zkratka": "TV-TATEN",
     "nazev": "Tanec - Taneční v teniskách",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2147,7 +2147,7 @@
   {
     "zkratka": "TV-TATEN",
     "nazev": "Tanec - Taneční v teniskách 2",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2160,7 +2160,7 @@
   {
     "zkratka": "TV-TATEN",
     "nazev": "Tanec - Taneční v teniskách 2",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2173,7 +2173,7 @@
   {
     "zkratka": "TV-TEN",
     "nazev": "Tenis",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2186,7 +2186,7 @@
   {
     "zkratka": "TV-TEN",
     "nazev": "Tenis",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2199,7 +2199,7 @@
   {
     "zkratka": "TV-TEN-EN",
     "nazev": "Tennis -EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2212,7 +2212,7 @@
   {
     "zkratka": "TV-TEN-EN",
     "nazev": "Tennis -EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2225,7 +2225,7 @@
   {
     "zkratka": "TV-TRBEH",
     "nazev": "Trailový běh pro radost",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2238,7 +2238,7 @@
   {
     "zkratka": "TV-TRBEH",
     "nazev": "Trailový běh pro radost",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2251,7 +2251,7 @@
   {
     "zkratka": "TV-TRX",
     "nazev": "TRX (Suspension Training)",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2264,7 +2264,7 @@
   {
     "zkratka": "TV-TRX",
     "nazev": "TRX (Suspension Training)",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2277,7 +2277,7 @@
   {
     "zkratka": "TV-TRX-EN",
     "nazev": "TRX (Suspension Training) - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2290,7 +2290,7 @@
   {
     "zkratka": "TV-TRX-EN",
     "nazev": "TRX (Suspension Training) - EN",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2303,7 +2303,7 @@
   {
     "zkratka": "TV-UNILIGY",
     "nazev": "Univerzitní ligy",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2316,7 +2316,7 @@
   {
     "zkratka": "TV-UNILIGY",
     "nazev": "Univerzitní ligy",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2329,7 +2329,7 @@
   {
     "zkratka": "TV-IR",
     "nazev": "Veslařské trenažéry (indoor rowing)",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2342,7 +2342,7 @@
   {
     "zkratka": "TV-IR",
     "nazev": "Veslařské trenažéry (indoor rowing)",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2355,7 +2355,7 @@
   {
     "zkratka": "TV-IR-R",
     "nazev": "Veslařské trenažéry (indoor rowing) - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2368,7 +2368,7 @@
   {
     "zkratka": "TV-IR-R",
     "nazev": "Veslařské trenažéry (indoor rowing) - reprezentace",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2381,7 +2381,7 @@
   {
     "zkratka": "TV-VOL",
     "nazev": "Volejbal",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
@@ -2394,7 +2394,7 @@
   {
     "zkratka": "TV-VOL",
     "nazev": "Volejbal",
-    "kredity": 1,
+    "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
