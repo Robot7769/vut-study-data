@@ -169,7 +169,7 @@ class SportsScraper:
                 all_sports[sport_id] = {
                     'zkratka': abbreviation,
                     'nazev': name,
-                    'kredity': 1,
+                    'kredity': "1",
                     'povinnost': 'sport',
                     'zakonceni': 'zá',
                     'skupina': '',
