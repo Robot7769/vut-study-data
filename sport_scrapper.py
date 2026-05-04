@@ -85,15 +85,17 @@ class SportsScraper:
     @staticmethod
     def _extract_name_and_abbreviation(full_text: str) -> tuple[str, str]:
         """Oddělí název sportu od zkratky na konci řetězce."""
-        match = re.match(
-            r"^(.*?)(?:\s*[–\-—]\s*)((?:CESA-)?TV(?:\s*-\s*|\s+)?[A-Za-z0-9]+(?:\s*-\s*[A-Za-z0-9]+)*)\s*$",
+        match = re.search(
+            r"(?:\s*[–\-—]\s*)((?:CESA-)?TV(?:\s*-\s*|\s+)?[A-Za-z0-9]+(?:\s*-\s*[A-Za-z0-9]+)*)(?:\s+(\d+))?\s*$",
             full_text,
         )
         if not match:
             return full_text, "N/A"
 
-        name = SportsScraper._clean_text(match.group(1))
-        abbreviation = re.sub(r"\s*-\s*", "-", match.group(2)).strip()
+        name = SportsScraper._clean_text(full_text[: match.start()])
+        abbreviation = re.sub(r"\s*-\s*", "-", match.group(1)).strip()
+        if match.group(2):
+            abbreviation = f"{abbreviation}-{match.group(2)}"
         if abbreviation.startswith("CESA-"):
             abbreviation = abbreviation[5:]
 
