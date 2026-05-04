@@ -82,6 +82,23 @@ class SportsScraper:
             return " ".join(text.split())
         return ""
 
+    @staticmethod
+    def _extract_name_and_abbreviation(full_text: str) -> tuple[str, str]:
+        """Oddělí název sportu od zkratky na konci řetězce."""
+        match = re.match(
+            r"^(.*?)(?:\s*[–\-—]\s*)((?:CESA-)?TV(?:\s*-\s*|\s+)?[A-Za-z0-9]+(?:\s*-\s*[A-Za-z0-9]+)*)\s*$",
+            full_text,
+        )
+        if not match:
+            return full_text, "N/A"
+
+        name = SportsScraper._clean_text(match.group(1))
+        abbreviation = re.sub(r"\s*-\s*", "-", match.group(2)).strip()
+        if abbreviation.startswith("CESA-"):
+            abbreviation = abbreviation[5:]
+
+        return name, abbreviation if abbreviation else "N/A"
+
     def _extract_semester(self, annot_text: str) -> List[str]:
         """Detekuje semestr z anotace. Vrací seznam."""
         semesters = []
@@ -146,13 +163,7 @@ class SportsScraper:
                 sport_id = id_match.group(1) if id_match else href
 
                 # Jméno a zkratka
-                name_match = re.search(r'(.*?)\s*[–\-—]\s*(TV-[A-Z0-9\-]+)\b', full_text)
-                if name_match:
-                    name = self._clean_text(name_match.group(1))
-                    abbreviation = name_match.group(2).strip()
-                else:
-                    name = full_text
-                    abbreviation = "N/A"
+                name, abbreviation = self._extract_name_and_abbreviation(full_text)
 
                 # Semestr (seznam)
                 semesters = []
