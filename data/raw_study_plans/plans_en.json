@@ -6136,19 +6136,6 @@
         "rocnik": "3"
       },
       {
-        "zkratka": "BPC-PRA",
-        "nazev": "Pragmatics",
-        "kredity": "4",
-        "povinnost": "Compulsory",
-        "zakonceni": "Ex",
-        "skupina": "",
-        "url": "https://www.vut.cz/en/students/courses/detail/290662",
-        "semestr": [
-          "zimní"
-        ],
-        "rocnik": "libovolný"
-      },
-      {
         "zkratka": "XPC-CA1",
         "nazev": "CISCO Academy 1 - CCNA",
         "kredity": "3",
@@ -6239,6 +6226,19 @@
         "semestr": [
           "zimní",
           "letní"
+        ],
+        "rocnik": "libovolný"
+      },
+      {
+        "zkratka": "BPC-MAS",
+        "nazev": "Mathematical Seminar",
+        "kredity": "2",
+        "povinnost": "Elective",
+        "zakonceni": "Cr",
+        "skupina": "",
+        "url": "https://www.vut.cz/en/students/courses/detail/287324",
+        "semestr": [
+          "zimní"
         ],
         "rocnik": "libovolný"
       },
@@ -6369,19 +6369,6 @@
         "zakonceni": "GCr",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/291563",
-        "semestr": [
-          "letní"
-        ],
-        "rocnik": "libovolný"
-      },
-      {
-        "zkratka": "BPC-ODP",
-        "nazev": "Practical Training",
-        "kredity": "0",
-        "povinnost": "Elective",
-        "zakonceni": "Cr",
-        "skupina": "",
-        "url": "https://www.vut.cz/en/students/courses/detail/290623",
         "semestr": [
           "letní"
         ],
@@ -48961,7 +48948,7 @@
         "nazev": "Business Economics",
         "kredity": "5",
         "povinnost": "Compulsory",
-        "zakonceni": "Cr,Ex",
+        "zakonceni": "Ex",
         "skupina": "",
         "url": "https://www.vut.cz/en/students/courses/detail/293597",
         "semestr": [
@@ -49959,7 +49946,7 @@
       },
       {
         "zkratka": "BC_VTBP",
-        "nazev": "",
+        "nazev": "Bachelor’s Thesis Topic Selection",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -50750,7 +50737,7 @@
       },
       {
         "zkratka": "BC_VTBP",
-        "nazev": "",
+        "nazev": "Bachelor’s Thesis Topic Selection",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",
@@ -54622,7 +54609,7 @@
       },
       {
         "zkratka": "BC_VTBP",
-        "nazev": "",
+        "nazev": "Bachelor’s Thesis Topic Selection",
         "kredity": "0",
         "povinnost": "Elective",
         "zakonceni": "",

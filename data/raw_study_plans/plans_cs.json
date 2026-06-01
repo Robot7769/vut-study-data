@@ -6136,19 +6136,6 @@
         "rocnik": "3"
       },
       {
-        "zkratka": "BPC-PRA",
-        "nazev": "Lingvistická pragmatika",
-        "kredity": "4",
-        "povinnost": "Povinný",
-        "zakonceni": "zk",
-        "skupina": "",
-        "url": "https://www.vut.cz/studenti/predmety/detail/290662",
-        "semestr": [
-          "zimní"
-        ],
-        "rocnik": "libovolný"
-      },
-      {
         "zkratka": "XPC-CA1",
         "nazev": "CISCO akademie 1 - CCNA",
         "kredity": "3",
@@ -6239,6 +6226,19 @@
         "semestr": [
           "zimní",
           "letní"
+        ],
+        "rocnik": "libovolný"
+      },
+      {
+        "zkratka": "BPC-MAS",
+        "nazev": "Matematický seminář",
+        "kredity": "2",
+        "povinnost": "Volitelný",
+        "zakonceni": "zá",
+        "skupina": "",
+        "url": "https://www.vut.cz/studenti/predmety/detail/287324",
+        "semestr": [
+          "zimní"
         ],
         "rocnik": "libovolný"
       },
@@ -6369,19 +6369,6 @@
         "zakonceni": "kl",
         "skupina": "",
         "url": "https://www.vut.cz/studenti/predmety/detail/291563",
-        "semestr": [
-          "letní"
-        ],
-        "rocnik": "libovolný"
-      },
-      {
-        "zkratka": "BPC-ODP",
-        "nazev": "Odborná praxe",
-        "kredity": "0",
-        "povinnost": "Volitelný",
-        "zakonceni": "zá",
-        "skupina": "",
-        "url": "https://www.vut.cz/studenti/predmety/detail/290623",
         "semestr": [
           "letní"
         ],
@@ -48961,7 +48948,7 @@
         "nazev": "Ekonomika podniku",
         "kredity": "5",
         "povinnost": "Povinný",
-        "zakonceni": "zá,zk",
+        "zakonceni": "zk",
         "skupina": "",
         "url": "https://www.vut.cz/studenti/predmety/detail/293597",
         "semestr": [
