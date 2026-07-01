@@ -4,7 +4,7 @@
     "nazev": "Ekonomika a finance",
     "kredity": "6",
     "povinnost": "Povinný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "",
     "url": "https://www.vut.cz/studenti/predmety/detail/295409",
     "semestr": [
@@ -17,7 +17,7 @@
     "nazev": "Management",
     "kredity": "6",
     "povinnost": "Povinný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "",
     "url": "https://www.vut.cz/studenti/predmety/detail/295405",
     "semestr": [
@@ -30,7 +30,7 @@
     "nazev": "Standardizované systémy řízení a kontrola kvality",
     "kredity": "6",
     "povinnost": "Povinný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "",
     "url": "https://www.vut.cz/studenti/predmety/detail/295404",
     "semestr": [
@@ -43,7 +43,7 @@
     "nazev": "Vybrané kapitoly z práva",
     "kredity": "6",
     "povinnost": "Povinný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "",
     "url": "https://www.vut.cz/studenti/predmety/detail/295408",
     "semestr": [
@@ -56,7 +56,7 @@
     "nazev": "Základy psychologie a vedení týmů",
     "kredity": "6",
     "povinnost": "Povinný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "",
     "url": "https://www.vut.cz/studenti/predmety/detail/295406",
     "semestr": [
@@ -160,7 +160,7 @@
     "nazev": "Čištění odpadních vod a jejich další využití",
     "kredity": "6",
     "povinnost": "Povinně volitelný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "EE-III",
     "url": "https://www.vut.cz/studenti/predmety/detail/295400",
     "semestr": [
@@ -186,7 +186,7 @@
     "nazev": "Hospodaření s dešťovými vodami, modrozelená infrastruktura",
     "kredity": "6",
     "povinnost": "Povinně volitelný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "EE-III",
     "url": "https://www.vut.cz/studenti/predmety/detail/295401",
     "semestr": [
@@ -199,7 +199,7 @@
     "nazev": "Odpadové hospodářství",
     "kredity": "6",
     "povinnost": "Povinně volitelný",
-    "zakonceni": "kol",
+    "zakonceni": "zá",
     "skupina": "EE-III",
     "url": "https://www.vut.cz/studenti/predmety/detail/295399",
     "semestr": [
@@ -212,7 +212,7 @@
     "nazev": "Smart City, inteligentní budovy",
     "kredity": "6",
     "povinnost": "Povinně volitelný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "EE-III",
     "url": "https://www.vut.cz/studenti/predmety/detail/295407",
     "semestr": [

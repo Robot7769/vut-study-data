@@ -40,7 +40,7 @@
   },
   {
     "zkratka": "QHV",
-    "nazev": "Vehicle Driving Mechanisms",
+    "nazev": "Vehicle Powertrain",
     "kredity": "6",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
@@ -105,7 +105,7 @@
   },
   {
     "zkratka": "QPA",
-    "nazev": "Simmulation in Automotive Industry",
+    "nazev": "Simulation in Automotive Industry",
     "kredity": "6",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
@@ -404,7 +404,7 @@
   },
   {
     "zkratka": "QMO",
-    "nazev": "Multiphysical Simmulation in Automotive Industry",
+    "nazev": "Multiphysical Simulation in Automotive Industry",
     "kredity": "6",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",

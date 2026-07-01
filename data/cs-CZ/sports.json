@@ -547,19 +547,6 @@
   },
   {
     "zkratka": "TV-PNM-AA",
-    "nazev": "Fitness aktivita - Práce na mobilitě: Animal Flow",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295504"
-  },
-  {
-    "zkratka": "TV-PNM-AA",
     "nazev": "Fitness aktivita - Práce na mobilitě: Akrobacie a Animal Flow",
     "kredity": "1",
     "povinnost": "sport",
@@ -585,19 +572,6 @@
     "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295501"
   },
   {
-    "zkratka": "TV-PNM-FS",
-    "nazev": "Fitness aktivita - Práce na mobilitě: Flexibilita a Síla",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295502"
-  },
-  {
     "zkratka": "TV-CONTEM",
     "nazev": "Fitness aktivity - Contemporary",
     "kredity": "1",
@@ -618,10 +592,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "letní"
+      "zimní"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295509"
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295508"
   },
   {
     "zkratka": "TV-CPZZ",
@@ -631,10 +605,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "zimní"
+      "letní"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295508"
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295509"
   },
   {
     "zkratka": "TV-FAJA",
@@ -657,10 +631,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "zimní"
+      "letní"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295498"
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295499"
   },
   {
     "zkratka": "TV-FJ",
@@ -670,23 +644,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "letní"
+      "zimní"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295499"
-  },
-  {
-    "zkratka": "TV-FAJO",
-    "nazev": "Fitness aktivity - Jóga",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295545"
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295498"
   },
   {
     "zkratka": "TV-FAJO",
@@ -700,6 +661,19 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295546"
+  },
+  {
+    "zkratka": "TV-FAJO",
+    "nazev": "Fitness aktivity - Jóga",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295545"
   },
   {
     "zkratka": "TV-KTTEL",
@@ -761,10 +735,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "letní"
+      "zimní"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295497"
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301036"
   },
   {
     "zkratka": "TV-FBW",
@@ -774,23 +748,36 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "zimní"
+      "letní"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/301036"
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295497"
   },
   {
-    "zkratka": "TV-FATA",
-    "nazev": "Fitness aktivity - Tabata",
+    "zkratka": "TV-PNM-AA",
+    "nazev": "Fitness aktivity - Práce na mobilitě: Animal Flow",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "zimní"
+      "letní"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295550"
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295504"
+  },
+  {
+    "zkratka": "TV-PNM-FS",
+    "nazev": "Fitness aktivity - Práce na mobilitě: Flexibilita a Síla",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295502"
   },
   {
     "zkratka": "TV-FATA",
@@ -804,6 +791,19 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295549"
+  },
+  {
+    "zkratka": "TV-FATA",
+    "nazev": "Fitness aktivity - Tabata",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/studenti/predmety/detail/295550"
   },
   {
     "zkratka": "TV-FAJO-EN",

@@ -1,6 +1,6 @@
 [
   {
-    "zkratka": "BBIDE",
+    "zkratka": "BBIDE-D",
     "nazev": "Business Idea Development",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -13,7 +13,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "BECOE",
+    "zkratka": "BECOE-D",
     "nazev": "Economics of Company",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -26,7 +26,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "BMAE",
+    "zkratka": "BMAE-D",
     "nazev": "Management",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -39,7 +39,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "BMEE",
+    "zkratka": "BMEE-D",
     "nazev": "Market Economy",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -52,7 +52,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "BMARE",
+    "zkratka": "BMARE-D",
     "nazev": "Marketing",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -65,7 +65,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "BMATE",
+    "zkratka": "BMATE-D",
     "nazev": "Mathematics",
     "kredity": "7",
     "povinnost": "Povinný",
@@ -78,7 +78,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "BDMSE",
+    "zkratka": "BDMSE-D",
     "nazev": "Digital Marketing and Social Media",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -91,7 +91,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "BFMSE",
+    "zkratka": "BFMSE-D",
     "nazev": "Financial Management of Small Company",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -104,7 +104,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "BLENE",
+    "zkratka": "BLENE-D",
     "nazev": "Law in Entrepreneurship",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -169,7 +169,7 @@
     "rocnik": "2"
   },
   {
-    "zkratka": "BEPR1E",
+    "zkratka": "BEPR1E-D",
     "nazev": "Entrepreneurial Practice 1",
     "kredity": "12",
     "povinnost": "Povinný",
@@ -182,7 +182,7 @@
     "rocnik": "2"
   },
   {
-    "zkratka": "BMRE",
+    "zkratka": "BMRE-D",
     "nazev": "Market Research",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -195,7 +195,7 @@
     "rocnik": "2"
   },
   {
-    "zkratka": "BPMAE",
+    "zkratka": "BPMAE-D",
     "nazev": "Project Management",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -260,7 +260,7 @@
     "rocnik": "2"
   },
   {
-    "zkratka": "BAASE",
+    "zkratka": "BAASE-D",
     "nazev": "Applied Analytical Statistics",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -273,7 +273,7 @@
     "rocnik": "2"
   },
   {
-    "zkratka": "BEPR2E",
+    "zkratka": "BEPR2E-D",
     "nazev": "Entrepreneurial Practice 2",
     "kredity": "12",
     "povinnost": "Povinný",
@@ -286,7 +286,7 @@
     "rocnik": "2"
   },
   {
-    "zkratka": "BHRME",
+    "zkratka": "BHRME-D",
     "nazev": "Human Resources Management in Small Company",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -299,7 +299,7 @@
     "rocnik": "2"
   },
   {
-    "zkratka": "BSMAE",
+    "zkratka": "BSMAE-D",
     "nazev": "Service Management",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -364,7 +364,7 @@
     "rocnik": "2"
   },
   {
-    "zkratka": "BEPR3E",
+    "zkratka": "BEPR3E-D",
     "nazev": "Entrepreneurial Practice 3",
     "kredity": "12",
     "povinnost": "Povinný",
@@ -377,7 +377,7 @@
     "rocnik": "3"
   },
   {
-    "zkratka": "BFT1E",
+    "zkratka": "BFT1E-D",
     "nazev": "Final Thesis Seminar 1",
     "kredity": "4",
     "povinnost": "Povinný",
@@ -403,7 +403,7 @@
     "rocnik": "3"
   },
   {
-    "zkratka": "BTSPE",
+    "zkratka": "BTSPE-D",
     "nazev": "Trade and Sales Promotion",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -468,7 +468,7 @@
     "rocnik": "3"
   },
   {
-    "zkratka": "BBDAE",
+    "zkratka": "BBDAE-D",
     "nazev": "Business Development Assessment",
     "kredity": "6",
     "povinnost": "Povinný",
@@ -481,7 +481,7 @@
     "rocnik": "3"
   },
   {
-    "zkratka": "BEPR4E",
+    "zkratka": "BEPR4E-D",
     "nazev": "Entrepreneurial Practice 4",
     "kredity": "12",
     "povinnost": "Povinný",
@@ -494,7 +494,7 @@
     "rocnik": "3"
   },
   {
-    "zkratka": "BFT2E",
+    "zkratka": "BFT2E-D",
     "nazev": "Final Thesis Seminar 2",
     "kredity": "11",
     "povinnost": "Povinný",

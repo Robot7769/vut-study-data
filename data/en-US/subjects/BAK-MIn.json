@@ -26,7 +26,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "MA1_M",
+    "zkratka": "MA1_MD",
     "nazev": "Mathematics 1",
     "kredity": "6",
     "povinnost": "Compulsory",
@@ -130,7 +130,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "MA2_M",
+    "zkratka": "MA2_MD",
     "nazev": "Mathematics 2",
     "kredity": "6",
     "povinnost": "Compulsory",
@@ -169,7 +169,7 @@
     "rocnik": "1"
   },
   {
-    "zkratka": "VT",
+    "zkratka": "vtP",
     "nazev": "Introduction to IS/ICT",
     "kredity": "6",
     "povinnost": "Compulsory",

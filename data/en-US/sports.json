@@ -13,6 +13,19 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295515"
   },
   {
+    "zkratka": "TV-BAD-EN",
+    "nazev": "Badminton",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295516"
+  },
+  {
     "zkratka": "TV-BAD",
     "nazev": "Badminton",
     "kredity": "1",
@@ -39,30 +52,17 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295517"
   },
   {
-    "zkratka": "TV-BAD-EN",
-    "nazev": "Badminton",
+    "zkratka": "TV-BAS",
+    "nazev": "Basketball",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295516"
-  },
-  {
-    "zkratka": "TV-ZB",
-    "nazev": "Basics of ballet",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/307516"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295521"
   },
   {
     "zkratka": "TV-BAS",
@@ -78,20 +78,7 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295520"
   },
   {
-    "zkratka": "TV-BAS",
-    "nazev": "Basketball",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295521"
-  },
-  {
-    "zkratka": "TV-BOUL",
+    "zkratka": "TV-BOUL-EN",
     "nazev": "Bouldering",
     "kredity": "1",
     "povinnost": "sport",
@@ -101,20 +88,7 @@
       "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295526"
-  },
-  {
-    "zkratka": "TV-BOUL",
-    "nazev": "Bouldering",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295525"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295527"
   },
   {
     "zkratka": "TV-BOUL-EN",
@@ -130,7 +104,20 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295528"
   },
   {
-    "zkratka": "TV-BOUL-EN",
+    "zkratka": "TV-BOUL",
+    "nazev": "Bouldering",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295525"
+  },
+  {
+    "zkratka": "TV-BOUL",
     "nazev": "Bouldering",
     "kredity": "1",
     "povinnost": "sport",
@@ -140,20 +127,7 @@
       "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295527"
-  },
-  {
-    "zkratka": "TV-KANO",
-    "nazev": "Canoeing",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295600"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295526"
   },
   {
     "zkratka": "TV-KANO",
@@ -167,6 +141,19 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295599"
+  },
+  {
+    "zkratka": "TV-KANO",
+    "nazev": "Canoeing",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295600"
   },
   {
     "zkratka": "TV-KKP",
@@ -195,32 +182,6 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/301687"
   },
   {
-    "zkratka": "TV-CONTEM",
-    "nazev": "Contemporary",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/307519"
-  },
-  {
-    "zkratka": "TV-CR",
-    "nazev": "Curling",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295538"
-  },
-  {
     "zkratka": "TV-CR",
     "nazev": "Curling",
     "kredity": "1",
@@ -234,17 +195,17 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295537"
   },
   {
-    "zkratka": "TV-TATEN-2",
-    "nazev": "Dancing in sneakers",
+    "zkratka": "TV-CR",
+    "nazev": "Curling",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/307450"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295538"
   },
   {
     "zkratka": "TV-TATEN-2",
@@ -284,6 +245,19 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295663"
+  },
+  {
+    "zkratka": "TV-TATEN-2",
+    "nazev": "Dancing in sneakers 2",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/307450"
   },
   {
     "zkratka": "TV-DIS",
@@ -358,10 +332,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295654"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295655"
   },
   {
     "zkratka": "TV-SPSE",
@@ -371,10 +345,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295655"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295654"
   },
   {
     "zkratka": "TV-POZS",
@@ -403,6 +377,45 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295642"
   },
   {
+    "zkratka": "TV-ZB",
+    "nazev": "Fitness activities- - Basics of ballet",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/307516"
+  },
+  {
+    "zkratka": "TV-KTTEL",
+    "nazev": "Fitness activities - Circle Training",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295621"
+  },
+  {
+    "zkratka": "TV-KTTEL",
+    "nazev": "Fitness activities - Circle Training",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295620"
+  },
+  {
     "zkratka": "TV-FAJA",
     "nazev": "Fitness activities - Fascial yoga and self-massage",
     "kredity": "1",
@@ -416,86 +429,8 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/301024"
   },
   {
-    "zkratka": "TV-CPZZ",
-    "nazev": "Fitness Activity - Exercise for a Healthy Back",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295509"
-  },
-  {
-    "zkratka": "TV-CPZZ",
-    "nazev": "Fitness Activity - Exercise for a Healthy Back",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295508"
-  },
-  {
-    "zkratka": "TV-FJ",
-    "nazev": "Fitness Activity - Fyzio joga",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295499"
-  },
-  {
-    "zkratka": "TV-FJ",
-    "nazev": "Fitness Activity - Fyzio joga",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295498"
-  },
-  {
-    "zkratka": "TV-KTTEL",
-    "nazev": "Fitness Aktivity - Circle Training",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295620"
-  },
-  {
-    "zkratka": "TV-KTTEL",
-    "nazev": "Fitness Aktivity - Circle Training",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295621"
-  },
-  {
     "zkratka": "TV-FBW",
-    "nazev": "Fitness Aktivity - Full body workout",
+    "nazev": "Fitness activities- - Full body workout",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -508,7 +443,7 @@
   },
   {
     "zkratka": "TV-FBW",
-    "nazev": "Fitness Aktivity - Full body workout",
+    "nazev": "Fitness activities- - Full body workout",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -518,6 +453,227 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/301036"
+  },
+  {
+    "zkratka": "TV-ZTV",
+    "nazev": "Fitness activities- - Health Physical Education",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295686"
+  },
+  {
+    "zkratka": "TV-PIL",
+    "nazev": "Fitness activities- - Pilates",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295635"
+  },
+  {
+    "zkratka": "TV-FATA",
+    "nazev": "Fitness activities- - Tabata",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295550"
+  },
+  {
+    "zkratka": "TV-ZUM-EN",
+    "nazev": "Fitness activities - Zumba Fitness®- EN",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/307638"
+  },
+  {
+    "zkratka": "TV-CPZZ",
+    "nazev": "Fitness activities- Exercise for a Healthy Back",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295508"
+  },
+  {
+    "zkratka": "TV-CPZZ",
+    "nazev": "Fitness activities- Exercise for a Healthy Back",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295509"
+  },
+  {
+    "zkratka": "TV-FJ",
+    "nazev": "Fitness activities- Fyzio joga",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295499"
+  },
+  {
+    "zkratka": "TV-FJ",
+    "nazev": "Fitness activities- Fyzio joga",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295498"
+  },
+  {
+    "zkratka": "TV-PIL",
+    "nazev": "Fitness activities- Pilates",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295634"
+  },
+  {
+    "zkratka": "TV-FAJO",
+    "nazev": "Fitness activities- Yoga",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295546"
+  },
+  {
+    "zkratka": "TV-FAJO",
+    "nazev": "Fitness activities- Yoga",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295545"
+  },
+  {
+    "zkratka": "TV-ZUM",
+    "nazev": "Fitness activities- Zumba Fitness®",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295688"
+  },
+  {
+    "zkratka": "TV-CONTEM",
+    "nazev": "Fitness activities-Contemporary",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/307519"
+  },
+  {
+    "zkratka": "TV-PNM-AA",
+    "nazev": "Fitness activities-Mobility: Animal Flow",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295504"
+  },
+  {
+    "zkratka": "TV-PNM-AA",
+    "nazev": "Fitness activities-Mobility: acrobatics and Animal Flow",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295503"
+  },
+  {
+    "zkratka": "TV-PNM-FS",
+    "nazev": "Fitness activities-Mobility: Acrobatics and Animal Flow",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295502"
+  },
+  {
+    "zkratka": "TV-PNM-FS",
+    "nazev": "Fitness activities-Work on mobility",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295501"
   },
   {
     "zkratka": "TV-ZTV",
@@ -533,58 +689,6 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295687"
   },
   {
-    "zkratka": "TV-ZTV",
-    "nazev": "Fitness Aktivity - Health Physical Education",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295686"
-  },
-  {
-    "zkratka": "TV-PIL",
-    "nazev": "Fitness Aktivity - Pilates",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295635"
-  },
-  {
-    "zkratka": "TV-PIL",
-    "nazev": "Fitness Aktivity - Pilates",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295634"
-  },
-  {
-    "zkratka": "TV-FATA",
-    "nazev": "Fitness Aktivity - Tabata",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295550"
-  },
-  {
     "zkratka": "TV-FATA",
     "nazev": "Fitness Aktivity - Tabata",
     "kredity": "1",
@@ -598,32 +702,6 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295549"
   },
   {
-    "zkratka": "TV-FAJO",
-    "nazev": "Fitness Aktivity - Yoga",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295545"
-  },
-  {
-    "zkratka": "TV-FAJO",
-    "nazev": "Fitness Aktivity - Yoga",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295546"
-  },
-  {
     "zkratka": "TV-FAJO-EN",
     "nazev": "Fitness Aktivity - Yoga",
     "kredity": "1",
@@ -635,19 +713,6 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295547"
-  },
-  {
-    "zkratka": "TV-ZUM",
-    "nazev": "Fitness Aktivity - Zumba Fitness®",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295688"
   },
   {
     "zkratka": "TV-ZUM",
@@ -689,19 +754,6 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295604"
   },
   {
-    "zkratka": "TV-KP-EN",
-    "nazev": "Fitness Body - Building",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295617"
-  },
-  {
     "zkratka": "TV-KP",
     "nazev": "Fitness Body - Building",
     "kredity": "1",
@@ -722,10 +774,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295616"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295617"
   },
   {
     "zkratka": "TV-KP",
@@ -741,17 +793,17 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295615"
   },
   {
-    "zkratka": "TV-KT",
-    "nazev": "Fitness Training",
+    "zkratka": "TV-KP-EN",
+    "nazev": "Fitness Body - Building",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295618"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295616"
   },
   {
     "zkratka": "TV-KT",
@@ -765,6 +817,19 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295619"
+  },
+  {
+    "zkratka": "TV-KT",
+    "nazev": "Fitness Training",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295618"
   },
   {
     "zkratka": "TV-FPF",
@@ -826,10 +891,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/301401"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/307485"
   },
   {
     "zkratka": "TV-FOT-EN",
@@ -839,10 +904,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/307485"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/301401"
   },
   {
     "zkratka": "TV-FOT-R",
@@ -904,10 +969,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295563"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295564"
   },
   {
     "zkratka": "TV-FRI",
@@ -917,10 +982,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295564"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295563"
   },
   {
     "zkratka": "TV-FCIT-EN",
@@ -947,6 +1012,19 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295552"
+  },
+  {
+    "zkratka": "TV-FUT-EN",
+    "nazev": "Futsal",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295569"
   },
   {
     "zkratka": "TV-FUT-EN",
@@ -986,19 +1064,6 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295567"
-  },
-  {
-    "zkratka": "TV-FUT-EN",
-    "nazev": "Futsal",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295569"
   },
   {
     "zkratka": "TV-GYMPR",
@@ -1275,7 +1340,7 @@
   },
   {
     "zkratka": "TV-PARLAT-2",
-    "nazev": "Latino Dance",
+    "nazev": "Latino Dance 2",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -1320,10 +1385,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295594"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295593"
   },
   {
     "zkratka": "TV-JUDO",
@@ -1333,23 +1398,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295593"
-  },
-  {
-    "zkratka": "TV-KOBU",
-    "nazev": "Martial Arts - Kobudo",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295608"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295594"
   },
   {
     "zkratka": "TV-KOBU",
@@ -1365,8 +1417,8 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295607"
   },
   {
-    "zkratka": "TV-SEBE",
-    "nazev": "Martial Arts - Self-Defense and Contact Fight",
+    "zkratka": "TV-KOBU",
+    "nazev": "Martial Arts - Kobudo",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -1375,7 +1427,7 @@
       "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295647"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295608"
   },
   {
     "zkratka": "TV-SEBE",
@@ -1391,8 +1443,8 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295648"
   },
   {
-    "zkratka": "TV-TAEK",
-    "nazev": "Martial Arts - Taekwondo W.T.F.",
+    "zkratka": "TV-SEBE",
+    "nazev": "Martial Arts - Self-Defense and Contact Fight",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -1401,7 +1453,7 @@
       "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295661"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295647"
   },
   {
     "zkratka": "TV-TAEK",
@@ -1417,8 +1469,8 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295660"
   },
   {
-    "zkratka": "TV-BUUC",
-    "nazev": "Martial Arts Self-Defense Urban Combatives",
+    "zkratka": "TV-TAEK",
+    "nazev": "Martial Arts - Taekwondo W.T.F.",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -1427,7 +1479,7 @@
       "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295534"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295661"
   },
   {
     "zkratka": "TV-BUUC",
@@ -1443,8 +1495,8 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295533"
   },
   {
-    "zkratka": "TV-KADO",
-    "nazev": "Martial Arts -Traditional Karate and Self-Defense",
+    "zkratka": "TV-BUUC",
+    "nazev": "Martial Arts Self-Defense Urban Combatives",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -1453,7 +1505,7 @@
       "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295598"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295534"
   },
   {
     "zkratka": "TV-KADO",
@@ -1469,8 +1521,8 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295597"
   },
   {
-    "zkratka": "TV-MAR1",
-    "nazev": "Massage and Regeneration 1",
+    "zkratka": "TV-KADO",
+    "nazev": "Martial Arts -Traditional Karate and Self-Defense",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -1479,7 +1531,7 @@
       "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295624"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295598"
   },
   {
     "zkratka": "TV-MAR1",
@@ -1495,8 +1547,8 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295625"
   },
   {
-    "zkratka": "TV-PNM-AA",
-    "nazev": "Mobility: Animal Flow",
+    "zkratka": "TV-MAR1",
+    "nazev": "Massage and Regeneration 1",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -1505,33 +1557,7 @@
       "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295504"
-  },
-  {
-    "zkratka": "TV-PNM-AA",
-    "nazev": "Mobility: acrobatics and Animal Flow",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295503"
-  },
-  {
-    "zkratka": "TV-PNM-FS",
-    "nazev": "Mobility: Acrobatics and Animal Flow",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295502"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295624"
   },
   {
     "zkratka": "TV-HK",
@@ -1749,10 +1775,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295610"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295609"
   },
   {
     "zkratka": "TV-Kolob",
@@ -1762,10 +1788,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295609"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295610"
   },
   {
     "zkratka": "TV-BRU",
@@ -1827,10 +1853,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295675"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295676"
   },
   {
     "zkratka": "TV-TRX-EN",
@@ -1840,23 +1866,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295676"
-  },
-  {
-    "zkratka": "TV-PLA",
-    "nazev": "Swimming",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295636"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295675"
   },
   {
     "zkratka": "TV-PLA",
@@ -1870,6 +1883,19 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295637"
+  },
+  {
+    "zkratka": "TV-PLA",
+    "nazev": "Swimming",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295636"
   },
   {
     "zkratka": "TV-ST",
@@ -1931,10 +1957,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295666"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295665"
   },
   {
     "zkratka": "TV-TEN",
@@ -1944,10 +1970,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295665"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295666"
   },
   {
     "zkratka": "TV-TRBEH",
@@ -2009,10 +2035,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295529"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295530"
   },
   {
     "zkratka": "TV-BOUL-R",
@@ -2022,23 +2048,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295530"
-  },
-  {
-    "zkratka": "TV-FRI-R",
-    "nazev": "University Frisbee Team",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "winter"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295565"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295529"
   },
   {
     "zkratka": "TV-FRI-R",
@@ -2054,17 +2067,17 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295566"
   },
   {
-    "zkratka": "TV-FUT-R",
-    "nazev": "University Futsal Team",
+    "zkratka": "TV-FRI-R",
+    "nazev": "University Frisbee Team",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295572"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295565"
   },
   {
     "zkratka": "TV-FUT-R",
@@ -2078,6 +2091,19 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295571"
+  },
+  {
+    "zkratka": "TV-FUT-R",
+    "nazev": "University Futsal Team",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "summer"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295572"
   },
   {
     "zkratka": "TV-HAZ-R",
@@ -2191,10 +2217,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/301430"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/301431"
   },
   {
     "zkratka": "TV-UNILIGY",
@@ -2204,23 +2230,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
+      "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/301431"
-  },
-  {
-    "zkratka": "TV-SOFT-R",
-    "nazev": "University Softball Team",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295652"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/301430"
   },
   {
     "zkratka": "TV-SOFT-R",
@@ -2236,17 +2249,17 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295653"
   },
   {
-    "zkratka": "TV-PLA-R",
-    "nazev": "University Swimming Team",
+    "zkratka": "TV-SOFT-R",
+    "nazev": "University Softball Team",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295639"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295652"
   },
   {
     "zkratka": "TV-PLA-R",
@@ -2262,8 +2275,8 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295638"
   },
   {
-    "zkratka": "TV-ST-R",
-    "nazev": "University Table Tennis Team",
+    "zkratka": "TV-PLA-R",
+    "nazev": "University Swimming Team",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -2272,7 +2285,7 @@
       "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295659"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295639"
   },
   {
     "zkratka": "TV-ST-R",
@@ -2286,6 +2299,19 @@
     ],
     "rocnik": "0",
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/295658"
+  },
+  {
+    "zkratka": "TV-ST-R",
+    "nazev": "University Table Tennis Team",
+    "kredity": "1",
+    "povinnost": "sport",
+    "zakonceni": "zá",
+    "skupina": "",
+    "semestr": [
+      "winter"
+    ],
+    "rocnik": "0",
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295659"
   },
   {
     "zkratka": "TV-BAD-L",
@@ -2321,10 +2347,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "winter"
+      "summer"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295680"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295679"
   },
   {
     "zkratka": "TV-VOL",
@@ -2334,23 +2360,10 @@
     "zakonceni": "zá",
     "skupina": "",
     "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295679"
-  },
-  {
-    "zkratka": "TV-DL",
-    "nazev": "Water, Paddling Sports – Dragon Boats",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
       "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295543"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295680"
   },
   {
     "zkratka": "TV-DL",
@@ -2366,8 +2379,8 @@
     "url": "https://www.cesa.vut.cz/en/students/courses/detail/301315"
   },
   {
-    "zkratka": "TV-PNM-FS",
-    "nazev": "Work on mobility",
+    "zkratka": "TV-DL",
+    "nazev": "Water, Paddling Sports – Dragon Boats",
     "kredity": "1",
     "povinnost": "sport",
     "zakonceni": "zá",
@@ -2376,20 +2389,7 @@
       "winter"
     ],
     "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295501"
-  },
-  {
-    "zkratka": "TV-ZUM-EN",
-    "nazev": "Zumba Fitness®- EN",
-    "kredity": "1",
-    "povinnost": "sport",
-    "zakonceni": "zá",
-    "skupina": "",
-    "semestr": [
-      "summer"
-    ],
-    "rocnik": "0",
-    "url": "https://www.cesa.vut.cz/en/students/courses/detail/307638"
+    "url": "https://www.cesa.vut.cz/en/students/courses/detail/295543"
   },
   {
     "zkratka": "TV-BV-BU",

@@ -4,7 +4,7 @@
     "nazev": "Ekonomika a finance",
     "kredity": "6",
     "povinnost": "Povinný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "",
     "url": "https://www.vut.cz/studenti/predmety/detail/295409",
     "semestr": [
@@ -17,7 +17,7 @@
     "nazev": "Management",
     "kredity": "6",
     "povinnost": "Povinný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "",
     "url": "https://www.vut.cz/studenti/predmety/detail/295405",
     "semestr": [
@@ -30,7 +30,7 @@
     "nazev": "Standardizované systémy řízení a kontrola kvality",
     "kredity": "6",
     "povinnost": "Povinný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "",
     "url": "https://www.vut.cz/studenti/predmety/detail/295404",
     "semestr": [
@@ -43,7 +43,7 @@
     "nazev": "Vybrané kapitoly z práva",
     "kredity": "6",
     "povinnost": "Povinný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "",
     "url": "https://www.vut.cz/studenti/predmety/detail/295420",
     "semestr": [
@@ -56,7 +56,7 @@
     "nazev": "Základy psychologie a vedení týmů",
     "kredity": "6",
     "povinnost": "Povinný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "",
     "url": "https://www.vut.cz/studenti/predmety/detail/295406",
     "semestr": [
@@ -186,7 +186,7 @@
     "nazev": "Městské inženýrství",
     "kredity": "6",
     "povinnost": "Povinně volitelný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "CE-III",
     "url": "https://www.vut.cz/studenti/predmety/detail/295415",
     "semestr": [
@@ -251,7 +251,7 @@
     "nazev": "Základy zkušebnictví a diagnostiky",
     "kredity": "6",
     "povinnost": "Povinně volitelný",
-    "zakonceni": "kol",
+    "zakonceni": "zk",
     "skupina": "CE-III",
     "url": "https://www.vut.cz/studenti/predmety/detail/295414",
     "semestr": [
