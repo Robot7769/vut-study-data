@@ -6,7 +6,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296026",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303741",
     "semestr": [
       "zimní"
     ],
@@ -19,7 +19,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296007",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303742",
     "semestr": [
       "letní"
     ],
@@ -32,7 +32,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296000",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303757",
     "semestr": [
       "letní"
     ],
@@ -45,7 +45,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/295998",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303758",
     "semestr": [
       "letní"
     ],
@@ -58,7 +58,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296004",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303768",
     "semestr": [
       "letní"
     ],
@@ -71,7 +71,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296002",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303765",
     "semestr": [
       "letní"
     ],
@@ -84,7 +84,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "6047",
-    "url": "https://www.vut.cz/studenti/predmety/detail/295996",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303747",
     "semestr": [
       "letní"
     ],
@@ -97,7 +97,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "6047",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296005",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303748",
     "semestr": [
       "letní"
     ],
@@ -110,7 +110,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "6047",
-    "url": "https://www.vut.cz/studenti/predmety/detail/295999",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303749",
     "semestr": [
       "letní"
     ],
@@ -123,7 +123,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "6047",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296003",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303752",
     "semestr": [
       "letní"
     ],
@@ -136,7 +136,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "6047",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296006",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303740",
     "semestr": [
       "letní"
     ],
@@ -149,7 +149,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296020",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303759",
     "semestr": [
       "zimní"
     ],
@@ -162,7 +162,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296027",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303767",
     "semestr": [
       "zimní"
     ],
@@ -175,7 +175,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296018",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303744",
     "semestr": [
       "zimní"
     ],
@@ -188,7 +188,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296019",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303766",
     "semestr": [
       "zimní"
     ],
@@ -201,7 +201,20 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296022",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303760",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "NHB070",
+    "nazev": "Vybrané stati z požární bezpečnosti (APS)",
+    "kredity": "3",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303771",
     "semestr": [
       "zimní"
     ],
@@ -214,7 +227,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "6049",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296023",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303754",
     "semestr": [
       "zimní"
     ],
@@ -227,7 +240,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "6049",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296015",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303770",
     "semestr": [
       "zimní"
     ],
@@ -240,7 +253,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "6049",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296014",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303739",
     "semestr": [
       "zimní"
     ],
@@ -253,7 +266,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "6049",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296017",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303769",
     "semestr": [
       "zimní"
     ],
@@ -266,7 +279,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "6049",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296021",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303751",
     "semestr": [
       "zimní"
     ],
@@ -279,7 +292,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "6050",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296016",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303756",
     "semestr": [
       "zimní"
     ],
@@ -292,20 +305,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "6050",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296025",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "NHB070",
-    "nazev": "Vybrané stati z požární bezpečnosti (APS)",
-    "kredity": "3",
-    "povinnost": "Povinně volitelný",
-    "zakonceni": "zá,zk",
-    "skupina": "6050",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296024",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303750",
     "semestr": [
       "zimní"
     ],
@@ -318,7 +318,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/296001",
+    "url": "https://www.vut.cz/studenti/predmety/detail/303746",
     "semestr": [
       "letní"
     ],

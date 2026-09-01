@@ -3,10 +3,10 @@
     "zkratka": "9AIV",
     "nazev": "Ab initio výpočty v materiálových vědách",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293352",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300622",
     "semestr": [
       "zimní"
     ],
@@ -16,10 +16,10 @@
     "zkratka": "9MAV",
     "nazev": "Matematický aparát vlnové optiky",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293402",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300672",
     "semestr": [
       "zimní"
     ],
@@ -29,10 +29,10 @@
     "zkratka": "9ANC",
     "nazev": "Mikroskopie a analýza pomocí nabitých částic",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293356",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300626",
     "semestr": [
       "zimní"
     ],
@@ -42,10 +42,10 @@
     "zkratka": "9NTC",
     "nazev": "Nanotechnologie",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293433",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300704",
     "semestr": [
       "zimní"
     ],
@@ -55,10 +55,10 @@
     "zkratka": "9ONA",
     "nazev": "Organické nanostruktury na anorganických površích",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293437",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300708",
     "semestr": [
       "zimní"
     ],
@@ -68,10 +68,23 @@
     "zkratka": "9RPT",
     "nazev": "Rentgenová počítačová tomografie",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293459",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300730",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9SDP",
+    "nazev": "Seminář k disertační práci",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309875",
     "semestr": [
       "zimní"
     ],
@@ -81,10 +94,10 @@
     "zkratka": "9STH",
     "nazev": "Struktura hmoty",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293472",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300743",
     "semestr": [
       "zimní"
     ],
@@ -94,10 +107,10 @@
     "zkratka": "9SLP",
     "nazev": "Úvod do spektroskopie laserem buzeného plazmatu",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293467",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300738",
     "semestr": [
       "zimní"
     ],
@@ -107,10 +120,10 @@
     "zkratka": "9MMM",
     "nazev": "Víceúrovňové modelování materiálů",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293417",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300688",
     "semestr": [
       "zimní"
     ],
@@ -120,10 +133,10 @@
     "zkratka": "9VKB",
     "nazev": "Vybrané kapitoly z biofotoniky",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293494",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300764",
     "semestr": [
       "zimní"
     ],
@@ -133,10 +146,10 @@
     "zkratka": "9VKN",
     "nazev": "Vybrané kapitoly z nanofotoniky",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293495",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300765",
     "semestr": [
       "zimní"
     ],
@@ -146,10 +159,10 @@
     "zkratka": "9TPL",
     "nazev": "Vybrané kapitoly z teorie pevných látek",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293479",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300750",
     "semestr": [
       "zimní"
     ],
@@ -159,10 +172,10 @@
     "zkratka": "9ZDN",
     "nazev": "Zobrazování a diagnostika nanostruktur",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293502",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300772",
     "semestr": [
       "zimní"
     ],
@@ -172,10 +185,10 @@
     "zkratka": "9KTD",
     "nazev": "Fourierova transformace mřížek a kinematická teorie difrakce",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293397",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300667",
     "semestr": [
       "letní"
     ],
@@ -185,10 +198,10 @@
     "zkratka": "9MPA",
     "nazev": "Matematika pro aplikace",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293423",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300694",
     "semestr": [
       "letní"
     ],
@@ -198,10 +211,10 @@
     "zkratka": "9PVP",
     "nazev": "Programování v Python",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293455",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300726",
     "semestr": [
       "letní"
     ],
@@ -211,10 +224,10 @@
     "zkratka": "9RF1",
     "nazev": "Rovnice matematické fyziky I",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293457",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300728",
     "semestr": [
       "letní"
     ],
@@ -224,10 +237,10 @@
     "zkratka": "9MIK",
     "nazev": "Světelná mikroskopie",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293414",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300684",
     "semestr": [
       "letní"
     ],
@@ -240,7 +253,18 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293353",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300623",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "9VVP",
+    "nazev": "Principy výzkumné a vývojové práce",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309876",
     "semestr": [],
     "rocnik": "1"
   },
@@ -248,10 +272,10 @@
     "zkratka": "9ESM",
     "nazev": "Modelování termodynamické stability a fázových transformací",
     "kredity": "0",
-    "povinnost": "Doporučený",
+    "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/293381",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300651",
     "semestr": [],
     "rocnik": "1"
   }

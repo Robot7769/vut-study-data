@@ -3,10 +3,10 @@
     "zkratka": "9OMP-A",
     "nazev": "Optimization - Mathematical Programming",
     "kredity": "0",
-    "povinnost": "Elective",
+    "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293436",
+    "url": "https://www.vut.cz/en/students/courses/detail/300707",
     "semestr": [
       "zimní"
     ],
@@ -19,7 +19,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293353",
+    "url": "https://www.vut.cz/en/students/courses/detail/300623",
     "semestr": [],
     "rocnik": "1"
   },
@@ -27,10 +27,10 @@
     "zkratka": "9EAE-A",
     "nazev": "Energy and Emissions",
     "kredity": "0",
-    "povinnost": "Elective",
+    "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293376",
+    "url": "https://www.vut.cz/en/students/courses/detail/300646",
     "semestr": [],
     "rocnik": "1"
   },
@@ -38,10 +38,10 @@
     "zkratka": "9PTL-A",
     "nazev": "Heat and Mass Transfer",
     "kredity": "0",
-    "povinnost": "Elective",
+    "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293451",
+    "url": "https://www.vut.cz/en/students/courses/detail/300722",
     "semestr": [],
     "rocnik": "1"
   },
@@ -49,10 +49,10 @@
     "zkratka": "9TPZ-A",
     "nazev": "Heat Transfer Processes",
     "kredity": "0",
-    "povinnost": "Elective",
+    "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293481",
+    "url": "https://www.vut.cz/en/students/courses/detail/300752",
     "semestr": [],
     "rocnik": "1"
   }

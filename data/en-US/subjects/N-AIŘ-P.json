@@ -6,7 +6,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292318",
+    "url": "https://www.vut.cz/en/students/courses/detail/300232",
     "semestr": [
       "zimní"
     ],
@@ -19,7 +19,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292358",
+    "url": "https://www.vut.cz/en/students/courses/detail/300265",
     "semestr": [
       "zimní"
     ],
@@ -32,7 +32,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291338",
+    "url": "https://www.vut.cz/en/students/courses/detail/304647",
     "semestr": [
       "zimní"
     ],
@@ -45,7 +45,20 @@
     "povinnost": "Compulsory",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292341",
+    "url": "https://www.vut.cz/en/students/courses/detail/300249",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VA1",
+    "nazev": "Control of Linear Time-Invariant Systems",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/300233",
     "semestr": [
       "zimní"
     ],
@@ -58,20 +71,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/294165",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "VA1",
-    "nazev": "Control Theory I",
-    "kredity": "6",
-    "povinnost": "Compulsory",
-    "zakonceni": "Cr,Ex",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292321",
+    "url": "https://www.vut.cz/en/students/courses/detail/302564",
     "semestr": [
       "zimní"
     ],
@@ -84,33 +84,20 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291517",
+    "url": "https://www.vut.cz/en/students/courses/detail/305099",
     "semestr": [
       "zimní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "VMD",
-    "nazev": "Industrial Systems Diagnostics",
-    "kredity": "5",
+    "zkratka": "VRM",
+    "nazev": "Modeling and Control of Robots and Manipulators",
+    "kredity": "4",
     "povinnost": "Compulsory",
-    "zakonceni": "Cr,Ex",
+    "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292335",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "VSC",
-    "nazev": "Neural networks and Machine Learning",
-    "kredity": "5",
-    "povinnost": "Compulsory",
-    "zakonceni": "Cr,Ex",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292348",
+    "url": "https://www.vut.cz/en/students/courses/detail/300255",
     "semestr": [
       "letní"
     ],
@@ -123,20 +110,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291769",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "VRM",
-    "nazev": "Programming for Robots and Manipulators",
-    "kredity": "4",
-    "povinnost": "Compulsory",
-    "zakonceni": "GCr",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292347",
+    "url": "https://www.vut.cz/en/students/courses/detail/299587",
     "semestr": [
       "letní"
     ],
@@ -149,7 +123,33 @@
     "povinnost": "Compulsory",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292338",
+    "url": "https://www.vut.cz/en/students/courses/detail/300245",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "GMB",
+    "nazev": "Sensors for Control and Measuring Circuits",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/299616",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "VSC",
+    "nazev": "Machine Learning",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/300256",
     "semestr": [
       "letní"
     ],
@@ -162,7 +162,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292353",
+    "url": "https://www.vut.cz/en/students/courses/detail/300259",
     "semestr": [
       "letní"
     ],
@@ -175,7 +175,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291518",
+    "url": "https://www.vut.cz/en/students/courses/detail/305086",
     "semestr": [
       "letní"
     ],
@@ -188,20 +188,20 @@
     "povinnost": "Elective",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292536",
+    "url": "https://www.vut.cz/en/students/courses/detail/300481",
     "semestr": [
       "letní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "VDC",
-    "nazev": "Databases for Process Control",
-    "kredity": "6",
+    "zkratka": "VA2",
+    "nazev": "Nonlinear Dynamics of Multidisciplinary Systems",
+    "kredity": "5",
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292326",
+    "url": "https://www.vut.cz/en/students/courses/detail/306655",
     "semestr": [
       "zimní"
     ],
@@ -210,24 +210,63 @@
   {
     "zkratka": "VPP-A",
     "nazev": "Optimization Methods II",
-    "kredity": "5",
+    "kredity": "7",
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/296040",
+    "url": "https://www.vut.cz/en/students/courses/detail/300250",
     "semestr": [
       "zimní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "FSI",
-    "nazev": "Simulation of Dynamic Systems",
+    "zkratka": "VAI",
+    "nazev": "Data-Driven Modeling and Machine Learning for Industry",
     "kredity": "5",
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291774",
+    "url": "https://www.vut.cz/en/students/courses/detail/300228",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VAU",
+    "nazev": "System Integration in Industrial Automation",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/306650",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VSI",
+    "nazev": "Systems Engineering",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/306651",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "XPC-CA3",
+    "nazev": "CISCO Academy 3 - CCNA",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/305096",
     "semestr": [
       "zimní"
     ],
@@ -240,35 +279,9 @@
     "povinnost": "Elective",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/287937",
+    "url": "https://www.vut.cz/en/students/courses/detail/299965",
     "semestr": [
       "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "HRA",
-    "nazev": "Additive Technologies and 3D Scanning Methods",
-    "kredity": "4",
-    "povinnost": "Compulsory",
-    "zakonceni": "GCr",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291881",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "VTR",
-    "nazev": "Algebraic Theory of Control",
-    "kredity": "3",
-    "povinnost": "Compulsory",
-    "zakonceni": "GCr",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292356",
-    "semestr": [
-      "letní"
     ],
     "rocnik": "2"
   },
@@ -279,7 +292,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292330",
+    "url": "https://www.vut.cz/en/students/courses/detail/300238",
     "semestr": [
       "letní"
     ],
@@ -292,7 +305,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/294221",
+    "url": "https://www.vut.cz/en/students/courses/detail/302621",
     "semestr": [
       "letní"
     ],
@@ -305,23 +318,86 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292329",
+    "url": "https://www.vut.cz/en/students/courses/detail/300237",
     "semestr": [
       "letní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "VE0",
-    "nazev": "Competence in Electrical Engineering",
+    "zkratka": "HRA",
+    "nazev": "Additive Technologies and 3D Scanning Methods",
     "kredity": "4",
-    "povinnost": "Elective",
-    "zakonceni": "Cr",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292331",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Group 1 of Type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/299689",
     "semestr": [
       "letní"
     ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VTR",
+    "nazev": "Algebraic Theory of Control",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Group 1 of Type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/300261",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "VFL",
+    "nazev": "Functional Programming",
+    "kredity": "4",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Group 1 of Type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/306652",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "GNP",
+    "nazev": "Robotics Workcells Designing and Programming",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "GCr",
+    "skupina": "Group 1 of Type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/299627",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "XB0",
+    "nazev": "Work Safety in Electrical Engineering",
+    "kredity": "4",
+    "povinnost": "Elective",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/300315",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "0VP",
+    "nazev": "Selected Chapters from Programming",
+    "kredity": "4",
+    "povinnost": "Compulsory",
+    "zakonceni": "GCr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/300502",
+    "semestr": [],
     "rocnik": "2"
   }
 ]

@@ -6,7 +6,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292661",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299707",
     "semestr": [
       "zimní"
     ],
@@ -19,7 +19,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291842",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299650",
     "semestr": [
       "zimní"
     ],
@@ -32,7 +32,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292311",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300223",
     "semestr": [
       "zimní"
     ],
@@ -45,7 +45,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292675",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299721",
     "semestr": [
       "zimní"
     ],
@@ -58,7 +58,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291890",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299698",
     "semestr": [
       "zimní"
     ],
@@ -71,7 +71,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292310",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300222",
     "semestr": [
       "letní"
     ],
@@ -84,7 +84,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292730",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300226",
     "semestr": [
       "letní"
     ],
@@ -97,7 +97,20 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291689",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299510",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "KEE-A",
+    "nazev": "Energie a emise",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Skupina č. 1 typu A",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299736",
     "semestr": [
       "letní"
     ],
@@ -110,20 +123,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "Skupina č. 1 typu A",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292033",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "MVP-A",
-    "nazev": "Výpočtové modelování proudění",
-    "kredity": "6",
-    "povinnost": "Povinně volitelný",
-    "zakonceni": "zá,zk",
-    "skupina": "Skupina č. 1 typu A",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292724",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299929",
     "semestr": [
       "letní"
     ],
@@ -136,7 +136,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292450",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300389",
     "semestr": [
       "zimní"
     ],
@@ -149,7 +149,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292308",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300220",
     "semestr": [
       "zimní"
     ],
@@ -162,7 +162,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292475",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300414",
     "semestr": [
       "zimní"
     ],
@@ -175,7 +175,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292313",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300227",
     "semestr": [
       "zimní"
     ],
@@ -188,7 +188,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292594",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300548",
     "semestr": [
       "zimní"
     ],
@@ -201,7 +201,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "Skupina č. 2 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291959",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299849",
     "semestr": [
       "zimní"
     ],
@@ -214,7 +214,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "Skupina č. 2 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291980",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299871",
     "semestr": [
       "zimní"
     ],
@@ -227,7 +227,20 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "Skupina č. 2 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291840",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299648",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MVP-A",
+    "nazev": "Výpočtové modelování proudění",
+    "kredity": "6",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "Skupina č. 2 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299814",
     "semestr": [
       "zimní"
     ],
@@ -240,7 +253,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292309",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300221",
     "semestr": [
       "letní"
     ],
@@ -253,7 +266,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292401",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300308",
     "semestr": [
       "letní"
     ],
@@ -266,7 +279,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "Skupina č. 3 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292334",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300241",
     "semestr": [
       "letní"
     ],
@@ -279,7 +292,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "Skupina č. 3 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292105",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300006",
     "semestr": [
       "letní"
     ],
@@ -292,7 +305,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "Skupina č. 3 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292639",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300600",
     "semestr": [
       "letní"
     ],

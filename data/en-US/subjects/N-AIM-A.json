@@ -6,7 +6,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293509",
+    "url": "https://www.vut.cz/en/students/courses/detail/307025",
     "semestr": [
       "zimní"
     ],
@@ -14,12 +14,12 @@
   },
   {
     "zkratka": "8DIT",
-    "nazev": "Control Systems",
-    "kredity": "6",
+    "nazev": "Control Systems and Machine Learning",
+    "kredity": "9",
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293512",
+    "url": "https://www.vut.cz/en/students/courses/detail/307029",
     "semestr": [
       "zimní"
     ],
@@ -32,7 +32,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293515",
+    "url": "https://www.vut.cz/en/students/courses/detail/307028",
     "semestr": [
       "zimní"
     ],
@@ -45,46 +45,72 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293513",
+    "url": "https://www.vut.cz/en/students/courses/detail/307026",
     "semestr": [
       "zimní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "8DI8",
+    "zkratka": "8DIO",
+    "nazev": "Advanced Probability",
+    "kredity": "9",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307038",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "8GNK",
+    "nazev": "Introduction to Mathematical Control Theory",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307089",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "8FR8",
+    "nazev": "Introductory Real Analysis",
+    "kredity": "9",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307087",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "8GKT",
     "nazev": "Real and Functional Analysis",
     "kredity": "9",
-    "povinnost": "Compulsory",
+    "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293514",
+    "skupina": "1 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307088",
     "semestr": [
       "zimní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "8EU2",
-    "nazev": "Optimisation Models and Algorithms",
+    "zkratka": "8EU3",
+    "nazev": "Stochastic Modelling and Simulations",
     "kredity": "6",
-    "povinnost": "Elective",
+    "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293525",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "8EEA",
-    "nazev": "Workshop of mathematical modelling",
-    "kredity": "6",
-    "povinnost": "Elective",
-    "zakonceni": "Cr,Ex",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293521",
+    "skupina": "1 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307039",
     "semestr": [
       "zimní"
     ],
@@ -97,20 +123,20 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293507",
+    "url": "https://www.vut.cz/en/students/courses/detail/307032",
     "semestr": [
       "letní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "8ETK",
-    "nazev": "Discrete and Continuum Mechanics with Applications",
+    "zkratka": "8DI8",
+    "nazev": "Functional and Complex Analysis",
     "kredity": "9",
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293524",
+    "url": "https://www.vut.cz/en/students/courses/detail/307027",
     "semestr": [
       "letní"
     ],
@@ -123,33 +149,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293522",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "8ESZ",
-    "nazev": "Parallel computing",
-    "kredity": "6",
-    "povinnost": "Compulsory",
-    "zakonceni": "Cr,Ex",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293523",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "8DJB",
-    "nazev": "Combinatorics and Cryptography",
-    "kredity": "6",
-    "povinnost": "Compulsory-optional",
-    "zakonceni": "Cr,Ex",
-    "skupina": "1 type A",
-    "url": "https://www.vut.cz/en/students/courses/detail/293516",
+    "url": "https://www.vut.cz/en/students/courses/detail/307033",
     "semestr": [
       "letní"
     ],
@@ -159,36 +159,88 @@
     "zkratka": "8C3L",
     "nazev": "Stochastic Processes",
     "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/307036",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "8DJB",
+    "nazev": "Combinatorics and Cryptography",
+    "kredity": "9",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
-    "skupina": "1 type A",
-    "url": "https://www.vut.cz/en/students/courses/detail/293510",
+    "skupina": "2 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307037",
     "semestr": [
       "letní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "8DIO",
-    "nazev": "Data Analytics and Data Mining",
+    "zkratka": "8ETK",
+    "nazev": "Discrete and Continuum Mechanics",
     "kredity": "6",
-    "povinnost": "Elective",
+    "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293511",
+    "skupina": "2 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307035",
     "semestr": [
       "letní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "8EU3",
-    "nazev": "Stochastic Modelling and Simulations",
+    "zkratka": "8EEA",
+    "nazev": "Kinetic Theory and Stochastic Simulations",
     "kredity": "6",
-    "povinnost": "Elective",
+    "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293526",
+    "skupina": "2 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307030",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "8EU2",
+    "nazev": "Numerical Methods for Linear Algebra",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307031",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "8ESZ",
+    "nazev": "Parallel Computing",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307034",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "8FR9",
+    "nazev": "Parallel Computing Laboratory",
+    "kredity": "3",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "2 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/307090",
     "semestr": [
       "letní"
     ],
@@ -201,7 +253,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292152",
+    "url": "https://www.vut.cz/en/students/courses/detail/300055",
     "semestr": [
       "zimní"
     ],
@@ -214,7 +266,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292142",
+    "url": "https://www.vut.cz/en/students/courses/detail/300045",
     "semestr": [
       "zimní"
     ],
@@ -227,7 +279,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292157",
+    "url": "https://www.vut.cz/en/students/courses/detail/300060",
     "semestr": [
       "zimní"
     ],
@@ -240,7 +292,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292156",
+    "url": "https://www.vut.cz/en/students/courses/detail/300059",
     "semestr": [
       "zimní"
     ],
@@ -253,7 +305,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292213",
+    "url": "https://www.vut.cz/en/students/courses/detail/300116",
     "semestr": [
       "zimní"
     ],
@@ -266,7 +318,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292161",
+    "url": "https://www.vut.cz/en/students/courses/detail/300064",
     "semestr": [
       "zimní"
     ],
@@ -279,7 +331,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292177",
+    "url": "https://www.vut.cz/en/students/courses/detail/300079",
     "semestr": [
       "zimní"
     ],
@@ -291,8 +343,8 @@
     "kredity": "4",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
-    "skupina": "2 type B",
-    "url": "https://www.vut.cz/en/students/courses/detail/292191",
+    "skupina": "3 of Type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/300092",
     "semestr": [
       "zimní"
     ],
@@ -304,8 +356,8 @@
     "kredity": "4",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
-    "skupina": "2 type B",
-    "url": "https://www.vut.cz/en/students/courses/detail/292551",
+    "skupina": "3 of Type B",
+    "url": "https://www.vut.cz/en/students/courses/detail/300498",
     "semestr": [
       "zimní"
     ],
@@ -318,7 +370,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292560",
+    "url": "https://www.vut.cz/en/students/courses/detail/300509",
     "semestr": [
       "zimní"
     ],
@@ -331,7 +383,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292219",
+    "url": "https://www.vut.cz/en/students/courses/detail/300123",
     "semestr": [
       "zimní"
     ],
@@ -344,7 +396,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292205",
+    "url": "https://www.vut.cz/en/students/courses/detail/300108",
     "semestr": [
       "zimní"
     ],
@@ -357,7 +409,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292153",
+    "url": "https://www.vut.cz/en/students/courses/detail/300056",
     "semestr": [
       "letní"
     ],
@@ -370,7 +422,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292143",
+    "url": "https://www.vut.cz/en/students/courses/detail/300046",
     "semestr": [
       "letní"
     ],
@@ -383,7 +435,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292175",
+    "url": "https://www.vut.cz/en/students/courses/detail/300077",
     "semestr": [
       "letní"
     ],
@@ -396,7 +448,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292208",
+    "url": "https://www.vut.cz/en/students/courses/detail/300111",
     "semestr": [
       "letní"
     ],
@@ -409,7 +461,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292145",
+    "url": "https://www.vut.cz/en/students/courses/detail/300048",
     "semestr": [
       "letní"
     ],
@@ -422,7 +474,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292187",
+    "url": "https://www.vut.cz/en/students/courses/detail/300089",
     "semestr": [
       "letní"
     ],
@@ -434,8 +486,8 @@
     "kredity": "5",
     "povinnost": "Compulsory-optional",
     "zakonceni": "GCr",
-    "skupina": "3 - type A",
-    "url": "https://www.vut.cz/en/students/courses/detail/292268",
+    "skupina": "4 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/300178",
     "semestr": [
       "letní"
     ],
@@ -447,8 +499,8 @@
     "kredity": "4",
     "povinnost": "Compulsory-optional",
     "zakonceni": "GCr",
-    "skupina": "3 - type A",
-    "url": "https://www.vut.cz/en/students/courses/detail/292222",
+    "skupina": "4 of Type A",
+    "url": "https://www.vut.cz/en/students/courses/detail/300126",
     "semestr": [
       "letní"
     ],
@@ -457,11 +509,11 @@
   {
     "zkratka": "VTR-A",
     "nazev": "Algebraic Theory of Control",
-    "kredity": "3",
+    "kredity": "4",
     "povinnost": "Elective",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292357",
+    "url": "https://www.vut.cz/en/students/courses/detail/300262",
     "semestr": [
       "letní"
     ],
@@ -474,7 +526,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292134",
+    "url": "https://www.vut.cz/en/students/courses/detail/300037",
     "semestr": [
       "letní"
     ],
@@ -487,20 +539,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292228",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "SR0-A",
-    "nazev": "Reconstruction and Analysis of 3D Scenes",
-    "kredity": "4",
-    "povinnost": "Elective",
-    "zakonceni": "GCr",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292203",
+    "url": "https://www.vut.cz/en/students/courses/detail/300132",
     "semestr": [
       "letní"
     ],

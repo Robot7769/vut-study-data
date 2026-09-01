@@ -6,7 +6,7 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297480",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302020",
     "semestr": [
       "zimní"
     ],
@@ -19,22 +19,9 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297471",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302095",
     "semestr": [
       "zimní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "D03",
-    "nazev": "Teorie architektury",
-    "kredity": "0",
-    "povinnost": "Povinný",
-    "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297476",
-    "semestr": [
-      "letní"
     ],
     "rocnik": "1"
   },
@@ -45,7 +32,7 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297475",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302038",
     "semestr": [
       "letní"
     ],
@@ -58,7 +45,20 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297472",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302096",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "D03",
+    "nazev": "Teorie architektury",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302140",
     "semestr": [
       "letní"
     ],
@@ -71,20 +71,20 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297477",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302004",
     "semestr": [
       "zimní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "DA2",
-    "nazev": "Ochrana a obnova památek",
+    "zkratka": "DA11",
+    "nazev": "Krajinářská architektura",
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297483",
+    "skupina": "Povinně volitelné předměty pro Urbanismus",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302044",
     "semestr": [
       "zimní"
     ],
@@ -96,8 +96,8 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297490",
+    "skupina": "Povinně volitelné předměty pro Urbanismus",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302058",
     "semestr": [
       "zimní"
     ],
@@ -109,8 +109,8 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297489",
+    "skupina": "Povinně volitelné předměty pro Urbanismus",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302057",
     "semestr": [
       "zimní"
     ],
@@ -122,36 +122,23 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297491",
+    "skupina": "Povinně volitelné předměty pro Urbanismus",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302023",
     "semestr": [
       "zimní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "DA3",
-    "nazev": "Architektonický prostor",
+    "zkratka": "DA2",
+    "nazev": "Ochrana a obnova památek",
     "kredity": "0",
-    "povinnost": "Povinně volitelný",
+    "povinnost": "Volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297484",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302014",
     "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "DA6",
-    "nazev": "Digitální zobrazování",
-    "kredity": "0",
-    "povinnost": "Povinně volitelný",
-    "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297486",
-    "semestr": [
-      "letní"
+      "zimní"
     ],
     "rocnik": "2"
   },
@@ -161,21 +148,8 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297492",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "DA1",
-    "nazev": "Jazyk architektury",
-    "kredity": "0",
-    "povinnost": "Povinně volitelný",
-    "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297481",
+    "skupina": "Povinně volitelné předměty pro Urbanismus",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302101",
     "semestr": [
       "letní"
     ],
@@ -187,8 +161,8 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297488",
+    "skupina": "Povinně volitelné předměty pro Urbanismus",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302045",
     "semestr": [
       "letní"
     ],
@@ -200,8 +174,47 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
+    "skupina": "Povinně volitelné předměty pro Urbanismus",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302040",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DA3",
+    "nazev": "Architektonický prostor",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297487",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302099",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DA6",
+    "nazev": "Digitální zobrazování",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302100",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DA1",
+    "nazev": "Jazyk architektury",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302141",
     "semestr": [
       "letní"
     ],
@@ -211,39 +224,13 @@
     "zkratka": "DA4",
     "nazev": "Technika a konstrukce v architektuře",
     "kredity": "0",
-    "povinnost": "Povinně volitelný",
+    "povinnost": "Volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297485",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302051",
     "semestr": [
       "letní"
     ],
     "rocnik": "2"
-  },
-  {
-    "zkratka": "D05",
-    "nazev": "Státní doktorská zkouška",
-    "kredity": "0",
-    "povinnost": "Povinný",
-    "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297479",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "3"
-  },
-  {
-    "zkratka": "D012",
-    "nazev": "Obhajoba disertační práce",
-    "kredity": "0",
-    "povinnost": "Povinný",
-    "zakonceni": "-",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297474",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "4"
   }
 ]

@@ -6,7 +6,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292212",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300115",
     "semestr": [
       "zimní"
     ],
@@ -19,7 +19,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292161",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300064",
     "semestr": [
       "zimní"
     ],
@@ -32,7 +32,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292182",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300084",
     "semestr": [
       "zimní"
     ],
@@ -45,7 +45,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292189",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300091",
     "semestr": [
       "zimní"
     ],
@@ -58,7 +58,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292198",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300100",
     "semestr": [
       "zimní"
     ],
@@ -71,7 +71,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292533",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300478",
     "semestr": [
       "zimní"
     ],
@@ -84,7 +84,20 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292220",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300124",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "SR0",
+    "nazev": "Rekonstrukce a analýza 3D scén",
+    "kredity": "5",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "kl",
+    "skupina": "Skupina č. 1 typu B",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300105",
     "semestr": [
       "zimní"
     ],
@@ -92,25 +105,25 @@
   },
   {
     "zkratka": "VAI",
-    "nazev": "Algoritmy umělé inteligence",
-    "kredity": "4",
+    "nazev": "Strojové učení pro zpracování průmyslových dat",
+    "kredity": "5",
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "Skupina č. 1 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292314",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300228",
     "semestr": [
       "zimní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "VCP",
-    "nazev": "Programování pro strojní inženýrství",
+    "zkratka": "VOB",
+    "nazev": "Objektově orientované programování",
     "kredity": "3",
-    "povinnost": "Povinně volitelný",
+    "povinnost": "Volitelný",
     "zakonceni": "kl",
-    "skupina": "Skupina č. 1 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292325",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300243",
     "semestr": [
       "zimní"
     ],
@@ -123,7 +136,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292637",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300599",
     "semestr": [
       "zimní"
     ],
@@ -136,9 +149,23 @@
     "povinnost": "Volitelný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292225",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300129",
     "semestr": [
       "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "0DR",
+    "nazev": "Vybraná témata z obyčejných diferenciálních rovnic",
+    "kredity": "4",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/307579",
+    "semestr": [
+      "zimní",
+      "letní"
     ],
     "rocnik": "1"
   },
@@ -149,7 +176,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292165",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300067",
     "semestr": [
       "letní"
     ],
@@ -162,7 +189,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292174",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300076",
     "semestr": [
       "letní"
     ],
@@ -175,7 +202,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292144",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300047",
     "semestr": [
       "letní"
     ],
@@ -188,7 +215,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292206",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300109",
     "semestr": [
       "letní"
     ],
@@ -201,33 +228,33 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292187",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300089",
     "semestr": [
       "letní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "SPJ",
-    "nazev": "Programovací jazyk Java",
+    "zkratka": "SAI",
+    "nazev": "Algoritmické inženýrství a AI kooperace",
     "kredity": "4",
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "Skupina č. 2 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292193",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308545",
     "semestr": [
       "letní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "SR0",
-    "nazev": "Rekonstrukce a analýza 3D scén",
-    "kredity": "4",
+    "zkratka": "VCP",
+    "nazev": "Programování pro strojní inženýrství",
+    "kredity": "3",
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "Skupina č. 2 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292202",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300234",
     "semestr": [
       "letní"
     ],
@@ -240,7 +267,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292160",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300063",
     "semestr": [
       "letní"
     ],
@@ -253,33 +280,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292132",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "VOB",
-    "nazev": "Objektově orientované programování",
-    "kredity": "3",
-    "povinnost": "Volitelný",
-    "zakonceni": "kl",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292336",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "0DR",
-    "nazev": "Vybraná témata z obyčejných diferenciálních rovnic",
-    "kredity": "4",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/307575",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300034",
     "semestr": [
       "letní"
     ],
@@ -292,7 +293,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292148",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300051",
     "semestr": [
       "zimní"
     ],
@@ -305,7 +306,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292157",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300060",
     "semestr": [
       "zimní"
     ],
@@ -318,7 +319,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292158",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300061",
     "semestr": [
       "zimní"
     ],
@@ -331,7 +332,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292176",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300078",
     "semestr": [
       "zimní"
     ],
@@ -344,7 +345,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292267",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300177",
     "semestr": [
       "zimní"
     ],
@@ -357,7 +358,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292200",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300102",
     "semestr": [
       "zimní"
     ],
@@ -370,7 +371,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292209",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300112",
     "semestr": [
       "zimní"
     ],
@@ -383,7 +384,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "Skupina č. 3 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292204",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300107",
     "semestr": [
       "zimní"
     ],
@@ -396,7 +397,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "Skupina č. 3 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292550",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300497",
     "semestr": [
       "zimní"
     ],
@@ -409,7 +410,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292156",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300059",
     "semestr": [
       "zimní"
     ],
@@ -422,7 +423,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292218",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300122",
     "semestr": [
       "zimní"
     ],
@@ -435,7 +436,20 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292556",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300503",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "SN0-A",
+    "nazev": "Stabilita řešení neautonomních diferenciálních rovnic",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/306658",
     "semestr": [
       "zimní"
     ],
@@ -448,7 +462,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292229",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300133",
     "semestr": [
       "letní"
     ],
@@ -461,7 +475,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292150",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300053",
     "semestr": [
       "letní"
     ],
@@ -474,7 +488,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292208",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300111",
     "semestr": [
       "letní"
     ],
@@ -487,7 +501,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292146",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300049",
     "semestr": [
       "letní"
     ],
@@ -500,7 +514,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292214",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300117",
     "semestr": [
       "letní"
     ],
@@ -509,11 +523,11 @@
   {
     "zkratka": "VTR",
     "nazev": "Algebraická teorie řízení",
-    "kredity": "3",
+    "kredity": "4",
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "Skupina č. 4 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292356",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300261",
     "semestr": [
       "letní"
     ],
@@ -526,7 +540,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zk",
     "skupina": "Skupina č. 4 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292133",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300036",
     "semestr": [
       "letní"
     ],
@@ -539,7 +553,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292227",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300131",
     "semestr": [
       "letní"
     ],
@@ -552,7 +566,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292338",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300245",
     "semestr": [
       "letní"
     ],

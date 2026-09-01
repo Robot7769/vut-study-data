@@ -6,7 +6,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297480",
+    "url": "https://www.vut.cz/en/students/courses/detail/302020",
     "semestr": [
       "zimní"
     ],
@@ -19,22 +19,9 @@
     "povinnost": "Compulsory",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297471",
+    "url": "https://www.vut.cz/en/students/courses/detail/302095",
     "semestr": [
       "zimní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "D03",
-    "nazev": "Theory of architecture",
-    "kredity": "0",
-    "povinnost": "Compulsory",
-    "zakonceni": "DrEx",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297476",
-    "semestr": [
-      "letní"
     ],
     "rocnik": "1"
   },
@@ -45,7 +32,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297475",
+    "url": "https://www.vut.cz/en/students/courses/detail/302038",
     "semestr": [
       "letní"
     ],
@@ -58,7 +45,20 @@
     "povinnost": "Compulsory",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297472",
+    "url": "https://www.vut.cz/en/students/courses/detail/302096",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "D03",
+    "nazev": "Theory of architecture",
+    "kredity": "0",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/302140",
     "semestr": [
       "letní"
     ],
@@ -71,20 +71,20 @@
     "povinnost": "Compulsory",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297477",
+    "url": "https://www.vut.cz/en/students/courses/detail/302004",
     "semestr": [
       "zimní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "DA2",
-    "nazev": "Protection and Renovation of Monuments",
+    "zkratka": "DA11",
+    "nazev": "Landscape Architecture",
     "kredity": "0",
     "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297483",
+    "skupina": "Selective Courses Urban Design",
+    "url": "https://www.vut.cz/en/students/courses/detail/302044",
     "semestr": [
       "zimní"
     ],
@@ -96,8 +96,8 @@
     "kredity": "0",
     "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297490",
+    "skupina": "Selective Courses Urban Design",
+    "url": "https://www.vut.cz/en/students/courses/detail/302058",
     "semestr": [
       "zimní"
     ],
@@ -109,8 +109,8 @@
     "kredity": "0",
     "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297489",
+    "skupina": "Selective Courses Urban Design",
+    "url": "https://www.vut.cz/en/students/courses/detail/302057",
     "semestr": [
       "zimní"
     ],
@@ -122,36 +122,23 @@
     "kredity": "0",
     "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297491",
+    "skupina": "Selective Courses Urban Design",
+    "url": "https://www.vut.cz/en/students/courses/detail/302023",
     "semestr": [
       "zimní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "DA3",
-    "nazev": "Architectural Space",
+    "zkratka": "DA2",
+    "nazev": "Protection and Renovation of Monuments",
     "kredity": "0",
-    "povinnost": "Compulsory-optional",
+    "povinnost": "Elective",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297484",
+    "url": "https://www.vut.cz/en/students/courses/detail/302014",
     "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "DA6",
-    "nazev": "Digital Imaging",
-    "kredity": "0",
-    "povinnost": "Compulsory-optional",
-    "zakonceni": "DrEx",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297486",
-    "semestr": [
-      "letní"
+      "zimní"
     ],
     "rocnik": "2"
   },
@@ -161,21 +148,8 @@
     "kredity": "0",
     "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297492",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "DA1",
-    "nazev": "Language of Architecture",
-    "kredity": "0",
-    "povinnost": "Compulsory-optional",
-    "zakonceni": "DrEx",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297481",
+    "skupina": "Selective Courses Urban Design",
+    "url": "https://www.vut.cz/en/students/courses/detail/302101",
     "semestr": [
       "letní"
     ],
@@ -187,8 +161,8 @@
     "kredity": "0",
     "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297488",
+    "skupina": "Selective Courses Urban Design",
+    "url": "https://www.vut.cz/en/students/courses/detail/302045",
     "semestr": [
       "letní"
     ],
@@ -200,8 +174,47 @@
     "kredity": "0",
     "povinnost": "Compulsory-optional",
     "zakonceni": "DrEx",
+    "skupina": "Selective Courses Urban Design",
+    "url": "https://www.vut.cz/en/students/courses/detail/302040",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DA3",
+    "nazev": "Architectural Space",
+    "kredity": "0",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297487",
+    "url": "https://www.vut.cz/en/students/courses/detail/302099",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DA6",
+    "nazev": "Digital Imaging",
+    "kredity": "0",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/302100",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DA1",
+    "nazev": "Language of Architecture",
+    "kredity": "0",
+    "povinnost": "Elective",
+    "zakonceni": "DrEx",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/302141",
     "semestr": [
       "letní"
     ],
@@ -211,39 +224,13 @@
     "zkratka": "DA4",
     "nazev": "Technology and Construction in Architecture",
     "kredity": "0",
-    "povinnost": "Compulsory-optional",
+    "povinnost": "Elective",
     "zakonceni": "DrEx",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297485",
+    "url": "https://www.vut.cz/en/students/courses/detail/302051",
     "semestr": [
       "letní"
     ],
     "rocnik": "2"
-  },
-  {
-    "zkratka": "D05",
-    "nazev": "State Doctoral Examination",
-    "kredity": "0",
-    "povinnost": "Compulsory",
-    "zakonceni": "DrEx",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297479",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "3"
-  },
-  {
-    "zkratka": "D012",
-    "nazev": "Obhajoba disertační práce",
-    "kredity": "0",
-    "povinnost": "Compulsory",
-    "zakonceni": "",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/297474",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "4"
   }
 ]

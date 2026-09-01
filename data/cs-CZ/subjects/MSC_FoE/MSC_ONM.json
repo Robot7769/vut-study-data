@@ -1,0 +1,200 @@
+[
+  {
+    "zkratka": "F1SINP",
+    "nazev": "Individuální projekt (modul 1)",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308827",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "F2BINP",
+    "nazev": "Individuální projekt (modul 2b)",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308837",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "F1SMZP",
+    "nazev": "Metodika zpracování znaleckého posudku",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308828",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "F2BPSF",
+    "nazev": "Pozemní stavitelství a stavební fyzika",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308838",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "F2BSPK",
+    "nazev": "Stavební právo a katastr nemovitostí",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308839",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "F2BTZB",
+    "nazev": "Technická zařízení budov, inženýrská infrastruktura",
+    "kredity": "7",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308840",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "F1SVSP",
+    "nazev": "Vybrané statě z práva",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308829",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "F1SVZC",
+    "nazev": "Výkon znalecké činnosti",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308830",
+    "semestr": [],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "F3BINP",
+    "nazev": "Individuální projekt (modul 3b)",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308847",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "F4CINP",
+    "nazev": "Individuální projekt (modul 4c)",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308863",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "F4CONP",
+    "nazev": "Oceňování nemovitostí podle cenových předpisů",
+    "kredity": "9",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308864",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "F4CSNV",
+    "nazev": "Oceňování součástí nemovitých věcí",
+    "kredity": "6",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308866",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "F3BSMO",
+    "nazev": "Statistické metody a odhad hodnoty (včetně AVM)",
+    "kredity": "9",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308848",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "F3BTOM",
+    "nazev": "Teorie oceňování majetku",
+    "kredity": "8",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308849",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "F4CTON",
+    "nazev": "Tržní oceňování nemovitostí",
+    "kredity": "12",
+    "povinnost": "Povinný",
+    "zakonceni": "kol",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308867",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "F3BZOS",
+    "nazev": "Zahraniční oceňovací standardy a metodika reportingu",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308850",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "F4CPRT",
+    "nazev": "Základní principy realitního trhu",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308865",
+    "semestr": [],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "FFZAP",
+    "nazev": "Závěrečná práce",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/308970",
+    "semestr": [],
+    "rocnik": "2"
+  }
+]

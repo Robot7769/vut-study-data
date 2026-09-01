@@ -1,12 +1,25 @@
 [
   {
-    "zkratka": "MPA-ANP",
-    "nazev": "Antennas and Propagation",
+    "zkratka": "MPA-ARA",
+    "nazev": "Antennas and Radio Links",
     "kredity": "5",
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291073",
+    "url": "https://www.vut.cz/en/students/courses/detail/304869",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-BEV",
+    "nazev": "Batteries for Electric Vehicles",
+    "kredity": "6",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/305029",
     "semestr": [
       "zimní"
     ],
@@ -19,7 +32,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291959",
+    "url": "https://www.vut.cz/en/students/courses/detail/299849",
     "semestr": [
       "zimní"
     ],
@@ -32,7 +45,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292002",
+    "url": "https://www.vut.cz/en/students/courses/detail/299895",
     "semestr": [
       "zimní"
     ],
@@ -45,20 +58,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291207",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "MPA-VAF",
-    "nazev": "Vacuum Technology",
-    "kredity": "6",
-    "povinnost": "Compulsory",
-    "zakonceni": "Cr,Ex",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291235",
+    "url": "https://www.vut.cz/en/students/courses/detail/305007",
     "semestr": [
       "zimní"
     ],
@@ -70,8 +70,8 @@
     "kredity": "5",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
-    "skupina": "PVB1",
-    "url": "https://www.vut.cz/en/students/courses/detail/291108",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/305009",
     "semestr": [
       "zimní"
     ],
@@ -83,8 +83,8 @@
     "kredity": "5",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
-    "skupina": "PVB1",
-    "url": "https://www.vut.cz/en/students/courses/detail/291170",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/305008",
     "semestr": [
       "zimní"
     ],
@@ -97,7 +97,20 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291077",
+    "url": "https://www.vut.cz/en/students/courses/detail/305015",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "MPA-AGA",
+    "nazev": "Applied Generative AI",
+    "kredity": "5",
+    "povinnost": "Compulsory",
+    "zakonceni": "Cr,Ex",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/308752",
     "semestr": [
       "letní"
     ],
@@ -110,7 +123,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291109",
+    "url": "https://www.vut.cz/en/students/courses/detail/305006",
     "semestr": [
       "letní"
     ],
@@ -123,7 +136,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291116",
+    "url": "https://www.vut.cz/en/students/courses/detail/305010",
     "semestr": [
       "letní"
     ],
@@ -136,7 +149,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291242",
+    "url": "https://www.vut.cz/en/students/courses/detail/304941",
     "semestr": [
       "letní"
     ],
@@ -149,20 +162,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291167",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "MPA-SLM",
-    "nazev": "Selected Lectures on Mathematics",
-    "kredity": "5",
-    "povinnost": "Compulsory",
-    "zakonceni": "Cr,Ex",
-    "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291212",
+    "url": "https://www.vut.cz/en/students/courses/detail/305012",
     "semestr": [
       "letní"
     ],
@@ -175,7 +175,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291143",
+    "url": "https://www.vut.cz/en/students/courses/detail/304878",
     "semestr": [
       "zimní"
     ],
@@ -188,7 +188,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291987",
+    "url": "https://www.vut.cz/en/students/courses/detail/299878",
     "semestr": [
       "zimní"
     ],
@@ -201,7 +201,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291228",
+    "url": "https://www.vut.cz/en/students/courses/detail/305014",
     "semestr": [
       "zimní"
     ],
@@ -214,7 +214,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291203",
+    "url": "https://www.vut.cz/en/students/courses/detail/304870",
     "semestr": [
       "zimní"
     ],
@@ -227,7 +227,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/291186",
+    "url": "https://www.vut.cz/en/students/courses/detail/304978",
     "semestr": [
       "zimní"
     ],
@@ -240,7 +240,20 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/287651",
+    "url": "https://www.vut.cz/en/students/courses/detail/304902",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "MPA-VAF",
+    "nazev": "Vacuum Technology",
+    "kredity": "6",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr,Ex",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/304993",
     "semestr": [
       "zimní"
     ],
@@ -253,7 +266,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291067",
+    "url": "https://www.vut.cz/en/students/courses/detail/305019",
     "semestr": [
       "letní"
     ],
@@ -266,7 +279,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291137",
+    "url": "https://www.vut.cz/en/students/courses/detail/305017",
     "semestr": [
       "letní"
     ],
@@ -279,7 +292,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291097",
+    "url": "https://www.vut.cz/en/students/courses/detail/305016",
     "semestr": [
       "letní"
     ],
@@ -292,7 +305,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291507",
+    "url": "https://www.vut.cz/en/students/courses/detail/305138",
     "semestr": [
       "zimní",
       "letní"
@@ -306,7 +319,7 @@
     "povinnost": "Elective",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291562",
+    "url": "https://www.vut.cz/en/students/courses/detail/305122",
     "semestr": [
       "zimní"
     ],
@@ -319,7 +332,7 @@
     "povinnost": "Elective",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291560",
+    "url": "https://www.vut.cz/en/students/courses/detail/305114",
     "semestr": [
       "zimní"
     ],
@@ -332,7 +345,7 @@
     "povinnost": "Elective",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291531",
+    "url": "https://www.vut.cz/en/students/courses/detail/305117",
     "semestr": [
       "zimní"
     ],
@@ -345,7 +358,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291226",
+    "url": "https://www.vut.cz/en/students/courses/detail/304985",
     "semestr": [
       "zimní"
     ],
@@ -358,7 +371,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291508",
+    "url": "https://www.vut.cz/en/students/courses/detail/305144",
     "semestr": [
       "letní"
     ],
@@ -371,7 +384,7 @@
     "povinnost": "Elective",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291563",
+    "url": "https://www.vut.cz/en/students/courses/detail/305123",
     "semestr": [
       "letní"
     ],
@@ -384,7 +397,20 @@
     "povinnost": "Elective",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291561",
+    "url": "https://www.vut.cz/en/students/courses/detail/305113",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "libovolný"
+  },
+  {
+    "zkratka": "XPA-PSE",
+    "nazev": "Presentation Skills in English",
+    "kredity": "3",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/307598",
     "semestr": [
       "letní"
     ],
@@ -397,7 +423,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291119",
+    "url": "https://www.vut.cz/en/students/courses/detail/304922",
     "semestr": [
       "letní"
     ],
@@ -410,7 +436,7 @@
     "povinnost": "Elective",
     "zakonceni": "GCr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/291532",
+    "url": "https://www.vut.cz/en/students/courses/detail/305118",
     "semestr": [
       "letní"
     ],

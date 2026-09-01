@@ -1,506 +1,350 @@
 [
   {
-    "zkratka": "BBIDE-D",
+    "zkratka": "BBIDE",
     "nazev": "Business Idea Development",
-    "kredity": "6",
+    "kredity": "5",
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294371",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309032",
     "semestr": [
       "zimní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "BECOE-D",
+    "zkratka": "BECOE",
     "nazev": "Economics of Company",
-    "kredity": "6",
+    "kredity": "4",
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294430",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309033",
     "semestr": [
       "zimní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "BMAE-D",
+    "zkratka": "BMAE",
     "nazev": "Management",
-    "kredity": "6",
+    "kredity": "5",
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294530",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309034",
     "semestr": [
       "zimní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "BMEE-D",
+    "zkratka": "BMEE",
     "nazev": "Market Economy",
-    "kredity": "6",
+    "kredity": "5",
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294558",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309037",
     "semestr": [
       "zimní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "BMARE-D",
+    "zkratka": "BMARE",
     "nazev": "Marketing",
-    "kredity": "6",
+    "kredity": "5",
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294562",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309035",
     "semestr": [
       "zimní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "BMATE-D",
+    "zkratka": "BMATE",
     "nazev": "Mathematics",
-    "kredity": "7",
+    "kredity": "6",
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294579",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309036",
     "semestr": [
       "zimní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "BDMSE-D",
+    "zkratka": "BDMSE",
     "nazev": "Digital Marketing and Social Media",
-    "kredity": "6",
+    "kredity": "5",
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294409",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309038",
     "semestr": [
       "letní"
     ],
     "rocnik": "1"
   },
   {
-    "zkratka": "BFMSE-D",
-    "nazev": "Financial Management of Small Company",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294455",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "BLENE-D",
-    "nazev": "Law in Entrepreneurship",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294520",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "BPENE",
-    "nazev": "Principles of Entrepreneurship",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294671",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "BBCDE",
-    "nazev": "Team and Company Development",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "kl",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294773",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "BATE",
-    "nazev": "Accounting and Taxes",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294342",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "BCCSME",
-    "nazev": "Competitiveness and Branding of Small Company",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294390",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "BEPR1E-D",
+    "zkratka": "BEPR1E",
     "nazev": "Entrepreneurial Practice 1",
     "kredity": "12",
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294442",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "BMRE-D",
-    "nazev": "Market Research",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294560",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "BPMAE-D",
-    "nazev": "Project Management",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294684",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "VYF001",
-    "nazev": "Francouzština pro začátečníky",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294949",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "VYI001",
-    "nazev": "Italština pro začátečníky",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294951",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "VYN001",
-    "nazev": "Němčina pro začátečníky",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294953",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "VYS001",
-    "nazev": "Španělština pro začátečníky",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294955",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "BAASE-D",
-    "nazev": "Applied Analytical Statistics",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294360",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309039",
     "semestr": [
       "letní"
     ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BFMSE",
+    "nazev": "Financial Management of Small Company",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309040",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BFPE",
+    "nazev": "Financial Practice in Entrepreneurship",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309041",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BLENE",
+    "nazev": "Law in Entrepreneurship",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309042",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "BBSSC",
+    "nazev": "Brand Strategy of Small Company",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309043",
+    "semestr": [
+      "zimní"
+    ],
     "rocnik": "2"
   },
   {
-    "zkratka": "BEPR2E-D",
+    "zkratka": "BEPR2E",
     "nazev": "Entrepreneurial Practice 2",
     "kredity": "12",
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294444",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309044",
     "semestr": [
-      "letní"
+      "zimní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "BHRME-D",
-    "nazev": "Human Resources Management in Small Company",
-    "kredity": "6",
+    "zkratka": "BMRE",
+    "nazev": "Market Research",
+    "kredity": "5",
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294473",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309045",
     "semestr": [
-      "letní"
+      "zimní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "BSMAE-D",
-    "nazev": "Service Management",
-    "kredity": "6",
+    "zkratka": "BPMAE",
+    "nazev": "Project Management",
+    "kredity": "5",
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294738",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309046",
     "semestr": [
-      "letní"
+      "zimní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "VYF002",
-    "nazev": "Francouzština pro začátečníky 2",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
+    "zkratka": "BAASE",
+    "nazev": "Applied Analytical Statistics",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294957",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309047",
     "semestr": [
       "letní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "VYI002",
-    "nazev": "Italština pro začátečníky 2",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294960",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "VYN002",
-    "nazev": "Němčina pro začátečníky 2",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294959",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "VYS002",
-    "nazev": "Španělština pro začátečníky 2",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294958",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "BEPR3E-D",
+    "zkratka": "BEPR3E",
     "nazev": "Entrepreneurial Practice 3",
     "kredity": "12",
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294445",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309048",
     "semestr": [
-      "zimní"
+      "letní"
     ],
-    "rocnik": "3"
+    "rocnik": "2"
   },
   {
-    "zkratka": "BFT1E-D",
-    "nazev": "Final Thesis Seminar 1",
-    "kredity": "4",
-    "povinnost": "Povinný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294451",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "3"
-  },
-  {
-    "zkratka": "BISSCE",
-    "nazev": "Information System of Small Company",
+    "zkratka": "BHRME",
+    "nazev": "Human Resources Management in Small Company",
     "kredity": "5",
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294484",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "3"
-  },
-  {
-    "zkratka": "BTSPE-D",
-    "nazev": "Trade and Sales Promotion",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294789",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "3"
-  },
-  {
-    "zkratka": "VYF003",
-    "nazev": "Francouzština pro mírně pokročilé",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294950",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "3"
-  },
-  {
-    "zkratka": "VYI003",
-    "nazev": "Italština pro mírně pokročilé",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294956",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "3"
-  },
-  {
-    "zkratka": "VYN003",
-    "nazev": "Němčina pro mírně pokročilé",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294954",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "3"
-  },
-  {
-    "zkratka": "VYS003",
-    "nazev": "Španělština pro mírně pokročilé",
-    "kredity": "2",
-    "povinnost": "Volitelný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294952",
-    "semestr": [
-      "zimní"
-    ],
-    "rocnik": "3"
-  },
-  {
-    "zkratka": "BBDAE-D",
-    "nazev": "Business Development Assessment",
-    "kredity": "6",
-    "povinnost": "Povinný",
-    "zakonceni": "zá,zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294369",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309049",
     "semestr": [
       "letní"
     ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BSMAE",
+    "nazev": "Service Management",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309050",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "BDA",
+    "nazev": "Data Analysis",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309051",
+    "semestr": [
+      "zimní"
+    ],
     "rocnik": "3"
   },
   {
-    "zkratka": "BEPR4E-D",
+    "zkratka": "BEPR4E",
     "nazev": "Entrepreneurial Practice 4",
     "kredity": "12",
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294447",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309052",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BFT1E",
+    "nazev": "Final Thesis Seminar 1",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309053",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BTSPE",
+    "nazev": "Trade and Sales Promotion",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309054",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BBDAE",
+    "nazev": "Business Development Assessment",
+    "kredity": "5",
+    "povinnost": "Povinný",
+    "zakonceni": "zá,zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309055",
     "semestr": [
       "letní"
     ],
     "rocnik": "3"
   },
   {
-    "zkratka": "BFT2E-D",
-    "nazev": "Final Thesis Seminar 2",
-    "kredity": "11",
+    "zkratka": "BEPR5E",
+    "nazev": "Entrepreneurial Practice 5",
+    "kredity": "12",
     "povinnost": "Povinný",
-    "zakonceni": "zá",
+    "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294452",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309056",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BFT2E",
+    "nazev": "Final Thesis Seminar 2",
+    "kredity": "10",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309057",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "BKTEE",
+    "nazev": "Knowledge Transfer and Entrepreneurial Ecosystems",
+    "kredity": "3",
+    "povinnost": "Povinný",
+    "zakonceni": "kl",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/309058",
     "semestr": [
       "letní"
     ],

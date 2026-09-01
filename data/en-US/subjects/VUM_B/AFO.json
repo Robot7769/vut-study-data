@@ -6,7 +6,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292988",
+    "url": "https://www.vut.cz/en/students/courses/detail/302811",
     "semestr": [
       "zimní"
     ],
@@ -19,7 +19,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Col",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293010",
+    "url": "https://www.vut.cz/en/students/courses/detail/302840",
     "semestr": [
       "zimní"
     ],
@@ -32,7 +32,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293050",
+    "url": "https://www.vut.cz/en/students/courses/detail/302880",
     "semestr": [
       "zimní"
     ],
@@ -41,11 +41,11 @@
   {
     "zkratka": "1RanPA",
     "nazev": "Orientation FaVU",
-    "kredity": "1",
+    "kredity": "2",
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293125",
+    "url": "https://www.vut.cz/en/students/courses/detail/302959",
     "semestr": [
       "zimní"
     ],
@@ -58,7 +58,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293155",
+    "url": "https://www.vut.cz/en/students/courses/detail/302993",
     "semestr": [
       "zimní"
     ],
@@ -71,7 +71,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293161",
+    "url": "https://www.vut.cz/en/students/courses/detail/302999",
     "semestr": [
       "zimní"
     ],
@@ -84,7 +84,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293150",
+    "url": "https://www.vut.cz/en/students/courses/detail/302986",
     "semestr": [
       "zimní",
       "letní"
@@ -98,7 +98,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293202",
+    "url": "https://www.vut.cz/en/students/courses/detail/303039",
     "semestr": [
       "zimní"
     ],
@@ -111,7 +111,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293223",
+    "url": "https://www.vut.cz/en/students/courses/detail/303062",
     "semestr": [
       "zimní"
     ],
@@ -124,7 +124,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293246",
+    "url": "https://www.vut.cz/en/students/courses/detail/303086",
     "semestr": [
       "zimní"
     ],
@@ -137,7 +137,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293254",
+    "url": "https://www.vut.cz/en/students/courses/detail/303094",
     "semestr": [
       "zimní"
     ],
@@ -150,7 +150,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293316",
+    "url": "https://www.vut.cz/en/students/courses/detail/303168",
     "semestr": [
       "zimní"
     ],
@@ -163,7 +163,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293317",
+    "url": "https://www.vut.cz/en/students/courses/detail/303169",
     "semestr": [
       "zimní"
     ],
@@ -176,7 +176,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293319",
+    "url": "https://www.vut.cz/en/students/courses/detail/303171",
     "semestr": [
       "zimní"
     ],
@@ -189,7 +189,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293329",
+    "url": "https://www.vut.cz/en/students/courses/detail/303181",
     "semestr": [
       "zimní"
     ],
@@ -197,12 +197,12 @@
   },
   {
     "zkratka": "POGR2D-Z",
-    "nazev": "2D Graphics",
+    "nazev": "2D Graphics 2",
     "kredity": "2",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293048",
+    "url": "https://www.vut.cz/en/students/courses/detail/303189",
     "semestr": [
       "zimní"
     ],
@@ -215,7 +215,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293342",
+    "url": "https://www.vut.cz/en/students/courses/detail/303192",
     "semestr": [
       "zimní"
     ],
@@ -228,7 +228,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292968",
+    "url": "https://www.vut.cz/en/students/courses/detail/302780",
     "semestr": [
       "zimní"
     ],
@@ -241,7 +241,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292966",
+    "url": "https://www.vut.cz/en/students/courses/detail/302778",
     "semestr": [
       "zimní"
     ],
@@ -250,11 +250,11 @@
   {
     "zkratka": "1UPPV-Z",
     "nazev": "English Upper Intermediate Higher 3 - BA - Winter",
-    "kredity": "3",
+    "kredity": "2",
     "povinnost": "Elective",
-    "zakonceni": "Cr,Ex",
+    "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292971",
+    "url": "https://www.vut.cz/en/students/courses/detail/302784",
     "semestr": [
       "zimní"
     ],
@@ -267,7 +267,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293079",
+    "url": "https://www.vut.cz/en/students/courses/detail/302909",
     "semestr": [
       "zimní"
     ],
@@ -280,7 +280,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293090",
+    "url": "https://www.vut.cz/en/students/courses/detail/302919",
     "semestr": [
       "zimní"
     ],
@@ -293,7 +293,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293333",
+    "url": "https://www.vut.cz/en/students/courses/detail/303184",
     "semestr": [
       "zimní"
     ],
@@ -306,7 +306,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293338",
+    "url": "https://www.vut.cz/en/students/courses/detail/303187",
     "semestr": [
       "zimní",
       "letní"
@@ -320,7 +320,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292989",
+    "url": "https://www.vut.cz/en/students/courses/detail/302812",
     "semestr": [
       "letní"
     ],
@@ -333,7 +333,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293051",
+    "url": "https://www.vut.cz/en/students/courses/detail/302881",
     "semestr": [
       "letní"
     ],
@@ -346,7 +346,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293084",
+    "url": "https://www.vut.cz/en/students/courses/detail/302914",
     "semestr": [
       "letní"
     ],
@@ -359,7 +359,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293158",
+    "url": "https://www.vut.cz/en/students/courses/detail/302996",
     "semestr": [
       "letní"
     ],
@@ -372,7 +372,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293162",
+    "url": "https://www.vut.cz/en/students/courses/detail/303000",
     "semestr": [
       "letní"
     ],
@@ -385,7 +385,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Col",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293265",
+    "url": "https://www.vut.cz/en/students/courses/detail/303106",
     "semestr": [
       "letní"
     ],
@@ -398,7 +398,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293049",
+    "url": "https://www.vut.cz/en/students/courses/detail/302863",
     "semestr": [
       "letní"
     ],
@@ -411,7 +411,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293203",
+    "url": "https://www.vut.cz/en/students/courses/detail/303040",
     "semestr": [
       "letní"
     ],
@@ -424,7 +424,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293247",
+    "url": "https://www.vut.cz/en/students/courses/detail/303087",
     "semestr": [
       "letní"
     ],
@@ -437,7 +437,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293255",
+    "url": "https://www.vut.cz/en/students/courses/detail/303095",
     "semestr": [
       "letní"
     ],
@@ -450,7 +450,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293318",
+    "url": "https://www.vut.cz/en/students/courses/detail/303170",
     "semestr": [
       "letní"
     ],
@@ -463,7 +463,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293320",
+    "url": "https://www.vut.cz/en/students/courses/detail/303172",
     "semestr": [
       "letní"
     ],
@@ -476,7 +476,20 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293328",
+    "url": "https://www.vut.cz/en/students/courses/detail/303180",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "12DG2",
+    "nazev": "2D graphics 2",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "1",
+    "url": "https://www.vut.cz/en/students/courses/detail/309684",
     "semestr": [
       "letní"
     ],
@@ -489,7 +502,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293343",
+    "url": "https://www.vut.cz/en/students/courses/detail/303193",
     "semestr": [
       "letní"
     ],
@@ -502,7 +515,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293297",
+    "url": "https://www.vut.cz/en/students/courses/detail/303148",
     "semestr": [
       "letní"
     ],
@@ -515,7 +528,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293307",
+    "url": "https://www.vut.cz/en/students/courses/detail/303158",
     "semestr": [
       "letní"
     ],
@@ -528,7 +541,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292965",
+    "url": "https://www.vut.cz/en/students/courses/detail/302777",
     "semestr": [
       "letní"
     ],
@@ -541,7 +554,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292967",
+    "url": "https://www.vut.cz/en/students/courses/detail/302779",
     "semestr": [
       "letní"
     ],
@@ -554,7 +567,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292969",
+    "url": "https://www.vut.cz/en/students/courses/detail/302782",
     "semestr": [
       "letní"
     ],
@@ -567,7 +580,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293080",
+    "url": "https://www.vut.cz/en/students/courses/detail/302910",
     "semestr": [
       "letní"
     ],
@@ -580,7 +593,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293091",
+    "url": "https://www.vut.cz/en/students/courses/detail/302920",
     "semestr": [
       "letní"
     ],
@@ -593,7 +606,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293109",
+    "url": "https://www.vut.cz/en/students/courses/detail/303070",
     "semestr": [
       "letní"
     ],
@@ -606,7 +619,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293334",
+    "url": "https://www.vut.cz/en/students/courses/detail/303185",
     "semestr": [
       "letní"
     ],
@@ -619,7 +632,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292990",
+    "url": "https://www.vut.cz/en/students/courses/detail/302813",
     "semestr": [
       "zimní"
     ],
@@ -632,7 +645,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293052",
+    "url": "https://www.vut.cz/en/students/courses/detail/302882",
     "semestr": [
       "zimní"
     ],
@@ -645,7 +658,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293085",
+    "url": "https://www.vut.cz/en/students/courses/detail/302915",
     "semestr": [
       "zimní"
     ],
@@ -658,7 +671,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293160",
+    "url": "https://www.vut.cz/en/students/courses/detail/302998",
     "semestr": [
       "zimní"
     ],
@@ -671,7 +684,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293230",
+    "url": "https://www.vut.cz/en/students/courses/detail/303069",
     "semestr": [
       "zimní"
     ],
@@ -684,7 +697,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Col",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293266",
+    "url": "https://www.vut.cz/en/students/courses/detail/303112",
     "semestr": [
       "zimní"
     ],
@@ -697,7 +710,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293020",
+    "url": "https://www.vut.cz/en/students/courses/detail/302850",
     "semestr": [
       "zimní"
     ],
@@ -710,7 +723,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293026",
+    "url": "https://www.vut.cz/en/students/courses/detail/302856",
     "semestr": [
       "zimní"
     ],
@@ -723,7 +736,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293239",
+    "url": "https://www.vut.cz/en/students/courses/detail/303079",
     "semestr": [
       "zimní"
     ],
@@ -731,12 +744,12 @@
   },
   {
     "zkratka": "1UdPU",
-    "nazev": "Introduction to Performativity of Art",
+    "nazev": "Introduction to Performance Studies: Performance as Practice 1",
     "kredity": "2",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293249",
+    "url": "https://www.vut.cz/en/students/courses/detail/303089",
     "semestr": [
       "zimní"
     ],
@@ -749,7 +762,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293252",
+    "url": "https://www.vut.cz/en/students/courses/detail/303092",
     "semestr": [
       "zimní"
     ],
@@ -762,7 +775,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293331",
+    "url": "https://www.vut.cz/en/students/courses/detail/303182",
     "semestr": [
       "zimní"
     ],
@@ -775,7 +788,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/292975",
+    "url": "https://www.vut.cz/en/students/courses/detail/302787",
     "semestr": [
       "zimní"
     ],
@@ -788,7 +801,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293093",
+    "url": "https://www.vut.cz/en/students/courses/detail/302922",
     "semestr": [
       "zimní"
     ],
@@ -801,7 +814,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293174",
+    "url": "https://www.vut.cz/en/students/courses/detail/303012",
     "semestr": [
       "zimní"
     ],
@@ -814,7 +827,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293197",
+    "url": "https://www.vut.cz/en/students/courses/detail/303034",
     "semestr": [
       "zimní"
     ],
@@ -827,7 +840,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293224",
+    "url": "https://www.vut.cz/en/students/courses/detail/303063",
     "semestr": [
       "zimní"
     ],
@@ -840,7 +853,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293256",
+    "url": "https://www.vut.cz/en/students/courses/detail/303096",
     "semestr": [
       "zimní"
     ],
@@ -853,7 +866,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293286",
+    "url": "https://www.vut.cz/en/students/courses/detail/303137",
     "semestr": [
       "zimní"
     ],
@@ -866,7 +879,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293321",
+    "url": "https://www.vut.cz/en/students/courses/detail/303173",
     "semestr": [
       "zimní"
     ],
@@ -879,7 +892,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293323",
+    "url": "https://www.vut.cz/en/students/courses/detail/303175",
     "semestr": [
       "zimní"
     ],
@@ -892,7 +905,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293327",
+    "url": "https://www.vut.cz/en/students/courses/detail/303179",
     "semestr": [
       "zimní"
     ],
@@ -905,7 +918,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293344",
+    "url": "https://www.vut.cz/en/students/courses/detail/303194",
     "semestr": [
       "zimní"
     ],
@@ -918,7 +931,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293298",
+    "url": "https://www.vut.cz/en/students/courses/detail/303149",
     "semestr": [
       "zimní"
     ],
@@ -931,7 +944,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293308",
+    "url": "https://www.vut.cz/en/students/courses/detail/303159",
     "semestr": [
       "zimní"
     ],
@@ -944,7 +957,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293019",
+    "url": "https://www.vut.cz/en/students/courses/detail/302849",
     "semestr": [
       "zimní"
     ],
@@ -957,7 +970,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/301268",
+    "url": "https://www.vut.cz/en/students/courses/detail/302879",
     "semestr": [
       "zimní"
     ],
@@ -970,7 +983,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293098",
+    "url": "https://www.vut.cz/en/students/courses/detail/302927",
     "semestr": [
       "zimní"
     ],
@@ -983,9 +996,23 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293138",
+    "url": "https://www.vut.cz/en/students/courses/detail/302972",
     "semestr": [
       "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1PvP",
+    "nazev": "Permaculture in practice (winter term)",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/309750",
+    "semestr": [
+      "zimní",
+      "letní"
     ],
     "rocnik": "2"
   },
@@ -996,7 +1023,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293184",
+    "url": "https://www.vut.cz/en/students/courses/detail/303021",
     "semestr": [
       "zimní"
     ],
@@ -1009,7 +1036,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293231",
+    "url": "https://www.vut.cz/en/students/courses/detail/303071",
     "semestr": [
       "zimní"
     ],
@@ -1022,7 +1049,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293233",
+    "url": "https://www.vut.cz/en/students/courses/detail/303073",
     "semestr": [
       "zimní"
     ],
@@ -1035,7 +1062,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293279",
+    "url": "https://www.vut.cz/en/students/courses/detail/303134",
     "semestr": [
       "zimní"
     ],
@@ -1048,7 +1075,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292991",
+    "url": "https://www.vut.cz/en/students/courses/detail/302815",
     "semestr": [
       "letní"
     ],
@@ -1061,7 +1088,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293053",
+    "url": "https://www.vut.cz/en/students/courses/detail/302883",
     "semestr": [
       "letní"
     ],
@@ -1074,7 +1101,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293086",
+    "url": "https://www.vut.cz/en/students/courses/detail/302916",
     "semestr": [
       "letní"
     ],
@@ -1087,7 +1114,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293163",
+    "url": "https://www.vut.cz/en/students/courses/detail/303001",
     "semestr": [
       "letní"
     ],
@@ -1100,7 +1127,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Col",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293271",
+    "url": "https://www.vut.cz/en/students/courses/detail/303116",
     "semestr": [
       "letní"
     ],
@@ -1113,7 +1140,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293299",
+    "url": "https://www.vut.cz/en/students/courses/detail/303150",
     "semestr": [
       "letní"
     ],
@@ -1126,7 +1153,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293309",
+    "url": "https://www.vut.cz/en/students/courses/detail/303160",
     "semestr": [
       "letní"
     ],
@@ -1139,7 +1166,20 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293021",
+    "url": "https://www.vut.cz/en/students/courses/detail/302851",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "1OJP",
+    "nazev": "Image and its persistance: iconography in long duree",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "2",
+    "url": "https://www.vut.cz/en/students/courses/detail/309748",
     "semestr": [
       "letní"
     ],
@@ -1152,7 +1192,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293196",
+    "url": "https://www.vut.cz/en/students/courses/detail/303033",
     "semestr": [
       "letní"
     ],
@@ -1165,7 +1205,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293240",
+    "url": "https://www.vut.cz/en/students/courses/detail/303080",
     "semestr": [
       "letní"
     ],
@@ -1173,12 +1213,12 @@
   },
   {
     "zkratka": "1UdUP",
-    "nazev": "Introduction to Performance Art",
+    "nazev": "Introduction to Performance Studies: Performance as Practice 2",
     "kredity": "2",
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293253",
+    "url": "https://www.vut.cz/en/students/courses/detail/303093",
     "semestr": [
       "letní"
     ],
@@ -1191,7 +1231,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293332",
+    "url": "https://www.vut.cz/en/students/courses/detail/303183",
     "semestr": [
       "letní"
     ],
@@ -1204,7 +1244,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/292976",
+    "url": "https://www.vut.cz/en/students/courses/detail/302788",
     "semestr": [
       "letní"
     ],
@@ -1217,7 +1257,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293094",
+    "url": "https://www.vut.cz/en/students/courses/detail/302923",
     "semestr": [
       "letní"
     ],
@@ -1230,7 +1270,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293110",
+    "url": "https://www.vut.cz/en/students/courses/detail/302937",
     "semestr": [
       "letní"
     ],
@@ -1243,7 +1283,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293175",
+    "url": "https://www.vut.cz/en/students/courses/detail/303013",
     "semestr": [
       "letní"
     ],
@@ -1256,7 +1296,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293198",
+    "url": "https://www.vut.cz/en/students/courses/detail/303035",
     "semestr": [
       "letní"
     ],
@@ -1269,7 +1309,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293225",
+    "url": "https://www.vut.cz/en/students/courses/detail/303064",
     "semestr": [
       "letní"
     ],
@@ -1282,7 +1322,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr,Ex",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293257",
+    "url": "https://www.vut.cz/en/students/courses/detail/303097",
     "semestr": [
       "letní"
     ],
@@ -1295,7 +1335,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293287",
+    "url": "https://www.vut.cz/en/students/courses/detail/303138",
     "semestr": [
       "letní"
     ],
@@ -1308,7 +1348,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293322",
+    "url": "https://www.vut.cz/en/students/courses/detail/303174",
     "semestr": [
       "letní"
     ],
@@ -1321,7 +1361,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293345",
+    "url": "https://www.vut.cz/en/students/courses/detail/303195",
     "semestr": [
       "letní"
     ],
@@ -1334,7 +1374,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292996",
+    "url": "https://www.vut.cz/en/students/courses/detail/302824",
     "semestr": [
       "letní"
     ],
@@ -1347,7 +1387,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292999",
+    "url": "https://www.vut.cz/en/students/courses/detail/302828",
     "semestr": [
       "letní"
     ],
@@ -1360,7 +1400,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293000",
+    "url": "https://www.vut.cz/en/students/courses/detail/302829",
     "semestr": [
       "letní"
     ],
@@ -1373,7 +1413,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293072",
+    "url": "https://www.vut.cz/en/students/courses/detail/302902",
     "semestr": [
       "letní"
     ],
@@ -1386,7 +1426,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/301023",
+    "url": "https://www.vut.cz/en/students/courses/detail/302930",
     "semestr": [
       "letní"
     ],
@@ -1399,7 +1439,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293139",
+    "url": "https://www.vut.cz/en/students/courses/detail/302973",
     "semestr": [
       "letní"
     ],
@@ -1412,7 +1452,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293232",
+    "url": "https://www.vut.cz/en/students/courses/detail/303072",
     "semestr": [
       "letní"
     ],
@@ -1425,7 +1465,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293280",
+    "url": "https://www.vut.cz/en/students/courses/detail/303135",
     "semestr": [
       "letní"
     ],
@@ -1438,7 +1478,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292992",
+    "url": "https://www.vut.cz/en/students/courses/detail/302817",
     "semestr": [
       "zimní"
     ],
@@ -1451,7 +1491,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293087",
+    "url": "https://www.vut.cz/en/students/courses/detail/302917",
     "semestr": [
       "zimní"
     ],
@@ -1464,7 +1504,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293164",
+    "url": "https://www.vut.cz/en/students/courses/detail/303002",
     "semestr": [
       "zimní"
     ],
@@ -1477,7 +1517,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Col",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293273",
+    "url": "https://www.vut.cz/en/students/courses/detail/303119",
     "semestr": [
       "zimní"
     ],
@@ -1490,7 +1530,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293300",
+    "url": "https://www.vut.cz/en/students/courses/detail/303151",
     "semestr": [
       "zimní"
     ],
@@ -1503,7 +1543,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293310",
+    "url": "https://www.vut.cz/en/students/courses/detail/303161",
     "semestr": [
       "zimní"
     ],
@@ -1516,7 +1556,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/292978",
+    "url": "https://www.vut.cz/en/students/courses/detail/302790",
     "semestr": [
       "zimní"
     ],
@@ -1529,7 +1569,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293142",
+    "url": "https://www.vut.cz/en/students/courses/detail/302976",
     "semestr": [
       "zimní"
     ],
@@ -1542,7 +1582,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Col",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293146",
+    "url": "https://www.vut.cz/en/students/courses/detail/302980",
     "semestr": [
       "zimní"
     ],
@@ -1555,9 +1595,23 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293248",
+    "url": "https://www.vut.cz/en/students/courses/detail/303088",
     "semestr": [
       "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1AltSV",
+    "nazev": "Alternative glass production (winter semester)",
+    "kredity": "2",
+    "povinnost": "Compulsory-optional",
+    "zakonceni": "Cr",
+    "skupina": "3",
+    "url": "https://www.vut.cz/en/students/courses/detail/309629",
+    "semestr": [
+      "zimní",
+      "letní"
     ],
     "rocnik": "3"
   },
@@ -1568,7 +1622,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293054",
+    "url": "https://www.vut.cz/en/students/courses/detail/302884",
     "semestr": [
       "zimní"
     ],
@@ -1581,7 +1635,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293064",
+    "url": "https://www.vut.cz/en/students/courses/detail/302894",
     "semestr": [
       "zimní"
     ],
@@ -1594,7 +1648,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293065",
+    "url": "https://www.vut.cz/en/students/courses/detail/302895",
     "semestr": [
       "zimní"
     ],
@@ -1607,7 +1661,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293204",
+    "url": "https://www.vut.cz/en/students/courses/detail/303041",
     "semestr": [
       "zimní"
     ],
@@ -1620,7 +1674,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293339",
+    "url": "https://www.vut.cz/en/students/courses/detail/303190",
     "semestr": [
       "zimní"
     ],
@@ -1633,7 +1687,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293081",
+    "url": "https://www.vut.cz/en/students/courses/detail/302911",
     "semestr": [
       "zimní"
     ],
@@ -1646,7 +1700,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293103",
+    "url": "https://www.vut.cz/en/students/courses/detail/302931",
     "semestr": [
       "zimní"
     ],
@@ -1659,7 +1713,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293101",
+    "url": "https://www.vut.cz/en/students/courses/detail/302982",
     "semestr": [
       "zimní"
     ],
@@ -1672,7 +1726,20 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293176",
+    "url": "https://www.vut.cz/en/students/courses/detail/303014",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "1SHSS",
+    "nazev": "Glass in the contexts of history and society",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/309648",
     "semestr": [
       "zimní"
     ],
@@ -1685,7 +1752,7 @@
     "povinnost": "Elective",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293250",
+    "url": "https://www.vut.cz/en/students/courses/detail/303090",
     "semestr": [
       "zimní"
     ],
@@ -1698,7 +1765,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293258",
+    "url": "https://www.vut.cz/en/students/courses/detail/303098",
     "semestr": [
       "zimní"
     ],
@@ -1711,7 +1778,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292993",
+    "url": "https://www.vut.cz/en/students/courses/detail/302819",
     "semestr": [
       "letní"
     ],
@@ -1724,7 +1791,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293088",
+    "url": "https://www.vut.cz/en/students/courses/detail/302918",
     "semestr": [
       "letní"
     ],
@@ -1737,7 +1804,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293165",
+    "url": "https://www.vut.cz/en/students/courses/detail/303003",
     "semestr": [
       "letní"
     ],
@@ -1750,7 +1817,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Col",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293275",
+    "url": "https://www.vut.cz/en/students/courses/detail/303123",
     "semestr": [
       "letní"
     ],
@@ -1763,7 +1830,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293301",
+    "url": "https://www.vut.cz/en/students/courses/detail/303152",
     "semestr": [
       "letní"
     ],
@@ -1776,7 +1843,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "1",
-    "url": "https://www.vut.cz/en/students/courses/detail/293311",
+    "url": "https://www.vut.cz/en/students/courses/detail/303162",
     "semestr": [
       "letní"
     ],
@@ -1789,7 +1856,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/292962",
+    "url": "https://www.vut.cz/en/students/courses/detail/302774",
     "semestr": [
       "letní"
     ],
@@ -1802,7 +1869,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/292973",
+    "url": "https://www.vut.cz/en/students/courses/detail/302785",
     "semestr": [
       "letní"
     ],
@@ -1815,7 +1882,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/292983",
+    "url": "https://www.vut.cz/en/students/courses/detail/302797",
     "semestr": [
       "letní"
     ],
@@ -1828,7 +1895,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Col",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293147",
+    "url": "https://www.vut.cz/en/students/courses/detail/302981",
     "semestr": [
       "letní"
     ],
@@ -1841,7 +1908,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Ex",
     "skupina": "2",
-    "url": "https://www.vut.cz/en/students/courses/detail/293245",
+    "url": "https://www.vut.cz/en/students/courses/detail/303085",
     "semestr": [
       "letní"
     ],
@@ -1854,7 +1921,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293340",
+    "url": "https://www.vut.cz/en/students/courses/detail/302771",
     "semestr": [
       "letní"
     ],
@@ -1867,7 +1934,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293009",
+    "url": "https://www.vut.cz/en/students/courses/detail/302839",
     "semestr": [
       "letní"
     ],
@@ -1880,7 +1947,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293055",
+    "url": "https://www.vut.cz/en/students/courses/detail/302885",
     "semestr": [
       "letní"
     ],
@@ -1893,7 +1960,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293066",
+    "url": "https://www.vut.cz/en/students/courses/detail/302896",
     "semestr": [
       "letní"
     ],
@@ -1906,7 +1973,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293067",
+    "url": "https://www.vut.cz/en/students/courses/detail/302897",
     "semestr": [
       "letní"
     ],
@@ -1919,7 +1986,7 @@
     "povinnost": "Compulsory-optional",
     "zakonceni": "Cr",
     "skupina": "3",
-    "url": "https://www.vut.cz/en/students/courses/detail/293068",
+    "url": "https://www.vut.cz/en/students/courses/detail/302898",
     "semestr": [
       "letní"
     ],
@@ -1932,7 +1999,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293045",
+    "url": "https://www.vut.cz/en/students/courses/detail/302876",
     "semestr": [
       "letní"
     ],
@@ -1945,7 +2012,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293082",
+    "url": "https://www.vut.cz/en/students/courses/detail/302912",
     "semestr": [
       "letní"
     ],
@@ -1953,12 +2020,12 @@
   },
   {
     "zkratka": "KREAP3",
-    "nazev": "Creative coding 3",
+    "nazev": "Permacomputing and Self-Hosting Practices",
     "kredity": "2",
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293092",
+    "url": "https://www.vut.cz/en/students/courses/detail/302921",
     "semestr": [
       "letní"
     ],
@@ -1971,7 +2038,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293102",
+    "url": "https://www.vut.cz/en/students/courses/detail/302983",
     "semestr": [
       "letní"
     ],
@@ -1984,7 +2051,20 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293199",
+    "url": "https://www.vut.cz/en/students/courses/detail/303036",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "3"
+  },
+  {
+    "zkratka": "UA-L",
+    "nazev": "Art and Architecture",
+    "kredity": "2",
+    "povinnost": "Elective",
+    "zakonceni": "Cr",
+    "skupina": "",
+    "url": "https://www.vut.cz/en/students/courses/detail/303081",
     "semestr": [
       "letní"
     ],
@@ -1997,7 +2077,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293251",
+    "url": "https://www.vut.cz/en/students/courses/detail/303091",
     "semestr": [
       "letní"
     ],
@@ -2010,7 +2090,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr,Ex",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293259",
+    "url": "https://www.vut.cz/en/students/courses/detail/303099",
     "semestr": [
       "letní"
     ],
@@ -2023,7 +2103,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292994",
+    "url": "https://www.vut.cz/en/students/courses/detail/302821",
     "semestr": [
       "zimní"
     ],
@@ -2036,7 +2116,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293002",
+    "url": "https://www.vut.cz/en/students/courses/detail/302831",
     "semestr": [
       "zimní"
     ],
@@ -2049,7 +2129,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293192",
+    "url": "https://www.vut.cz/en/students/courses/detail/303029",
     "semestr": [
       "zimní"
     ],
@@ -2062,7 +2142,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Col",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293277",
+    "url": "https://www.vut.cz/en/students/courses/detail/303127",
     "semestr": [
       "zimní"
     ],
@@ -2075,7 +2155,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293226",
+    "url": "https://www.vut.cz/en/students/courses/detail/303065",
     "semestr": [
       "zimní"
     ],
@@ -2088,7 +2168,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293237",
+    "url": "https://www.vut.cz/en/students/courses/detail/303077",
     "semestr": [
       "zimní"
     ],
@@ -2101,7 +2181,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/292995",
+    "url": "https://www.vut.cz/en/students/courses/detail/302823",
     "semestr": [
       "letní"
     ],
@@ -2114,7 +2194,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293003",
+    "url": "https://www.vut.cz/en/students/courses/detail/302832",
     "semestr": [
       "letní"
     ],
@@ -2127,7 +2207,7 @@
     "povinnost": "Compulsory",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293005",
+    "url": "https://www.vut.cz/en/students/courses/detail/302834",
     "semestr": [
       "letní"
     ],
@@ -2140,7 +2220,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293227",
+    "url": "https://www.vut.cz/en/students/courses/detail/303066",
     "semestr": [
       "letní"
     ],
@@ -2153,7 +2233,7 @@
     "povinnost": "Elective",
     "zakonceni": "Cr",
     "skupina": "",
-    "url": "https://www.vut.cz/en/students/courses/detail/293238",
+    "url": "https://www.vut.cz/en/students/courses/detail/303078",
     "semestr": [
       "letní"
     ],

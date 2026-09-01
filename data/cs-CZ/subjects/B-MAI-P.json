@@ -6,7 +6,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291647",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300538",
     "semestr": [
       "zimní"
     ],
@@ -14,12 +14,12 @@
   },
   {
     "zkratka": "GEN1",
-    "nazev": "General English I",
+    "nazev": "English for University Study I",
     "kredity": "0",
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291790",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299606",
     "semestr": [
       "zimní"
     ],
@@ -32,7 +32,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292167",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300069",
     "semestr": [
       "zimní"
     ],
@@ -45,7 +45,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292168",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300070",
     "semestr": [
       "zimní"
     ],
@@ -58,7 +58,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292136",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300039",
     "semestr": [
       "zimní"
     ],
@@ -71,7 +71,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291646",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300512",
     "semestr": [
       "zimní"
     ],
@@ -84,7 +84,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292216",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300120",
     "semestr": [
       "zimní"
     ],
@@ -97,7 +97,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292520",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300463",
     "semestr": [
       "zimní"
     ],
@@ -110,7 +110,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292557",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300504",
     "semestr": [
       "zimní"
     ],
@@ -123,7 +123,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292506",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300446",
     "semestr": [
       "zimní"
     ],
@@ -136,9 +136,35 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292508",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300448",
     "semestr": [
       "zimní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "GEN3",
+    "nazev": "English Exam for University Study",
+    "kredity": "2",
+    "povinnost": "Povinný",
+    "zakonceni": "zk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299608",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "GEN2",
+    "nazev": "English for University Study II",
+    "kredity": "0",
+    "povinnost": "Povinný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299607",
+    "semestr": [
+      "letní"
     ],
     "rocnik": "1"
   },
@@ -149,33 +175,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292572",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "GEN3",
-    "nazev": "General English Exam",
-    "kredity": "2",
-    "povinnost": "Povinný",
-    "zakonceni": "zk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291794",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "GEN2",
-    "nazev": "General English II",
-    "kredity": "0",
-    "povinnost": "Povinný",
-    "zakonceni": "zá",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291792",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300525",
     "semestr": [
       "letní"
     ],
@@ -188,7 +188,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292137",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300040",
     "semestr": [
       "letní"
     ],
@@ -201,7 +201,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292184",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300086",
     "semestr": [
       "letní"
     ],
@@ -214,7 +214,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292196",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300098",
     "semestr": [
       "letní"
     ],
@@ -227,7 +227,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291688",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299509",
     "semestr": [
       "letní"
     ],
@@ -240,7 +240,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292574",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300527",
     "semestr": [
       "letní"
     ],
@@ -253,7 +253,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294128",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302526",
     "semestr": [
       "letní"
     ],
@@ -266,7 +266,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292516",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300458",
     "semestr": [
       "letní"
     ],
@@ -279,7 +279,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292552",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300499",
     "semestr": [
       "letní"
     ],
@@ -292,7 +292,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292507",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300447",
     "semestr": [
       "letní"
     ],
@@ -305,7 +305,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292553",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300500",
     "semestr": [
       "letní"
     ],
@@ -318,7 +318,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292586",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300540",
     "semestr": [
       "zimní"
     ],
@@ -331,7 +331,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292138",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300041",
     "semestr": [
       "zimní"
     ],
@@ -344,7 +344,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292515",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300456",
     "semestr": [
       "zimní"
     ],
@@ -357,7 +357,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292141",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300044",
     "semestr": [
       "zimní"
     ],
@@ -370,7 +370,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292591",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300544",
     "semestr": [
       "zimní"
     ],
@@ -383,7 +383,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292244",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300149",
     "semestr": [
       "zimní"
     ],
@@ -396,7 +396,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292162",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300065",
     "semestr": [
       "zimní"
     ],
@@ -409,7 +409,20 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292513",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300454",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "0ST",
+    "nazev": "Vybrané kapitoly ze statiky",
+    "kredity": "2",
+    "povinnost": "Volitelný",
+    "zakonceni": "zá",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/301203",
     "semestr": [
       "zimní"
     ],
@@ -422,7 +435,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292493",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300433",
     "semestr": [
       "zimní"
     ],
@@ -435,7 +448,7 @@
     "povinnost": "Povinný",
     "zakonceni": "kl",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292140",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300043",
     "semestr": [
       "letní"
     ],
@@ -448,7 +461,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292135",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300038",
     "semestr": [
       "letní"
     ],
@@ -461,7 +474,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292169",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300071",
     "semestr": [
       "letní"
     ],
@@ -474,7 +487,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292223",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300127",
     "semestr": [
       "letní"
     ],
@@ -487,7 +500,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292604",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300558",
     "semestr": [
       "letní"
     ],
@@ -500,7 +513,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292246",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300151",
     "semestr": [
       "letní"
     ],
@@ -513,7 +526,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292245",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300150",
     "semestr": [
       "letní"
     ],
@@ -526,7 +539,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292523",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300466",
     "semestr": [
       "letní"
     ],
@@ -539,7 +552,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292633",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300591",
     "semestr": [
       "zimní"
     ],
@@ -552,7 +565,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292211",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300114",
     "semestr": [
       "zimní"
     ],
@@ -565,7 +578,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292739",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300567",
     "semestr": [
       "zimní"
     ],
@@ -578,7 +591,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292180",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300082",
     "semestr": [
       "zimní"
     ],
@@ -591,7 +604,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292197",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300099",
     "semestr": [
       "zimní"
     ],
@@ -604,7 +617,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "zá,zk",
     "skupina": "Skupina č. 1 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292326",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300235",
     "semestr": [
       "zimní"
     ],
@@ -617,7 +630,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "Skupina č. 1 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/291691",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299511",
     "semestr": [
       "zimní"
     ],
@@ -630,7 +643,7 @@
     "povinnost": "Povinně volitelný",
     "zakonceni": "kl",
     "skupina": "Skupina č. 1 typu B",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292164",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300066",
     "semestr": [
       "zimní"
     ],
@@ -643,7 +656,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/294105",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302503",
     "semestr": [
       "zimní"
     ],
@@ -656,7 +669,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292519",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300462",
     "semestr": [
       "zimní"
     ],
@@ -669,7 +682,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292548",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300495",
     "semestr": [
       "zimní"
     ],
@@ -682,7 +695,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292617",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300576",
     "semestr": [
       "letní"
     ],
@@ -695,7 +708,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292627",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300586",
     "semestr": [
       "letní"
     ],
@@ -708,7 +721,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292181",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300083",
     "semestr": [
       "letní"
     ],
@@ -721,7 +734,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292186",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300088",
     "semestr": [
       "letní"
     ],
@@ -734,7 +747,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292192",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300094",
     "semestr": [
       "letní"
     ],
@@ -747,7 +760,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292155",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300058",
     "semestr": [
       "letní"
     ],
@@ -760,7 +773,7 @@
     "povinnost": "Povinný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292744",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300614",
     "semestr": [
       "letní"
     ],
@@ -773,7 +786,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292160",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300063",
     "semestr": [
       "letní"
     ],
@@ -786,7 +799,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292731",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300420",
     "semestr": [
       "letní"
     ],
@@ -799,7 +812,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá,zk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292017",
+    "url": "https://www.vut.cz/studenti/predmety/detail/299912",
     "semestr": [
       "letní"
     ],
@@ -812,7 +825,7 @@
     "povinnost": "Volitelný",
     "zakonceni": "zá",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/292546",
+    "url": "https://www.vut.cz/studenti/predmety/detail/300493",
     "semestr": [
       "letní"
     ],

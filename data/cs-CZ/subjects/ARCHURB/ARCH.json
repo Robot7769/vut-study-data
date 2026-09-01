@@ -6,7 +6,7 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297480",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302020",
     "semestr": [
       "zimní"
     ],
@@ -19,7 +19,7 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297471",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302095",
     "semestr": [
       "zimní"
     ],
@@ -32,20 +32,7 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297476",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "1"
-  },
-  {
-    "zkratka": "D02",
-    "nazev": "Teorie a vývoj urbanismu",
-    "kredity": "0",
-    "povinnost": "Povinný",
-    "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297475",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302140",
     "semestr": [
       "letní"
     ],
@@ -58,7 +45,20 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297472",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302096",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "1"
+  },
+  {
+    "zkratka": "D02",
+    "nazev": "Teorie a vývoj urbanismu",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302038",
     "semestr": [
       "letní"
     ],
@@ -71,7 +71,20 @@
     "povinnost": "Povinný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297477",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302004",
+    "semestr": [
+      "zimní"
+    ],
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DA11",
+    "nazev": "Krajinářská architektura",
+    "kredity": "0",
+    "povinnost": "Povinně volitelný",
+    "zakonceni": "drzk",
+    "skupina": "Povinně volitelné předměty pro Architekturu",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302044",
     "semestr": [
       "zimní"
     ],
@@ -83,8 +96,8 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297483",
+    "skupina": "Povinně volitelné předměty pro Architekturu",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302014",
     "semestr": [
       "zimní"
     ],
@@ -94,10 +107,10 @@
     "zkratka": "DU6",
     "nazev": "Problémy městských center",
     "kredity": "0",
-    "povinnost": "Povinně volitelný",
+    "povinnost": "Volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297490",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302058",
     "semestr": [
       "zimní"
     ],
@@ -107,10 +120,10 @@
     "zkratka": "DU3",
     "nazev": "Tvorba a ochrana krajiny",
     "kredity": "0",
-    "povinnost": "Povinně volitelný",
+    "povinnost": "Volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297489",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302057",
     "semestr": [
       "zimní"
     ],
@@ -120,10 +133,10 @@
     "zkratka": "DU7",
     "nazev": "Udržitelný rozvoj měst",
     "kredity": "0",
-    "povinnost": "Povinně volitelný",
+    "povinnost": "Volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297491",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302023",
     "semestr": [
       "zimní"
     ],
@@ -135,8 +148,8 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297484",
+    "skupina": "Povinně volitelné předměty pro Architekturu",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302099",
     "semestr": [
       "letní"
     ],
@@ -148,21 +161,8 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297486",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "DU8",
-    "nazev": "Geografické informační systémy",
-    "kredity": "0",
-    "povinnost": "Povinně volitelný",
-    "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297492",
+    "skupina": "Povinně volitelné předměty pro Architekturu",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302100",
     "semestr": [
       "letní"
     ],
@@ -174,34 +174,8 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297481",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "DU2",
-    "nazev": "Prostorové plánování",
-    "kredity": "0",
-    "povinnost": "Povinně volitelný",
-    "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297488",
-    "semestr": [
-      "letní"
-    ],
-    "rocnik": "2"
-  },
-  {
-    "zkratka": "DU1",
-    "nazev": "Rozvoj měst a regionů",
-    "kredity": "0",
-    "povinnost": "Povinně volitelný",
-    "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297487",
+    "skupina": "Povinně volitelné předměty pro Architekturu",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302141",
     "semestr": [
       "letní"
     ],
@@ -213,37 +187,50 @@
     "kredity": "0",
     "povinnost": "Povinně volitelný",
     "zakonceni": "drzk",
-    "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297485",
+    "skupina": "Povinně volitelné předměty pro Architekturu",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302051",
     "semestr": [
       "letní"
     ],
     "rocnik": "2"
   },
   {
-    "zkratka": "D05",
-    "nazev": "Státní doktorská zkouška",
+    "zkratka": "DU8",
+    "nazev": "Geografické informační systémy",
     "kredity": "0",
-    "povinnost": "Povinný",
+    "povinnost": "Volitelný",
     "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297479",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302101",
     "semestr": [
       "letní"
     ],
-    "rocnik": "3"
+    "rocnik": "2"
   },
   {
-    "zkratka": "D012",
-    "nazev": "Obhajoba disertační práce",
+    "zkratka": "DU2",
+    "nazev": "Prostorové plánování",
     "kredity": "0",
-    "povinnost": "Povinný",
-    "zakonceni": "-",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
     "skupina": "",
-    "url": "https://www.vut.cz/studenti/predmety/detail/297474",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302045",
     "semestr": [
       "letní"
     ],
-    "rocnik": "4"
+    "rocnik": "2"
+  },
+  {
+    "zkratka": "DU1",
+    "nazev": "Rozvoj měst a regionů",
+    "kredity": "0",
+    "povinnost": "Volitelný",
+    "zakonceni": "drzk",
+    "skupina": "",
+    "url": "https://www.vut.cz/studenti/predmety/detail/302040",
+    "semestr": [
+      "letní"
+    ],
+    "rocnik": "2"
   }
 ]
